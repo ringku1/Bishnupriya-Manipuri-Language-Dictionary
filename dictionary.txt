@@ -5052,12 +5052,12 @@
 {
   "word": "আথিপা-ফাম",
   "pos": "noun",
-  "definition": "আথিপা-ফাম thipā-phâm - Sexual organ (N.) মে. অথীপা + ফম।"
+  "definition": "আথিপা-ফাম Athipā-phâm - Sexual organ (N.) মে. অথীপা + ফম।"
 },
 {
-  "word": "thipā-phâm",
+  "word": "Athipā-phâm",
   "pos": "noun",
-  "definition": "আথিপা-ফাম thipā-phâm - Sexual organ (N.) মে. অথীপা + ফম।"
+  "definition": "আথিপা-ফাম Athipā-phâm - Sexual organ (N.) মে. অথীপা + ফম।"
 },
 {
   "word": "আথিলপা",
