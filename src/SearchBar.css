@@ -1,0 +1,291 @@
+/* Container */
+.search-container {
+  position: relative;
+  width: 100%;
+  max-width: 520px;
+  margin: 0 auto 36px auto;
+  box-shadow: var(--color-shadow);
+  border-radius: 16px;
+  background: var(--color-card, #fff);
+  backdrop-filter: blur(8px) saturate(1.2);
+  overflow: visible;
+  display: block;
+  border: 1.5px solid #e3edfc;
+  transition: box-shadow 0.3s, background 0.3s;
+}
+
+[data-theme="dark"] .search-container {
+  background: rgba(35, 42, 54, 0.92);
+  border: 1.5px solid #2a3442;
+}
+
+/* Original: focus-within may change shape (rectangle) */
+.search-container:focus-within {
+  box-shadow: 0 12px 40px 0 rgba(26, 115, 232, 0.16),
+    0 2px 8px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+}
+[data-theme="dark"] .search-container:focus-within {
+  box-shadow: 0 12px 40px 0 rgba(138, 180, 248, 0.18),
+    0 2px 8px 0 rgba(0, 0, 0, 0.18);
+  border-radius: 16px;
+}
+
+/* Input */
+.search-input {
+  flex: 1;
+  padding: 13px 16px;
+  font-size: 17px;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: var(--color-text, #222);
+  border-radius: 0;
+  transition: box-shadow 0.2s, background 0.2s, color 0.2s;
+  box-shadow: none;
+  border-radius: 16px;
+}
+
+.search-input:focus {
+  background: #f0f4ff;
+  box-shadow: 0 0 0 2px #e3edfc;
+}
+[data-theme="dark"] .search-input:focus {
+  background: #232a36;
+  box-shadow: 0 0 0 2px #2a3442;
+}
+
+.search-button {
+  height: 50px;
+  padding: 12px 22px;
+  background: linear-gradient(
+    90deg,
+    var(--color-primary, #1a73e8) 60%,
+    #4285f4 100%
+  );
+  color: #fff;
+  font-weight: 700;
+  border: none;
+  border-radius: 0 10px 10px 0;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.18s cubic-bezier(0.4, 1.4, 0.6, 1);
+  font-size: 16px;
+  box-shadow: 0 2px 8px rgba(26, 115, 232, 0.08);
+  outline: none;
+}
+[data-theme="dark"] .search-button {
+  background: linear-gradient(
+    90deg,
+    var(--color-primary, #8ab4f8) 60%,
+    #232a36 170%
+  );
+  color: #232a36;
+}
+
+.search-button:hover {
+  background-color: #155ab6;
+  transform: scale(1.05);
+}
+[data-theme="dark"] .search-button:hover {
+  background-color: #8ab4f8;
+  color: #181c24;
+}
+
+/* Suggestions List */
+.suggestions-list {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  max-height: 450px;
+  min-height: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: var(--color-card, #fff);
+  border: 1.5px solid #e3edfc;
+  border-top: none;
+  border-radius: 0 0 14px 14px;
+  box-shadow: var(--color-shadow);
+  z-index: 10;
+  animation: fadeInList 0.3s cubic-bezier(0.4, 1.4, 0.6, 1);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: block !important;
+  color: var(--color-text, #222) !important;
+  position: relative !important;
+  margin-top: 0;
+  backdrop-filter: blur(2px);
+  word-break: break-word;
+  white-space: normal;
+}
+[data-theme="dark"] .suggestions-list {
+  background: rgba(35, 42, 54, 0.98);
+  border: 1.5px solid #2a3442;
+}
+
+.suggestions-list li {
+  padding: 12px 18px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: background 0.18s, transform 0.18s cubic-bezier(0.4, 1.4, 0.6, 1);
+  outline: none;
+  border-bottom: 1px solid #f0f4ff;
+  font-size: 16px;
+  background: transparent;
+  animation: fadeInItem 0.25s cubic-bezier(0.4, 1.4, 0.6, 1);
+  color: var(--color-text, #222);
+}
+[data-theme="dark"] .suggestions-list li {
+  border-bottom: 1px solid #232a36;
+}
+
+.suggestions-list li:last-child {
+  border-bottom: none;
+}
+
+@keyframes fadeInItem {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.suggestions-list li.active,
+.suggestions-list li:focus {
+  background: linear-gradient(90deg, #e3edfc 80%, #f5f7fa 100%);
+  transform: scale(1.03);
+  box-shadow: 0 2px 8px rgba(26, 115, 232, 0.06);
+}
+[data-theme="dark"] .suggestions-list li.active,
+[data-theme="dark"] .suggestions-list li:focus {
+  background: linear-gradient(90deg, #232a36 80%, #181c24 100%);
+  color: #8ab4f8;
+}
+
+.suggestions-list li:hover {
+  background: #f0f4ff;
+  transform: scale(1.02);
+}
+[data-theme="dark"] .suggestions-list li:hover {
+  background: #232a36;
+  color: #8ab4f8;
+}
+
+.suggestion-word {
+  font-weight: 600;
+  color: var(--color-primary, #1a73e8);
+  letter-spacing: 0.1px;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  white-space: pre; /* preserve spaces exactly as in the string */
+}
+[data-theme="dark"] .suggestion-word {
+  color: #8ab4f8;
+}
+
+.suggestion-pos {
+  font-size: 13px;
+  color: #4285f4;
+  background: #e3edfc;
+  border-radius: 6px;
+  padding: 2px 8px;
+  margin-left: 10px;
+  font-weight: 500;
+  text-transform: capitalize;
+  box-shadow: 0 1px 4px rgba(26, 115, 232, 0.04);
+}
+[data-theme="dark"] .suggestion-pos {
+  color: #8ab4f8;
+  background: #232a36;
+  box-shadow: 0 1px 4px rgba(138, 180, 248, 0.04);
+}
+
+/* Highlight typed letters */
+
+.highlight-match {
+  font-weight: 700;
+  color: #ea4335;
+}
+[data-theme="dark"] .highlight-match {
+  color: #ffb4a2;
+}
+
+.highlight {
+  color: var(--color-text, #222);
+}
+
+/* No results */
+
+.no-suggestion {
+  padding: 12px 18px;
+  color: #999;
+  text-align: left;
+  font-style: italic;
+  cursor: default;
+  font-size: 15px;
+}
+
+/* Suggestions fade-in animation */
+@keyframes fadeInList {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Loading overlay */
+.loading-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  color: #1a73e8;
+  font-size: 16px;
+  z-index: 30;
+  border-radius: 10px;
+}
+
+/* Spinner */
+.spinner {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  border: 3px solid #1a73e8;
+  border-top: 3px solid transparent;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+/* Spinner animation */
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.search-row {
+  display: flex;
+  align-items: center;
+  position: relative;
+}

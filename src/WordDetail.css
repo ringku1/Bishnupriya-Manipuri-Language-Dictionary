@@ -1,0 +1,128 @@
+.detail-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(
+    120deg,
+    rgba(26, 115, 232, 0.1) 0%,
+    rgba(0, 0, 0, 0.55) 100%
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+  animation: fadeInBg 0.4s cubic-bezier(0.4, 1.4, 0.6, 1) both;
+}
+
+@keyframes fadeInBg {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.detail-panel {
+  background: linear-gradient(120deg, #f5f7fa 60%, #e3edfc 100%);
+  padding: 38px 45px 32px 45px;
+  border-radius: 22px;
+  width: 92vw;
+  max-width: 520px;
+  position: relative;
+  box-shadow: 0 12px 40px 0 rgba(26, 115, 232, 0.18),
+    0 2px 8px 0 rgba(0, 0, 0, 0.08);
+  text-align: left;
+  animation: scaleFadeIn 0.45s cubic-bezier(0.4, 1.4, 0.6, 1) both;
+  border: 1.5px solid #e3edfc;
+  transition: box-shadow 0.3s;
+}
+
+.detail-panel:hover {
+  box-shadow: 0 18px 60px 0 rgba(26, 115, 232, 0.22),
+    0 4px 16px 0 rgba(0, 0, 0, 0.1);
+}
+
+@keyframes scaleFadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.92) translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.close-button {
+  position: absolute;
+  top: 18px;
+  right: 24px;
+  font-size: 26px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #555;
+  transition: color 0.2s, transform 0.18s cubic-bezier(0.4, 1.4, 0.6, 1);
+  border-radius: 50%;
+  width: 38px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  outline: none;
+}
+
+.close-button:hover,
+.close-button:focus {
+  color: #fff;
+  background: #1a73e8;
+  transform: scale(1.13) rotate(90deg);
+  box-shadow: 0 2px 8px rgba(26, 115, 232, 0.18);
+}
+
+.word-title {
+  font-size: 32px;
+  font-weight: 800;
+  margin-bottom: 10px;
+  color: #1a73e8;
+  letter-spacing: 0.5px;
+  text-shadow: 0 2px 8px rgba(26, 115, 232, 0.08);
+  transition: color 0.2s;
+}
+
+.word-pos {
+  font-size: 15px;
+  font-weight: 600;
+  color: #3b4a5a;
+  margin-bottom: 18px;
+  text-transform: capitalize;
+  letter-spacing: 0.2px;
+  background: #e3edfc;
+  display: inline-block;
+  padding: 3px 12px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(26, 115, 232, 0.06);
+}
+
+.word-definition {
+  font-size: 18px;
+  line-height: 1.8;
+  color: #222;
+  margin-top: 8px;
+  letter-spacing: 0.1px;
+  animation: fadeInDef 0.5s 0.1s both;
+}
+
+@keyframes fadeInDef {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
