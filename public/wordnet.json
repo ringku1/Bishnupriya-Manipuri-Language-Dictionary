@@ -5052,12 +5052,12 @@
   {
     "word": "আথিপা-ফাম",
     "pos": "noun",
-    "definition": "আথিপা-ফাম Athipā-phâm - Sexual organ (N.) মে. অথীপা + ফম।"
+    "definition": "আথিপা-ফাম thipā-phâm - Sexual organ (N.) মে. অথীপা + ফম।"
   },
   {
-    "word": "Athipā-phâm",
+    "word": "thipā-phâm",
     "pos": "noun",
-    "definition": "আথিপা-ফাম Athipā-phâm - Sexual organ (N.) মে. অথীপা + ফম।"
+    "definition": "আথিপা-ফাম thipā-phâm - Sexual organ (N.) মে. অথীপা + ফম।"
   },
   {
     "word": "আথিলপা",
@@ -5148,5 +5148,375 @@
     "word": "Adācâți",
     "pos": "noun",
     "definition": "আদাচাটি Adācâți - A coarse mat for sitting (N.) সং. *অর্ধক + *চট্টিক or *চর্তিক, Syl. Beng. আদ্যাচাটি।"
+  },
+  {
+    "word": "আদায়",
+    "pos": "noun",
+    "definition": "আদায় Adāy - Realisation, collection (N.) সং. cf. আ. আদা।"
+  },
+  {
+    "word": "Adāy",
+    "pos": "noun",
+    "definition": "আদায় Adāy - Realisation, collection (N.) সং. cf. আ. আদা।"
+  },
+  {
+    "word": "আদালত",
+    "pos": "noun",
+    "definition": "আদালত Adālat - Court of justice (N.) আ.।"
+  },
+  {
+    "word": "Adālat",
+    "pos": "noun",
+    "definition": "আদালত Adālat - Court of justice (N.) আ.।"
+  },
+  {
+    "word": "আদালি",
+    "pos": "noun",
+    "definition": "আদালি Adali - Steep bank (of river) (N.) সং. অর্ধক-পালিক।"
+  },
+  {
+    "word": "Adali",
+    "pos": "noun",
+    "definition": "আদালি Adali - Steep bank (of river) (N.) সং. অর্ধক-পালিক।"
+  },
+  {
+    "word": "আদি",
+    "pos": "noun",
+    "definition": "আদি Adi - Beginning (N.) সং. -কাল = time of beginning."
+  },
+  {
+    "word": "Adi",
+    "pos": "noun",
+    "definition": "আদি Adi - Beginning (N.) সং. -কাল = time of beginning."
+  },
+  {
+    "word": "আদিক",
+    "pos": "noun",
+    "definition": "আদিক Adik - Remains of meal (N.) সং. অধিক or আধিক্য।"
+  },
+  {
+    "word": "Adik",
+    "pos": "noun",
+    "definition": "আদিক Adik - Remains of meal (N.) সং. অধিক or আধিক্য।"
+  },
+  {
+    "word": "আদেশ",
+    "pos": "noun",
+    "definition": "আদেশ Adeś - Order (N.) সং.।"
+  },
+  {
+    "word": "Adeś",
+    "pos": "noun",
+    "definition": "আদেশ Adeś - Order (N.) সং.।"
+  },
+  {
+    "word": "আ'দ্দ",
+    "pos": "verb",
+    "definition": "আ'দ্দ A'dd - To massage (V.) আ'ত + দ-।"
+  },
+  {
+    "word": "A'dd",
+    "pos": "verb",
+    "definition": "আ'দ্দ A'dd - To massage (V.) আ'ত + দ-।"
+  },
+  {
+    "word": "আ'দ্দানি",
+    "pos": "noun",
+    "definition": "আ'দ্দানি Addani - Massaging (N.) আদ্দ + -আনি।"
+  },
+  {
+    "word": "Addani",
+    "pos": "noun",
+    "definition": "আ'দ্দানি Addani - Massaging (N.) আদ্দ + -আনি।"
+  },
+  {
+    "word": "আদ্দুৱা",
+    "pos": "verb",
+    "definition": "আদ্দুৱা A'dduwa - Caus. of আ'দ (V.)"
+  },
+  {
+    "word": "A'dduwa",
+    "pos": "verb",
+    "definition": "আদ্দুৱা A'dduwa - Caus. of আ'দ (V.)"
+  },
+  {
+    "word": "আদ্দুৱানি",
+    "pos": "noun",
+    "definition": "আদ্দুৱানি A'dduwāni - Causing to massage (N.) আব্দুৱা- + -আনি।"
+  },
+  {
+    "word": "A'dduwāni",
+    "pos": "noun",
+    "definition": "আদ্দুৱানি A'dduwāni - Causing to massage (N.) আব্দুৱা- + -আনি।"
+  },
+  {
+    "word": "আধা",
+    "pos": "adjective",
+    "definition": "আধা Adhā - Half (Adj.) সং. *অর্ধক। - half, fifty-fifty; -কাঁচা = half-green, সাধা = (echo-word) = incomplete, almost half."
+  },
+  {
+    "word": "Adhā",
+    "pos": "adjective",
+    "definition": "আধা Adhā - Half (Adj.) সং. *অর্ধক। - half, fifty-fifty; -কাঁচা = half-green, সাধা = (echo-word) = incomplete, almost half."
+  },
+  {
+    "word": "আধার",
+    "pos": "noun",
+    "definition": "আধার Adhär - Darkness (N.) সং. অন্ধকার।"
+  },
+  {
+    "word": "Adhär",
+    "pos": "noun",
+    "definition": "আধার Adhär - Darkness (N.) সং. অন্ধকার।"
+  },
+  {
+    "word": "আধের",
+    "pos": "noun",
+    "definition": "আধের A'dher - Half a seer (N.) আধা + সের।"
+  },
+  {
+    "word": "A'dher",
+    "pos": "noun",
+    "definition": "আধের A'dher - Half a seer (N.) আধা + সের।"
+  },
+  {
+    "word": "আধেরি",
+    "pos": "noun",
+    "definition": "আধেরি Adheri - A pot holding half a seer (N.) আধা + সেরি।"
+  },
+  {
+    "word": "Adheri",
+    "pos": "noun",
+    "definition": "আধেরি Adheri - A pot holding half a seer (N.) আধা + সেরি।"
+  },
+  {
+    "word": "আধেল",
+    "pos": "noun",
+    "definition": "আধেল Adhel - Half a rupee (N.) সং. *অর্ধপাল।"
+  },
+  {
+    "word": "Adhel",
+    "pos": "noun",
+    "definition": "আধেল Adhel - Half a rupee (N.) সং. *অর্ধপাল।"
+  },
+  {
+    "word": "আধকচি",
+    "pos": "adjective",
+    "definition": "আধকচি Adhkaci - Half-green (Adj.) আধা + কচি।"
+  },
+  {
+    "word": "Adhkaci",
+    "pos": "adjective",
+    "definition": "আধকচি Adhkaci - Half-green (Adj.) আধা + কচি।"
+  },
+  {
+    "word": "অ'ন",
+    "pos": "verb",
+    "definition": "অ'ন A'n - To bring (V.) সং, আনয়।"
+  },
+  {
+    "word": "A'n",
+    "pos": "verb",
+    "definition": "অ'ন A'n - To bring (V.) সং, আনয়।"
+  },
+  {
+    "word": "আন",
+    "pos": "adjective",
+    "definition": "আন An - Other (Adj.) সং. অন্য।"
+  },
+  {
+    "word": "An",
+    "pos": "adjective",
+    "definition": "আন An - Other (Adj.) সং. অন্য।"
+  },
+  {
+    "word": "-আন",
+    "pos": "-",
+    "definition": "-আন An - A suffix added to roots to form verbal nouns (Suffix) সং-আপন।"
+  },
+  {
+    "word": "An",
+    "pos": "-",
+    "definition": "-আন An - A suffix added to roots to form verbal nouns (Suffix) সং-আপন।"
+  },
+  {
+    "word": "আনক",
+    "pos": "noun",
+    "definition": "আনক Anak - Spectacles (N.) মে. আনোক।"
+  },
+  {
+    "word": "Anak",
+    "pos": "noun",
+    "definition": "আনক Anak - Spectacles (N.) মে. আনোক।"
+  },
+  {
+    "word": "আনন্দ",
+    "pos": "noun",
+    "definition": "আনন্দ Ananda - Joy, bliss (N.) সং.।"
+  },
+  {
+    "word": "Ananda",
+    "pos": "noun",
+    "definition": "আনন্দ Ananda - Joy, bliss (N.) সং.।"
+  },
+  {
+    "word": "আনন্দময়",
+    "pos": "adjective",
+    "definition": "আনন্দময় Anadamay - Full of joy or bliss (Adj.) সং.।"
+  },
+  {
+    "word": "Anadamay",
+    "pos": "adjective",
+    "definition": "আনন্দময় Anadamay - Full of joy or bliss (Adj.) সং.।"
+  },
+  {
+    "word": "-আনা",
+    "pos": "-",
+    "definition": "-আনা anà - A suffix added to nouns or adjectives to indicate 'nature' (Suffix) e.g. গরীবানা।"
+  },
+  {
+    "word": "anà",
+    "pos": "-",
+    "definition": "-আনা anà - A suffix added to nouns or adjectives to indicate 'nature' (Suffix) e.g. গরীবানা।"
+  },
+  {
+    "word": "-আনা",
+    "pos": "-",
+    "definition": "-আনা anā - A suffix added to roots to form adjectives (Suffix) e.g. পাকানা।"
+  },
+  {
+    "word": "anā",
+    "pos": "-",
+    "definition": "-আনা anā - A suffix added to roots to form adjectives (Suffix) e.g. পাকানা।"
+  },
+  {
+    "word": "আনা",
+    "pos": "noun",
+    "definition": "আনা anā - A coin (N.) সং. আনক।"
+  },
+  {
+    "word": "anā",
+    "pos": "noun",
+    "definition": "আনা anā - A coin (N.) সং. আনক।"
+  },
+  {
+    "word": "আনা",
+    "pos": "noun",
+    "definition": "আনা ānā - Coming (N.) আ- + -না। -যানা = coming and going; গনা = coming and going."
+  },
+  {
+    "word": "ānā",
+    "pos": "noun",
+    "definition": "আনা ānā - Coming (N.) আ- + -না। -যানা = coming and going; গনা = coming and going."
+  },
+  {
+    "word": "আনাঙসা",
+    "pos": "noun",
+    "definition": "আনাঙসা Anānsā - A mishap, suffering (N.) মে. অনঙপা + চাউপা।"
+  },
+  {
+    "word": "Anānsā",
+    "pos": "noun",
+    "definition": "আনাঙসa Anānsā - A mishap, suffering (N.) মে. অনঙপa + চাউপa।"
+  },
+  {
+    "word": "আ'নানি",
+    "pos": "noun",
+    "definition": "আ'নানি A'näni - Bringing (N.) আন- + -আনি"
+  },
+  {
+    "word": "A'näni",
+    "pos": "noun",
+    "definition": "আ'নানি A'näni - Bringing (N.) আন- + -আনি"
+  },
+  {
+    "word": "আনাম",
+    "pos": "noun",
+    "definition": "আনাম Anām - All (N.) পা. এনাম।"
+  },
+  {
+    "word": "Anām",
+    "pos": "noun",
+    "definition": "আনাম Anām - All (N.) পা. এনাম।"
+  },
+  {
+    "word": "আনামপা",
+    "pos": "noun",
+    "definition": "আনামপা Änāmpā - 1. Lack of enthusiasm; 2. Laziness (N.) মে. অনম্পা। -থুঙনি = being stricken with laziness।"
+  },
+  {
+    "word": "Änāmpā",
+    "pos": "noun",
+    "definition": "আনামপা Änāmpā - 1. Lack of enthusiasm; 2. Laziness (N.) মে. অনম্পা। -থুঙনি = being stricken with laziness।"
+  },
+  {
+    "word": "আনারস",
+    "pos": "noun",
+    "definition": "আনারস Anāras - Pineapple (N.) পো. আনানস।"
+  },
+  {
+    "word": "Anāras",
+    "pos": "noun",
+    "definition": "আনারস Anāras - Pineapple (N.) পো. আনানস।"
+  },
+  {
+    "word": "আনি",
+    "pos": "noun",
+    "definition": "আনি Ani - Coming (N.) আ- + -নি।"
+  },
+  {
+    "word": "Ani",
+    "pos": "noun",
+    "definition": "আনি Ani - Coming (N.) আ- + -নি।"
+  },
+  {
+    "word": "আনি",
+    "pos": "noun",
+    "definition": "আনি Ani - Partisanship (N.) V. আইন।"
+  },
+  {
+    "word": "Ani",
+    "pos": "noun",
+    "definition": "আনি Ani - Partisanship (N.) V. আইন।"
+  },
+  {
+    "word": "আনি",
+    "pos": "noun",
+    "definition": "আনি Ani - Anna-coin (N.) MIA. *আণিক।"
+  },
+  {
+    "word": "Ani",
+    "pos": "noun",
+    "definition": "আনি Ani - Anna-coin (N.) MIA. *আণিক।"
+  },
+  {
+    "word": "-আনি",
+    "pos": "-",
+    "definition": "-আনি Ani - A suffix added to roots to form verbal nouns; instrumental nouns or adjectives (Suffix) সং. আপন + ইক, e.g. করানি, ফিরানি etc."
+  },
+  {
+    "word": "Ani",
+    "pos": "-",
+    "definition": "-আনি Ani - A suffix added to roots to form verbal nouns; instrumental nouns or adjectives (Suffix) সং. আপন + ইক, e.g. করানি, ফিরানি etc."
+  },
+  {
+    "word": "-আনি",
+    "pos": "-",
+    "definition": "-আনি Ani - A suffix added to nouns or adjectives to indicate the sense 'having the manner of' (Suffix) e.g. বাবুআনি।"
+  },
+  {
+    "word": "Ani",
+    "pos": "-",
+    "definition": "-আনি Ani - A suffix added to nouns or adjectives to indicate the sense 'having the manner of' (Suffix) e.g. বাবুআনি।"
+  },
+  {
+    "word": "আনিকা",
+    "pos": "adjective",
+    "definition": "আনিকা Anikā - Unclean, filthy (Adj.) 2ā + পা. নেক = beautiful."
+  },
+  {
+    "word": "Anikā",
+    "pos": "adjective",
+    "definition": "আনিকা Anikā - Unclean, filthy (Adj.) 2ā + পা. নেক = beautiful."
   }
 ]
