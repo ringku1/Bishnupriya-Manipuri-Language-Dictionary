@@ -1307,29 +1307,26 @@ const SearchBar = ({ onSelectWord }) => {
   const inputRef = useRef(null);
   const suggestionRef = useRef(null);
 
-  const createDiacriticPattern = (input) => {
-    const patternString = input
-      .split("")
-      .map((char) => {
-        // Check if this character is a key in our map
-        if (diacriticMap[char]) {
-          // If it is, create a regex group containing all its variants
-          return `[${diacriticMap[char].join("")}]`;
-        } else {
-          // If it's not a letter we mapped (e.g., space, hyphen), just use it as-is
-          return char;
-        }
-      })
-      .join(""); // Combine all characters and groups into one string
+  const isSubsequence = (sub, str) => {
+    let subIndex = 0;
+    let strIndex = 0;
 
-    // Create a regex that matches from the start of the word, case-insensitive
-    return new RegExp(`^${patternString}`, "i");
+    // Loop through both strings
+    while (subIndex < sub.length && strIndex < str.length) {
+      // If characters match, move to the next character in the subsequence
+      if (sub[subIndex] === str[strIndex]) {
+        subIndex++;
+      }
+      // Always move to the next character in the main string
+      strIndex++;
+    }
+    // If we matched all characters in the subsequence, it is a subsequence
+    return subIndex === sub.length;
   };
-  // --- END OF HELPER FUNCTION ---
+  // --- END OF SUBSEQUENCE FUNCTION ---
 
   const baseCharMap = {};
 
-  // Populate the baseCharMap using the diacriticMap
   Object.entries(diacriticMap).forEach(([baseChar, variants]) => {
     variants.forEach((variant) => {
       baseCharMap[variant] = baseChar.toLowerCase(); // Store all base chars in lowercase
@@ -1341,8 +1338,6 @@ const SearchBar = ({ onSelectWord }) => {
     return str
       .split("")
       .map((char) => {
-        // If the character is in our reverse map, return its base form.
-        // If not (e.g., punctuation, space), just return it in lowercase.
         return baseCharMap[char] || char.toLowerCase();
       })
       .join("");
@@ -1363,7 +1358,11 @@ const SearchBar = ({ onSelectWord }) => {
       });
   }, []);
 
-  // Filter suggestions dynamically (from beginning of word)
+  const handleChange = (e) => {
+    setInputValue(e.target.value);
+    setShowSuggestions(true);
+  };
+  // Filter suggestions dynamically (subsequence anywhere in word)
   useEffect(() => {
     const value = inputValue.trim();
     if (!value) {
@@ -1373,7 +1372,7 @@ const SearchBar = ({ onSelectWord }) => {
       return;
     }
 
-    // Normalize the user input to its base form
+    // Normalize the user input to its base form OUTSIDE the filter loop
     const normalizedInput = normalizeString(value);
 
     const filtered = words
@@ -1384,8 +1383,8 @@ const SearchBar = ({ onSelectWord }) => {
         // Normalize the dictionary word to its base form
         const normalizedWord = normalizeString(wordObj.word);
 
-        // Check if the normalized word starts with the normalized input
-        return normalizedWord.startsWith(normalizedInput);
+        // Check if the normalized input is a subsequence of the normalized word
+        return isSubsequence(normalizedInput, normalizedWord);
       })
       .slice(0, 10);
 
@@ -1393,11 +1392,7 @@ const SearchBar = ({ onSelectWord }) => {
     setShowSuggestions(true);
     setActiveIdx(-1);
   }, [inputValue, words]);
-  // Handle typing
-  const handleChange = (e) => {
-    setInputValue(e.target.value);
-    setShowSuggestions(true);
-  };
+
   // Handle suggestion click
   const handleClick = (wordObj) => {
     setInputValue(wordObj.word);
@@ -1463,8 +1458,6 @@ const SearchBar = ({ onSelectWord }) => {
       </>
     );
   };
-
-  // Click outside handler removed so suggestions stay visible
 
   return (
     <div className="search-container">
