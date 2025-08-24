@@ -101,6 +101,7 @@ function App() {
           <div className="footer-divider"></div>
           <div className="footer-section contact-info">
             <h3>Contact</h3>
+            <p>Give me suggestions</p>
             <ul>
               <li>
                 <span className="contact-icon" title="Email" aria-label="Email">
