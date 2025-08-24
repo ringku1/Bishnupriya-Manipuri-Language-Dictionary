@@ -69,7 +69,7 @@
 }
 
 .footer-content {
-  max-width: 900px;
+  max-width: 95%;
   margin: 0 auto;
   display: flex;
   flex-wrap: nowrap;

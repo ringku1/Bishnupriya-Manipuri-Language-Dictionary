@@ -71,12 +71,25 @@ function App() {
             <h3>About This Dictionary App</h3>
             <p>
               This is a simple dictionary app of Bishnupriya Manipuri Language
-              to English Language. This app provides quick word lookups, part of
-              speech, and definitions using a clean, responsive interface. It
-              features live suggestions, keyboard navigation, and dark mode
-              support.
+              to English Language.
             </p>
           </div>
+          <div className="footer-divider"></div>
+          <div className="footer-section reference">
+            <h3>Reference</h3>
+            <p>
+              Bishnupriya Manipuri to English Dictionary, by Dr. Kali Prasad
+              Sinha. You can read the original dictionary from
+              <a
+                href="https://archive.org/details/bishupriya-manipuri-to-english-dictionary-dr.-kali-prasad-sinha/page/n7/mode/2up"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Internet Archive
+              </a>
+            </p>
+          </div>
+
           <div className="footer-divider"></div>
           <div className="footer-section about-me">
             <h3>About Me</h3>
