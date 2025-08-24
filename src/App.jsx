@@ -95,13 +95,13 @@ function App() {
             <h3>About Me</h3>
             <p>
               Hi, I'm Ringku. I'm just an Engineer! I'm just curious about my
-              Bishnupriya Manipuri literature.
+              Bishnupriya Manipuri literature. For any suggestions or
+              corrections, please contact me.
             </p>
           </div>
           <div className="footer-divider"></div>
           <div className="footer-section contact-info">
             <h3>Contact</h3>
-            <p>Give me suggestions</p>
             <ul>
               <li>
                 <span className="contact-icon" title="Email" aria-label="Email">
