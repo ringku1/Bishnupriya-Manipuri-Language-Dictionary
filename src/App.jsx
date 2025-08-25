@@ -62,9 +62,14 @@ function App() {
       >
         {theme === "dark" ? "🌞" : "🌙"}
       </button>
-      <h1>BM Dictionary</h1>
-      <SearchBar onSelectWord={handleSelectWord} />
-      <WordDetail wordObj={selectedWord} onClose={handleCloseDetail} />
+
+      {/* MAIN CONTENT WRAPPER - This is the key fix */}
+      <div className="main-content">
+        <h1>BM Dictionary</h1>
+        <SearchBar onSelectWord={handleSelectWord} />
+        <WordDetail wordObj={selectedWord} onClose={handleCloseDetail} />
+      </div>
+
       <footer className="app-footer">
         <div className="footer-content">
           <div className="footer-section about-app">
@@ -78,8 +83,10 @@ function App() {
           <div className="footer-section reference">
             <h3>Reference</h3>
             <p>
-              Bishnupriya Manipuri to English Dictionary, by Dr. Kali Prasad
-              Sinha. You can read the original dictionary from
+              <span>
+                Bishnupriya Manipuri to English Dictionary, by Dr. Kali Prasad
+                Sinha. You can read the original dictionary from{" "}
+              </span>
               <a
                 href="https://archive.org/details/bishupriya-manipuri-to-english-dictionary-dr.-kali-prasad-sinha/page/n7/mode/2up"
                 target="_blank"
@@ -142,7 +149,7 @@ function App() {
                   >
                     <rect width="20" height="20" rx="4" fill="#e3edfc" />
                     <path
-                      d="M10 2C5.58 2 2 5.58 2 10C2 13.42 4.29 16.17 7.47 16.93C7.97 17.02 8.13 16.73 8.13 16.48C8.13 16.26 8.12 15.63 8.12 14.87C6 15.29 5.48 14.09 5.48 14.09C5.04 13.03 4.42 12.76 4.42 12.76C3.54 12.18 4.49 12.2 4.49 12.2C5.46 12.27 5.95 13.19 5.95 13.19C6.82 14.67 8.23 14.25 8.77 14.03C8.86 13.41 9.09 12.99 9.34 12.77C7.62 12.56 5.78 11.81 5.78 8.97C5.78 8.16 6.08 7.5 6.6 6.98C6.51 6.76 6.19 5.7 6.68 4.36C6.68 4.36 7.3 4.13 8.12 4.84C8.7 4.67 9.33 4.59 9.96 4.59C10.59 4.59 11.22 4.67 11.8 4.84C12.62 4.13 13.24 4.36 13.24 4.36C13.73 5.7 13.41 6.76 13.32 6.98C13.84 7.5 14.14 8.16 14.14 8.97C14.14 11.82 12.29 12.56 10.57 12.77C10.9 13.04 11.19 13.57 11.19 14.37C11.19 15.41 11.18 16.18 11.18 16.48C11.18 16.73 11.34 17.03 11.84 16.93C15.01 16.17 17.3 13.42 17.3 10C17.3 5.58 13.72 2 10 2Z"
+                      d="M10 2C5.58 2 2 5.58 2 10C2 13.42 4.29 16.17 7.47 16.93C7.97 17.02 8.13 16.73 8.13 16.48C8.13 16.26 8.12 15.63 8.12 14.87C6 15.29 5.48 14.09 5.48 14.09C5.04 13.03 4.42 12.76 4.42 12.76C3.54 12.18 4.49 12.2 4.49 12.2C5.46 12.27 5.95 13.19 5.95 13.19C6.82 14.67 8.23 14.25 8.77 14.03C8.86 13.41 9.09 12.99 9.34 12.77C7.62 12.56 5.78 11.81 5.78 8.97C5.78 8.16 6.08 7.5 6.6 6.98C6.51 6.76 6.19 5.7 6.68 4.36C6.68 4.36 7.3 4.13 8.12 4.84C8.7 4.67 9.33 4.59 9.96 4.59C10.59 4.59 11.22 4.67 11.8 4.84C12.62 4.13 13.24 4.36 13.24 4.36C13.73 5.7 13.41 6.76 13.32 6.98C13.84 7.5 14.14 8.16 14.14 8.97C14.14 11.82 12.29 12.56 10.57 12.77C10.90 13.04 11.19 13.57 11.19 14.37C11.19 15.41 11.18 16.18 11.18 16.48C11.18 16.73 11.34 17.03 11.84 16.93C15.01 16.17 17.3 13.42 17.3 10C17.3 5.58 13.72 2 10 2Z"
                       fill="#1a73e8"
                     />
                   </svg>
