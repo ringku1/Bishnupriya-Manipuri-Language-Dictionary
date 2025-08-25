@@ -1386,7 +1386,7 @@ const SearchBar = ({ onSelectWord }) => {
         // Check if the normalized input is a subsequence of the normalized word
         return isSubsequence(normalizedInput, normalizedWord);
       })
-      .slice(0, 10);
+      .slice(0, 50);
 
     setSuggestions(filtered);
     setShowSuggestions(true);
