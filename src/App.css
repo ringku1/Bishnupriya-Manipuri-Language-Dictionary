@@ -20,9 +20,27 @@
     0 1.5px 6px 0 rgba(0, 0, 0, 0.18);
 }
 
+/* Base reset and box-sizing */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Main App container - FIXED: Use flex column layout */
 .App {
   text-align: center;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   padding: 32px 2vw 24px 2vw;
   background: var(--color-bg-gradient);
   min-height: 100vh;
@@ -35,11 +53,65 @@
   position: relative;
   overflow-x: hidden;
   animation: bgGradientMove 12s ease-in-out infinite alternate;
-  box-sizing: border-box;
-  min-height: 100vh;
-  min-height: 100dvh;
+  flex: 1; /* This is crucial */
+  border-radius: 20px;
 }
 
+/* Main content area - FIXED: This will grow and prevent footer overlap */
+.main-content {
+  width: 100%;
+  max-width: 1200px;
+  flex: 1; /* This makes it grow and push footer down */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 2rem; /* Space above footer */
+}
+
+/* Header styles */
+h1 {
+  color: var(--color-header);
+  margin-bottom: 30px;
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-shadow: 0 2px 8px rgba(26, 115, 232, 0.08);
+  transition: color 0.2s;
+}
+
+/* Theme toggle button */
+.theme-toggle-btn {
+  position: absolute;
+  top: 24px;
+  right: 24px;
+  background: var(--color-card);
+  color: var(--color-primary);
+  border: 1.5px solid #e3edfc;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(26, 115, 232, 0.08);
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+  z-index: 20;
+}
+
+.theme-toggle-btn:hover,
+.theme-toggle-btn:focus {
+  background: var(--color-primary);
+  color: #fff;
+  box-shadow: 0 4px 16px rgba(26, 115, 232, 0.18);
+}
+
+[data-theme="dark"] .theme-toggle-btn {
+  border-color: #2a3442;
+}
+
+/* Footer styles - RESTORED original layout */
 .app-footer {
   width: 100vw;
   background: linear-gradient(90deg, var(--color-card) 80%, #e3edfc 100%);
@@ -50,15 +122,12 @@
   letter-spacing: 0.1px;
   z-index: 20;
   padding: 18px 0 8px 0;
-  margin-top: auto;
-  position: sticky;
+  margin-top: auto; /* This pushes footer to bottom */
+  position: relative; /* Changed from sticky to relative */
   bottom: 0;
   left: 0;
   right: 0;
-  border-radius: 0 0 0 0;
   transition: background 0.3s, color 0.3s, box-shadow 0.3s;
-  box-sizing: border-box;
-  min-height: 0;
 }
 
 [data-theme="dark"] .app-footer {
@@ -76,10 +145,11 @@
   justify-content: space-between;
   gap: 0;
   padding: 0 8px;
-  align-items: stretch;
+  align-items: stretch; /* This is key - makes children stretch to same height */
   min-height: 80px;
 }
 
+/* Footer sections - they will now all stretch to match the tallest one */
 .footer-section {
   flex: 1 1 0;
   min-width: 0;
@@ -90,13 +160,14 @@
   box-shadow: 0 1px 4px rgba(26, 115, 232, 0.03);
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: center; /* Center content vertically */
   align-items: center;
   font-size: 15px;
   border: none;
-  height: 100%;
+  height: auto; /* Change from 100% to auto */
   text-align: center;
 }
+
 [data-theme="dark"] .footer-section {
   background: rgba(35, 42, 54, 0.92);
   box-shadow: 0 1px 4px rgba(138, 180, 248, 0.03);
@@ -106,10 +177,7 @@
   margin: 0 0 6px 0;
   text-align: left;
 }
-[data-theme="dark"] .footer-section {
-  background: rgba(35, 42, 54, 0.92);
-  box-shadow: 0 1px 4px rgba(138, 180, 248, 0.03);
-}
+
 .footer-divider {
   width: 1.5px;
   background: #e3edfc;
@@ -118,6 +186,7 @@
   min-height: 60px;
   align-self: stretch;
 }
+
 [data-theme="dark"] .footer-divider {
   background: #2a3442;
 }
@@ -141,6 +210,35 @@
   gap: 5px;
 }
 
+/* For the contact section with list items, ensure proper spacing */
+.footer-section.contact-info ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex: 1; /* Make the list take available space */
+  width: 100%;
+}
+
+.footer-section.contact-info li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 3px 0;
+}
+
+/* For the about sections with paragraphs */
+.footer-section.about-app p,
+.footer-section.reference p,
+.footer-section.about-me p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1; /* Make paragraphs take available space */
+  margin: 0;
+  text-align: center; /* Center text */
+  min-height: 60px; /* Minimum height for consistency */
+}
+
 .footer-content a {
   color: var(--color-primary);
   text-decoration: none;
@@ -148,10 +246,12 @@
   font-weight: 500;
   margin-left: 4px;
 }
+
 .footer-content a:hover {
   text-decoration: underline;
   color: #ea4335;
 }
+
 .contact-icon {
   display: inline-flex;
   vertical-align: middle;
@@ -159,23 +259,7 @@
   margin-bottom: -2px;
 }
 
-@media (max-width: 900px) {
-  .footer-content {
-    flex-direction: column;
-    gap: 10px;
-    padding: 0 2vw;
-    min-height: 0;
-  }
-  .footer-section {
-    min-width: 0;
-    padding: 10px 6px 8px 6px;
-    margin-bottom: 6px;
-  }
-  .footer-divider {
-    display: none;
-  }
-}
-
+/* Animations */
 @keyframes bgGradientMove {
   0% {
     background-position: 0% 50%;
@@ -185,56 +269,104 @@
   }
 }
 
-@media (max-width: 600px) {
+/* Responsive design for mobile */
+@media (max-width: 900px) {
+  .footer-content {
+    flex-direction: column;
+    gap: 10px;
+    padding: 0 2vw;
+    min-height: 0;
+  }
+  
+  .footer-section {
+    min-width: 0;
+    padding: 15px 10px; /* Slightly more padding on mobile */
+    margin-bottom: 6px;
+    min-height: auto; /* Reset min-height on mobile */
+  }
+  
+  .footer-section.about-app p,
+  .footer-section.reference p,
+  .footer-section.about-me p {
+    min-height: auto; /* Reset on mobile */
+  }
+  
+  .footer-divider {
+    display: none;
+  }
+}
+@media (max-width: 768px) {
+  .App {
+    padding: 24px 2vw 16px 2vw;
+  }
+  
+  h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .theme-toggle-btn {
+    top: 16px;
+    right: 16px;
+    width: 36px;
+    height: 36px;
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 480px) {
   .App {
     padding: 18px 2vw 12px 2vw;
   }
+  
   h1 {
-    font-size: 26px;
-    margin-bottom: 18px;
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+  
+  .theme-toggle-btn {
+    top: 12px;
+    right: 12px;
+    width: 32px;
+    height: 32px;
+    font-size: 16px;
+  }
+  
+  .app-footer {
+    padding: 12px 0 6px 0;
+  }
+  
+  .footer-content {
+    padding: 0 1vw;
+  }
+  
+  .footer-section {
+    padding: 8px 4px 6px 4px;
+    font-size: 14px;
+  }
+  
+  .footer-content h3 {
+    font-size: 16px;
   }
 }
-
-h1 {
-  color: var(--color-header);
-  margin-bottom: 30px;
-  font-size: 36px;
-  font-weight: 700;
-  letter-spacing: 0.5px;
-  text-shadow: 0 2px 8px rgba(26, 115, 232, 0.08);
-  transition: color 0.2s;
-}
-
-@media (max-width: 600px) {
-  h1 {
-    font-size: 26px;
-    margin-bottom: 18px;
-  }
-}
-
-/* Theme toggle button */
-.theme-toggle-btn {
-  position: absolute;
-  top: 24px;
-  right: 24px;
-  background: var(--color-card);
-  color: var(--color-primary);
-  border: 1.5px solid #e3edfc;
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
+/* Fix for reference section */
+.footer-section.reference p {
   display: flex;
-  align-items: center;
+  flex-wrap: wrap;
   justify-content: center;
-  font-size: 20px;
-  cursor: pointer;
-  box-shadow: 0 2px 8px rgba(26, 115, 232, 0.08);
-  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
-  z-index: 20;
+  align-items: center;
+  gap: 4px;
+  text-align: center;
+  line-height: 1.5;
 }
-.theme-toggle-btn:hover,
-.theme-toggle-btn:focus {
-  background: var(--color-primary);
-  color: #fff;
-  box-shadow: 0 4px 16px rgba(26, 115, 232, 0.18);
+
+.footer-section.reference p span {
+  text-align: center;
+  display: inline;
+}
+
+.footer-section.reference a {
+  white-space: nowrap;
+  display: inline-block;
+  margin: 0;
 }
