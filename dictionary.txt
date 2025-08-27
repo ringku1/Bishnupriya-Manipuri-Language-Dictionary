@@ -7049,5 +7049,1405 @@
   "pos": "adjective",
   "definition": "আলাজালা Alājālā - 1. Unpolished, incomplete; 2. Incompletely (Adj./Adv.) সং. *আকুলক + echo-word; Syl. Beng আউলা জাউলা।"
 },
+{
+  "word": "আ'লাডুলা",
+  "pos": "noun",
+  "definition": "আ'লাডুলা A ladula - Vacillation, change (N.) সং *হারক, sec. el. V. ডোলা।"
+},
+{
+  "word": "A ladula",
+  "pos": "noun",
+  "definition": "আ'লাডুলা A ladula - Vacillation, change (N.) সং *হারক, sec. el. V. ডোলা।"
+},
+{
+  "word": "আলাদা",
+  "pos": "adjective",
+  "definition": "আলাদা Alada - Different, separate (Adj.) পা. অলাহিদহ।"
+},
+{
+  "word": "Alada",
+  "pos": "adjective",
+  "definition": "আলাদা Alada - Different, separate (Adj.) পা. অলাহিদহ।"
+},
+{
+  "word": "আ'লানি",
+  "pos": "noun",
+  "definition": "আ'লানি 1. Alāni - Making small bundles (N.) আ'লা- + -আনি।"
+},
+{
+  "word": "Alāni",
+  "pos": "noun",
+  "definition": "আ'লানি 1. Alāni - Making small bundles (N.) আ'লা- + -আনি।"
+},
+{
+  "word": "আ'লানি",
+  "pos": "noun",
+  "definition": "আ'লানি 2. Alani - Throwing (N.) আ'লা- + -আনি।"
+},
+{
+  "word": "Alani",
+  "pos": "noun",
+  "definition": "আ'লানি 2. Alani - Throwing (N.) আ'লা- + -আনি।"
+},
+{
+  "word": "আ'লানি",
+  "pos": "noun",
+  "definition": "আ'লানি 3. Alani - Changing (N.) আ'লা- + -আনি।"
+},
+{
+  "word": "Alani",
+  "pos": "noun",
+  "definition": "আ'লানি 3. Alani - Changing (N.) আ'লা- + -আনি।"
+},
+{
+  "word": "আলাপ",
+  "pos": "noun",
+  "definition": "আলাপ Alap - Conversation, proposal (N.) সং.।"
+},
+{
+  "word": "Alap",
+  "pos": "noun",
+  "definition": "আলাপ Alap - Conversation, proposal (N.) সং.।"
+},
+{
+  "word": "আলাসা-বালাসা",
+  "pos": "adjective",
+  "definition": "আলাসা-বালাসা Alasā-bālāsa - 1. Incomplete; 2. Incompletely, imperfectly (Adj./Adv.) সং. *আকুলক-সম + echo-word"
+},
+{
+  "word": "Alasā-bālāsa",
+  "pos": "adjective",
+  "definition": "আলাসা-বালাসা Alasā-bālāsa - 1. Incomplete; 2. Incompletely, imperfectly (Adj./Adv.) সং. *আকুলক-সম + echo-word"
+},
+{
+  "word": "আলাসালা",
+  "pos": "adjective",
+  "definition": "আলাসালা Alásālā - V. আলাজালা।"
+},
+{
+  "word": "Alásālā",
+  "pos": "adjective",
+  "definition": "আলাসালা Alásālā - V. আলাজালা।"
+},
+{
+  "word": "-আলি",
+  "pos": "-",
+  "definition": "-আলি Ali - A suffix added to nouns to indicate connection or possession (Suffix) সং. *পালিক।"
+},
+{
+  "word": "Ali",
+  "pos": "-",
+  "definition": "-আলি Ali - A suffix added to nouns to indicate connection or possession (Suffix) সং. *পালিক।"
+},
+{
+  "word": "আলি",
+  "pos": "noun",
+  "definition": "আলি 1. Ali - Aversion, hatred (N.) সং. *অরুচি (?)"
+},
+{
+  "word": "Ali",
+  "pos": "noun",
+  "definition": "আলি 1. Ali - Aversion, hatred (N.) সং. *অরুচি (?)"
+},
+{
+  "word": "আলি",
+  "pos": "noun",
+  "definition": "আলি 2. Ali - A raised boundary line, small dam, path (N.) সং. আবলি।"
+},
+{
+  "word": "Ali",
+  "pos": "noun",
+  "definition": "আলি 2. Ali - A raised boundary line, small dam, path (N.) সং. আবলি।"
+},
+{
+  "word": "আলি",
+  "pos": "noun",
+  "definition": "আলি 3. Ali - Laziness (N.) সং. আলস্য। -বা'গানি = Wrenching the body."
+},
+{
+  "word": "Ali",
+  "pos": "noun",
+  "definition": "আলি 3. Ali - Laziness (N.) সং. আলস্য। -বা'গানি = Wrenching the body."
+},
+{
+  "word": "আ'লি",
+  "pos": "noun",
+  "definition": "আলি A'li - Young rice-plant (N.) সং. *হালিক।"
+},
+{
+  "word": "A'li",
+  "pos": "noun",
+  "definition": "আলি A'li - Young rice-plant (N.) সং. *হালিক।"
+},
+{
+  "word": "আলিদ্দা",
+  "pos": "-",
+  "definition": "আলিদ্দা A'liddā - V. আলাদা।"
+},
+{
+  "word": "A'liddā",
+  "pos": "-",
+  "definition": "আলিদ্দা A'liddā - V. আলাদা।"
+},
+{
+  "word": "আলিয়া",
+  "pos": "adjective",
+  "definition": "আলিয়া A'liyā - Lazy (Adj.)"
+},
+{
+  "word": "A'liyā",
+  "pos": "adjective",
+  "definition": "আলিয়া A'liyā - Lazy (Adj.)"
+},
+{
+  "word": "আলিসালি",
+  "pos": "-",
+  "definition": "আলিসালি Alisāli - V. আনিঙ-সানিঙ।"
+},
+{
+  "word": "Alisāli",
+  "pos": "-",
+  "definition": "আলিসালি Alisāli - V. আনিঙ-সানিঙ।"
+},
+{
+  "word": "আলু",
+  "pos": "noun",
+  "definition": "আলু A'lu - Potato (N.) সং.।"
+},
+{
+  "word": "A'lu",
+  "pos": "noun",
+  "definition": "আলু A'lu - Potato (N.) সং.।"
+},
+{
+  "word": "আ'লুৱা",
+  "pos": "noun",
+  "definition": "আ'লুৱা A'luwā - Cultivator (N.) সং. *হালুক।"
+},
+{
+  "word": "A'luwā",
+  "pos": "noun",
+  "definition": "আ'লুৱা A'luwā - Cultivator (N.) সং. *হালুক।"
+},
+{
+  "word": "আলুৱান",
+  "pos": "noun",
+  "definition": "আলুৱান Aluwän - Woolen wrapper (N.) আ. আলৱান = Colour।"
+},
+{
+  "word": "Aluwän",
+  "pos": "noun",
+  "definition": "আলুৱান Aluwän - Woolen wrapper (N.) আ. আলৱান = Colour।"
+},
+{
+  "word": "আলোচনা",
+  "pos": "noun",
+  "definition": "আলোচনা A'locanā - Consultation (N.) সং.।"
+},
+{
+  "word": "A'locanā",
+  "pos": "noun",
+  "definition": "আলোচনা A'locanā - Consultation (N.) সং.।"
+},
+{
+  "word": "আলকাতরা",
+  "pos": "noun",
+  "definition": "আলকাতরা Ālkātrā - Tar, Pitch (N.) পো. আলকাত্রাও।"
+},
+{
+  "word": "Ālkātrā",
+  "pos": "noun",
+  "definition": "আলকাতরা Ālkātrā - Tar, Pitch (N.) পো. আলকাত্রাও।"
+},
+{
+  "word": "আলগা",
+  "pos": "adjective",
+  "definition": "আলগা A'lgả - Separate (Adj.) সং, *অলগ্নক।"
+},
+{
+  "word": "A'lgả",
+  "pos": "adjective",
+  "definition": "আলগা A'lgả - Separate (Adj.) সং, *অলগ্নক।"
+},
+{
+  "word": "আশ",
+  "pos": "-",
+  "definition": "আশ Ash - V. আছ।"
+},
+{
+  "word": "Ash",
+  "pos": "-",
+  "definition": "আশ Ash - V. আছ।"
+},
+{
+  "word": "আশা",
+  "pos": "noun",
+  "definition": "আশা Asa - Desire (N.) সং.।"
+},
+{
+  "word": "Asa",
+  "pos": "noun",
+  "definition": "আশা Asa - Desire (N.) সং.।"
+},
+{
+  "word": "আশ্চর্য্য",
+  "pos": "noun",
+  "definition": "আশ্চর্য্য AScarja - Surprise (N.) সং. |"
+},
+{
+  "word": "AScarja",
+  "pos": "noun",
+  "definition": "আশ্চর্য্য AScarja - Surprise (N.) সং. |"
+},
+{
+  "word": "আষাঢ়",
+  "pos": "noun",
+  "definition": "আষাঢ় Aşar - An Indian month (N.)"
+},
+{
+  "word": "Aşar",
+  "pos": "noun",
+  "definition": "আষাঢ় Aşar - An Indian month (N.)"
+},
+{
+  "word": "আষাঢ়া",
+  "pos": "noun",
+  "definition": "আষাঢ়া Aşārā - Paddy sown in the month of আষাঢ় (N.) *আষাঢ়ক।"
+},
+{
+  "word": "Aşārā",
+  "pos": "noun",
+  "definition": "আষাঢ়া Aşārā - Paddy sown in the month of আষাঢ় (N.) *আষাঢ়ক।"
+},
+{
+  "word": "আ'স",
+  "pos": "noun",
+  "definition": "আ'স A's - Duck, Swan (N.) সং. হংস।"
+},
+{
+  "word": "A's",
+  "pos": "noun",
+  "definition": "আ'স A's - Duck, Swan (N.) সং. হংস।"
+},
+{
+  "word": "আসন",
+  "pos": "noun",
+  "definition": "আসন Asan - Seat, a seat for deities (N.) সং.।"
+},
+{
+  "word": "Asan",
+  "pos": "noun",
+  "definition": "আসন Asan - Seat, a seat for deities (N.) সং.।"
+},
+{
+  "word": "আসমন",
+  "pos": "noun",
+  "definition": "আসমন Asaman - A method of sitting at the time of taking meals (N.) আসন + আচমন, cont."
+},
+{
+  "word": "Asaman",
+  "pos": "noun",
+  "definition": "আসমন Asaman - A method of sitting at the time of taking meals (N.) আসন + আচমন, cont."
+},
+{
+  "word": "আসর",
+  "pos": "noun",
+  "definition": "আসর Asar - A gathering (N.) পা. 'আসর = refuge."
+},
+{
+  "word": "Asar",
+  "pos": "noun",
+  "definition": "আসর Asar - A gathering (N.) পা. 'আসর = refuge."
+},
+{
+  "word": "আসল",
+  "pos": "adjective",
+  "definition": "আসল Asal - True, real (Adj.) পা. আস্ল।"
+},
+{
+  "word": "Asal",
+  "pos": "adjective",
+  "definition": "আসল Asal - True, real (Adj.) পা. আস্ল।"
+},
+{
+  "word": "আসলপা",
+  "pos": "adjective",
+  "definition": "আসলপা Asalpā - Weak (Adj.) মে. অশোনপা।"
+},
+{
+  "word": "Asalpā",
+  "pos": "adjective",
+  "definition": "আসলপা Asalpā - Weak (Adj.) মে. অশোনপা।"
+},
+{
+  "word": "আসলপী",
+  "pos": "adjective",
+  "definition": "আসলপী Asalpi - Fem. fr. above (Adj.) মে. অশোনপী।"
+},
+{
+  "word": "Asalpi",
+  "pos": "adjective",
+  "definition": "আসলপী Asalpi - Fem. fr. above (Adj.) মে. অশোনপী।"
+},
+{
+  "word": "আসাঙপা",
+  "pos": "adjective",
+  "definition": "আসাঙপা Asäñpä - Green (Adj.) মে. অশঙপা।"
+},
+{
+  "word": "Asäñpä",
+  "pos": "adjective",
+  "definition": "আসাঙপা Asäñpä - Green (Adj.) মে. অশঙপা।"
+},
+{
+  "word": "আসামী",
+  "pos": "noun",
+  "definition": "আসামী Asāmi - The accused (N.) আ. অসামী = (one in a list of names)।"
+},
+{
+  "word": "Asāmi",
+  "pos": "noun",
+  "definition": "আসামী Asāmi - The accused (N.) আ. অসামী = (one in a list of names)।"
+},
+{
+  "word": "আসুটা",
+  "pos": "adjective",
+  "definition": "আসুটা Asutä - 1. Whole, complete; 2. Simple (Adj.) পা. আস্ত = kernal, bone."
+},
+{
+  "word": "Asutä",
+  "pos": "adjective",
+  "definition": "আসুটা Asutä - 1. Whole, complete; 2. Simple (Adj.) পা. আস্ত = kernal, bone."
+},
+{
+  "word": "আস্তর",
+  "pos": "noun",
+  "definition": "আস্তর Astar - Layer (N.) সং.।"
+},
+{
+  "word": "Astar",
+  "pos": "noun",
+  "definition": "আস্তর Astar - Layer (N.) সং.।"
+},
+{
+  "word": "আস্তা",
+  "pos": "-",
+  "definition": "আস্তা Astå - V. আসুটা।"
+},
+{
+  "word": "Astå",
+  "pos": "-",
+  "definition": "আস্তা Astå - V. আসুটা।"
+},
+{
+  "word": "আস্তি",
+  "pos": "-",
+  "definition": "আস্তি Asti - V. অষ্টি।"
+},
+{
+  "word": "Asti",
+  "pos": "-",
+  "definition": "আস্তি Asti - V. অষ্টি।"
+},
+{
+  "word": "আস্তে",
+  "pos": "adverb",
+  "definition": "আস্তে Aste - Slowly, softly (Adv.) পা. অহিস্তহ।"
+},
+{
+  "word": "Aste",
+  "pos": "adverb",
+  "definition": "আস্তে Aste - Slowly, softly (Adv.) পা. অহিস্তহ।"
+},
+{
+  "word": "আসপাতাল",
+  "pos": "noun",
+  "definition": "আসপাতাল Aspātāl - Hospital (N.) Eng."
+},
+{
+  "word": "Aspātāl",
+  "pos": "noun",
+  "definition": "আসপাতাল Aspātāl - Hospital (N.) Eng."
+},
+{
+  "word": "আহ",
+  "pos": "verb",
+  "definition": "আহ Ah - To come (V.) সং, আবিশ।"
+},
+{
+  "word": "Ah",
+  "pos": "verb",
+  "definition": "আহ Ah - To come (V.) সং, আবিশ।"
+},
+{
+  "word": "আ'হ",
+  "pos": "verb",
+  "definition": "আ'হ A'h - To laugh (V.) সং. হাস, denom."
+},
+{
+  "word": "A'h",
+  "pos": "verb",
+  "definition": "আ'হ A'h - To laugh (V.) সং. হাস, denom."
+},
+{
+  "word": "আহা",
+  "pos": "noun",
+  "definition": "আহা Ahā - Arm (N.) সং. বাহা।"
+},
+{
+  "word": "Ahā",
+  "pos": "noun",
+  "definition": "আহা Ahā - Arm (N.) সং. বাহা।"
+},
+{
+  "word": "আহাতুলি",
+  "pos": "noun",
+  "definition": "আহাতুলি Ähātuli - Armpit (N.) সং. বাহা + তলিক।"
+},
+{
+  "word": "Ähātuli",
+  "pos": "noun",
+  "definition": "আহাতুলি Ähātuli - Armpit (N.) সং. বাহা + তলিক।"
+},
+{
+  "word": "আহানি",
+  "pos": "noun",
+  "definition": "আহানি Ahani - Coming (N.) সং. আহ- + -আনি।"
+},
+{
+  "word": "Ahani",
+  "pos": "noun",
+  "definition": "আহানি Ahani - Coming (N.) সং. আহ- + -আনি।"
+},
+{
+  "word": "আ'হানি",
+  "pos": "noun",
+  "definition": "আ'হানি A'hāni - Laughing (N.) সং. আ'হ- + -আনি।"
+},
+{
+  "word": "A'hāni",
+  "pos": "noun",
+  "definition": "আ'হানি A'hāni - Laughing (N.) সং. আ'হ- + -আনি।"
+},
+{
+  "word": "আহাল",
+  "pos": "adjective",
+  "definition": "আহাল Ahäl - Aged, old (Adj.) মে. অহাল।"
+},
+{
+  "word": "Ahäl",
+  "pos": "adjective",
+  "definition": "আহাল Ahäl - Aged, old (Adj.) মে. অহাল।"
+},
+{
+  "word": "আহি",
+  "pos": "noun",
+  "definition": "আহি Ahi - Eye (N.) সং. অক্ষি।"
+},
+{
+  "word": "Ahi",
+  "pos": "noun",
+  "definition": "আহি Ahi - Eye (N.) সং. অক্ষি।"
+},
+{
+  "word": "আহিঙপা",
+  "pos": "-",
+  "definition": "আহিঙপা Ahiñpā - V. আইঙপা।"
+},
+{
+  "word": "Ahiñpā",
+  "pos": "-",
+  "definition": "আহিঙপা Ahiñpā - V. আইঙপা।"
+},
+{
+  "word": "আহিব",
+  "pos": "adjective",
+  "definition": "আহিব Ahiba - Coming, next (Adj.) আহ- + -ইব।"
+},
+{
+  "word": "Ahiba",
+  "pos": "adjective",
+  "definition": "আহিব Ahiba - Coming, next (Adj.) আহ- + -ইব।"
+},
+{
+  "word": "আহিয়ল",
+  "pos": "noun",
+  "definition": "আহিয়ল Ahiyal - Ophthalmia (N.) আহি + মে. য়োনপা = to be defective."
+},
+{
+  "word": "Ahiyal",
+  "pos": "noun",
+  "definition": "আহিয়ল Ahiyal - Ophthalmia (N.) আহি + মে. য়োনপা = to be defective."
+},
+{
+  "word": "আহিয়া",
+  "pos": "noun",
+  "definition": "আহিয়া Ahiya - A joint (as of a bamboo) (N.) সং, অক্ষিক, Syl. B. আইখ।"
+},
+{
+  "word": "Ahiya",
+  "pos": "noun",
+  "definition": "আহিয়া Ahiya - A joint (as of a bamboo) (N.) সং, অক্ষিক, Syl. B. আইখ।"
+},
+{
+  "word": "আ'হুয়া",
+  "pos": "verb",
+  "definition": "আ'হুয়া Ahuwa - To cause to laugh (V.) Caus. fr. আ'হ-।"
+},
+{
+  "word": "Ahuwa",
+  "pos": "verb",
+  "definition": "আ'হুয়া Ahuwa - To cause to laugh (V.) Caus. fr. আ'হ-।"
+},
+{
+  "word": "আ'হুল",
+  "pos": "-",
+  "definition": "আ'হুল Ahul - V. আচুল।"
+},
+{
+  "word": "Ahul",
+  "pos": "-",
+  "definition": "আ'হুল Ahul - V. আচুল।"
+},
+{
+  "word": "আহুলানি",
+  "pos": "noun",
+  "definition": "আহুলানি Ahulâni - Pulling (N.) আহুল- + -আনি।"
+},
+{
+  "word": "Ahulâni",
+  "pos": "noun",
+  "definition": "আহুলানি Ahulâni - Pulling (N.) আহুল- + -আনি।"
+},
+{
+  "word": "আহেলপা",
+  "pos": "adjective",
+  "definition": "আহেলপা Ahelpā - Excess (Adj.) মে. আহেনপা।"
+},
+{
+  "word": "Ahelpā",
+  "pos": "adjective",
+  "definition": "আহেলপা Ahelpā - Excess (Adj.) মে. আহেনপা।"
+},
+{
+  "word": "আহোবা",
+  "pos": "-",
+  "definition": "আহোবা Ahobā - V. আহৌবা।"
+},
+{
+  "word": "Ahobā",
+  "pos": "-",
+  "definition": "আহোবা Ahobā - V. আহৌবা।"
+},
+{
+  "word": "আহৌ",
+  "pos": "adjective",
+  "definition": "আহৌ Ahau - One hundred (Adj.) সং. এক + শত-।"
+},
+{
+  "word": "Ahau",
+  "pos": "adjective",
+  "definition": "আহৌ Ahau - One hundred (Adj.) সং. এক + শত-।"
+},
+{
+  "word": "আহৌবা",
+  "pos": "adverb",
+  "definition": "আহৌবা Ahaubā - Indeed, so much (Adv.) সং. এক-শত-বার।"
+},
+{
+  "word": "Ahaubā",
+  "pos": "adverb",
+  "definition": "আহৌবা Ahaubā - Indeed, so much (Adv.) সং. এক-শত-বার।"
+},
+{
+  "word": "আহ",
+  "pos": "-",
+  "definition": "আহ Ah - Ah, alas (Int.) সং.।"
+},
+{
+  "word": "Ah",
+  "pos": "-",
+  "definition": "আহ Ah - Ah, alas (Int.) সং.।"
+},
+{
+  "word": "ই",
+  "pos": "verb",
+  "definition": "ই (মা.) i - To be, to become (V.) সং. ইত। e.g., ইছে।"
+},
+{
+  "word": "i",
+  "pos": "verb",
+  "definition": "ই (মা.) i - To be, to become (V.) সং. ইত। e.g., ইছে।"
+},
+{
+  "word": "-ই",
+  "pos": "-",
+  "definition": "-ই 1. i - Plural suffix added to the singular forms in -গো and -হান (Suffix) e.g., এগি, এহানি etc."
+},
+{
+  "word": "i",
+  "pos": "-",
+  "definition": "-ই 1. i - Plural suffix added to the singular forms in -গো and -হান (Suffix) e.g., এগি, এহানি etc."
+},
+{
+  "word": "-ই",
+  "pos": "-",
+  "definition": "-ই 2. i - A suffix added to nouns in the sense of (1) 'having', 'belong to', 'coming from', 'relating to' etc., e.g., আন্দাজি, উজানি, (2) in a pleonastic sense, e.g. মুড়ি, পেটি etc., (3) in a diminutive sense, e.g., চিলি etc. (Suffix) সং., -ইন্, -ঈয়, -ইক etc."
+},
+{
+  "word": "i",
+  "pos": "-",
+  "definition": "-ই 2. i - A suffix added to nouns in the sense of (1) 'having', 'belong to', 'coming from', 'relating to' etc., e.g., আন্দাজি, উজানি, (2) in a pleonastic sense, e.g. মুড়ি, পেটি etc., (3) in a diminutive sense, e.g., চিলি etc. (Suffix) সং., -ইন্, -ঈয়, -ইক etc."
+},
+{
+  "word": "-ই",
+  "pos": "-",
+  "definition": "-ই 3. i - A suffix added to verbal nouns to form concrete nouns (Suffix) সং. -ইন্, ইক, e.g., সাতালি, ভাজি etc."
+},
+{
+  "word": "i",
+  "pos": "-",
+  "definition": "-ই 3. i - A suffix added to verbal nouns to form concrete nouns (Suffix) সং. -ইন্, ইক, e.g., সাতালি, ভাজi etc."
+},
+{
+  "word": "-ইক",
+  "pos": "-",
+  "definition": "-ইক Ik - A suffix added to nouns to express 'relation' (Suffix) e.g. পুরাণিক, কর্মিক etc. সং. -ইক।"
+},
+{
+  "word": "Ik",
+  "pos": "-",
+  "definition": "-ইক Ik - A suffix added to nouns to express 'relation' (Suffix) e.g. পুরাণিক, কর্মিক etc. সং. -ইক।"
+},
+{
+  "word": "ইক্",
+  "pos": "verb",
+  "definition": "ইক্ (মা.) Ik - To write (V.) সং. লিখ- or V. ইকর-।"
+},
+{
+  "word": "Ik",
+  "pos": "verb",
+  "definition": "ইক্ (মা.) Ik - To write (V.) সং. লিখ- or V. ইকর-।"
+},
+{
+  "word": "ইকক",
+  "pos": "noun",
+  "definition": "ইকক Ikak - The end of thatch (N.) মে.।"
+},
+{
+  "word": "Ikak",
+  "pos": "noun",
+  "definition": "ইকক Ikak - The end of thatch (N.) মে.।"
+},
+{
+  "word": "ইকর",
+  "pos": "verb",
+  "definition": "ইকর Ikar - To write (V.) মে. ই-পা + বিম. কর।"
+},
+{
+  "word": "Ikar",
+  "pos": "verb",
+  "definition": "ইকর Ikar - To write (V.) মে. ই-পা + বিম. কর।"
+},
+{
+  "word": "ইকরানি",
+  "pos": "noun",
+  "definition": "ইকরানি Ikarāni - Writing (N.) ইকর- + -আনি।"
+},
+{
+  "word": "Ikarāni",
+  "pos": "noun",
+  "definition": "ইকরানি Ikarāni - Writing (N.) ইকর- + -আনি।"
+},
+{
+  "word": "ইকরানি",
+  "pos": "-",
+  "definition": "ইকরানি (মা.) Ikarâni - V. য়াকরানি।"
+},
+{
+  "word": "Ikarâni",
+  "pos": "-",
+  "definition": "ইকরানি (মা.) Ikarâni - V. য়াকরানি।"
+},
+{
+  "word": "ইকরুৱা",
+  "pos": "verb",
+  "definition": "ইকরুৱা Ikaruwà - Caus. of ইকর্ (V.)"
+},
+{
+  "word": "Ikaruwà",
+  "pos": "verb",
+  "definition": "ইকরুৱা Ikaruwà - Caus. of ইকর্ (V.)"
+},
+{
+  "word": "-ইকা",
+  "pos": "-",
+  "definition": "-ইকা Ikā - A suffix added to nouns to indicate 'relation' (Suffix) সং. -ইক + -ক। e.g. বারমাসিকা।"
+},
+{
+  "word": "Ikā",
+  "pos": "-",
+  "definition": "-ইকা Ikā - A suffix added to nouns to indicate 'relation' (Suffix) সং. -ইক + -ক। e.g. বারমাসিকা।"
+},
+{
+  "word": "ইকা",
+  "pos": "noun",
+  "definition": "ইকা Ikā - Fish coming out in the beginning of rainy season (N.) মে.।"
+},
+{
+  "word": "Ikā",
+  "pos": "noun",
+  "definition": "ইকা Ikā - Fish coming out in the beginning of rainy season (N.) মে.।"
+},
+{
+  "word": "ইকাঙ",
+  "pos": "noun",
+  "definition": "ইকাঙ Ikan - A dirty layer accumulating in a smoking pipe (N.) মে. ই + কঙপা।"
+},
+{
+  "word": "Ikan",
+  "pos": "noun",
+  "definition": "ইকাঙ Ikan - A dirty layer accumulating in a smoking pipe (N.) মে. ই +কঙপা।"
+},
+{
+  "word": "ইকানি",
+  "pos": "-",
+  "definition": "ইকানি (মা.) Ikâni - Writing (N.) ইক + -আনি।"
+},
+{
+  "word": "Ikâni",
+  "pos": "-",
+  "definition": "ইকানি (মা.) Ikâni - Writing (N.) ইক + -আনি।"
+},
+{
+  "word": "ইকায়তাপী",
+  "pos": "noun",
+  "definition": "ইকায়তাপী Ikäytāpi - A sensitive plant (N.) মে.।"
+},
+{
+  "word": "Ikäytāpi",
+  "pos": "noun",
+  "definition": "ইকায়তাপী Ikäytāpi - A sensitive plant (N.) মে.।"
+},
+{
+  "word": "ইকায়থাপী",
+  "pos": "-",
+  "definition": "ইকায়থাপী (মা.) Ikâythāpỉ - V. above।"
+},
+{
+  "word": "Ikâythāpỉ",
+  "pos": "-",
+  "definition": "ইকায়থাপী (মা.) Ikâythāpỉ - V. above।"
+},
+{
+  "word": "ইকু",
+  "pos": "noun",
+  "definition": "ইকু Iku - Address to the father-in-law (N.) মে.।"
+},
+{
+  "word": "Iku",
+  "pos": "noun",
+  "definition": "ইকু Iku - Address to the father-in-law (N.) মে.।"
+},
+{
+  "word": "ই'কুটা",
+  "pos": "verb",
+  "definition": "ই'কুটা I'kutå - To hiccough (V.) সং. *হিক্ক + *বৃত্তক।"
+},
+{
+  "word": "I'kutå",
+  "pos": "verb",
+  "definition": "ই'কুটা I'kutå - To hiccough (V.) সং. *হিক্ক + *বৃত্তক।"
+},
+{
+  "word": "ইকুটানি",
+  "pos": "noun",
+  "definition": "ইকুটানি Ikutäni - Hiccoughing (N.) ই'কুটা + -আনি।"
+},
+{
+  "word": "Ikutäni",
+  "pos": "noun",
+  "definition": "ইকুটানি Ikutäni - Hiccoughing (N.) ই'কুটা + -আনি।"
+},
+{
+  "word": "ইখুত",
+  "pos": "noun",
+  "definition": "ইখুত Ikhut - Spot, gap (N.) মে. ইখুত - my hand > hand."
+},
+{
+  "word": "Ikhut",
+  "pos": "noun",
+  "definition": "ইখুত Ikhut - Spot, gap (N.) মে. ইখুত - my hand > hand."
+},
+{
+  "word": "ইঙ",
+  "pos": "adjective",
+  "definition": "ইঙ In- - Cold, silent (Adj.) মে. ইঙ-পা.।"
+},
+{
+  "word": "In-",
+  "pos": "adjective",
+  "definition": "ইঙ In- - Cold, silent (Adj.) মে.  ইঙ-পা.।"
+},
+{
+  "word": "ইঙাঙ",
+  "pos": "noun",
+  "definition": "ইঙাঙ Inän - A reddish layer accumulating on the teeth (N.) মে. ইঙাঙ = red."
+},
+{
+  "word": "Inän",
+  "pos": "noun",
+  "definition": "ইঙাঙ Inän - A reddish layer accumulating on the teeth (N.) মে. ইঙাঙ = red."
+},
+{
+  "word": "ইঙালঙাল",
+  "pos": "adjective",
+  "definition": "ইঙালঙাল Inālnāl - Bright (Adj.) মে.।"
+},
+{
+  "word": "Inālnāl",
+  "pos": "adjective",
+  "definition": "ইঙালঙাল Inālnāl - Bright (Adj.) মে.।"
+},
+{
+  "word": "ইঙেলেই",
+  "pos": "noun",
+  "definition": "ইঙেলেই Inelei - A kind of flower (N.) মে. ইঙেল্লৈ।"
+},
+{
+  "word": "Inelei",
+  "pos": "noun",
+  "definition": "ইঙেলেই Inelei - A kind of flower (N.) মে. ইঙেল্লৈ।"
+},
+{
+  "word": "ইঙ্গিত",
+  "pos": "noun",
+  "definition": "ইঙ্গিত Ingit - Hint (N.) সং.।"
+},
+{
+  "word": "Ingit",
+  "pos": "noun",
+  "definition": "ইঙ্গিত Ingit - Hint (N.) সং.।"
+},
+{
+  "word": "ইঙ্গেরেজি",
+  "pos": "noun",
+  "definition": "ইঙ্গেরেজি Ingereji - English (N.) Po. Engrez."
+},
+{
+  "word": "Ingereji",
+  "pos": "noun",
+  "definition": "ইঙ্গেরেজি Ingereji - English (N.) Po. Engrez."
+},
+{
+  "word": "ইঙচিল",
+  "pos": "noun",
+  "definition": "ইঙচিল Incil - A fishing net (N.) মে.।"
+},
+{
+  "word": "Incil",
+  "pos": "noun",
+  "definition": "ইঙচিল Incil - A fishing net (N.) মে.।"
+},
+{
+  "word": "ইঙচেল",
+  "pos": "-",
+  "definition": "ইঙচেল Incel - V. above."
+},
+{
+  "word": "Incel",
+  "pos": "-",
+  "definition": "ইঙচেল Incel - V. above."
+},
+{
+  "word": "ইওপা",
+  "pos": "-",
+  "definition": "ইওপা Inpä - V. ইঙ।"
+},
+{
+  "word": "Inpä",
+  "pos": "-",
+  "definition": "ইওপা Inpä - V. ইঙ।"
+},
+{
+  "word": "ইচঙ",
+  "pos": "noun",
+  "definition": "ইচঙ Ican - (1) Spirit (2) Courtesy (N.) মে. ইচঙ = courage."
+},
+{
+  "word": "Ican",
+  "pos": "noun",
+  "definition": "ইচঙ Ican - (1) Spirit (2) Courtesy (N.) মে. ইচঙ = courage."
+},
+{
+  "word": "ইচা",
+  "pos": "noun",
+  "definition": "ইচা Icā - Shrimp or prawn (N.) Sy. Beng."
+},
+{
+  "word": "Icā",
+  "pos": "noun",
+  "definition": "ইচা Icā - Shrimp or prawn (N.) Sy. Beng."
+},
+{
+  "word": "ইচাঙথৌ",
+  "pos": "adjective",
+  "definition": "ইচাঙথৌ Icānthau - Active, enthusiastic (Adj.) মে.।"
+},
+{
+  "word": "Icānthau",
+  "pos": "adjective",
+  "definition": "ইচাঙথৌ Icānthau - Active, enthusiastic (Adj.) মে.।"
+},
+{
+  "word": "ইচু",
+  "pos": "adjective",
+  "definition": "ইচু Icu - Of this amount or measure (Adj.) সং. ইদম, ইয়ম্ etc. + *chupaka, V. চুৱা।"
+},
+{
+  "word": "Icu",
+  "pos": "adjective",
+  "definition": "ইচু Icu - Of this amount or measure (Adj.) সং. ইদম, ইয়ম্ etc. + *chupaka, V. চুৱা।"
+},
+{
+  "word": "ইচুম",
+  "pos": "noun",
+  "definition": "ইচুম Icum - Water flowing from the homestead land (N.) মে.।"
+},
+{
+  "word": "Icum",
+  "pos": "noun",
+  "definition": "ইচুম Icum - Water flowing from the homestead land (N.) মে.।"
+},
+{
+  "word": "ইচুম",
+  "pos": "noun",
+  "definition": "ইচুম (মা.) Icum - Watery secretion from an ulcer, wound, boil etc. (N.) মে.।"
+},
+{
+  "word": "Icum",
+  "pos": "noun",
+  "definition": "ইচুম (মা.) Icum - Watery secretion from an ulcer, wound, boil etc. (N.) মে.।"
+},
+{
+  "word": "ইচুল",
+  "pos": "verb",
+  "definition": "ইচুল (মা.) Icul - To pull, to attract (V.) V. আচুল।"
+},
+{
+  "word": "Icul",
+  "pos": "verb",
+  "definition": "ইচুল মা.) Icul - To pull, to attract (V.) V. আচুল।"
+},
+{
+  "word": "ইচুলানি",
+  "pos": "noun",
+  "definition": "ইচুলানি Iculäni - Pulling, attracting (N.) ইচুল + -আনি।"
+},
+{
+  "word": "Iculäni",
+  "pos": "noun",
+  "definition": "ইচুলানি Iculäni - Pulling, attracting (N.) ইচুল + -আনি।"
+},
+{
+  "word": "ইচুলুৱা",
+  "pos": "verb",
+  "definition": "ইচুলুৱা Iculuwà - Caus. of ইচুল (V.)"
+},
+{
+  "word": "Iculuwà",
+  "pos": "verb",
+  "definition": "ইচুলুৱা Iculuwà - Caus. of ইচুল (V.)"
+},
+{
+  "word": "ইচে",
+  "pos": "noun",
+  "definition": "ইচে Ice - Address to an elder sister (N.) মে.।"
+},
+{
+  "word": "Ice",
+  "pos": "noun",
+  "definition": "ইচে Ice - Address to an elder sister (N.) মে.।"
+},
+{
+  "word": "ইচেম",
+  "pos": "noun",
+  "definition": "ইচেম Icem - Address of honour to an elder sister (N.) মে.।"
+},
+{
+  "word": "Icem",
+  "pos": "noun",
+  "definition": "ইচেম Icem - Address of honour to an elder sister (N.) মে.।"
+},
+{
+  "word": "ইচেল",
+  "pos": "noun",
+  "definition": "ইচেল Icel- - Water-current (N.) মে.।"
+},
+{
+  "word": "Icel-",
+  "pos": "noun",
+  "definition": "ইচেল Icel- - Water-current (N.) মে.।"
+},
+{
+  "word": "ইচ্চিল",
+  "pos": "adverb",
+  "definition": "ইচ্চিল Iccil - Only (Adv.) সং. ঋজু + -ইল।"
+},
+{
+  "word": "Iccil",
+  "pos": "adverb",
+  "definition": "ইচ্চিল Iccil - Only (Adv.) সং. ঋজু + -ইল।"
+},
+{
+  "word": "ইচ্চু",
+  "pos": "adjective",
+  "definition": "ইচ্চু Iccu - Straight (Adj.) মে.।"
+},
+{
+  "word": "Iccu",
+  "pos": "adjective",
+  "definition": "ইচ্চু Iccu - Straight (Adj.) মে.।"
+},
+{
+  "word": "ইচ্চুমচুম",
+  "pos": "-",
+  "definition": "ইচ্চুমচুম Iccumcum - V. above."
+},
+{
+  "word": "Iccumcum",
+  "pos": "-",
+  "definition": "ইচ্চুমচুম Iccumcum - V. above."
+},
+{
+  "word": "ইচ্ছুলে",
+  "pos": "adverb",
+  "definition": "ইচ্ছুলে (মা.) Iccule - Loudly (Adv.) V. আচ্চুলে।"
+},
+{
+  "word": "Iccule",
+  "pos": "adverb",
+  "definition": "ইচ্ছুলে (মা.) Iccule - Loudly (Adv.) V. আচ্চুলে।"
+},
+{
+  "word": "ইচ্ছা",
+  "pos": "noun",
+  "definition": "ইচ্ছা Icchā - Desire (N.) সং.।"
+},
+{
+  "word": "Icchā",
+  "pos": "noun",
+  "definition": "ইচ্ছা Icchā - Desire (N.) সং.।"
+},
+{
+  "word": "ইচ্ছাময়",
+  "pos": "adjective",
+  "definition": "ইচ্ছাময় Icchâmay - Having free choice (Adj.) সং.।"
+},
+{
+  "word": "Icchâmay",
+  "pos": "adjective",
+  "definition": "ইচ্ছাময় Icchâmay - Having free choice (Adj.) সং.।"
+},
+{
+  "word": "ই'জল",
+  "pos": "noun",
+  "definition": "ই'জল I'jal- - A kind of tree growing on water-sides (N.) সং. হিজ্জল।"
+},
+{
+  "word": "I'jal-",
+  "pos": "noun",
+  "definition": "ই'জল I'jal- - A kind of tree growing on water-sides (N.) সং. হিজ্জল।"
+},
+{
+  "word": "ইজার",
+  "pos": "noun",
+  "definition": "ইজার Ijär - Complaint (N.) পা. ইজাহার = Statement."
+},
+{
+  "word": "Ijär",
+  "pos": "noun",
+  "definition": "ইজার Ijär - Complaint (N.) পা. ইজাহার = Statement."
+},
+{
+  "word": "ইজারা",
+  "pos": "noun",
+  "definition": "ইজারা I'jārā - Lease, contract (N.) পা. ইজারহ।"
+},
+{
+  "word": "I'jārā",
+  "pos": "noun",
+  "definition": "ইজারা I'jārā - Lease, contract (N.) পা. ইজারহ।"
+},
+{
+  "word": "ইজাহার",
+  "pos": "-",
+  "definition": "ইজাহার (মা.) Ijähār - V. ইজার।"
+},
+{
+  "word": "Ijähār",
+  "pos": "-",
+  "definition": "ইজাহার (মা.) Ijähār - V. ইজার।"
+},
+{
+  "word": "ইজ্জত",
+  "pos": "noun",
+  "definition": "ইজ্জত I'jjat - Prestige, honour (N.) আ. ইজ্জত।"
+},
+{
+  "word": "I'jjat",
+  "pos": "noun",
+  "definition": "ইজ্জত I'jjat - Prestige, honour (N.) আ. ইজ্জত।"
+},
+{
+  "word": "ইজ্জু",
+  "pos": "adjective",
+  "definition": "ইজ্জু Iiju - Straight (Adj.) সং. ঋজু।"
+},
+{
+  "word": "Iiju",
+  "pos": "adjective",
+  "definition": "ইজ্জু Iiju - Straight (Adj.) সং. ঋজু।"
+},
+{
+  "word": "ইস্সুম",
+  "pos": "adjective",
+  "definition": "ইস্সুম I'jjum - Straight (Adj.) V. above + মে. চুমপা cont."
+},
+{
+  "word": "I'jjum",
+  "pos": "adjective",
+  "definition": "ইস্সুম I'jjum - Straight (Adj.) V. above + মে. চুমপা cont."
+},
+{
+  "word": "ইজমালি",
+  "pos": "noun",
+  "definition": "ইজমালি Ijmäli - Joint estate (N.) আ. ইজমাল।"
+},
+{
+  "word": "Ijmäli",
+  "pos": "noun",
+  "definition": "ইজমালi Ijmäli - Joint estate (N.) আ. ইজমাল।"
+},
+{
+  "word": "ইঞ্চিকচিক",
+  "pos": "adjective",
+  "definition": "ইঞ্চিকচিক I'ñcikcik - Lonely (Adj.) মে. ইঙ + চিকচিকপা।"
+},
+{
+  "word": "I'ñcikcik",
+  "pos": "adjective",
+  "definition": "ইঞ্চিকচিক I'ñcikcik - Lonely (Adj.) মে. ইঙ + চিকচিকপা।"
+},
+{
+  "word": "ইঞ্চৌ",
+  "pos": "noun",
+  "definition": "ইঞ্চৌ Incau - Big house (N.) মে. য়ুমজাউ।"
+},
+{
+  "word": "Incau",
+  "pos": "noun",
+  "definition": "ইঞ্চৌ Incau - Big house (N.) মে. য়ুমজাউ।"
+},
+{
+  "word": "ইঞ্জাউ",
+  "pos": "-",
+  "definition": "ইঞ্জাউ Injāu - V. above."
+},
+{
+  "word": "Injāu",
+  "pos": "-",
+  "definition": "ইঞ্জাউ Injāu - V. above."
+},
+{
+  "word": "ইঞ্জাম",
+  "pos": "adjective",
+  "definition": "ইঞ্জাম Injäm - Sufficient, well arranged (Adj.) আ. ইন্তিজাম।"
+},
+{
+  "word": "Injäm",
+  "pos": "adjective",
+  "definition": "ইঞ্জাম Injäm - Sufficient, well arranged (Adj.) আ. ইন্তিজাম।"
+},
+{
+  "word": "ইঞ্জুকি",
+  "pos": "-",
+  "definition": "ইঞ্জুকি (মা.) Injuki - V. চিঞ্চিকি।"
+},
+{
+  "word": "Injuki",
+  "pos": "-",
+  "definition": "ইঞ্জুকি (মা.) Injuki - V. চিঞ্চিকি।"
+},
+{
+  "word": "ইট",
+  "pos": "noun",
+  "definition": "ইট Iţ - Brick (N.) সং. ইষ্টক।"
+},
+{
+  "word": "Iţ",
+  "pos": "noun",
+  "definition": "ইট Iţ - Brick (N.) সং. ইষ্টক।"
+},
+{
+  "word": "ইটা",
+  "pos": "verb",
+  "definition": "ইটা Itā - To throw (V.) Denom. from above."
+},
+{
+  "word": "Itā",
+  "pos": "verb",
+  "definition": "ইটা Itā - To throw (V.) Denom. from above."
+},
+{
+  "word": "ইটাংটাং",
+  "pos": "adjective",
+  "definition": "ইটাংটাং Itäntān- - Clear (Adj.) মে. ইতাঙতাঙপা।"
+},
+{
+  "word": "Itäntān-",
+  "pos": "adjective",
+  "definition": "ইটাংটাং Itäntān- - Clear (Adj.) মে. ইতাঙতাঙপা।"
+},
+{
+  "word": "ইটানি",
+  "pos": "noun",
+  "definition": "ইটানি Itäni - Throwing (N.) ইটা + -আনি।"
+},
+{
+  "word": "Itäni",
+  "pos": "noun",
+  "definition": "ইটানি Itäni - Throwing (N.) ইটা + -আনি।"
+},
+{
+  "word": "ইটুমটুম",
+  "pos": "adjective",
+  "definition": "ইটুমটুম Itumţum - Cut and cleared (Adj.) মে. ইতুমতুমপা।"
+},
+{
+  "word": "Itumţum",
+  "pos": "adjective",
+  "definition": "ইটুমটুম Itumţum - Cut and cleared (Adj.) মে. ইতুমতুমপা।"
+},
+{
+  "word": "ইটো",
+  "pos": "noun",
+  "definition": "ইটো Ito - Friend (N.) সং. ইষ্ট or মে. ইতাও।"
+},
+{
+  "word": "Ito",
+  "pos": "noun",
+  "definition": "ইটো Ito - Friend (N.) সং. ইষ্ট or মে. ইতাও।"
+},
+{
+  "word": "ইতর",
+  "pos": "adjective",
+  "definition": "ইতর Itar - Mean, vile (Adj.) সং. ইতর = other."
+},
+{
+  "word": "Itar",
+  "pos": "adjective",
+  "definition": "ইতর Itar - Mean, vile (Adj.) সং. ইতর = other."
+},
+{
+  "word": "ইতাও",
+  "pos": "noun",
+  "definition": "ইতাও Itão - Friend (N.) মে.।"
+},
+{
+  "word": "Itão",
+  "pos": "noun",
+  "definition": "ইতাও Itão - Friend (N.) মে.।"
+},
+{
+  "word": "ইতি",
+  "pos": "noun",
+  "definition": "ইতি Iti - End (N.) সং.।"
+},
+{
+  "word": "Iti",
+  "pos": "noun",
+  "definition": "ইতি Iti - End (N.) সং.।"
+},
+{
+  "word": "ইতু",
+  "pos": "adjective",
+  "definition": "ইতু Itu - Kept secret, keeping secret (Adj.) সং. হিত = placed. -পাগাল, -পাঞ্জাল (মা.) = the act of placing secretly or well-arranged."
+},
+{
+  "word": "Itu",
+  "pos": "adjective",
+  "definition": "ইতু Itu - Kept secret, keeping secret (Adj.) সং. হিত = placed. -পাগাল, -পাঞ্জাল (মা.) = the act of placing secretly or well-arranged."
+},
+{
+  "word": "ইতেইমা",
+  "pos": "noun",
+  "definition": "ইতেইমা Iteima - Address to the elder brother's wife (N.) মে.।"
+},
+{
+  "word": "Iteima",
+  "pos": "noun",
+  "definition": "ইতেইমা Iteima - Address to the elder brother's wife (N.) মে.।"
+},
+{
+  "word": "ইতেততেত",
+  "pos": "adjective",
+  "definition": "ইতেততেত Itettet - Tired, stopped (Adj.) মে.। -নেই = incessantly."
+},
+{
+  "word": "Itettet",
+  "pos": "adjective",
+  "definition": "ইতেততেত Itettet - Tired, stopped (Adj.) মে.। -নেই = incessantly."
+},
+{
+  "word": "ইথঙ",
+  "pos": "noun",
+  "definition": "ইথঙ Ithan - Water passage (N.) মে.।"
+},
+{
+  "word": "Ithan",
+  "pos": "noun",
+  "definition": "ইথঙ Ithan - Water passage (N.) মে.।"
+},
+{
+  "word": "ইথল",
+  "pos": "noun",
+  "definition": "ইথল Ithal - Landing place in a pool or river (N.) মে. ই = water or hi = boat + সং. স্থল।"
+},
+{
+  "word": "Ithal",
+  "pos": "noun",
+  "definition": "ইথল Ithal - Landing place in a pool or river (N.) মে. ই = water or hi = boat + সং. স্থল।"
+},
+{
+  "word": "ইথাক",
+  "pos": "noun",
+  "definition": "ইথাক Ithak - Wave, water-current (N.) মে.।"
+},
+{
+  "word": "Ithak",
+  "pos": "noun",
+  "definition": "ইথাক Ithak - Wave, water-current (N.) মে.।"
+},
+{
+  "word": "ইথেই",
+  "pos": "-",
+  "definition": "ইথেই Ithei - V. above (N.) মে.।"
+},
+{
+  "word": "Ithei",
+  "pos": "-",
+  "definition": "ইথেই Ithei - V. above (N.) মে.।"
+},
+{
+  "word": "ইথৌ",
+  "pos": "noun",
+  "definition": "ইথৌ Ithau - Inspiration, invigoration (N.) মে. হি = boat or হৈপা = skill + থৌপা = to drive."
+},
+{
+  "word": "Ithau",
+  "pos": "noun",
+  "definition": "ইথৌ Ithau - Inspiration, invigoration (N.) মে. হি = boat or হৈপা = skill + থৌপা = to drive."
+},
 
 ]
