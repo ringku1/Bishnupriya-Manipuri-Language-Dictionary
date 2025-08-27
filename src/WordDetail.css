@@ -14,6 +14,8 @@
   align-items: center;
   z-index: 100;
   animation: fadeInBg 0.4s cubic-bezier(0.4, 1.4, 0.6, 1) both;
+  padding: 20px; /* Added padding for mobile */
+  box-sizing: border-box; /* Ensure padding doesn't cause overflow */
 }
 
 @keyframes fadeInBg {
@@ -38,6 +40,9 @@
   animation: scaleFadeIn 0.45s cubic-bezier(0.4, 1.4, 0.6, 1) both;
   border: 1.5px solid #e3edfc;
   transition: box-shadow 0.3s;
+  /* Added for mobile responsiveness */
+  max-height: 90vh;
+  overflow-y: auto;
 }
 
 .detail-panel:hover {
@@ -91,6 +96,7 @@
   letter-spacing: 0.5px;
   text-shadow: 0 2px 8px rgba(26, 115, 232, 0.08);
   transition: color 0.2s;
+  word-wrap: break-word; /* Added for long words on mobile */
 }
 
 .word-pos {
@@ -124,5 +130,94 @@
   to {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .detail-panel {
+    padding: 30px 35px 26px 35px;
+    border-radius: 18px;
+  }
+  
+  .close-button {
+    top: 14px;
+    right: 18px;
+    width: 36px;
+    height: 36px;
+  }
+  
+  .word-title {
+    font-size: 28px;
+    margin-bottom: 8px;
+  }
+  
+  .word-definition {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+}
+
+@media (max-width: 480px) {
+  .detail-panel {
+    padding: 24px 28px 20px 28px;
+    border-radius: 16px;
+  }
+  
+  .close-button {
+    top: 12px;
+    right: 16px;
+    width: 34px;
+    height: 34px;
+    font-size: 22px;
+  }
+  
+  .word-title {
+    font-size: 24px;
+  }
+  
+  .word-pos {
+    font-size: 14px;
+    margin-bottom: 14px;
+  }
+  
+  .word-definition {
+    font-size: 15px;
+    line-height: 1.5;
+  }
+}
+
+@media (max-width: 320px) {
+  .detail-panel {
+    padding: 20px 22px 18px 22px;
+  }
+  
+  .close-button {
+    top: 10px;
+    right: 12px;
+    width: 32px;
+    height: 32px;
+    font-size: 20px;
+  }
+  
+  .word-title {
+    font-size: 22px;
+  }
+  
+  .word-definition {
+    font-size: 14px;
+  }
+}
+
+/* For very small devices in landscape orientation */
+@media (max-height: 500px) and (orientation: landscape) {
+  .detail-overlay {
+    align-items: flex-start;
+    padding-top: 20px;
+  }
+  
+  .detail-panel {
+    margin: 20px 0;
+    max-height: 80vh;
   }
 }
