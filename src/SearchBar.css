@@ -43,7 +43,8 @@
   border-radius: 0;
   transition: box-shadow 0.2s, background 0.2s, color 0.2s;
   box-shadow: none;
-  border-radius: 16px;
+  border-radius: 16px 0 0 16px;
+  min-width: 0; /* Allow input to shrink on small screens */
 }
 
 .search-input:focus {
@@ -72,6 +73,7 @@
   font-size: 16px;
   box-shadow: 0 2px 8px rgba(26, 115, 232, 0.08);
   outline: none;
+  white-space: nowrap; /* Prevent text wrapping */
 }
 [data-theme="dark"] .search-button {
   background: linear-gradient(
@@ -170,11 +172,11 @@
 }
 
 .suggestions-list li:hover {
-  background: #f0f4ff;
+  background: #c5aeae;
   transform: scale(1.02);
 }
 [data-theme="dark"] .suggestions-list li:hover {
-  background: #232a36;
+  background: #48505e;
   color: #8ab4f8;
 }
 
@@ -186,6 +188,10 @@
   display: flex;
   align-items: center;
   white-space: pre; /* preserve spaces exactly as in the string */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 1;
+  min-width: 0;
 }
 [data-theme="dark"] .suggestion-word {
   color: #8ab4f8;
@@ -201,6 +207,7 @@
   font-weight: 500;
   text-transform: capitalize;
   box-shadow: 0 1px 4px rgba(26, 115, 232, 0.04);
+  flex-shrink: 0; /* Prevent the POS tag from shrinking */
 }
 [data-theme="dark"] .suggestion-pos {
   color: #8ab4f8;
@@ -288,4 +295,117 @@
   display: flex;
   align-items: center;
   position: relative;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .search-container {
+    max-width: 90%;
+    margin: 0 auto 24px auto;
+  }
+  
+  .search-row {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .search-input {
+    border-radius: 16px 16px 0 0;
+    padding: 16px;
+    font-size: 16px; /* Slightly larger for mobile */
+  }
+  
+  .search-button {
+    border-radius: 0 0 16px 16px;
+    height: 48px;
+    width: 100%;
+  }
+  
+  .suggestions-list {
+    max-height: 300px; /* Slightly smaller max-height on mobile */
+  }
+  
+  .suggestions-list li {
+    padding: 14px 16px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .suggestion-pos {
+    margin-left: 0;
+    margin-top: 6px;
+    align-self: flex-start;
+  }
+}
+
+@media (max-width: 480px) {
+  .search-container {
+    max-width: 95%;
+    border-radius: 12px;
+  }
+  
+  .search-input {
+    padding: 14px;
+    font-size: 16px; /* iOS friendly size */
+  }
+  
+  .search-button {
+    height: 46px;
+    font-size: 15px;
+    padding: 12px 16px;
+  }
+  
+  .suggestions-list {
+    max-height: 250px;
+  }
+  
+  .suggestions-list li {
+    padding: 12px 14px;
+    font-size: 15px;
+  }
+  
+  .suggestion-word {
+    font-size: 15px;
+  }
+  
+  .suggestion-pos {
+    font-size: 12px;
+  }
+}
+
+/* For very small devices */
+@media (max-width: 320px) {
+  .search-input {
+    font-size: 15px;
+  }
+  
+  .search-button {
+    font-size: 14px;
+  }
+  
+  .suggestions-list li {
+    font-size: 14px;
+  }
+  
+  .suggestion-word {
+    font-size: 14px;
+  }
+}
+
+/* Prevent zoom on iOS devices when input is focused */
+@media screen and (max-width: 768px) {
+  .search-input {
+    font-size: 16px !important;
+  }
+}
+
+/* Improve touch targets for mobile */
+@media (hover: none) and (pointer: coarse) {
+  .suggestions-list li {
+    padding: 16px 18px; /* Larger touch target */
+  }
+  
+  .search-button {
+    padding: 16px 22px; /* Larger touch target */
+  }
 }
