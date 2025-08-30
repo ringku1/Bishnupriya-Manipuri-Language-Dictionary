@@ -1383,6 +1383,9 @@ const SearchBar = ({ onSelectWord }) => {
         // Normalize the dictionary word to its base form
         const normalizedWord = normalizeString(wordObj.word);
 
+        // Require first letter match
+        if (normalizedInput[0] !== normalizedWord[0]) return false;
+
         // Check if the normalized input is a subsequence of the normalized word
         return isSubsequence(normalizedInput, normalizedWord);
       })
