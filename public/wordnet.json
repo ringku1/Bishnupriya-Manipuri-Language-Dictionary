@@ -9648,5 +9648,1965 @@
     "word": "-U",
     "pos": "-",
     "definition": "-উ -U - A suffix added to roots to form adjectives (Suffix) সং. -উক, V. খাঙু।"
+  },
+  {
+    "word": "-উই",
+    "pos": "verb",
+    "definition": "-উই (মা.) -Ui - To be (V.) সং. -ভব; e.g. উইছে (= অ'ছে)।"
+  },
+  {
+    "word": "-Ui",
+    "pos": "verb",
+    "definition": "-উই (মা.) -Ui - To be (V.) সং. -ভব; e.g. উইছে (= অ'ছে)।"
+  },
+  {
+    "word": "-উই",
+    "pos": "noun",
+    "definition": "-উই -Ui - Rivet (N.) মে. হুই।"
+  },
+  {
+    "word": "Ui",
+    "pos": "noun",
+    "definition": "-উই -Ui - Rivet (N.) মে. হুই।"
+  },
+  {
+    "word": "-উইনা",
+    "pos": "noun",
+    "definition": "-উইনা (মা.) -Uinā - Being (N.) উই- + -না।"
+  },
+  {
+    "word": "-Uinā",
+    "pos": "noun",
+    "definition": "-উইনা (মা.) -Uinā - Being (N.) উই- + -না।"
+  },
+  {
+    "word": "উইনাই",
+    "pos": "noun",
+    "definition": "উইনাই Uināi - Remainings of food (N.) মে. ঔননাই = servant given as dowry, semantic change."
+  },
+  {
+    "word": "Uināi",
+    "pos": "noun",
+    "definition": "উইনাই Uināi - Remainings of food (N.) মে. ঔননাই = servant given as dowry, semantic change."
+  },
+  {
+    "word": "উকট",
+    "pos": "noun",
+    "definition": "উকট Ukat - A pole used to stir straw for separating paddy (N.) মে. উ (< ৱা) + খোতপা; Syl. Beng. উকট, cf. সং, *উৎকৃত।"
+  },
+  {
+    "word": "Ukat",
+    "pos": "noun",
+    "definition": "উকট Ukat - A pole used to stir straw for separating paddy (N.) মে. উ (< ৱা) + খোতপা; Syl. Beng. উকট, cf. সং, *উৎকৃত।"
+  },
+  {
+    "word": "উকা",
+    "pos": "-",
+    "definition": "উকa Ukā - A suffix added to nouns or adjectives to indicate 'likeness' (Suffix) সং. *মুখক., e.g. আন্দুকা পানুকা।"
+  },
+  {
+    "word": "Ukā",
+    "pos": "-",
+    "definition": "উকa Ukā - A suffix added to nouns or adjectives to indicate 'likeness' (Suffix) সং. *মুখক., e.g. আন্দুকা পানুকা।"
+  },
+  {
+    "word": "-উকা",
+    "pos": "noun",
+    "definition": "-উকা -Ukā - The Y-shaped part of a plough to which poles are fitted (N.) মে. উ = bamboo + কাপা; = to ascend."
+  },
+  {
+    "word": "-Ukā-",
+    "pos": "noun",
+    "definition": "-উকা -Ukā - The Y-shaped part of a plough to which poles are fitted (N.) মে. উ = bamboo + কাপা; = to ascend."
+  },
+  {
+    "word": "উকাপী",
+    "pos": "noun",
+    "definition": "উকাপী Ukåpi - A kind of fish (N.) মে. উকাপী।"
+  },
+  {
+    "word": "Ukåpi",
+    "pos": "noun",
+    "definition": "উকাপী Ukåpi - A kind of fish (N.) মে. উকাপী।"
+  },
+  {
+    "word": "উকার",
+    "pos": "noun",
+    "definition": "উকার Ukär - A small shed usually with a high platform, made on the paddy-field and meant for the night-guard (N.) সং. *উদ্-আগার; cf. Syl. Beng. = উকার।"
+  },
+  {
+    "word": "Ukär",
+    "pos": "noun",
+    "definition": "উকার Ukär - A small shed usually with a high platform, made on the paddy-field and meant for the night-guard (N.) সং. *উদ্-আগার; cf. Syl. Beng. = উকার।"
+  },
+  {
+    "word": "উকালতি",
+    "pos": "noun",
+    "definition": "উকালতি Ukālati - Pleadership (N.) পা. -আ = ৱকালত + BM. -ই।"
+  },
+  {
+    "word": "Ukālati",
+    "pos": "noun",
+    "definition": "উকালতি Ukālati - Pleadership (N.) পা. -আ = ৱকালত + BM. -ই।"
+  },
+  {
+    "word": "উকীল",
+    "pos": "noun",
+    "definition": "উকীল Ukil - Pleader (N.) পা. -আ. -ৱকীল।"
+  },
+  {
+    "word": "Ukil",
+    "pos": "noun",
+    "definition": "উকীল Ukil - Pleader (N.) পা. -আ. -ৱকীল।"
+  },
+  {
+    "word": "উকেই",
+    "pos": "noun",
+    "definition": "উকেই Ukei - Harrow (N.) মে. উকাই।"
+  },
+  {
+    "word": "Ukei",
+    "pos": "noun",
+    "definition": "উকেই Ukei - Harrow (N.) মে. উকাই।"
+  },
+  {
+    "word": "উখত",
+    "pos": "-",
+    "definition": "উখত (মা.) Ukhat - V. উকট।"
+  },
+  {
+    "word": "Ukhat",
+    "pos": "-",
+    "definition": "উখত (মা.) Ukhat - V. উকট।"
+  },
+  {
+    "word": "উখাল",
+    "pos": "-",
+    "definition": "উখাল Ukhal - V. য়ুহাল।"
+  },
+  {
+    "word": "Ukhal",
+    "pos": "-",
+    "definition": "উখাল Ukhal - V. য়ুহাল।"
+  },
+  {
+    "word": "উগার",
+    "pos": "noun",
+    "definition": "উগার Ugår - Belching (N.) সং. উদ্‌ার।"
+  },
+  {
+    "word": "Ugår",
+    "pos": "noun",
+    "definition": "উগার Ugår - Belching (N.) সং. উদ্‌ার।"
+  },
+  {
+    "word": "উগারা",
+    "pos": "verb",
+    "definition": "উগারা Ugārā - To belch, to express (V.) Denom. from above."
+  },
+  {
+    "word": "Ugārā",
+    "pos": "verb",
+    "definition": "উগারা Ugārā - To belch, to express (V.) Denom. from above."
+  },
+  {
+    "word": "উগারানি",
+    "pos": "noun",
+    "definition": "উগারানি Ugârâni - Belching, expressing (N.) উগারা- + -আনি।"
+  },
+  {
+    "word": "Ugârâni",
+    "pos": "noun",
+    "definition": "উগারানি Ugârâni - Belching, expressing (N.) উগারা- + -আনি।"
+  },
+  {
+    "word": "উঙ",
+    "pos": "adjective",
+    "definition": "উঙ Un - Perplexed (Adj.) মে. উঙপা।"
+  },
+  {
+    "word": "Un",
+    "pos": "adjective",
+    "definition": "উঙ Un - Perplexed (Adj.) মে. উঙপা।"
+  },
+  {
+    "word": "উঙপা",
+    "pos": "adjective",
+    "definition": "উঙপা Unpä - Perplexed (Adj.) V. above."
+  },
+  {
+    "word": "Unpä",
+    "pos": "adjective",
+    "definition": "উঙপা Unpä - Perplexed (Adj.) V. above."
+  },
+  {
+    "word": "উঙখাত",
+    "pos": "noun",
+    "definition": "উঙখাত Ungkhät - Perplexity (N.) মে. উঙখতপা।"
+  },
+  {
+    "word": "Ungkhät",
+    "pos": "noun",
+    "definition": "উঙখাত Ungkhät - Perplexity (N.) মে. উঙখতপা।"
+  },
+  {
+    "word": "উঙ্গা",
+    "pos": "verb",
+    "definition": "উঙ্গা Unga - To doze, to nod (V.) সং. অঙ্গ, denom."
+  },
+  {
+    "word": "Unga",
+    "pos": "verb",
+    "definition": "উঙ্গা Unga - To doze, to nod (V.) সং. অঙ্গ, denom."
+  },
+  {
+    "word": "উঙ্গানি",
+    "pos": "noun",
+    "definition": "উঙ্গানি Ungäni - Nodding (N.) উঙ্গা- + -আনি।"
+  },
+  {
+    "word": "Ungäni",
+    "pos": "noun",
+    "definition": "উঙ্গানি Ungäni - Nodding (N.) উঙ্গা- + -আনি।"
+  },
+  {
+    "word": "উচ",
+    "pos": "adjective",
+    "definition": "উচ Uc - High (Adj.) সং. উচ্চ।"
+  },
+  {
+    "word": "Uc",
+    "pos": "adjective",
+    "definition": "উচ Uc - High (Adj.) সং. উচ্চ।"
+  },
+  {
+    "word": "উচান",
+    "pos": "-",
+    "definition": "উচান (মা.) Ucān - V. উশাল।"
+  },
+  {
+    "word": "Ucān",
+    "pos": "-",
+    "definition": "উচান (মা.) Ucān - V. উশাল।"
+  },
+  {
+    "word": "উচিত",
+    "pos": "adjective",
+    "definition": "উচিত Ucit - Just, proper, reasonable (Adj.) সং.।"
+  },
+  {
+    "word": "Ucit",
+    "pos": "adjective",
+    "definition": "উচিত Ucit - Just, proper, reasonable (Adj.) সং.।"
+  },
+  {
+    "word": "উচিতদুমা",
+    "pos": "adverb",
+    "definition": "উচিতদুমা (মা.) Ucitdumă - Proportionately, befitting (Adv.) সং. উচিত + মে. থোকনা।"
+  },
+  {
+    "word": "Ucitdumă",
+    "pos": "adverb",
+    "definition": "উচিতদুমা (মা.) Ucitdumă - Proportionately, befitting (Adv.) সং. উচিত + মে. থোকনা।"
+  },
+  {
+    "word": "উচিল",
+    "pos": "-",
+    "definition": "উচিল (মা.) Ucil - V. উশিল।"
+  },
+  {
+    "word": "Ucil",
+    "pos": "-",
+    "definition": "উচিল (মা.) Ucil - V. উশিল।"
+  },
+  {
+    "word": "উচুক",
+    "pos": "noun",
+    "definition": "উচুক Ucuk - Spigot, post (N.) মে.।"
+  },
+  {
+    "word": "Ucuk",
+    "pos": "noun",
+    "definition": "উচুক Ucuk - Spigot, post (N.) মে.।"
+  },
+  {
+    "word": "উচুপ",
+    "pos": "noun",
+    "definition": "উচুপ Ucup - Peg (N.) মে.।"
+  },
+  {
+    "word": "Ucup",
+    "pos": "noun",
+    "definition": "উচুপ Ucup - Peg (N.) মে.।"
+  },
+  {
+    "word": "উচেপ",
+    "pos": "noun",
+    "definition": "উচেপ Ucep - A piece of wood or bamboo used for tightening something (N.) মে.।"
+  },
+  {
+    "word": "Ucep",
+    "pos": "noun",
+    "definition": "উচেপ Ucep - A piece of wood or bamboo used for tightening something (N.) মে.।"
+  },
+  {
+    "word": "উচেল",
+    "pos": "noun",
+    "definition": "উচেল Ucel - A frame of wood or bamboo (N.) মে.।"
+  },
+  {
+    "word": "Ucel",
+    "pos": "noun",
+    "definition": "উচেল Ucel - A frame of wood or bamboo (N.) মে.।"
+  },
+  {
+    "word": "উচ্চারণ",
+    "pos": "noun",
+    "definition": "উচ্চারণ Uccăran- - Pronunciation (N.) সং.।"
+  },
+  {
+    "word": "Uccăran-",
+    "pos": "noun",
+    "definition": "উচ্চারণ Uccăran- - Pronunciation (N.) সং.।"
+  },
+  {
+    "word": "উচ্চিল-নাচ্চিল",
+    "pos": "adjective",
+    "definition": "উচ্চিল-নাচ্চিল Uccil-näccil - Narrow (Adj.) মে.।"
+  },
+  {
+    "word": "Uccil-näccil",
+    "pos": "adjective",
+    "definition": "উচ্চিল-নাচ্চিল Uccil-näccil - Narrow (Adj.) মে.।"
+  },
+  {
+    "word": "উচ্চেল",
+    "pos": "noun",
+    "definition": "উচ্চেল Uccel- - Suitability (N.) মে. উপ্সা + চলপা।"
+  },
+  {
+    "word": "Uccel-",
+    "pos": "noun",
+    "definition": "উচ্চেল Uccel- - Suitability (N.) মে. উপ্সা + চলপা।"
+  },
+  {
+    "word": "উচ্ছপ",
+    "pos": "noun",
+    "definition": "উচ্ছপ Ucchap - Festival (N.) সং, উৎসব।"
+  },
+  {
+    "word": "Ucchap",
+    "pos": "noun",
+    "definition": "উচ্ছপ Ucchap - Festival (N.) সং, উৎসব।"
+  },
+  {
+    "word": "উচ্ছেদ",
+    "pos": "noun",
+    "definition": "উচ্ছেদ Ucched- - Eradication, ejectment (N.) সং.।"
+  },
+  {
+    "word": "Ucched-",
+    "pos": "noun",
+    "definition": "উচ্ছেদ Ucched- - Eradication, ejectment (N.) সং.।"
+  },
+  {
+    "word": "উছ",
+    "pos": "verb",
+    "definition": "উছ U'ch - To brush off (as grass) (V.) সং. উচ্ছেদ।"
+  },
+  {
+    "word": "U'ch",
+    "pos": "verb",
+    "definition": "উছ U'ch - To brush off (as grass) (V.) সং. উচ্ছেদ।"
+  },
+  {
+    "word": "উছক-জঙ্গল",
+    "pos": "noun",
+    "definition": "উছক-জঙ্গল Uchak-jangal - Deep forest (N.) সং, *বৃক্ষক; sec. el. V. জঙ্গল।"
+  },
+  {
+    "word": "Uchak-jangal",
+    "pos": "noun",
+    "definition": "উছক-জঙ্গল Uchak-jangal - Deep forest (N.) সং, *বৃক্ষক; sec. el. V. জঙ্গল।"
+  },
+  {
+    "word": "উ'ছানি",
+    "pos": "noun",
+    "definition": "উ'ছানি U'chăni - Brushing off (as grass) (N.) উছ- + -আনি।"
+  },
+  {
+    "word": "U'chăni",
+    "pos": "noun",
+    "definition": "উ'ছানি U'chăni - Brushing off (as grass) (N.) উছ- + -আনি।"
+  },
+  {
+    "word": "উছালা",
+    "pos": "verb",
+    "definition": "উছালা Uchālā - To provoke, to gush up (V.) সং. উচ্ছল, denom."
+  },
+  {
+    "word": "Uchālā",
+    "pos": "verb",
+    "definition": "উছালা Uchālā - To provoke, to gush up (V.) সং. উচ্ছল, denom."
+  },
+  {
+    "word": "উছালানি",
+    "pos": "noun",
+    "definition": "উছালানি Uchälāni - Provoking (N.) উছালা- + -আনি।"
+  },
+  {
+    "word": "Uchälāni",
+    "pos": "noun",
+    "definition": "উছালানি Uchälāni - Provoking (N.) উছালা- + -আনি।"
+  },
+  {
+    "word": "উছি",
+    "pos": "noun",
+    "definition": "উছি Uchi - Remains of food (N.) সং. উচ্ছিষ্ট। -র পাত = a leaf with remains of food."
+  },
+  {
+    "word": "Uchi",
+    "pos": "noun",
+    "definition": "উছি Uchi - Remains of food (N.) সং. উচ্ছিষ্ট। -র পাত = a leaf with remains of food."
+  },
+  {
+    "word": "উছিল",
+    "pos": "verb",
+    "definition": "উছিল (মা.) Uchil - To wrench (V.) সং. উচ্ছিল denom."
+  },
+  {
+    "word": "Uchil",
+    "pos": "verb",
+    "definition": "উছিল (মা.) Uchil - To wrench (V.) সং. উচ্ছিল denom."
+  },
+  {
+    "word": "উছিলানি",
+    "pos": "noun",
+    "definition": "উছিলানি Uchilāni - Wrenching (N.) উছিল- + -আনি।"
+  },
+  {
+    "word": "Uchilāni",
+    "pos": "noun",
+    "definition": "উছিলানি Uchilāni - Wrenching (N.) উছিল- + -আনি।"
+  },
+  {
+    "word": "উ'ছুৱা",
+    "pos": "verb",
+    "definition": "উ'ছুৱা U'chuwa - Caus. of উ'ছ- (V.)"
+  },
+  {
+    "word": "U'chuwa",
+    "pos": "verb",
+    "definition": "উ'ছুৱা U'chuwa - Caus. of উ'ছ- (V.)"
+  },
+  {
+    "word": "উছটা",
+    "pos": "noun",
+    "definition": "উছটা Uchtā - Stumbling (N.) সং. উৎসর্তক; Beng. হোঁচট।"
+  },
+  {
+    "word": "Uchtā",
+    "pos": "noun",
+    "definition": "উছটা Uchtā - Stumbling (N.) সং. উৎসর্তক; Beng. হোঁচট।"
+  },
+  {
+    "word": "উছটা",
+    "pos": "verb",
+    "definition": "উছটা Uchtā - To kick (V.) Denom. fr. above."
+  },
+  {
+    "word": "Uchtā",
+    "pos": "verb",
+    "definition": "উছটা Uchtā - To kick (V.) Denom. fr. above."
+  },
+  {
+    "word": "উছটানি",
+    "pos": "noun",
+    "definition": "উছটানি Uchtâni - Kicking (N.) উছটা- + -আনি।"
+  },
+  {
+    "word": "Uchtâni",
+    "pos": "noun",
+    "definition": "উছটানি Uchtâni - Kicking (N.) উছটা- + -আনি।"
+  },
+  {
+    "word": "উজন",
+    "pos": "noun",
+    "definition": "উজন Ujan - Weight (N.) পা. বজন।"
+  },
+  {
+    "word": "Ujan",
+    "pos": "noun",
+    "definition": "উজন Ujan - Weight (N.) পা. বজন।"
+  },
+  {
+    "word": "উজা",
+    "pos": "verb",
+    "definition": "উজা Ujā - To go up-stream (V.) সং. উৎ-যা-।"
+  },
+  {
+    "word": "Ujā",
+    "pos": "verb",
+    "definition": "উজা Ujā - To go up-stream (V.) সং. উৎ-যা-।"
+  },
+  {
+    "word": "উজাউজি",
+    "pos": "noun",
+    "definition": "উজাউজি Uhäuji - The act of arguing with arrogance (N.) Recipr. fr. above."
+  },
+  {
+    "word": "Uhäuji",
+    "pos": "noun",
+    "definition": "উজাউজি Uhäuji - The act of arguing with arrogance (N.) Recipr. fr. above."
+  },
+  {
+    "word": "উজান",
+    "pos": "noun",
+    "definition": "উজান Ujän - Upstream (N.) সং. উৎযান।"
+  },
+  {
+    "word": "Ujän",
+    "pos": "noun",
+    "definition": "উজান Ujän - Upstream (N.) সং. উৎযান।"
+  },
+  {
+    "word": "উজানি",
+    "pos": "noun",
+    "definition": "উজানি Ujäni - Upstream (N.) সং. *উৎযানিক।"
+  },
+  {
+    "word": "Ujäni",
+    "pos": "noun",
+    "definition": "উজানি Ujäni - Upstream (N.) সং. *উৎযানিক।"
+  },
+  {
+    "word": "উজানি",
+    "pos": "noun",
+    "definition": "উজানি Ujäni - Going upstream (N.) উজা- + -আনি।"
+  },
+  {
+    "word": "Ujäni",
+    "pos": "noun",
+    "definition": "উজানি Ujäni - Going upstream (N.) উজা- + -আনি।"
+  },
+  {
+    "word": "উজুর",
+    "pos": "verb",
+    "definition": "উজুর Ujur - To wrench, to insult severely (V.) Echo-word of মুজুর-।"
+  },
+  {
+    "word": "Ujur",
+    "pos": "verb",
+    "definition": "উজুর Ujur - To wrench, to insult severely (V.) Echo-word of মুজুর-।"
+  },
+  {
+    "word": "উজুরে-মুজুরে",
+    "pos": "adjective",
+    "definition": "উজুরে-মুজুরে Ujure mujure - Insulting with unbearable words (Adj.)"
+  },
+  {
+    "word": "Ujure mujure",
+    "pos": "adjective",
+    "definition": "উজুরে-মুজুরে Ujure mujure - Insulting with unbearable words (Adj.)"
+  },
+  {
+    "word": "উজ্জ্ব",
+    "pos": "verb",
+    "definition": "উজ্জ্ব Ujj - 1. To be present, 2. To be produced, 3. To be compensated (V.) সং. উপজায়- or উৎপদ্য-।"
+  },
+  {
+    "word": "Ujj",
+    "pos": "verb",
+    "definition": "উজ্জ্ব Ujj - 1. To be present, 2. To be produced, 3. To be compensated (V.) সং. উপজায়- or উৎপদ্য-।"
+  },
+  {
+    "word": "উজ্জা",
+    "pos": "verb",
+    "definition": "উজ্জা Ujja - 1. To bring forward, 2. To produce, 3. To compensate (V.) Caus. fr. above."
+  },
+  {
+    "word": "Ujja",
+    "pos": "verb",
+    "definition": "উজ্জা Ujja - 1. To bring forward, 2. To produce, 3. To compensate (V.) Caus. fr. above."
+  },
+  {
+    "word": "উজ্জানি",
+    "pos": "noun",
+    "definition": "উজ্জানি Ujjäni - 1. Being present, produced or compensated 2. Bringing forward, producing, compensating (N.) 1. উজ্জ্ব- + -আনি; 2. উজ্জা- + -আনি।"
+  },
+  {
+    "word": "Ujjäni",
+    "pos": "noun",
+    "definition": "উজ্জানি Ujjäni - 1. Being present, produced or compensated 2. Bringing forward, producing, compensating (N.) 1. উজ্জ্ব- + -আনি; 2. উজ্জা- + -আনি।"
+  },
+  {
+    "word": "উজ্জার",
+    "pos": "adjective",
+    "definition": "উজ্জার Ujjār - Empty, exhausted, desolate (Adj.) সং. উৎ-জাট।"
+  },
+  {
+    "word": "Ujjār",
+    "pos": "adjective",
+    "definition": "উজ্জার Ujjār - Empty, exhausted, desolate (Adj.) সং. উৎ-জাট।"
+  },
+  {
+    "word": "উজ্জ্ব",
+    "pos": "adjective",
+    "definition": "উজ্জ্ব Ujju - Straight (Adj.) সং. ঋজু।"
+  },
+  {
+    "word": "Ujju",
+    "pos": "adjective",
+    "definition": "উজ্জ্ব Ujju - Straight (Adj.) সং. ঋজু।"
+  },
+  {
+    "word": "উজ্জ্বল",
+    "pos": "adjective",
+    "definition": "উজ্জ্বল Ujjval - Bright, shining (Adj.) সং.।"
+  },
+  {
+    "word": "Ujjval",
+    "pos": "adjective",
+    "definition": "উজ্জ্বল Ujjval - Bright, shining (Adj.) সং.।"
+  },
+  {
+    "word": "উট",
+    "pos": "noun",
+    "definition": "উট Ut - Camel (N.) সং. উষ্টু।"
+  },
+  {
+    "word": "Ut",
+    "pos": "noun",
+    "definition": "উট Ut - Camel (N.) সং. উষ্টু।"
+  },
+  {
+    "word": "উট",
+    "pos": "verb",
+    "definition": "উট Ut - To stir (as food) (V.) সং. উপর্যস্ত, denom. MIA, উল্লেট; cf. আবর্ত। Sec. el. echo-word."
+  },
+  {
+    "word": "Ut",
+    "pos": "verb",
+    "definition": "উট Ut - To stir (as food) (V.) সং. উপর্যস্ত, denom. MIA, উল্লেট; cf. আবর্ত। Sec. el. echo-word."
+  },
+  {
+    "word": "উটানি",
+    "pos": "noun",
+    "definition": "উটানি Utäni- - Stirring (N.) উট্- + -আনি।"
+  },
+  {
+    "word": "Utäni-",
+    "pos": "noun",
+    "definition": "উটানি Utäni- - Stirring (N.) উট্- + -আনি।"
+  },
+  {
+    "word": "-উটি",
+    "pos": "-",
+    "definition": "-উটি -Uti - Phonetic change of -অটি (Suffix)"
+  },
+  {
+    "word": "-Uti",
+    "pos": "-",
+    "definition": "-উটি -Uti - Phonetic change of -অটি (Suffix)"
+  },
+  {
+    "word": "উটপাট",
+    "pos": "noun",
+    "definition": "উটপাট Utpåt - Violence, destruction (N.) সং. উৎপাৎ।"
+  },
+  {
+    "word": "Utpåt",
+    "pos": "noun",
+    "definition": "উটপাট Utpåt - Violence, destruction (N.) সং. উৎপাৎ।"
+  },
+  {
+    "word": "উঠ",
+    "pos": "verb",
+    "definition": "উঠ Uth - To rise, to get up (V.) সং. উৎ-স্থা, MIA উা।"
+  },
+  {
+    "word": "Uth",
+    "pos": "verb",
+    "definition": "উঠ Uth - To rise, to get up (V.) সং. উৎ-স্থা, MIA উা।"
+  },
+  {
+    "word": "উঠ",
+    "pos": "verb",
+    "definition": "উঠ Utha - To rise (V.) Caus. of উঠ-; সং. উৎস্থাপয়-।"
+  },
+  {
+    "word": "Utha",
+    "pos": "verb",
+    "definition": "উঠ Utha - To rise (V.) Caus. of উঠ-; সং. উৎস্থাপয়-।"
+  },
+  {
+    "word": "উঠান",
+    "pos": "noun",
+    "definition": "উঠান Uthản - Yard, courtyard (N.) সং. উৎস্থান।"
+  },
+  {
+    "word": "Uthản",
+    "pos": "noun",
+    "definition": "উঠান Uthản - Yard, courtyard (N.) সং. উৎস্থান।"
+  },
+  {
+    "word": "উঠানি",
+    "pos": "noun",
+    "definition": "উঠানি Uthani - 1. Rising; 2. Raising (N.) 1. উঠ- + -আনি, 2. উঠা- + -আনি।"
+  },
+  {
+    "word": "Uthani",
+    "pos": "noun",
+    "definition": "উঠানি Uthani - 1. Rising; 2. Raising (N.) 1. উঠ- + -আনি, 2. উঠা- + -আনি।"
+  },
+  {
+    "word": "উঠুনি",
+    "pos": "adjective",
+    "definition": "উঠুনি Uthuni - In the stage of increasing or growing (Adj.) উঠ- + -উনি।"
+  },
+  {
+    "word": "Uthuni",
+    "pos": "adjective",
+    "definition": "উঠুনি Uthuni - In the stage of increasing or growing (Adj.) উঠ- + -উনি।"
+  },
+  {
+    "word": "উৎ",
+    "pos": "noun",
+    "definition": "উৎ Ut- - Otter (N.) সং. উদ্র।"
+  },
+  {
+    "word": "Ut-",
+    "pos": "noun",
+    "definition": "উৎ Ut- - Otter (N.) সং. উদ্র।"
+  },
+  {
+    "word": "উতাপ",
+    "pos": "noun",
+    "definition": "উতাপ Utāp - A piece of wood used for fitting something (N.) মে.।"
+  },
+  {
+    "word": "Utāp",
+    "pos": "noun",
+    "definition": "উতাপ Utāp - A piece of wood used for fitting something (N.) মে.।"
+  },
+  {
+    "word": "উতারা",
+    "pos": "verb",
+    "definition": "উতারা Utārā - To speak, to express (V.) সং. অবতার denom."
+  },
+  {
+    "word": "Utārā",
+    "pos": "verb",
+    "definition": "উতারা Utārā - To speak, to express (V.) সং. অবতার denom."
+  },
+  {
+    "word": "উতারানি",
+    "pos": "noun",
+    "definition": "উতারানি Utārāni - Speaking, expressing (N.) উতারা- + -আনি।"
+  },
+  {
+    "word": "Utārāni",
+    "pos": "noun",
+    "definition": "উতারানি Utārāni - Speaking, expressing (N.) উতারা- + -আনি।"
+  },
+  {
+    "word": "উতুপ",
+    "pos": "noun",
+    "definition": "উতুপ Utup - Log (N.) মে.।"
+  },
+  {
+    "word": "Utup",
+    "pos": "noun",
+    "definition": "উতুপ Utup - Log (N.) মে.।"
+  },
+  {
+    "word": "উতোঙ",
+    "pos": "-",
+    "definition": "উতোঙ (মা.) Uton - V. উটঙ।"
+  },
+  {
+    "word": "Uton",
+    "pos": "-",
+    "definition": "উতোঙ (মা.) Uton - V. উটঙ।"
+  },
+  {
+    "word": "উৎখারি",
+    "pos": "adjective",
+    "definition": "উৎখারি Utkhāri - Destitute, utterly poor (Adj.) সং. *উৎখাতিত।"
+  },
+  {
+    "word": "Utkhāri",
+    "pos": "adjective",
+    "definition": "উৎখারি Utkhāri - Destitute, utterly poor (Adj.) সং. *উৎখাতিত।"
+  },
+  {
+    "word": "উত্তর",
+    "pos": "noun",
+    "definition": "উত্তর Uttar - Reply (N.) সং.।"
+  },
+  {
+    "word": "Uttar",
+    "pos": "noun",
+    "definition": "উত্তর Uttar - Reply (N.) সং.।"
+  },
+  {
+    "word": "উত্থাপন",
+    "pos": "noun",
+    "definition": "উত্থাপন Utthäpan - Proposal (N.) সং.।"
+  },
+  {
+    "word": "Utthäpan",
+    "pos": "noun",
+    "definition": "উত্থাপন Utthäpan - Proposal (N.) সং.।"
+  },
+  {
+    "word": "উত্থারি",
+    "pos": "-",
+    "definition": "উত্থারি Utthäri - V. উৎখারি।"
+  },
+  {
+    "word": "Utthäri",
+    "pos": "-",
+    "definition": "উত্থারি Utthäri - V. উৎখারি।"
+  },
+  {
+    "word": "উথুল",
+    "pos": "noun",
+    "definition": "উথুল Utthul - Dust (N.) মে. উৎফুল।"
+  },
+  {
+    "word": "Utthul",
+    "pos": "noun",
+    "definition": "উথুল Utthul - Dust (N.) মে. উৎফুল।"
+  },
+  {
+    "word": "উৎপন্ন",
+    "pos": "noun",
+    "definition": "উৎপন্ন Utpanna - 1. Production, 2. Profit (N.) সং.।"
+  },
+  {
+    "word": "Utpanna",
+    "pos": "noun",
+    "definition": "উৎপন্ন Utpanna - 1. Production, 2. Profit (N.) সং.।"
+  },
+  {
+    "word": "উৎফেৎ-নাংফেৎ",
+    "pos": "adverb",
+    "definition": "উৎফেৎ-নাংফেৎ (মা.) Utphet-nātphet - This way and that way (Adv.) মে. = উৎপা = to demonstrate + ফেৎ, Onom; Sec. el. echo-word."
+  },
+  {
+    "word": "Utphet-nātphet",
+    "pos": "adverb",
+    "definition": "উৎফেৎ-নাংফেৎ (মা.) Utphet-nātphet - This way and that way (Adv.) মে. = উৎপা = to demonstrate + ফেৎ, Onom; Sec. el. echo-word."
+  },
+  {
+    "word": "উৎসব",
+    "pos": "noun",
+    "definition": "উৎসব Utsab - Festival (N.) সং.।"
+  },
+  {
+    "word": "Utsab",
+    "pos": "noun",
+    "definition": "উৎসব Utsab - Festival (N.) সং.।"
+  },
+  {
+    "word": "উৎসাহ",
+    "pos": "noun",
+    "definition": "উৎসাহ Utsāha - Inspiration, aspiration (N.) সং.।"
+  },
+  {
+    "word": "Utsāha",
+    "pos": "noun",
+    "definition": "উৎসাহ Utsāha - Inspiration, aspiration (N.) সং.।"
+  },
+  {
+    "word": "উথ",
+    "pos": "-",
+    "definition": "উথ- (মা.) Uth - V. উঠ-।"
+  },
+  {
+    "word": "Uth",
+    "pos": "-",
+    "definition": "উথ- (মা.) Uth - V. উঠ-।"
+  },
+  {
+    "word": "উথা",
+    "pos": "-",
+    "definition": "উথা- (মা.) Uthã - V. উঠা-।"
+  },
+  {
+    "word": "Uthã",
+    "pos": "-",
+    "definition": "উথা- (মা.) Uthã - V. উঠা-।"
+  },
+  {
+    "word": "উথান",
+    "pos": "-",
+    "definition": "উথান (মা.) Uthần - V. উঠান।"
+  },
+  {
+    "word": "Uthần",
+    "pos": "-",
+    "definition": "উথান (মা.) Uthần - V. উঠান।"
+  },
+  {
+    "word": "উথানি",
+    "pos": "-",
+    "definition": "উথানি (মা.) Uthầni - V. উঠানি।"
+  },
+  {
+    "word": "Uthầni",
+    "pos": "-",
+    "definition": "উথানি (মা.) Uthầni - V. উঠানি।"
+  },
+  {
+    "word": "উথুনি",
+    "pos": "-",
+    "definition": "উথুনি (মা.) Uthuni - V. উহুনি।"
+  },
+  {
+    "word": "Uthuni",
+    "pos": "-",
+    "definition": "উথুনি (মা.) Uthuni - V. উহুনি।"
+  },
+  {
+    "word": "উথুল",
+    "pos": "-",
+    "definition": "উথুল- (মা.) Uthul - V. উহুল।"
+  },
+  {
+    "word": "Uthul",
+    "pos": "-",
+    "definition": "উথুল- (মা.) Uthul - V. উহুল।"
+  },
+  {
+    "word": "উথুলানি",
+    "pos": "-",
+    "definition": "উথুলানি (মা.) Uthulâni - V. উহুলানি।"
+  },
+  {
+    "word": "Uthulâni",
+    "pos": "-",
+    "definition": "উথুলানি (মা.) Uthulâni - V. উহুলানি।"
+  },
+  {
+    "word": "উদয়",
+    "pos": "noun",
+    "definition": "উদয় Uday - (Sudden) appearance, approach (N.) সং.।"
+  },
+  {
+    "word": "Uday",
+    "pos": "noun",
+    "definition": "উদয় Uday - (Sudden) appearance, approach (N.) সং.।"
+  },
+  {
+    "word": "উদা",
+    "pos": "-",
+    "definition": "উদা (মা.) Udā - V. উরা-।"
+  },
+  {
+    "word": "Udā",
+    "pos": "-",
+    "definition": "উদা (মা.) Udā - V. উরা-।"
+  },
+  {
+    "word": "উদাহিচি",
+    "pos": "-",
+    "definition": "উদাহিচি (মা.) Udāhici- - V. উরাহিচি।"
+  },
+  {
+    "word": "Udāhici-",
+    "pos": "-",
+    "definition": "উদাহিচি (মা.) Udāhici- - V. উরাহিচি।"
+  },
+  {
+    "word": "উদা",
+    "pos": "noun",
+    "definition": "উদা Udā - Friend (N.) সং. *হৃদ্যক।"
+  },
+  {
+    "word": "Udā",
+    "pos": "noun",
+    "definition": "উদা Udā - Friend (N.) সং. *হৃদ্যক।"
+  },
+  {
+    "word": "উদাক",
+    "pos": "noun",
+    "definition": "উদাক Udāk - Friend, related as a friend (N.) উদা + 2. অক।"
+  },
+  {
+    "word": "Udāk",
+    "pos": "noun",
+    "definition": "উদাক Udāk - Friend, related as a friend (N.) উদা + 2. অক।"
+  },
+  {
+    "word": "উদানি",
+    "pos": "-",
+    "definition": "উদানি (মা.) Udāni - V. উরানি।"
+  },
+  {
+    "word": "Udāni",
+    "pos": "-",
+    "definition": "উদানি (মা.) Udāni - V. উরানি।"
+  },
+  {
+    "word": "উদাম",
+    "pos": "noun",
+    "definition": "উদাম Udam - The time when there is no paddy in the field, and, as such, animals are set free (N.) সং. উদ্দামন।"
+  },
+  {
+    "word": "Udam",
+    "pos": "noun",
+    "definition": "উদাম Udam - The time when there is no paddy in the field, and, as such, animals are set free (N.) সং. উদ্দামন।"
+  },
+  {
+    "word": "উদামি",
+    "pos": "adjective",
+    "definition": "উদামি Udāmi - Unfettered (animal) (Adj.) উদাম + -ই।"
+  },
+  {
+    "word": "Udāmi",
+    "pos": "adjective",
+    "definition": "উদামি Udāmi - Unfettered (animal) (Adj.) উদাম + -ই।"
+  },
+  {
+    "word": "উ'দারি",
+    "pos": "noun",
+    "definition": "উ'দারি U'dāri - 1. Loan, 2. Taken as loan (N.) সং. *উদ্ধারিক।"
+  },
+  {
+    "word": "U'dāri",
+    "pos": "noun",
+    "definition": "উ'দারি U'dāri - 1. Loan, 2. Taken as loan (N.) সং. *উদ্ধারিক।"
+  },
+  {
+    "word": "উদাল",
+    "pos": "noun",
+    "definition": "উদাল Udal - A fire-place in the house, furnace (N.) সং. উদ্ধান।"
+  },
+  {
+    "word": "Udal",
+    "pos": "noun",
+    "definition": "উদাল Udal - A fire-place in the house, furnace (N.) সং. উদ্ধান।"
+  },
+  {
+    "word": "উদালা",
+    "pos": "verb",
+    "definition": "উদালা Udālā - To uproot, to pull out (V.) সং. *উদ্ববারাপয়-।"
+  },
+  {
+    "word": "Udālā",
+    "pos": "verb",
+    "definition": "উদালা Udālā - To uproot, to pull out (V.) সং. *উদ্ববারাপয়-।"
+  },
+  {
+    "word": "উদালা",
+    "pos": "adjective",
+    "definition": "উদালা Udālā - Bare, naked (Adj.) সং. *উদ্বারক, V. হুদালা।"
+  },
+  {
+    "word": "Udālā",
+    "pos": "adjective",
+    "definition": "উদালা Udālā - Bare, naked (Adj.) সং. *উদ্বারক, V. হুদালা।"
+  },
+  {
+    "word": "উদালানি",
+    "pos": "noun",
+    "definition": "উদালানি Udālāni - Uprooting, pulling out (N.) উদালা- + -আনি।"
+  },
+  {
+    "word": "Udālāni",
+    "pos": "noun",
+    "definition": "উদালানি Udālāni - Uprooting, pulling out (N.) উদালা- + -আনি।"
+  },
+  {
+    "word": "উদুবুদু",
+    "pos": "noun",
+    "definition": "উদুবুদু Udubudu - A large species of owl (N.) Onom."
+  },
+  {
+    "word": "Udubudu",
+    "pos": "noun",
+    "definition": "উদুবুদু Udubudu - A large species of owl (N.) Onom."
+  },
+  {
+    "word": "উদুম-দুদুম",
+    "pos": "noun",
+    "definition": "উদুম-দুদুম Udum-dudum - Noisy and hazy sound (N.) Onom."
+  },
+  {
+    "word": "Udum-dudum",
+    "pos": "noun",
+    "definition": "উদুম-দুদুম Udum-dudum - Noisy and hazy sound (N.) Onom."
+  },
+  {
+    "word": "উদুর",
+    "pos": "noun",
+    "definition": "উদুর Udur - Mouse (N.) সং. ইন্দুর।"
+  },
+  {
+    "word": "Udur",
+    "pos": "noun",
+    "definition": "উদুর Udur - Mouse (N.) সং. ইন্দুর।"
+  },
+  {
+    "word": "উদুল",
+    "pos": "verb",
+    "definition": "উদুল Udul - To be uprooted, to be pulled out (V.) সং. উদ্ভর, denom."
+  },
+  {
+    "word": "Udul",
+    "pos": "verb",
+    "definition": "উদুল Udul - To be uprooted, to be pulled out (V.) সং. উদ্ভর, denom."
+  },
+  {
+    "word": "উদুলানি",
+    "pos": "noun",
+    "definition": "উদুলানি Uduläni - Being uprooted (N.) উদুল- + -আনি।"
+  },
+  {
+    "word": "Uduläni",
+    "pos": "noun",
+    "definition": "উদুলানি Uduläni - Being uprooted (N.) উদুল- + -আনি।"
+  },
+  {
+    "word": "উদুখল",
+    "pos": "noun",
+    "definition": "উদুখল Udikhal - A dance-drama relating to the story of Yasodā's binding Srikrşna to a husking mortar (N.) সং.।"
+  },
+  {
+    "word": "Udikhal",
+    "pos": "noun",
+    "definition": "উদুখল Udikhal - A dance-drama relating to the story of Yasodā's binding Srikrşna to a husking mortar (N.) সং.।"
+  },
+  {
+    "word": "উদ্দা",
+    "pos": "noun",
+    "definition": "উদ্দা Uddā - Title, high position (N.) সং. উপধা = imposition."
+  },
+  {
+    "word": "Uddā",
+    "pos": "noun",
+    "definition": "উদ্দা Uddā - Title, high position (N.) সং. উপধা = imposition."
+  },
+  {
+    "word": "উদ্দাসী",
+    "pos": "adjective",
+    "definition": "উদ্দাসী Uddäsi - Penniless (Adj.) সং. উদাসীন।"
+  },
+  {
+    "word": "Uddäsi",
+    "pos": "adjective",
+    "definition": "উদ্দাসী Uddäsi - Penniless (Adj.) সং. উদাসীন।"
+  },
+  {
+    "word": "উদ্দীপন",
+    "pos": "noun",
+    "definition": "উদ্দীপন Uddipan - 1. Inspiration, 2. Hint (N.) সং.।"
+  },
+  {
+    "word": "Uddipan",
+    "pos": "noun",
+    "definition": "উদ্দীপন Uddipan - 1. Inspiration, 2. Hint (N.) সং.।"
+  },
+  {
+    "word": "উদ্দেশ্য",
+    "pos": "noun",
+    "definition": "উদ্দেশ্য Uddeśya - Purpose (N.) সং.।"
+  },
+  {
+    "word": "Uddeśya",
+    "pos": "noun",
+    "definition": "উদ্দেশ্য Uddeśya - Purpose (N.) সং.।"
+  },
+  {
+    "word": "উদ্ধার",
+    "pos": "noun",
+    "definition": "উদ্ধার Uddhăr - Rescue, liberation (N.) সং.।"
+  },
+  {
+    "word": "Uddhăr",
+    "pos": "noun",
+    "definition": "উদ্ধার Uddhăr - Rescue, liberation (N.) সং.।"
+  },
+  {
+    "word": "উনা",
+    "pos": "noun",
+    "definition": "উনা Unā - Meeting, interview (N.) মে. উনপা।"
+  },
+  {
+    "word": "Unā",
+    "pos": "noun",
+    "definition": "উনা Unā - Meeting, interview (N.) মে. উনপা।"
+  },
+  {
+    "word": "উনাক",
+    "pos": "-",
+    "definition": "উনাক (মা.) Unāk - V. অঙলাক।"
+  },
+  {
+    "word": "Unāk",
+    "pos": "-",
+    "definition": "উনাক (মা.) Unāk - V. অঙলাক।"
+  },
+  {
+    "word": "উনা",
+    "pos": "-",
+    "definition": "উনা (মা.) Unā - V. উলা।"
+  },
+  {
+    "word": "Unā",
+    "pos": "-",
+    "definition": "উনা (মা.) Unā - V. উলা।"
+  },
+  {
+    "word": "উনানি",
+    "pos": "-",
+    "definition": "উনানি (মা.) Unāni - V. উলানি।"
+  },
+  {
+    "word": "Unāni",
+    "pos": "-",
+    "definition": "উনানি (মা.) Unāni - V. উলানি।"
+  },
+  {
+    "word": "উনাম",
+    "pos": "noun",
+    "definition": "উনাম Unảm - Stamp (N.) মে. ঊনম।"
+  },
+  {
+    "word": "Unảm",
+    "pos": "noun",
+    "definition": "উনাম Unảm - Stamp (N.) মে. ঊনম।"
+  },
+  {
+    "word": "-উনি",
+    "pos": "-",
+    "definition": "-উনি 1. Uni - A suffix added to nouns (1) in the sense of 'giving mass growth of' or (2) in a pleonastic sense (Suffix) সং. *বনিক or *পালিক; V. -উলি। e.g. শন-উনি।"
+  },
+  {
+    "word": "Uni",
+    "pos": "-",
+    "definition": "-উনি 1. Uni - A suffix added to nouns (1) in the sense of 'giving mass growth of' or (2) in a pleonastic sense (Suffix) সং. *বনিক or *পালিক; V. -উলি। e.g. শন-উনি।"
+  },
+  {
+    "word": "-উনি",
+    "pos": "-",
+    "definition": "-উনি 2. Uni - Phonetic change from অনি (Suffix) সং. *অনিক; e.g. খাটুনি, ছাকুনি।"
+  },
+  {
+    "word": "Uni",
+    "pos": "-",
+    "definition": "-উনি 2. Uni - Phonetic change from অনি (Suffix) সং. *অনিক; e.g. খাটুনি, ছাকুনি।"
+  },
+  {
+    "word": "উনি",
+    "pos": "-",
+    "definition": "উনি Uni - V. ঔনি।"
+  },
+  {
+    "word": "Uni",
+    "pos": "-",
+    "definition": "উনি Uni - V. ঔনি।"
+  },
+  {
+    "word": "উ'নৌ",
+    "pos": "noun",
+    "definition": "উ'নৌ U'nau - Young plant or grass (N.) মে. উনৌ, Sec. el. cf. সং, নব।"
+  },
+  {
+    "word": "U'nau",
+    "pos": "noun",
+    "definition": "উ'নৌ U'nau - Young plant or grass (N.) মে. উনৌ, Sec. el. cf. সং, নব।"
+  },
+  {
+    "word": "উন্দুর",
+    "pos": "noun",
+    "definition": "উন্দুর Undur - Mouse (N.) -খৌরা = a kind of snake (lit. mouse-eater)."
+  },
+  {
+    "word": "Undur",
+    "pos": "noun",
+    "definition": "উন্দুর Undur - Mouse (N.) -খৌরা = a kind of snake (lit. mouse-eater)."
+  },
+  {
+    "word": "উন্দুরা",
+    "pos": "noun",
+    "definition": "উন্দুরা Undurā - A cancerous disease (N.) সং. *ইন্দুরক।"
+  },
+  {
+    "word": "Undurā",
+    "pos": "noun",
+    "definition": "উন্দুরা Undurā - A cancerous disease (N.) সং. *ইন্দুরক।"
+  },
+  {
+    "word": "উন্নতি",
+    "pos": "noun",
+    "definition": "উন্নতি Unnati - Improvement, progress (N.) সং.।"
+  },
+  {
+    "word": "Unnati",
+    "pos": "noun",
+    "definition": "উন্নতি Unnati - Improvement, progress (N.) সং.।"
+  },
+  {
+    "word": "উপ",
+    "pos": "noun",
+    "definition": "উপ Upa - The act of understanding (N., Adj.) মে. উপ্সা। -অনি = understanding (N.)"
+  },
+  {
+    "word": "Upa",
+    "pos": "noun",
+    "definition": "উপ Upa - The act of understanding (N., Adj.) মে. উপ্সা। -অনি = understanding (N.)"
+  },
+  {
+    "word": "উপকার",
+    "pos": "noun",
+    "definition": "উপকার Upakar - Benefit, good service (N.) সং.।"
+  },
+  {
+    "word": "Upakar",
+    "pos": "noun",
+    "definition": "উপকার Upakar - Benefit, good service (N.) সং.।"
+  },
+  {
+    "word": "উপদেশ",
+    "pos": "noun",
+    "definition": "উপদেশ Upadeś - Advice (N.) সং.।"
+  },
+  {
+    "word": "Upadeś",
+    "pos": "noun",
+    "definition": "উপদেশ Upadeś - Advice (N.) সং.।"
+  },
+  {
+    "word": "উপদ্রব",
+    "pos": "noun",
+    "definition": "উপদ্রব Upadrab - Disturbance (N.) সং.।"
+  },
+  {
+    "word": "Upadrab",
+    "pos": "noun",
+    "definition": "উপদ্রব Upadrab - Disturbance (N.) সং.।"
+  },
+  {
+    "word": "উপবাস",
+    "pos": "noun",
+    "definition": "উপবাস Upabās - Fasting (N.) সং.।"
+  },
+  {
+    "word": "Upabās",
+    "pos": "noun",
+    "definition": "উপবাস Upabās - Fasting (N.) সং.।"
+  },
+  {
+    "word": "উপমা",
+    "pos": "noun",
+    "definition": "উপমা Upamă - Simile, comparison (N.) সং.।"
+  },
+  {
+    "word": "Upamă",
+    "pos": "noun",
+    "definition": "উপমা Upamă - Simile, comparison (N.) সং.।"
+  },
+  {
+    "word": "উপযুক্ত",
+    "pos": "adjective",
+    "definition": "উপযুক্ত Upajukta - Suitable, worthy (Adj.) সং.।"
+  },
+  {
+    "word": "Upajukta",
+    "pos": "adjective",
+    "definition": "উপযুক্ত Upajukta - Suitable, worthy (Adj.) সং.।"
+  },
+  {
+    "word": "উপর",
+    "pos": "adverb",
+    "definition": "উপর Upar - Above, in addition to (Adv.) সং.।"
+  },
+  {
+    "word": "Upar",
+    "pos": "adverb",
+    "definition": "উপর Upar - Above, in addition to (Adv.) সং.।"
+  },
+  {
+    "word": "উপরতি",
+    "pos": "noun",
+    "definition": "উপরতি Uparti - Additional, profit (N.) সং. উপর + *বৃত্তিক।"
+  },
+  {
+    "word": "Uparti",
+    "pos": "noun",
+    "definition": "উপরতি Uparti - Additional, profit (N.) সং. উপর + *বৃত্তিক।"
+  },
+  {
+    "word": "উপরি",
+    "pos": "adjective",
+    "definition": "উপরি Upari - (1) Additional, (2) Relating to the surface (Adj.) উপর + -"
+  },
+  {
+    "word": "Upari",
+    "pos": "adjective",
+    "definition": "উপরি Upari - (1) Additional, (2) Relating to the surface (Adj.) উপর + -"
+  },
+  {
+    "word": "উপলাভ",
+    "pos": "noun",
+    "definition": "উপলাভ Uplābha - An ornamental episode (N.) সং. (semantic change)।"
+  },
+  {
+    "word": "Uplābha",
+    "pos": "noun",
+    "definition": "উপলাভ Uplābha - An ornamental episode (N.) সং. (semantic change)।"
+  },
+  {
+    "word": "উপহার",
+    "pos": "noun",
+    "definition": "উপহার Upahār - Prize (N.) সং.।"
+  },
+  {
+    "word": "Upahār",
+    "pos": "noun",
+    "definition": "উপহার Upahār - Prize (N.) সং.।"
+  },
+  {
+    "word": "উপাক",
+    "pos": "noun",
+    "definition": "উপাক Upāk - Plank (N.) মে. উপাক।"
+  },
+  {
+    "word": "Upāk",
+    "pos": "noun",
+    "definition": "উপাক Upāk - Plank (N.) মে. উপাক।"
+  },
+  {
+    "word": "উপাধি",
+    "pos": "noun",
+    "definition": "উপাধি Upādhi - Degree (N.) সং.।"
+  },
+  {
+    "word": "Upādhi",
+    "pos": "noun",
+    "definition": "উপাধি Upādhi - Degree (N.) সং.।"
+  },
+  {
+    "word": "উপায়",
+    "pos": "noun",
+    "definition": "উপায় Upäy - Means (N.) সং.।"
+  },
+  {
+    "word": "Upäy",
+    "pos": "noun",
+    "definition": "উপায় Upäy - Means (N.) সং.।"
+  },
+  {
+    "word": "উপারা-উপরি",
+    "pos": "adverb",
+    "definition": "উপারা-উপরি Upārā-upari - One over another (Adv.) Recipr. from. উপর।"
+  },
+  {
+    "word": "Upārā-upari",
+    "pos": "adverb",
+    "definition": "উপারা-উপরি Upārā-upari - One over another (Adv.) Recipr. from. উপর।"
+  },
+  {
+    "word": "উপারারি",
+    "pos": "noun",
+    "definition": "উপারারি Upärāri - Bowl of a smoking pipe (N.) উপর + আরি।"
+  },
+  {
+    "word": "Upärāri",
+    "pos": "noun",
+    "definition": "উপারারি Upärāri - Bowl of a smoking pipe (N.) উপর + আরি।"
+  },
+  {
+    "word": "উপার্জন",
+    "pos": "noun",
+    "definition": "উপার্জন Upärjan - Income (N.) সং.।"
+  },
+  {
+    "word": "Upärjan",
+    "pos": "noun",
+    "definition": "উপার্জন Upärjan - Income (N.) সং.।"
+  },
+  {
+    "word": "উপাড়া",
+    "pos": "verb",
+    "definition": "উপাড়া Upårā - To uproot (V.) সং. উৎপাট, denom."
+  },
+  {
+    "word": "Upårā",
+    "pos": "verb",
+    "definition": "উপাড়া Upårā - To uproot (V.) সং. উৎপাট, denom."
+  },
+  {
+    "word": "উপাড়ানি",
+    "pos": "noun",
+    "definition": "উপাড়ানি Upärăni - Uprooting, pulling out (N.) উপাড়া- + -আনি।"
+  },
+  {
+    "word": "Upärăni",
+    "pos": "noun",
+    "definition": "উপাড়ানি Upärăni - Uprooting, pulling out (N.) উপাড়া- + -আনি।"
+  },
+  {
+    "word": "উপাস",
+    "pos": "-",
+    "definition": "উপাস Upås - V. উপবাস।"
+  },
+  {
+    "word": "Upås",
+    "pos": "-",
+    "definition": "উপাস Upås - V. উপবাস।"
+  },
+  {
+    "word": "উপু",
+    "pos": "noun",
+    "definition": "উপু Upu - A wooden box (N.) মে. উপু।"
+  },
+  {
+    "word": "Upu",
+    "pos": "noun",
+    "definition": "উপু Upu - A wooden box (N.) মে. উপু।"
+  },
+  {
+    "word": "উপজ",
+    "pos": "verb",
+    "definition": "উপজ Upj - To be compensated, to be present (V.) সং. উপজায়-।"
+  },
+  {
+    "word": "Upj",
+    "pos": "verb",
+    "definition": "উপজ Upj - To be compensated, to be present (V.) সং. উপজায়-।"
+  },
+  {
+    "word": "উপজা",
+    "pos": "verb",
+    "definition": "উপজা Upjä - To bring, to compensate (V.) caus. fr. উপজ-।"
+  },
+  {
+    "word": "Upjä",
+    "pos": "verb",
+    "definition": "উপজা Upjä - To bring, to compensate (V.) caus. fr. উপজ-।"
+  },
+  {
+    "word": "উপজানি",
+    "pos": "noun",
+    "definition": "উপজানি Upjāni - (1) Being present, being compensated; (2) Compensating (N.) উপ্ + -আনি / উপ্সা- + -আনি।"
+  },
+  {
+    "word": "Upjāni",
+    "pos": "noun",
+    "definition": "উপজানি Upjāni - (1) Being present, being compensated; (2) Compensating (N.) উপ্ + -আনি / উপ্সা- + -আনি।"
+  },
+  {
+    "word": "উফল",
+    "pos": "noun",
+    "definition": "উফল Uphal - A kind of fish (N.) সং, উৎস্কল।"
+  },
+  {
+    "word": "Uphal",
+    "pos": "noun",
+    "definition": "উফল Uphal - A kind of fish (N.) সং, উৎস্কল।"
+  },
+  {
+    "word": "উৰা",
+    "pos": "adjective",
+    "definition": "উৰা Ubā - Erect, standing (Adj.) সং, ঊর্ধ্বক। -দেনা = accompanying; -পালটই = a kind of পালটই; -পারন = a kind of fishing instrument; -উচঙ = Straight and artless; sec. el. phonetic change of উটও।"
+  },
+  {
+    "word": "Ubā",
+    "pos": "adjective",
+    "definition": "উৰা Ubā - Erect, standing (Adj.) সং, ঊর্ধ্বক। -দেনা = accompanying; -পালটই = a kind of পালটই; -পারন = a kind of fishing instrument; -উচঙ = Straight and artless; sec. el. phonetic change of উটও।"
+  },
+  {
+    "word": "উবুরি",
+    "pos": "adjective",
+    "definition": "উবুরি Uburi - Prostrate (Adj.) সং *অবমূর্ধিক। -ছুপন, -পাক = a fall with the face dashing against the ground."
+  },
+  {
+    "word": "Uburi",
+    "pos": "adjective",
+    "definition": "উবুরি Uburi - Prostrate (Adj.) সং *অবমূর্ধিক। -ছুপন, -পাক = a fall with the face dashing against the ground."
+  },
+  {
+    "word": "উভি",
+    "pos": "noun",
+    "definition": "উভি Ubhi - Height, depth (N.) সং. *ঊর্ধ্বিক।"
+  },
+  {
+    "word": "Ubhi",
+    "pos": "noun",
+    "definition": "উভি Ubhi - Height, depth (N.) সং. *ঊর্ধ্বিক।"
+  },
+  {
+    "word": "উম",
+    "pos": "noun",
+    "definition": "উম Um - Warmth (N., Adj.) সং. ঊষ্মন্।"
+  },
+  {
+    "word": "Um",
+    "pos": "noun",
+    "definition": "উম Um - Warmth (N., Adj.) সং. ঊষ্মন্।"
+  },
+  {
+    "word": "উম",
+    "pos": "noun",
+    "definition": "উম Um - The act of confining (generally to the mouth) (N.) মে. উমপাৎ। -করানি = confining to the mouth."
+  },
+  {
+    "word": "Um",
+    "pos": "noun",
+    "definition": "উম Um - The act of confining (generally to the mouth) (N.) মে. উমপাৎ। -করানি = confining to the mouth."
+  },
+  {
+    "word": "উ'ম",
+    "pos": "noun",
+    "definition": "উ'ম U'm - Search (N.) মে. হুমপা। -করানি = searching."
+  },
+  {
+    "word": "U'm",
+    "pos": "noun",
+    "definition": "উ'ম U'm - Search (N.) মে. হুমপা। -করানি = searching."
+  },
+  {
+    "word": "উম",
+    "pos": "-",
+    "definition": "উম (মা.) Um - V. অম।"
+  },
+  {
+    "word": "Um",
+    "pos": "-",
+    "definition": "উম (মা.) Um - V. অম।"
+  },
+  {
+    "word": "উমক",
+    "pos": "noun",
+    "definition": "উমক (মা.) Umak - Warmth (N.) সং, *ঊষ্মকৃত।"
+  },
+  {
+    "word": "Umak",
+    "pos": "noun",
+    "definition": "উমক (মা.) Umak - Warmth (N.) সং, *ঊষ্মকৃত।"
+  },
+  {
+    "word": "উমর",
+    "pos": "noun",
+    "definition": "উমর Umar - Life, lifetime (N.) আ. উমর।"
+  },
+  {
+    "word": "Umar",
+    "pos": "noun",
+    "definition": "উমর Umar - Life, lifetime (N.) আ. উমর।"
+  },
+  {
+    "word": "উমাঙ",
+    "pos": "noun",
+    "definition": "উমাঙ Umān - Forest (N.). উমঙ মে.।"
+  },
+  {
+    "word": "Umān",
+    "pos": "noun",
+    "definition": "উমাঙ Umān - Forest (N.). উমঙ মে.।"
+  },
+  {
+    "word": "উমাঙ",
+    "pos": "-",
+    "definition": "উমাঙ Umän- V.খুমাঙ।"
+  },
+  {
+    "word": "Umän",
+    "pos": "-",
+    "definition": "উমাঙ Umän- V.খুমাঙ।"
+  },
+  {
+    "word": "উমাংকারা",
+    "pos": "noun",
+    "definition": "উমাংকারা Umāńkārā - Japioca, sweet potato (N.).মে. উমং গ্রা।"
+  },
+  {
+    "word": "Umāńkārā",
+    "pos": "noun",
+    "definition": "উমাংকারা Umāńkārā - Japioca, sweet potato (N.).মে. উমং গ্রা।"
+  },
+  {
+    "word": "উমাংক্রা",
+    "pos": "noun",
+    "definition": "উমাংক্রা Umāńkrä - Japioca, sweet potato (N.).মে. উমং গ্রা।"
+  },
+  {
+    "word": "Umāńkrä",
+    "pos": "noun",
+    "definition": "উমাংক্রা Umāńkrä - Japioca, sweet potato (N.).মে. উমং গ্রা।"
+  },
+  {
+    "word": "উমাংগ্রা (মা.)",
+    "pos": "-",
+    "definition": "উমাংগ্রা (মা.) Umängrå - Krā - V. above."
+  },
+  {
+    "word": "Umängrå",
+    "pos": "-",
+    "definition": "উমাংগ্রা (মা.) Umängrå - Krā - V. above."
+  },
+  {
+    "word": "উ'মানা",
+    "pos": "adjective",
+    "definition": "উ'মানা U'mânā - Fertile and free from moisture (Adj.). সং. *ঊষ্মাপনক।"
+  },
+  {
+    "word": "U'mânā",
+    "pos": "adjective",
+    "definition": "উ'মানা U'mânā - Fertile and free from moisture (Adj.). সং. *ঊষ্মাপনক।"
+  },
+  {
+    "word": "উমাহিজা",
+    "pos": "noun",
+    "definition": "উমাহিজা Umāhijä - Warmth of vapour (N.).সং.উষ্ম + *সিদ্ধক।"
+  },
+  {
+    "word": "Umāhijä",
+    "pos": "noun",
+    "definition": "উমাহিজা Umāhijä - Warmth of vapour (N.).সং.উষ্ম + *সিদ্ধক।"
+  },
+  {
+    "word": "উ'মেই (মা.)",
+    "pos": "noun",
+    "definition": "উ'মেই (মা.) U'mei - Fan (N.). মে.হুমাই।"
+  },
+  {
+    "word": "U'mei",
+    "pos": "noun",
+    "definition": "উ'মেই (মা.) U'mei - Fan (N.). মে.হুমাই।"
+  },
+  {
+    "word": "উমদানি",
+    "pos": "-",
+    "definition": "উমদানি Umdāni - V. অমদানি।"
+  },
+  {
+    "word": "Umdāni",
+    "pos": "-",
+    "definition": "উমদানি Umdāni - V. অমদানি।"
+  },
+  {
+    "word": "-উম্বা",
+    "pos": "-",
+    "definition": "-উম্বা - Umbā - A suffix added to nouns to indicate likeness or nature."
+  },
+  {
+    "word": "-Umbā",
+    "pos": "-",
+    "definition": "-উম্বা - Umbā - A suffix added to nouns to indicate likeness or nature."
+  },
+  {
+    "word": "উমশৌ-আমশৌ",
+    "pos": "noun",
+    "definition": "উমশৌ-আমশৌ Umsau - àmsau - Displeasure with a feeting of endearment (N.). উপ+শৌ; Sec. el. echo-word."
+  },
+  {
+    "word": "Umsau - àmsau",
+    "pos": "noun",
+    "definition": "উমশৌ-আমশৌ Umsau - àmsau - Displeasure with a feeting of endearment (N.). উপ+শৌ; Sec. el. echo-word."
+  },
+  {
+    "word": "উৱা",
+    "pos": "-",
+    "definition": "উৱা U'wā - V. উহা-।"
+  },
+  {
+    "word": "U'wā",
+    "pos": "-",
+    "definition": "উৱা U'wā - V. উহা-।"
+  },
+  {
+    "word": "-উৱা",
+    "pos": "-",
+    "definition": "1.-উৱা 1.-U'wâ - A suffix added to nouns or adjs. to indicate 'relation', 'connection', likeness', or 'plaonism'. সং,উক+ক। e.g.অরুৱা, গাতুৱা etc."
+  },
+  {
+    "word": "-U'wâ",
+    "pos": "-",
+    "definition": "1.-উৱা 1.-U'wâ - A suffix added to nouns or adjs. to indicate 'relation', 'connection', likeness', or 'plaonism'. সং,উক+ক। e.g.অরুৱা, গাতুৱা etc."
+  },
+  {
+    "word": "-উৱা",
+    "pos": "-",
+    "definition": "2.-উৱা 2.- U'wa - An affix used to form causatives from simple verbs. This is a double causative in form though not always in sense. সং. *আপক।"
+  },
+  {
+    "word": "-U'wa",
+    "pos": "-",
+    "definition": "2.-উৱা 2.- U'wa - An affix used to form causatives from simple verbs. This is a double causative in form though not always in sense. সং. *আপক।"
+  },
+  {
+    "word": "উৱানা",
+    "pos": "noun",
+    "definition": "উৱানা Uwānā - Growth (N.) সং. *উদয়াপকন।"
+  },
+  {
+    "word": "Uwānā",
+    "pos": "noun",
+    "definition": "উৱানা Uwānā - Growth (N.) সং. *উদয়াপকন।"
+  },
+  {
+    "word": "উর",
+    "pos": "verb",
+    "definition": "উর Ur - To leak (V.) সং. অবতর।"
+  },
+  {
+    "word": "Ur",
+    "pos": "verb",
+    "definition": "উর Ur - To leak (V.) সং. অবতর।"
+  },
+  {
+    "word": "উর",
+    "pos": "noun",
+    "definition": "উর Ur - Lap (N.). সং. উরস = breast or ক্রোড় = lap"
+  },
+  {
+    "word": "Ur",
+    "pos": "noun",
+    "definition": "উর Ur - Lap (N.). সং. উরস = breast or ক্রোড় = lap"
+  },
+  {
+    "word": "উ'র",
+    "pos": "verb",
+    "definition": "উ'র U'r - 1. To put on, to wrap 2.To trample (V.)- সং. অববেষ্ট or অবঘুট।"
+  },
+  {
+    "word": "U'r",
+    "pos": "verb",
+    "definition": "উ'র U'r - 1. To put on, to wrap 2.To trample (V.)- সং. অববেষ্ট or অবঘুট।"
+  },
+  {
+    "word": "উরক",
+    "pos": "noun",
+    "definition": "উরক Urak - Lap (N.). সং, *উরস্ক।"
+  },
+  {
+    "word": "Urak",
+    "pos": "noun",
+    "definition": "উরক Urak - Lap (N.). সং, *উরস্ক।"
+  },
+  {
+    "word": "উরত",
+    "pos": "noun",
+    "definition": "উরত- Urat - High (N.). সং,*উরুপস্থ।"
+  },
+  {
+    "word": "Urat",
+    "pos": "noun",
+    "definition": "উরত- Urat - High (N.). সং,*উরুপস্থ।"
+  },
+  {
+    "word": "উরন",
+    "pos": "noun",
+    "definition": "উরন Uran Putting on (N.). উ'র-+-অন।-পিন্ধন = dressing, clothing"
+  },
+  {
+    "word": "Uran",
+    "pos": "noun",
+    "definition": "উরন Uran Putting on (N.). উ'র-+-অন।-পিন্ধন = dressing, clothing"
+  },
+  {
+    "word": "উরল-সারল",
+    "pos": "noun",
+    "definition": "উরল-সারল Ural-sāral - Nap (N.) মে. উরোন শারোন।"
+  },
+  {
+    "word": "Ural-sāral",
+    "pos": "noun",
+    "definition": "উরল-সারল Ural-sāral - Nap (N.) মে. উরোন শারোন।"
+  },
+  {
+    "word": "উরস",
+    "pos": "noun",
+    "definition": "উরস Uras - Bug (N.). সং, উদ্দংশ।"
+  },
+  {
+    "word": "Uras",
+    "pos": "noun",
+    "definition": "উরস Uras - Bug (N.). সং, উদ্দংশ।"
+  },
+  {
+    "word": "-উরা",
+    "pos": "-",
+    "definition": "1. -উরা 1. -Urâ-A suffix added to nouns in the sense of 'giving growth of'.সং. *করক *বৃত্তক, *কূটক। e.g.শনউরা।"
+  },
+  {
+    "word": "-Urâ",
+    "pos": "-",
+    "definition": "1. -উরা 1. -Urâ-A suffix added to nouns in the sense of 'giving growth of'.সং. *করক *বৃত্তক, *কূটক। e.g.শনউরা۔"
+  },
+  {
+    "word": "-উরা",
+    "pos": "-",
+    "definition": "2.-উরা 2.-Urā- A suffix added to roots to indicate 'nature ofthe agent'. সং. *করক or-উর | e.g. আহুরা, কাদুরা etc."
+  },
+  {
+    "word": "-Urā",
+    "pos": "-",
+    "definition": "2.-উরা 2.-Urā- A suffix added to roots to indicate 'nature ofthe agent'. সং. *করক or-উর | e.g. আহুরা, কাদুরা etc."
+  },
+  {
+    "word": "উ'রাউরি",
+    "pos": "noun",
+    "definition": "উ'রাউরি Uräuri - 1. Haste, 2. Hastily. সং. *হুড়ক + তাড়ক (fr.ছড় = a ram)."
+  },
+  {
+    "word": "Uräuri",
+    "pos": "noun",
+    "definition": "উ'রাউরি Uräuri - 1. Haste, 2. Hastily. সং. *হুড়ক + তাড়ক (fr.ছড় = a ram)."
+  },
+  {
+    "word": "উরাদারা",
+    "pos": "noun",
+    "definition": "উরাদারা Urādārā- 1. Haste, 2.Hastily (Adj.).সং. *হুডুক+*তাড়ক۔"
+  },
+  {
+    "word": "Urādārā",
+    "pos": "noun",
+    "definition": "উরাদারা Urādārā- 1. Haste, 2.Hastily (Adj.).সং. *হুডুক+*তাড়ক۔"
+  },
+  {
+    "word": "উ'রানি",
+    "pos": "noun",
+    "definition": "উ'রানি U'räni - 1. Putting on, 2. Trampling (N.).উ'র-+-আনি।"
+  },
+  {
+    "word": "U'räni",
+    "pos": "noun",
+    "definition": "উ'রানি U'räni - 1. Putting on, 2. Trampling (N.).উ'র-+-আনি।"
+  },
+  {
+    "word": "উরি-",
+    "pos": "-",
+    "definition": "উরি- Uri - Ending for the 1st person, singular number and present tense, e.g.; করুরি, খাউরি etc."
+  },
+  {
+    "word": "Uri-",
+    "pos": "-",
+    "definition": "উরি- Uri - Ending for the 1st person, singular number and present tense, e.g.; করুরি, খাউরি etc."
+  },
+  {
+    "word": "উরি-",
+    "pos": "-",
+    "definition": "উরি- Uri - A suf. added to verbs to denote agency or instrumentality.সং. *করিক, V. ভাঙ্গুরি।"
+  },
+  {
+    "word": "Uri-",
+    "pos": "-",
+    "definition": "উরি- Uri - A suf. added to verbs to denote agency or instrumentality.সং. *করিক, V. ভাঙ্গুরি।"
+  },
+  {
+    "word": "উরি (মা.)",
+    "pos": "-",
+    "definition": "উরি (মা.) - Uri - V.উলু।"
+  },
+  {
+    "word": "Uri",
+    "pos": "-",
+    "definition": "উরি (মা.) - Uri - V.উলু।"
   }
 ]
