@@ -525,7 +525,7 @@
     "definition": "অচু (মা.) - V. অসু।"
   },
   {
-    "word": "(মা.)",
+    "word": "Acu",
     "pos": "-",
     "definition": "অচু (মা.) - V. অসু।"
   },
@@ -11340,7 +11340,7 @@
     "definition": "উমাংক্রা Umāńkrä - Japioca, sweet potato (N.).মে. উমং গ্রা।"
   },
   {
-    "word": "উমাংগ্রা (মা.)",
+    "word": "উমাংগ্রা",
     "pos": "-",
     "definition": "উমাংগ্রা (মা.) Umängrå - Krā - V. above."
   },
@@ -11370,7 +11370,7 @@
     "definition": "উমাহিজা Umāhijä - Warmth of vapour (N.).সং.উষ্ম + *সিদ্ধক।"
   },
   {
-    "word": "উ'মেই (মা.)",
+    "word": "উ'মেই",
     "pos": "noun",
     "definition": "উ'মেই (মা.) U'mei - Fan (N.). মে.হুমাই।"
   },
@@ -11600,7 +11600,7 @@
     "definition": "উরি- Uri - A suf. added to verbs to denote agency or instrumentality.সং. *করিক, V. ভাঙ্গুরি।"
   },
   {
-    "word": "উরি (মা.)",
+    "word": "উরি",
     "pos": "-",
     "definition": "উরি (মা.) - Uri - V.উলু।"
   },
@@ -11620,7 +11620,7 @@
     "definition": "উরিক Urik - Tailor bird (N.). মে. উরিত।"
   },
   {
-    "word": "উরিশন (মা.)",
+    "word": "উরিশন",
     "pos": "-",
     "definition": "উরিশন (মা.) - Urisan - V. উলুশন।"
   },
@@ -11640,7 +11640,7 @@
     "definition": "-উরী -Uri Fem, From - উরা।"
   },
   {
-    "word": "উরুঙ (মা.)",
+    "word": "উরুঙ",
     "pos": "-",
     "definition": "1.উরুঙ (মা.) - 1. Urun - V. উরুম।"
   },
@@ -11650,7 +11650,7 @@
     "definition": "1.উরুঙ (মা.) - 1. Urun - V. উরুম।"
   },
   {
-    "word": "উরুঙ (মা.)",
+    "word": "উরুঙ",
     "pos": "noun",
     "definition": "2. উরুঙ (মা.) - 2. Urun Fried rice (N.). মে. উরুম = Fried."
   },
@@ -11700,7 +11700,7 @@
     "definition": "1.উরুলি - 1. Uruli - Whirl (N.) V. উলুরি। - বৌ= Whirl - wind."
   },
   {
-    "word": "উরুলি (মা.)",
+    "word": "উরুলি",
     "pos": "-",
     "definition": "2. উরুলি (মা.) - 2.Uruli - V. উরুলেই।"
   },
@@ -11810,7 +11810,7 @@
     "definition": "উ'ড় U'r - To trample (V.). সং, অবপাতয়- । V.উ'র-।"
   },
   {
-    "word": "উড় (মা.)",
+    "word": "উড়",
     "pos": "verb",
     "definition": "উড় (মা.) Ur (V.) উড়ি| খই - V. উড়িখই।"
   },
@@ -12848,5 +12848,1655 @@
     "word": "Ekā",
     "pos": "adjective",
     "definition": "একা Ekā - Alone. সং. *একক। গাড়ী = bi-cycle."
+  },
+  {
+    "word": "একাকার",
+    "pos": "adjective",
+    "definition": "একাকার Ekākār - Same or similar in appearance, mixed together. সং. ।"
+  },
+  {
+    "word": "Ekākār",
+    "pos": "adjective",
+    "definition": "একাকার Ekākār - Same or similar in appearance, mixed together. সং. ।"
+  },
+  {
+    "word": "একাদেশী",
+    "pos": "noun",
+    "definition": "একাদেশী Ekādesi - The eleventh day of the lunar fortnight, fasting observed on that day.সং, একাদশী।"
+  },
+  {
+    "word": "Ekādesi",
+    "pos": "noun",
+    "definition": "একাদেশী Ekādesi - The eleventh day of the lunar fortnight, fasting observed on that day.সং, একাদশী।"
+  },
+  {
+    "word": "একানায়",
+    "pos": "noun",
+    "definition": "একানায় Ekānāy - Independence in thought or activity. সং. একনায়ক (for একনায়কত্ব)।"
+  },
+  {
+    "word": "Ekānāy",
+    "pos": "noun",
+    "definition": "একানায় Ekānāy - Independence in thought or activity. সং. একনায়ক (for একনায়কত্ব)।"
+  },
+  {
+    "word": "এ'কানি",
+    "pos": "noun",
+    "definition": "এ'কানি E'käni - Showing vanity or arrogance. একা - + আনি।"
+  },
+  {
+    "word": "E'käni",
+    "pos": "noun",
+    "definition": "এ'কানি E'käni - Showing vanity or arrogance. একা - + আনি।"
+  },
+  {
+    "word": "একান্ত",
+    "pos": "adjective",
+    "definition": "একান্ত Ekanta - Attentive, solitary. সং."
+  },
+  {
+    "word": "Ekanta",
+    "pos": "adjective",
+    "definition": "একান্ত Ekanta - Attentive, solitary. সং."
+  },
+  {
+    "word": "একাবলী",
+    "pos": "noun",
+    "definition": "একাবলী Ekābali - A one-stringed necklace.সং এক+ আবলী।"
+  },
+  {
+    "word": "Ekābali",
+    "pos": "noun",
+    "definition": "একাবলী Ekābali - A one-stringed necklace.সং এক+ আবলী।"
+  },
+  {
+    "word": "একালা",
+    "pos": "adjective",
+    "definition": "একালা Ekālă - Alone. সং একলা, Ar. একল্প। - আকসর= one without a second to help."
+  },
+  {
+    "word": "Ekālă",
+    "pos": "adjective",
+    "definition": "একালা Ekālă - Alone. সং একলা, Ar. একল্প। - আকসর= one without a second to help."
+  },
+  {
+    "word": "একিন",
+    "pos": "adjective",
+    "definition": "একিন Ekin - Attentive, singleminded. সং, একনিষ্ঠ।"
+  },
+  {
+    "word": "Ekin",
+    "pos": "adjective",
+    "definition": "একিন Ekin - Attentive, singleminded. সং, একনিষ্ঠ।"
+  },
+  {
+    "word": "একুচ",
+    "pos": "-",
+    "definition": "একুচ- Ekuc - So much, this big amount. এ + কুচ।"
+  },
+  {
+    "word": "Ekuc",
+    "pos": "-",
+    "definition": "একুচ- Ekuc - So much, this big amount. এ + কুচ।"
+  },
+  {
+    "word": "একুরা",
+    "pos": "-",
+    "definition": "একুরা Ekurä - A suffix added to roots to indicate agency or nature of the agent. ইয়া> এ+ - কুরা V. করেকুরা।"
+  },
+  {
+    "word": "Ekurä",
+    "pos": "-",
+    "definition": "একুরা Ekurä - A suffix added to roots to indicate agency or nature of the agent. ইয়া> এ+ - কুরা V. করেকুরা।"
+  },
+  {
+    "word": "একুল",
+    "pos": "-",
+    "definition": "একুল Ekul - This side. সং. এতত্ + কুল।- সেকুল = This side or that side."
+  },
+  {
+    "word": "Ekul",
+    "pos": "-",
+    "definition": "একুল Ekul - This side. সং. এতত্ + কুল।- সেকুল = This side or that side."
+  },
+  {
+    "word": "একেনায়",
+    "pos": "-",
+    "definition": "একেনায় Ekenày - V. একানায়।"
+  },
+  {
+    "word": "Ekenày",
+    "pos": "-",
+    "definition": "একেনায় Ekenày - V. একানায়।"
+  },
+  {
+    "word": "একেনে",
+    "pos": "-",
+    "definition": "একেনে Ekene - V. একানায়।"
+  },
+  {
+    "word": "Ekene",
+    "pos": "-",
+    "definition": "একেনে Ekene - V. একানায়।"
+  },
+  {
+    "word": "একেনে",
+    "pos": "-",
+    "definition": "একেনে Ekene - A word used in entreating, e.g. কর একেনে-please do."
+  },
+  {
+    "word": "Ekene",
+    "pos": "-",
+    "definition": "একেনে Ekene - A word used in entreating, e.g. কর একেনে-please do."
+  },
+  {
+    "word": "একেপণে",
+    "pos": "adverb",
+    "definition": "একেপণে Ekepane - Including or considering everything, thoroughly, to the last farthing.সং, একেন + পণেন।"
+  },
+  {
+    "word": "Ekepane",
+    "pos": "adverb",
+    "definition": "একেপণে Ekepane - Including or considering everything, thoroughly, to the last farthing.সং, একেন + পণেন।"
+  },
+  {
+    "word": "একেবারে",
+    "pos": "adverb",
+    "definition": "একেবারে Ekebāre - Totally.সং. একেন + বারেণ।"
+  },
+  {
+    "word": "Ekebāre",
+    "pos": "adverb",
+    "definition": "একেবারে Ekebāre - Totally.সং. একেন + বারেণ।"
+  },
+  {
+    "word": "একেবারে",
+    "pos": "adverb",
+    "definition": "একেবারে Ekebāre - Totally.সং. একেন + বারেণ।"
+  },
+  {
+    "word": "Ekebāre",
+    "pos": "adverb",
+    "definition": "একেবারে Ekebāre - Totally.সং. একেন + বারেণ।"
+  },
+  {
+    "word": "একখেম",
+    "pos": "adjective",
+    "definition": "একখেম Ekkhem - Attentive, obstinate. অ (negative) + ক্ষমা = ceasing. Syl. Beng. - অক্ষেম।"
+  },
+  {
+    "word": "Ekkhem",
+    "pos": "adjective",
+    "definition": "একখেম Ekkhem - Attentive, obstinate. অ (negative) + ক্ষমা = ceasing. Syl. Beng. - অক্ষেম।"
+  },
+  {
+    "word": "একছেদিয়া",
+    "pos": "adjective",
+    "definition": "একছেদিয়া Ekchediyà - Obstinate (lit. pursuing only one stroke.)."
+  },
+  {
+    "word": "Ekchediyà",
+    "pos": "adjective",
+    "definition": "একছেদিয়া Ekchediyà - Obstinate (lit. pursuing only one stroke.)."
+  },
+  {
+    "word": "একঠেলা",
+    "pos": "adjective",
+    "definition": "একঠেলা Ekțhelã - Obstinate (lit. pursuing only one push.)."
+  },
+  {
+    "word": "Ekțhelã",
+    "pos": "adjective",
+    "definition": "একঠেলা Ekțhelã - Obstinate (lit. pursuing only one push.)."
+  },
+  {
+    "word": "একতারি",
+    "pos": "noun",
+    "definition": "একতারি Ektāri - A kind of rough wooden cloth which is looked upon as pure. সং* একধারিক।"
+  },
+  {
+    "word": "Ektāri",
+    "pos": "noun",
+    "definition": "একতারি Ektāri - A kind of rough wooden cloth which is looked upon as pure. সং* একধারিক।"
+  },
+  {
+    "word": "একদম",
+    "pos": "adverb",
+    "definition": "একদম Ekdam - Totally (lit. - in one breath.)."
+  },
+  {
+    "word": "Ekdam",
+    "pos": "adverb",
+    "definition": "একদম Ekdam - Totally (lit. - in one breath.)."
+  },
+  {
+    "word": "এখান",
+    "pos": "-",
+    "definition": "এখান (মা.)-Ekhan - V. এহান।"
+  },
+  {
+    "word": "Ekhan",
+    "pos": "-",
+    "definition": "এখান (মা.)-Ekhan - V. এহান।"
+  },
+  {
+    "word": "এখানি",
+    "pos": "-",
+    "definition": "এখানি (মা.)- Ekhăni - V. এহানি।"
+  },
+  {
+    "word": "Ekhăni",
+    "pos": "-",
+    "definition": "এখানি (মা.)- Ekhăni - V. এহানি।"
+  },
+  {
+    "word": "এখুরুম",
+    "pos": "-",
+    "definition": "এখুরুম Ekhurum - This time, this turn. এ + খুরুম।"
+  },
+  {
+    "word": "Ekhurum",
+    "pos": "-",
+    "definition": "এখুরুম Ekhurum - This time, this turn. এ + খুরুম।"
+  },
+  {
+    "word": "এগুলি",
+    "pos": "-",
+    "definition": "এগুলি Eguli - This small one. সং. এতদ্+ *গুলিক; V. গুলি।"
+  },
+  {
+    "word": "Eguli",
+    "pos": "-",
+    "definition": "এগুলি Eguli - This small one. সং. এতদ্+ *গুলিক; V. গুলি।"
+  },
+  {
+    "word": "এগুল্টা",
+    "pos": "-",
+    "definition": "এগুল্টা Egultă - This year. V. এ-উল্টা, influenced by 'গুল'।"
+  },
+  {
+    "word": "Egultă",
+    "pos": "-",
+    "definition": "এগুল্টা Egultă - This year. V. এ-উল্টা, influenced by 'গুল'।"
+  },
+  {
+    "word": "এগো",
+    "pos": "-",
+    "definition": "এগো Ego - This one. এ + গো।"
+  },
+  {
+    "word": "Ego",
+    "pos": "-",
+    "definition": "এগো Ego - This one. এ + গো।"
+  },
+  {
+    "word": "এঙরেজি",
+    "pos": "noun",
+    "definition": "এঙরেজি Enreji - English. V. ইঙরেজি।"
+  },
+  {
+    "word": "Enreji",
+    "pos": "noun",
+    "definition": "এঙরেজি Enreji - English. V. ইঙরেজি।"
+  },
+  {
+    "word": "এচু",
+    "pos": "-",
+    "definition": "এচু (মা.)- Ecu - V. ইচু।"
+  },
+  {
+    "word": "Ecu",
+    "pos": "-",
+    "definition": "এচু (মা.)- Ecu - V. ইচু।"
+  },
+  {
+    "word": "এচুটি",
+    "pos": "-",
+    "definition": "এচুটি Ecuti - This small thing, এ +"
+  },
+  {
+    "word": "Ecuti",
+    "pos": "-",
+    "definition": "এচুটি Ecuti - This small thing, এ +"
+  },
+  {
+    "word": "এ'চকা",
+    "pos": "noun",
+    "definition": "এ'চকা E'ckă- 1. A sudden tug, push; 2. The act of moving a little. সং. *আক্রক্ষক।"
+  },
+  {
+    "word": "E'ckă",
+    "pos": "noun",
+    "definition": "এ'চকা E'ckă- 1. A sudden tug, push; 2. The act of moving a little. সং. *আক্রক্ষক।"
+  },
+  {
+    "word": "এচকা",
+    "pos": "verb",
+    "definition": "এচকা E'cka- 1. To push, 2. to move a little. Denom. from above."
+  },
+  {
+    "word": "E'cka",
+    "pos": "verb",
+    "definition": "এচকা E'cka- 1. To push, 2. to move a little. Denom. from above."
+  },
+  {
+    "word": "এচকানি",
+    "pos": "noun",
+    "definition": "এচকানি Eckāni- 1. Pushing, 2. moving a little. এচকা-+ আনি।"
+  },
+  {
+    "word": "Eckāni",
+    "pos": "noun",
+    "definition": "এচকানি Eckāni- 1. Pushing, 2. moving a little. এচকা-+ আনি।"
+  },
+  {
+    "word": "এছিল",
+    "pos": "-",
+    "definition": "এছিল Echil- The base of the past perfect tense endings. -ইয়া + আছিল।"
+  },
+  {
+    "word": "Echil",
+    "pos": "-",
+    "definition": "এছিল Echil- The base of the past perfect tense endings. -ইয়া + আছিল।"
+  },
+  {
+    "word": "এজমালি",
+    "pos": "adjective",
+    "definition": "এজমালি Ejmāli- Jointly possessed. পা. ইজমাল।"
+  },
+  {
+    "word": "Ejmāli",
+    "pos": "adjective",
+    "definition": "এজমালি Ejmāli- Jointly possessed. পা. ইজমাল।"
+  },
+  {
+    "word": "এঠুনা",
+    "pos": "-",
+    "definition": "এঠুনা Ethuna - This way. এ+ ঠুনা।"
+  },
+  {
+    "word": "Ethuna",
+    "pos": "-",
+    "definition": "এঠুনা Ethuna - This way. এ+ ঠুনা।"
+  },
+  {
+    "word": "এত",
+    "pos": "-",
+    "definition": "এত (এতো) Eta (Eto) - So much.সং. * এত্তক।"
+  },
+  {
+    "word": "Eta",
+    "pos": "-",
+    "definition": "এত (এতো) Eta (Eto) - So much.সং. * এত্তক।"
+  },
+  {
+    "word": "এতো",
+    "pos": "-",
+    "definition": "এত (এতো) Eta (Eto) - So much.সং. * এত্তক।"
+  },
+  {
+    "word": "Eto",
+    "pos": "-",
+    "definition": "এত (এতো) Eta (Eto) - So much.সং. * এত্তক।"
+  },
+  {
+    "word": "এতা",
+    "pos": "-",
+    "definition": "এতা Etā- These.সং.এতদ্+ *বৃত্তক।"
+  },
+  {
+    "word": "Etā",
+    "pos": "-",
+    "definition": "এতা Etā- These.সং.এতদ্+ *বৃত্তক।"
+  },
+  {
+    "word": "এতাপারা",
+    "pos": "-",
+    "definition": "এতাপারা Etapārā- 1. Of this amount; 2. Such a big amount. এতা + পারা।"
+  },
+  {
+    "word": "Etapārā",
+    "pos": "-",
+    "definition": "এতাপারা Etapārā- 1. Of this amount; 2. Such a big amount. এতা + পারা।"
+  },
+  {
+    "word": "এতু",
+    "pos": "-",
+    "definition": "এতু (মা.) Etu - V. ইতু।"
+  },
+  {
+    "word": "Etu",
+    "pos": "-",
+    "definition": "এতু (মা.) Etu - V. ইতু।"
+  },
+  {
+    "word": "এতুতাংতু",
+    "pos": "noun",
+    "definition": "এতুতাংতু (মা.) Etutåntu - Setting in due order, arranging properly. 1st el. V. above + 2nd el. = echo - ward."
+  },
+  {
+    "word": "Etutåntu",
+    "pos": "noun",
+    "definition": "এতুতাংতু (মা.) Etutåntu - Setting in due order, arranging properly. 1st el. V. above + 2nd el. = echo - ward."
+  },
+  {
+    "word": "এতুন",
+    "pos": "-",
+    "definition": "এতুন (মা.) Etun - This much. E.B. - ইটুকুন।"
+  },
+  {
+    "word": "Etun",
+    "pos": "-",
+    "definition": "এতুন (মা.) Etun - This much. E.B. - ইটুকুন।"
+  },
+  {
+    "word": "-এতো",
+    "pos": "-",
+    "definition": "-এতো/-এত্ত -Eto - Etta - An ending for the ablative. loc. এ+ তো (সং,তস্)।"
+  },
+  {
+    "word": "-Eto",
+    "pos": "-",
+    "definition": "-এতো/-এত্ত -Eto - Etta - An ending for the ablative. loc. এ+ তো (সং,তস্)।"
+  },
+  {
+    "word": "-এত্ত",
+    "pos": "-",
+    "definition": "-এতো/-এত্ত -Eto - Etta - An ending for the ablative. loc. এ+ তো (সং,তস্)।"
+  },
+  {
+    "word": "-Etta",
+    "pos": "-",
+    "definition": "-এতো/-এত্ত -Eto - Etta - An ending for the ablative. loc. এ+ তো (সং,তস্)।"
+  },
+  {
+    "word": "এতকুতা",
+    "pos": "-",
+    "definition": "এতকুতা (মা.) Etkută - V. ইকুটা-।"
+  },
+  {
+    "word": "Etkută",
+    "pos": "-",
+    "definition": "এতকুতা (মা.) Etkută - V. ইকুটা-।"
+  },
+  {
+    "word": "এতকুতানি",
+    "pos": "-",
+    "definition": "এতকুতানি (মা.) Etkutâni - V. ইকুটানি।"
+  },
+  {
+    "word": "Etkutâni",
+    "pos": "-",
+    "definition": "এতকুতানি (মা.) Etkutâni - V. ইকুটানি।"
+  },
+  {
+    "word": "এত্তামান",
+    "pos": "-",
+    "definition": "এত্তামান (মা.) Ettaman- So much.এতা + মান।"
+  },
+  {
+    "word": "Ettaman",
+    "pos": "-",
+    "definition": "এত্তামান (মা.) Ettaman- So much.এতা + মান।"
+  },
+  {
+    "word": "এদুবেদু",
+    "pos": "-",
+    "definition": "এদুবেদু (মা.) Edubedu - V. উদুবুদু।"
+  },
+  {
+    "word": "Edubedu",
+    "pos": "-",
+    "definition": "এদুবেদু (মা.) Edubedu - V. উদুবুদু।"
+  },
+  {
+    "word": "এ'না",
+    "pos": "-",
+    "definition": "এ'না E'nā- It is this. সং* এনক; Old. Beng. এনা।"
+  },
+  {
+    "word": "E'nā",
+    "pos": "-",
+    "definition": "এ'না E'nā- It is this. সং* এনক; Old. Beng. এনা।"
+  },
+  {
+    "word": "এপেয়",
+    "pos": "adverb",
+    "definition": "এপেয় Epey - Here, in this place. এ+ পেয়।"
+  },
+  {
+    "word": "Epey",
+    "pos": "adverb",
+    "definition": "এপেয় Epey - Here, in this place. এ+ পেয়।"
+  },
+  {
+    "word": "এপপাকা",
+    "pos": "-",
+    "definition": "এপপাকা (মা.) Eppākā - V. এবাকা।"
+  },
+  {
+    "word": "Eppākā",
+    "pos": "-",
+    "definition": "এপপাকা (মা.) Eppākā - V. এবাকা।"
+  },
+  {
+    "word": "এফির",
+    "pos": "-",
+    "definition": "এফির Ephir - This turn, this time. এ+ফির।"
+  },
+  {
+    "word": "Ephir",
+    "pos": "-",
+    "definition": "এফির Ephir - This turn, this time. এ+ফির।"
+  },
+  {
+    "word": "এফুরুং",
+    "pos": "-",
+    "definition": "এফুরুং Ephurun - This time, this turn. এ +ফুরুং।"
+  },
+  {
+    "word": "Ephurun",
+    "pos": "-",
+    "definition": "এফুরুং Ephurun - This time, this turn. এ +ফুরুং।"
+  },
+  {
+    "word": "এবং",
+    "pos": "conjunction",
+    "definition": "এবং Eban - And. সং, এবং।"
+  },
+  {
+    "word": "Eban",
+    "pos": "conjunction",
+    "definition": "এবং Eban - And. সং, এবং।"
+  },
+  {
+    "word": "এবাকা",
+    "pos": "adverb",
+    "definition": "এবাকা Ebākā - Now. অদ্বৎ / এতদ্বৎ + কৃত or কাল। cf. অব. এব্ব = now."
+  },
+  {
+    "word": "Ebākā",
+    "pos": "adverb",
+    "definition": "এবাকা Ebākā - Now. অদ্বৎ / এতদ্বৎ + কৃত or কাল। cf. অব. এব্ব = now."
+  },
+  {
+    "word": "এবারা",
+    "pos": "-",
+    "definition": "এবারা / এবাজু E'barà / Ebāju - This side. এ + বারা।"
+  },
+  {
+    "word": "E'barà",
+    "pos": "-",
+    "definition": "এবারা / এবাজু E'barà / Ebāju - This side. এ + বারা।"
+  },
+  {
+    "word": "এবাজু",
+    "pos": "-",
+    "definition": "এবারা / এবাজু E'barà / Ebāju - This side. এ + বারা।"
+  },
+  {
+    "word": "Ebāju",
+    "pos": "-",
+    "definition": "এবারা / এবাজু E'barà / Ebāju - This side. এ + বারা।"
+  },
+  {
+    "word": "এবিল",
+    "pos": "-",
+    "definition": "এবিল Ebil - This turn, this time. এ +বিল (বেলা)।"
+  },
+  {
+    "word": "Ebil",
+    "pos": "-",
+    "definition": "এবিল Ebil - This turn, this time. এ +বিল (বেলা)।"
+  },
+  {
+    "word": "এবুজ",
+    "pos": "adverb",
+    "definition": "এবুজ Ebuja - Even now, till now. সং. এতদ্বৎ + অদ্য + অপি।"
+  },
+  {
+    "word": "Ebuja",
+    "pos": "adverb",
+    "definition": "এবুজ Ebuja - Even now, till now. সং. এতদ্বৎ + অদ্য + অপি।"
+  },
+  {
+    "word": "এবো",
+    "pos": "adverb",
+    "definition": "এবো Ebo - Even now, till now. সং. এতদ্বৎ + অদ্য।"
+  },
+  {
+    "word": "Ebo",
+    "pos": "adverb",
+    "definition": "এবো Ebo - Even now, till now. সং. এতদ্বৎ + অদ্য।"
+  },
+  {
+    "word": "এমন",
+    "pos": "adjective",
+    "definition": "এমন Eman - Such, of this kind. সং. ইয়ামন্ত।"
+  },
+  {
+    "word": "Eman",
+    "pos": "adjective",
+    "definition": "এমন Eman - Such, of this kind. সং. ইয়ামন্ত।"
+  },
+  {
+    "word": "এমাও",
+    "pos": "-",
+    "definition": "এমাও (মা.) Emão - This time. সং. এতদ্ + বার + অপি।"
+  },
+  {
+    "word": "Emão",
+    "pos": "-",
+    "definition": "এমাও (মা.) Emão - This time. সং. এতদ্ + বার + অপি।"
+  },
+  {
+    "word": "এমাটিক",
+    "pos": "-",
+    "definition": "এমাটিক Emătik - To this extent, so much. এ + মাটিক।"
+  },
+  {
+    "word": "Emătik",
+    "pos": "-",
+    "definition": "এমাটিক Emătik - To this extent, so much. এ + মাটিক।"
+  },
+  {
+    "word": "এমারি",
+    "pos": "-",
+    "definition": "এমারি Emari - This year. এ + মারি (সং* বারিক)।"
+  },
+  {
+    "word": "Emari",
+    "pos": "-",
+    "definition": "এমারi Emari - This year. এ + মারি (সং* বারিক)।"
+  },
+  {
+    "word": "এ'মুর",
+    "pos": "-",
+    "definition": "এ'মুর E'mur - This end. এ + মূর। হেমূর/ হোমুর/হৌমুর - From this end to that end."
+  },
+  {
+    "word": "E'mur",
+    "pos": "-",
+    "definition": "এ'মুর E'mur - This end. এ + মূর। হেমূর/ হোমুর/হৌমুর - From this end to that end."
+  },
+  {
+    "word": "এমতা",
+    "pos": "-",
+    "definition": "এমতা (মা.) Emta- This time, this turn. সং. * ইয়ামন্ত + * বৃত্তক।"
+  },
+  {
+    "word": "Emta",
+    "pos": "-",
+    "definition": "এমতা (মা.) Emta- This time, this turn. সং. * ইয়ামন্ত + * বৃত্তক।"
+  },
+  {
+    "word": "এর",
+    "pos": "verb",
+    "definition": "এর Er - To stop. সং. এভ্য - (pass. fr. * এড়)।"
+  },
+  {
+    "word": "Er",
+    "pos": "verb",
+    "definition": "এর Er - To stop. সং. এভ্য - (pass. fr. * এড়)।"
+  },
+  {
+    "word": "এরা",
+    "pos": "adjective",
+    "definition": "এরা Era - Quited, discarded. সং. *এড়ক।- দেনা= Quiting abandoning."
+  },
+  {
+    "word": "Era",
+    "pos": "adjective",
+    "definition": "এরা Era - Quited, discarded. সং. *এড়ক।- দেনা= Quiting abandoning."
+  },
+  {
+    "word": "এরানি",
+    "pos": "noun",
+    "definition": "এরানি Erāni - Giving up. এব+- আনি।"
+  },
+  {
+    "word": "Erāni",
+    "pos": "noun",
+    "definition": "এরানি Erāni - Giving up. এব+- আনি।"
+  },
+  {
+    "word": "এরুৱা",
+    "pos": "verb",
+    "definition": "এরুৱা Eruwā - Caus. of এর্-।"
+  },
+  {
+    "word": "Eruwā",
+    "pos": "verb",
+    "definition": "এরুৱা Eruwā - Caus. of এর্-।"
+  },
+  {
+    "word": "এরে",
+    "pos": "-",
+    "definition": "এরে E're - This."
+  },
+  {
+    "word": "E're",
+    "pos": "-",
+    "definition": "এরে E're - This."
+  },
+  {
+    "word": "এরেদেনা",
+    "pos": "-",
+    "definition": "এরেদেনা Eredenā - V. এরাদেনা।"
+  },
+  {
+    "word": "Eredenā",
+    "pos": "-",
+    "definition": "এরেদেনা Eredenā - V. এরাদেনা।"
+  },
+  {
+    "word": "এড্",
+    "pos": "verb",
+    "definition": "এড্ Er - To be peeled. সং. এড়্য- (pass. fr. এড়)।"
+  },
+  {
+    "word": "Er",
+    "pos": "verb",
+    "definition": "এড্ Er - To be peeled. সং. এড়্য- (pass. fr. এড়)।"
+  },
+  {
+    "word": "এড়া",
+    "pos": "verb",
+    "definition": "এড়া Erå - To peel, to shave. সং. * এড়াপয়-।"
+  },
+  {
+    "word": "Erå",
+    "pos": "verb",
+    "definition": "এড়া Erå - To peel, to shave. সং. * এড়াপয়-।"
+  },
+  {
+    "word": "এড়ানি",
+    "pos": "noun",
+    "definition": "এড়ানি Erāni - Peeling, shaving off. এড়া - + - আনি।"
+  },
+  {
+    "word": "Erāni",
+    "pos": "noun",
+    "definition": "এড়ানি Erāni - Peeling, shaving off. এড়া - + - আনি।"
+  },
+  {
+    "word": "এডুৱা",
+    "pos": "verb",
+    "definition": "এডুৱা Eruwă - Caus. of এড়া-।"
+  },
+  {
+    "word": "Eruwă",
+    "pos": "verb",
+    "definition": "এডুৱা Eruwă - Caus. of এড়া-।"
+  },
+  {
+    "word": "এ'ল্",
+    "pos": "adjective",
+    "definition": "এ'ল্ E'l - 1. Surpassed, avoiding; 2. The act of surpassing or avoiding. মে. হেনপা।"
+  },
+  {
+    "word": "E'l",
+    "pos": "adjective",
+    "definition": "এ'ল্ E'l - 1. Surpassed, avoiding; 2. The act of surpassing or avoiding. মে. হেনপা।"
+  },
+  {
+    "word": "এ'লানি",
+    "pos": "noun",
+    "definition": "এ'লানি E'lani- Surpassing, avoiding."
+  },
+  {
+    "word": "E'lani",
+    "pos": "noun",
+    "definition": "এ'লানি E'lani- Surpassing, avoiding."
+  },
+  {
+    "word": "এ'লকরানি",
+    "pos": "noun",
+    "definition": "এ'লকরানি E'lkarāni - Fasting."
+  },
+  {
+    "word": "E'lkarāni",
+    "pos": "noun",
+    "definition": "এ'লকরানি E'lkarāni - Fasting."
+  },
+  {
+    "word": "এ'লা",
+    "pos": "noun",
+    "definition": "এ'লা E'lā - Song. সং.আকুলক, cf. Lushei"
+  },
+  {
+    "word": "E'lā",
+    "pos": "noun",
+    "definition": "এ'লা E'lā - Song. সং.আকুলক, cf. Lushei"
+  },
+  {
+    "word": "এ'লা",
+    "pos": "verb",
+    "definition": "এ'লা E'lā- 1. To shift the burden to another; 2. To accuse. সং. *ফেলাপয় (fr.ফেল = to throw away) or *হিলাপয় (fr. হিল = to recline)."
+  },
+  {
+    "word": "E'lā",
+    "pos": "verb",
+    "definition": "এ'লা E'lā- 1. To shift the burden to another; 2. To accuse. সং. *ফেলাপয় (fr.ফেল = to throw away) or *হিলাপয় (fr. হিল = to recline)."
+  },
+  {
+    "word": "এলাকা",
+    "pos": "noun",
+    "definition": "এলাকা Eläkā - Area, jurisdiction, connection. পা. ইলাকহ্।"
+  },
+  {
+    "word": "Eläkā",
+    "pos": "noun",
+    "definition": "এলাকা Eläkā - Area, jurisdiction, connection. পা. ইলাকহ্।"
+  },
+  {
+    "word": "এলাচি",
+    "pos": "noun",
+    "definition": "এলাচি Elāci - Cardamom. পা. এলাচী।"
+  },
+  {
+    "word": "Elāci",
+    "pos": "noun",
+    "definition": "এলাচি Elāci - Cardamom. পা. এলাচী।"
+  },
+  {
+    "word": "এ'লানি",
+    "pos": "noun",
+    "definition": "এ'লানি E'lāni - Accusing. এ'লা + - আনি।"
+  },
+  {
+    "word": "E'lāni",
+    "pos": "noun",
+    "definition": "এ'লানি E'lāni - Accusing. এ'লা + - আনি।"
+  },
+  {
+    "word": "এ'লকা",
+    "pos": "noun",
+    "definition": "এ'লকা E'lkā - The act of moving or stirring. সং* হিলকৃত।"
+  },
+  {
+    "word": "E'lkā",
+    "pos": "noun",
+    "definition": "এ'লকা E'lkā - The act of moving or stirring. সং* হিলকৃত।"
+  },
+  {
+    "word": "এ'লকা",
+    "pos": "verb",
+    "definition": "এ'লকা E'lkā- To move, to stir. Denom. fr. above."
+  },
+  {
+    "word": "E'lkā",
+    "pos": "verb",
+    "definition": "এ'লকা E'lkā- To move, to stir. Denom. fr. above."
+  },
+  {
+    "word": "এ'লকানি",
+    "pos": "noun",
+    "definition": "এ'লকানি E'lkāni - Moving, stirring. এ'লকা + - আনি।"
+  },
+  {
+    "word": "E'lkāni",
+    "pos": "noun",
+    "definition": "এ'লকানি E'lkāni - Moving, stirring. এ'লকা + - আনি।"
+  },
+  {
+    "word": "এ'লকুনি",
+    "pos": "noun",
+    "definition": "এ'লকুনি Elkuni - An instrument for moving or stirring (Such as fried rice.). এ'লকা + - উনি/ - অনি।"
+  },
+  {
+    "word": "Elkuni",
+    "pos": "noun",
+    "definition": "এ'লকুনি Elkuni - An instrument for moving or stirring (Such as fried rice.). এ'লকা + - উনি/ - অনি।"
+  },
+  {
+    "word": "এলকুৱা",
+    "pos": "verb",
+    "definition": "এলকুৱা E'lkuwā - Caus. fr. এ'লকা-।"
+  },
+  {
+    "word": "E'lkuwā",
+    "pos": "verb",
+    "definition": "এলকুৱা E'lkuwā - Caus. fr. এ'লকা-।"
+  },
+  {
+    "word": "এলথক",
+    "pos": "adjective",
+    "definition": "এলথক Elthak - Exceeding. মে. হেনথোকপা।"
+  },
+  {
+    "word": "Elthak",
+    "pos": "adjective",
+    "definition": "এলথক Elthak - Exceeding. মে. হেনথোকপা।"
+  },
+  {
+    "word": "এলেকা",
+    "pos": "-",
+    "definition": "এলেকা Elekā - V. এলাকা।"
+  },
+  {
+    "word": "Elekā",
+    "pos": "-",
+    "definition": "এলেকা Elekā - V. এলাকা।"
+  },
+  {
+    "word": "এসাদে",
+    "pos": "adverb",
+    "definition": "এসাদে Esäde - In this way, thus. সং. এতৎ সম or * অবাদৃশক or *আদৃশ + * দিতক।"
+  },
+  {
+    "word": "Esäde",
+    "pos": "adverb",
+    "definition": "এসাদে Esäde - In this way, thus. সং. এতৎ সম or * অবাদৃশক or *আদৃশ + * দিতক।"
+  },
+  {
+    "word": "এসান্দে",
+    "pos": "adverb",
+    "definition": "এসান্দে Esande - In this way, thus. এতৎ + ছন্দেন or V. above."
+  },
+  {
+    "word": "Esande",
+    "pos": "adverb",
+    "definition": "এসান্দে Esande - In this way, thus. এতৎ + ছন্দেন or V. above."
+  },
+  {
+    "word": "এসারে",
+    "pos": "-",
+    "definition": "এসারে Esare - V. এসাদে।"
+  },
+  {
+    "word": "Esare",
+    "pos": "-",
+    "definition": "এসারে Esare - V. এসাদে।"
+  },
+  {
+    "word": "এসরাজ",
+    "pos": "noun",
+    "definition": "এসরাজ Esraj - A stringed,lute. আ. ইসরার।"
+  },
+  {
+    "word": "Esraj",
+    "pos": "noun",
+    "definition": "এসরাজ Esraj - A stringed,lute. আ. ইসরার।"
+  },
+  {
+    "word": "এহাত",
+    "pos": "adverb",
+    "definition": "এহাত (মা.) Ehat - Here. সং. এতৎ + খণ্ড + অন্তর।"
+  },
+  {
+    "word": "Ehat",
+    "pos": "adverb",
+    "definition": "এহাত (মা.) Ehat - Here. সং. এতৎ + খণ্ড + অন্তর।"
+  },
+  {
+    "word": "এহান",
+    "pos": "-",
+    "definition": "এহান Ehân - This one. এ + হান!"
+  },
+  {
+    "word": "Ehân",
+    "pos": "-",
+    "definition": "এহান Ehân - This one. এ + হান!"
+  },
+  {
+    "word": "এহানি",
+    "pos": "-",
+    "definition": "এহানি Ehani - This much. এ + হানি।"
+  },
+  {
+    "word": "Ehani",
+    "pos": "-",
+    "definition": "এহানি Ehani - This much. এ + হানি।"
+  },
+  {
+    "word": "ঐচা",
+    "pos": "-",
+    "definition": "ঐচা Aicā - V.অইচা।"
+  },
+  {
+    "word": "Aicā",
+    "pos": "-",
+    "definition": "ঐচা Aicā - V.অইচা।"
+  },
+  {
+    "word": "ঐচ্চা",
+    "pos": "-",
+    "definition": "ঐচ্চা Aiccà - V. অইচ্চা।"
+  },
+  {
+    "word": "Aiccà",
+    "pos": "-",
+    "definition": "ঐচ্চা Aiccà - V. অইচ্চা।"
+  },
+  {
+    "word": "ঐশ্বর্য্য",
+    "pos": "noun",
+    "definition": "ঐশ্বর্য্য Aisurja - Vanity. সং, ঐশ্বর্য্য।"
+  },
+  {
+    "word": "Aisurja",
+    "pos": "noun",
+    "definition": "ঐশ্বর্য্য Aisurja - Vanity. সং, ঐশ্বর্য্য।"
+  },
+  {
+    "word": "ও",
+    "pos": "-",
+    "definition": "ও- O- That, Yonder.সং. অসৌ/ অদস্।"
+  },
+  {
+    "word": "O",
+    "pos": "-",
+    "definition": "ও- O- That, Yonder.সং. অসৌ/ অদস্।"
+  },
+  {
+    "word": "ও",
+    "pos": "-",
+    "definition": "ও-O- A vocative particle.সং. ভো।"
+  },
+  {
+    "word": "O",
+    "pos": "-",
+    "definition": "ও-O- A vocative particle.সং. ভো।"
+  },
+  {
+    "word": "ও",
+    "pos": "-",
+    "definition": "-O- An interjection expressing a recollection, amazement, pity etc. সং. হো/ অঃ/ ওঃ।"
+  },
+  {
+    "word": "O",
+    "pos": "-",
+    "definition": "-O- An interjection expressing a recollection, amazement, pity etc. সং. হো/ অঃ/ ওঃ।"
+  },
+  {
+    "word": "ও",
+    "pos": "conjunction",
+    "definition": "ও-O- And. সং. অপি।"
+  },
+  {
+    "word": "O",
+    "pos": "conjunction",
+    "definition": "ও-O- And. সং. অপি।"
+  },
+  {
+    "word": "ওগো",
+    "pos": "-",
+    "definition": "ওগো Ogo - That one. ও + - গো।"
+  },
+  {
+    "word": "Ogo",
+    "pos": "-",
+    "definition": "ওগো Ogo - That one. ও + - গো।"
+  },
+  {
+    "word": "ওজা",
+    "pos": "-",
+    "definition": "ওজা Ojä - V. অজা।"
+  },
+  {
+    "word": "Ojä",
+    "pos": "-",
+    "definition": "ওজা Ojä - V. অজা।"
+  },
+  {
+    "word": "ওত",
+    "pos": "-",
+    "definition": "ওত (মা.) Ot - V. উট-।"
+  },
+  {
+    "word": "Ot",
+    "pos": "-",
+    "definition": "ওত (মা.) Ot - V. উট-।"
+  },
+  {
+    "word": "ওতন-পাতন",
+    "pos": "-",
+    "definition": "ওতন-পাতন (মা.) Otan-pâtan - V. উটনপাটন।"
+  },
+  {
+    "word": "Otan-pâtan",
+    "pos": "-",
+    "definition": "ওতন-পাতন (মা.) Otan-pâtan - V. উটনপাটন।"
+  },
+  {
+    "word": "ওতানি",
+    "pos": "-",
+    "definition": "ওতানি (মা.) Otảni - V. উটানি।"
+  },
+  {
+    "word": "Otảni",
+    "pos": "-",
+    "definition": "ওতানি (মা.) Otảni - V. উটানি।"
+  },
+  {
+    "word": "ওতারা",
+    "pos": "verb",
+    "definition": "ওতারা Otārā - To speak. সং. অবতার, denom."
+  },
+  {
+    "word": "Otārā",
+    "pos": "verb",
+    "definition": "ওতারা Otārā - To speak. সং. অবতার, denom."
+  },
+  {
+    "word": "ওতারানি",
+    "pos": "noun",
+    "definition": "ওতারানি Otärāni - speaking. ওতারা - + - আনি।"
+  },
+  {
+    "word": "Otärāni",
+    "pos": "noun",
+    "definition": "ওতারানি Otärāni - speaking. ওতারা - + - আনি।"
+  },
+  {
+    "word": "ওতারুৱা",
+    "pos": "verb",
+    "definition": "ওতারুৱা Otăruwă - Caus. of ওতারা-।"
+  },
+  {
+    "word": "Otăruwă",
+    "pos": "verb",
+    "definition": "ওতারুৱা Otăruwă - Caus. of ওতারা-।"
+  },
+  {
+    "word": "ওমর",
+    "pos": "-",
+    "definition": "ওমর (মা.) Omar - V. উমর।"
+  },
+  {
+    "word": "Omar",
+    "pos": "-",
+    "definition": "ওমর (মা.) Omar - V. উমর।"
+  },
+  {
+    "word": "ওরে",
+    "pos": "-",
+    "definition": "ওরে Ore - It is that, it is there. ও + -রে।"
+  },
+  {
+    "word": "Ore",
+    "pos": "-",
+    "definition": "ওরে Ore - It is that, it is there. ও + -রে।"
+  },
+  {
+    "word": "ওলত-পালত",
+    "pos": "-",
+    "definition": "ওলত-পালত (মা.) Olat Pālat - V. উলট-পালট।"
+  },
+  {
+    "word": "Olat Pālat",
+    "pos": "-",
+    "definition": "ওলত-পালত (মা.) Olat Pālat - V. উলট-পালট।"
+  },
+  {
+    "word": "ওসার",
+    "pos": "-",
+    "definition": "ওসার (মা.) Osar - V. উসার।"
+  },
+  {
+    "word": "Osar",
+    "pos": "-",
+    "definition": "ওসার (মা.) Osar - V. উসার।"
+  },
+  {
+    "word": "ওস্তাদ",
+    "pos": "-",
+    "definition": "ওস্তাদ (মা.) Ostād - V. উস্তাদ।"
+  },
+  {
+    "word": "Ostād",
+    "pos": "-",
+    "definition": "ওস্তাদ (মা.) Ostād - V. উস্তাদ।"
+  },
+  {
+    "word": "ওহান",
+    "pos": "-",
+    "definition": "ওহান Ohàn - That one. ও + হান।"
+  },
+  {
+    "word": "Ohàn",
+    "pos": "-",
+    "definition": "ওহান Ohàn - That one. ও + হান।"
+  },
+  {
+    "word": "ওহানি",
+    "pos": "-",
+    "definition": "ওহানি Ohảni - That much. ও + - হানি।"
+  },
+  {
+    "word": "Ohảni",
+    "pos": "-",
+    "definition": "ওহানি Ohảni - That much. ও + - হানি।"
+  },
+  {
+    "word": "-ঔ",
+    "pos": "-",
+    "definition": "-ঔ -A'u - That, remote demonstrative. সং.অসৌ।"
+  },
+  {
+    "word": "-A'u",
+    "pos": "-",
+    "definition": "-ঔ -A'u - That, remote demonstrative. সং.অসৌ।"
+  },
+  {
+    "word": "ঔকাশ বৌকাশ",
+    "pos": "noun",
+    "definition": "ঔকাশ বৌকাশ Aukäs-baukas - Disturbance. সং. অবকর্ষ + sec. el = echo-word."
+  },
+  {
+    "word": "Aukäs-baukas",
+    "pos": "noun",
+    "definition": "ঔকাশ বৌকাশ Aukäs-baukas - Disturbance. সং. অবকর্ষ + sec. el = echo-word."
+  },
+  {
+    "word": "ঔগো",
+    "pos": "-",
+    "definition": "ঔগো A'ugo - That one. ঔ+ - গো।"
+  },
+  {
+    "word": "A'ugo",
+    "pos": "-",
+    "definition": "ঔগো A'ugo - That one. ঔ+ - গো।"
+  },
+  {
+    "word": "ঔচা",
+    "pos": "-",
+    "definition": "ঔচা (মা.) Aucă - V. য়ৌচ্চা।"
+  },
+  {
+    "word": "Aucă",
+    "pos": "-",
+    "definition": "ঔচা (মা.) Aucă - V. য়ৌচ্চা।"
+  },
+  {
+    "word": "ঔচিল",
+    "pos": "-",
+    "definition": "ঔচিল (মা.) Aucil - V. বাইচিল।"
+  },
+  {
+    "word": "Aucil",
+    "pos": "-",
+    "definition": "ঔচিল (মা.) Aucil - V. বাইচিল।"
+  },
+  {
+    "word": "ঔতা",
+    "pos": "-",
+    "definition": "ঔতা Auta - Those ones. ঔ+ - তা।"
+  },
+  {
+    "word": "Auta",
+    "pos": "-",
+    "definition": "ঔতা Auta - Those ones. ঔ+ - তা।"
+  },
+  {
+    "word": "ঔনা",
+    "pos": "-",
+    "definition": "ঔনা A'unā - It is there. ঔ+না।"
+  },
+  {
+    "word": "A'unā",
+    "pos": "-",
+    "definition": "ঔনা A'unā - It is there. ঔ+না।"
+  },
+  {
+    "word": "ঔনা",
+    "pos": "adjective",
+    "definition": "ঔনা A'unả - Proper.মে. হৌনপা।"
+  },
+  {
+    "word": "A'unả",
+    "pos": "adjective",
+    "definition": "ঔনা A'unả - Proper.মে. হৌনপা।"
+  },
+  {
+    "word": "ঔনাপা",
+    "pos": "adjective",
+    "definition": "ঔনাপা A'unāpå - Proper. মে.হৌনপা।"
+  },
+  {
+    "word": "A'unāpå",
+    "pos": "adjective",
+    "definition": "ঔনাপা A'unāpå - Proper. মে.হৌনপা।"
+  },
+  {
+    "word": "ঔনি",
+    "pos": "-",
+    "definition": "ঔনি Auni - It seems. সং.অবমন্যতে।"
+  },
+  {
+    "word": "Auni",
+    "pos": "-",
+    "definition": "ঔনি Auni - It seems. সং.অবমন্যতে।"
+  },
+  {
+    "word": "ঔপেয়",
+    "pos": "adverb",
+    "definition": "ঔপেয় Aupey - There. ঔ+ - পেয়।"
+  },
+  {
+    "word": "Aupey",
+    "pos": "adverb",
+    "definition": "ঔপেয় Aupey - There. ঔ+ - পেয়।"
+  },
+  {
+    "word": "ঔৱা",
+    "pos": "noun",
+    "definition": "ঔৱা Auwå - Burmese. মে. ঔৱা।"
+  },
+  {
+    "word": "Auwå",
+    "pos": "noun",
+    "definition": "ঔৱা Auwå - Burmese. মে. ঔৱা।"
+  },
+  {
+    "word": "ঔৱাথাপী",
+    "pos": "noun",
+    "definition": "ঔৱাথাপী Auwāthāpi - The papaw. মে. ঔৱাথপী।"
+  },
+  {
+    "word": "Auwāthāpi",
+    "pos": "noun",
+    "definition": "ঔৱাথাপী Auwāthāpi - The papaw. মে. ঔৱাথপী।"
+  },
+  {
+    "word": "ঔৱারেই",
+    "pos": "noun",
+    "definition": "ঔৱারেই Awārei - A kind of flower. মে. অবারৈ।"
+  },
+  {
+    "word": "Awārei",
+    "pos": "noun",
+    "definition": "ঔৱারেই Awārei - A kind of flower. মে. অবারৈ।"
+  },
+  {
+    "word": "ঔৱার ফাকিথম",
+    "pos": "noun",
+    "definition": "ঔৱার ফাকিথম Auwar Phâkitham - A kind of vegetable spices. ঔৱা (gen.)+ ফাকিথম।"
+  },
+  {
+    "word": "Auwar Phâkitham",
+    "pos": "noun",
+    "definition": "ঔৱার ফাকিথম Auwar Phâkitham - A kind of vegetable spices. ঔৱা (gen.)+ ফাকিথম।"
+  },
+  {
+    "word": "ঔরাঙ",
+    "pos": "adverb",
+    "definition": "ঔরাঙ Aurãn - There. ঔ+- রাঙ।"
+  },
+  {
+    "word": "Aurãn",
+    "pos": "adverb",
+    "definition": "ঔরাঙ Aurãn - There. ঔ+- রাঙ।"
+  },
+  {
+    "word": "ঔরে",
+    "pos": "-",
+    "definition": "ঔরে A'ure - It is that or there. ঔ+-রে।"
+  },
+  {
+    "word": "A'ure",
+    "pos": "-",
+    "definition": "ঔরে A'ure - It is that or there. ঔ+-রে।"
+  },
+  {
+    "word": "ঔলিজৌলি",
+    "pos": "adjective",
+    "definition": "ঔলিজৌলি Aulijauli - Imperfect.সং. *আকুলিক; sec. el.echo - word."
+  },
+  {
+    "word": "Aulijauli",
+    "pos": "adjective",
+    "definition": "ঔলিজৌলি Aulijauli - Imperfect.সং. *আকুলিক; sec. el.echo - word."
+  },
+  {
+    "word": "ঔসাদে",
+    "pos": "adverb",
+    "definition": "ঔসাদে A'usāde - In that way, like that. ঔ + সাদে।"
+  },
+  {
+    "word": "A'usāde",
+    "pos": "adverb",
+    "definition": "ঔসাদে A'usāde - In that way, like that. ঔ + সাদে।"
+  },
+  {
+    "word": "ঔসারে",
+    "pos": "-",
+    "definition": "ঔসারে A'usāre - V. above."
+  },
+  {
+    "word": "A'usāre",
+    "pos": "-",
+    "definition": "ঔসারে A'usāre - V. above."
+  },
+  {
+    "word": "ঔহান",
+    "pos": "-",
+    "definition": "ঔহান A'uhản - That one. ঔ+ হান।"
+  },
+  {
+    "word": "A'uhản",
+    "pos": "-",
+    "definition": "ঔহান A'uhản - That one. ঔ+ হান।"
+  },
+  {
+    "word": "ঔহানাত",
+    "pos": "adverb",
+    "definition": "ঔহানাত Auhānất - In that, there.ঔ + হান (loc)."
+  },
+  {
+    "word": "Auhānất",
+    "pos": "adverb",
+    "definition": "ঔহানাত Auhānất - In that, there.ঔ + হান (loc)."
+  },
+  {
+    "word": "ঔহানি",
+    "pos": "-",
+    "definition": "ঔহানি Auhâni - That much. ঔ +- হানি।"
+  },
+  {
+    "word": "Auhâni",
+    "pos": "-",
+    "definition": "ঔহানি Auhâni - That much. ঔ +- হানি。"
+  },
+  {
+    "word": "ক",
+    "pos": "-",
+    "definition": "ক K - A suffix added to nouns or adjs. in a diminutive sence (OIA) MIA - kká; e.g d'ulak."
+  },
+  {
+    "word": "K",
+    "pos": "-",
+    "definition": "ক K - A suffix added to nouns or adjs. in a diminutive sence (OIA) MIA - kká; e.g d'ulak."
+  },
+  {
+    "word": "ক",
+    "pos": "-",
+    "definition": "ক K - A suffix added to words of onom. origin in pleo. sense (Td. krta, kara or onom. When this suf. is added, the initial vowel ofthe word is repeated before the suf., e.g. গরক পিলিক।"
+  },
+  {
+    "word": "K",
+    "pos": "-",
+    "definition": "ক K - A suffix added to words of onom. origin in pleo. sense (Td. krta, kara or onom. When this suf. is added, the initial vowel ofthe word is repeated before the suf., e.g. গরক পিলিক।"
+  },
+  {
+    "word": "ক'",
+    "pos": "-",
+    "definition": "ক' Ka' - A post-positional word indicating purpose.করে <করিয়া <কর -ইয়া। e.g খেইঙক' = with the purpose of eating."
+  },
+  {
+    "word": "Ka'",
+    "pos": "-",
+    "definition": "ক' Ka' - A post-positional word indicating purpose.করে <করিয়া <কর -ইয়া। e.g খেইঙক' = with the purpose of eating."
+  },
+  {
+    "word": "কই",
+    "pos": "noun",
+    "definition": "1.কই Kai - Moustache. Mt. কোই cf.Ng. Kuai-māy -আলা = a person growing moustache."
+  },
+  {
+    "word": "Kai",
+    "pos": "noun",
+    "definition": "1.কই Kai - Moustache. Mt. কোই cf.Ng. Kuai-māy -আলা = a person growing moustache."
+  },
+  {
+    "word": "কই",
+    "pos": "-",
+    "definition": "2. কই Kai - Where, OIA Kradhi, Kvabhim > MIA. Kahim. (te) - তে = where indeed?"
+  },
+  {
+    "word": "Kai",
+    "pos": "-",
+    "definition": "2. কই Kai - Where, OIA Kradhi, Kvabhim > MIA. Kahim. (te) - তে = where indeed?"
+  },
+  {
+    "word": "কই",
+    "pos": "-",
+    "definition": "3. কই Kai - How much. Td. কতি।"
+  },
+  {
+    "word": "Kai",
+    "pos": "-",
+    "definition": "3. কই Kai - How much. Td. কতি।"
+  },
+  {
+    "word": "কই",
+    "pos": "adjective",
+    "definition": "কই Ka'i- Round, long. Mt. কোইপা।"
+  },
+  {
+    "word": "Ka'i",
+    "pos": "adjective",
+    "definition": "কই Ka'i- Round, long. Mt. কোইপা।"
+  },
+  {
+    "word": "কইচম্পা",
+    "pos": "noun",
+    "definition": "কইচম্পা Kaicampā - A person growing moustache. Mt. কোইচম্পা।"
+  },
+  {
+    "word": "Kaicampā",
+    "pos": "noun",
+    "definition": "কইচম্পা Kaicampā - A person growing moustache. Mt. কোইচম্পা।"
+  },
+  {
+    "word": "কইচাংনা",
+    "pos": "noun",
+    "definition": "কইচাংনা Kaicanna - Trouble. cf. Ar. Kasal sickness."
+  },
+  {
+    "word": "Kaicanna",
+    "pos": "noun",
+    "definition": "কইচাংনা Kaicanna - Trouble. cf. Ar. Kasal sickness."
+  },
+  {
+    "word": "কইচু",
+    "pos": "-",
+    "definition": "কইচু Kaicu - V. কচু।"
+  },
+  {
+    "word": "Kaicu",
+    "pos": "-",
+    "definition": "কইচু Kaicu - V. কচু।"
+  },
+  {
+    "word": "কইচেল",
+    "pos": "noun",
+    "definition": "কইচেল Kaicel - Corner, (Mt. কোইপা (round) + চেনপa = to go). কইনা- = Nook and Corner."
+  },
+  {
+    "word": "Kaicel",
+    "pos": "noun",
+    "definition": "কইচেল Kaicel - Corner, (Mt. কোইপা (round) + চেনপa = to go). কইনা- = Nook and Corner."
+  },
+  {
+    "word": "কইঠেক",
+    "pos": "adjective",
+    "definition": "কইঠেক Ka'ithek - Zigzag. V. কই + ঠেক।"
+  },
+  {
+    "word": "Ka'ithek",
+    "pos": "adjective",
+    "definition": "কইঠেক Ka'ithek - Zigzag. V. কই + ঠেক।"
+  },
+  {
+    "word": "কইনা",
+    "pos": "noun",
+    "definition": "কইনা Ka'inā - Corner. (Mt. কেইনপা) - কইচেল = Nook and corner."
+  },
+  {
+    "word": "Ka'inā",
+    "pos": "noun",
+    "definition": "কইনা Ka'inā - Corner. (Mt. কেইনপা) - কইচেল = Nook and corner."
+  },
+  {
+    "word": "কইনা",
+    "pos": "noun",
+    "definition": "কইনা Kaina - Bride (Sts. কন্যা)।"
+  },
+  {
+    "word": "Kaina",
+    "pos": "noun",
+    "definition": "কইনা Kaina - Bride (Sts. কন্যা)।"
+  },
+  {
+    "word": "কক",
+    "pos": "-",
+    "definition": "1. কক Kak - A word denoting quickness. - করে= quickly."
+  },
+  {
+    "word": "Kak",
+    "pos": "-",
+    "definition": "1. কক Kak - A word denoting quickness. - করে= quickly."
+  },
+  {
+    "word": "কক",
+    "pos": "noun",
+    "definition": "2. কক Kak - Removal, the act of wiping. (মেই. কোকপা)।- করানি = wiping out, removing."
+  },
+  {
+    "word": "Kak",
+    "pos": "noun",
+    "definition": "2. কক Kak - Removal, the act of wiping. (মেই. কোকপা)।- করানি = wiping out, removing."
+  },
+  {
+    "word": "কক",
+    "pos": "noun",
+    "definition": "3. কক Kak - A holder made by the front side of a wearing cloth (Td. কক্ষ, H. কোখ।"
+  },
+  {
+    "word": "Kak",
+    "pos": "noun",
+    "definition": "3. কক Kak - A holder made by the front side of a wearing cloth (Td. কক্ষ, H. কোখ।"
+  },
+  {
+    "word": "ককারা",
+    "pos": "adjective",
+    "definition": "ককারা Kakārā - Bent, curved, shrunk (Td. *কুং-) কটক, cf. কৃঞ্চ।"
+  },
+  {
+    "word": "Kakārā",
+    "pos": "adjective",
+    "definition": "ককারা Kakārā - Bent, curved, shrunk (Td. *কুং-) কটক, cf. কৃঞ্চ।"
+  },
+  {
+    "word": "কক্কা",
+    "pos": "noun",
+    "definition": "কক্কা Kakkā - A creature climbing trees, onom)."
+  },
+  {
+    "word": "Kakkā",
+    "pos": "noun",
+    "definition": "কক্কা Kakkā - A creature climbing trees, onom)."
+  },
+  {
+    "word": "কক্কা",
+    "pos": "noun",
+    "definition": "কক্কা Kakkā - An uneasy sensation arising from chewing betel-nut, (Onom)."
+  },
+  {
+    "word": "Kakkā",
+    "pos": "noun",
+    "definition": "কক্কা Kakkā - An uneasy sensation arising from chewing betel-nut, (Onom)."
   }
 ]
