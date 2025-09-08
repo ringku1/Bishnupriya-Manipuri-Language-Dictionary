@@ -14499,5 +14499,284 @@
   "pos": "noun",
   "definition": "কক্কা Kakkā - An uneasy sensation arising from chewing betel-nut, (Onom)."
 },
-
+{
+  "word": "ককতা",
+  "pos": "noun",
+  "definition": "ককতা Kaktā - Shape of the head, specially, of its hinder part. (মেই.কোক = head + তা = shape)."
+},
+{
+  "word": "Kaktā",
+  "pos": "noun",
+  "definition": "ককতা Kaktā - Shape of the head, specially, of its hinder part. (মেই.কোক = head + তা = shape)."
+},
+{
+  "word": "ককনাম",
+  "pos": "noun",
+  "definition": "ককনাম Kaknām - An ornament worn by dancers on the head (কোক = head, + নমপা = to fit)."
+},
+{
+  "word": "Kaknām",
+  "pos": "noun",
+  "definition": "ককনাম Kaknām - An ornament worn by dancers on the head (কোক = head, + নমপা = to fit)."
+},
+{
+  "word": "ককফেই",
+  "pos": "-",
+  "definition": "ককফেই Kakphei - V. কুকফেই।"
+},
+{
+  "word": "Kakphei",
+  "pos": "-",
+  "definition": "ককফেই Kakphei - V. কুকফেই।"
+},
+{
+  "word": "ককসি",
+  "pos": "noun",
+  "definition": "ককসি Kaksi - A blow on the head with the Knuckles. মে.কোকসি (কোক = head + সিপা = to dismantle)."
+},
+{
+  "word": "Kaksi",
+  "pos": "noun",
+  "definition": "ককসি Kaksi - A blow on the head with the Knuckles. মে.কোকসি (কোক = head + সিপা = to dismantle)."
+},
+{
+  "word": "ককসেই",
+  "pos": "-",
+  "definition": "ককসেই Kaksei - V. above; for the 2nd element. cf. শায়পা= to grind with the teeth."
+},
+{
+  "word": "Kaksei",
+  "pos": "-",
+  "definition": "ককসেই Kaksei - V. above; for the 2nd element. cf. শায়পা= to grind with the teeth."
+},
+{
+  "word": "কখনি",
+  "pos": "-",
+  "definition": "কখনি (মা.) Kakhani - V. কহনি।"
+},
+{
+  "word": "Kakhani",
+  "pos": "-",
+  "definition": "কখনি (মা.) Kakhani - V. কহনি।"
+},
+{
+  "word": "কঙ",
+  "pos": "-",
+  "definition": "কঙ Kan - A word denoting the sound of beating a hard thing. Onom."
+},
+{
+  "word": "Kan",
+  "pos": "-",
+  "definition": "কঙ Kan - A word denoting the sound of beating a hard thing. Onom."
+},
+{
+  "word": "ক'ঙ",
+  "pos": "noun",
+  "definition": "ক'ঙ Ka'n - A kind of small winged insect."
+},
+{
+  "word": "Ka'n",
+  "pos": "noun",
+  "definition": "ক'ঙ Ka'n - A kind of small winged insect."
+},
+{
+  "word": "কঙরৌ",
+  "pos": "-",
+  "definition": "কঙরৌ Kañarau - V. কঙ্গরেী।"
+},
+{
+  "word": "Kañarau",
+  "pos": "-",
+  "definition": "কঙরৌ Kañarau - V. কঙ্গরেী।"
+},
+{
+  "word": "কঙানা",
+  "pos": "-",
+  "definition": "কঙানা (মা.) Kanana - V. কঙালা below."
+},
+{
+  "word": "Kanana",
+  "pos": "-",
+  "definition": "কঙানা (মা.) Kanana - V. কঙালা below."
+},
+{
+  "word": "কঙালা",
+  "pos": "adjective",
+  "definition": "কঙালা Kañālā - Soft, tender. Td. *কোমলক।"
+},
+{
+  "word": "Kañālā",
+  "pos": "adjective",
+  "definition": "কঙালা Kañālā - Soft, tender. Td. *কোমলক।"
+},
+{
+  "word": "কঙালী",
+  "pos": "noun",
+  "definition": "কঙালী Kanuli - Tender girl or lady. Fem. fr. above."
+},
+{
+  "word": "Kanuli",
+  "pos": "noun",
+  "definition": "কঙালী Kanuli - Tender girl or lady. Fem. fr. above."
+},
+{
+  "word": "কঙকট",
+  "pos": "noun",
+  "definition": "কঙকট Kańkat - A species of bamboo."
+},
+{
+  "word": "Kańkat",
+  "pos": "noun",
+  "definition": "কঙকট Kańkat - A species of bamboo."
+},
+{
+  "word": "কঙকা",
+  "pos": "-",
+  "definition": "কঙকা (মা.) Kanka - V. কঙ্কেই।"
+},
+{
+  "word": "Kanka",
+  "pos": "-",
+  "definition": "কঙকা (মা.) Kanka - V. কঙ্কেই।"
+},
+{
+  "word": "কঙ্কায়",
+  "pos": "adjective",
+  "definition": "কঙ্কায় Kankäy - Much, many, massive. মে.কোংকায়। (কোনপা = to embrace + কায়পা= to separate)."
+},
+{
+  "word": "Kankäy",
+  "pos": "adjective",
+  "definition": "কঙ্কায় Kankäy - Much, many, massive. মে.কোংকায়। (কোনপা = to embrace + কায়পা= to separate)."
+},
+{
+  "word": "কঙকাল",
+  "pos": "noun",
+  "definition": "কঙকাল Kankāl - A species of wood."
+},
+{
+  "word": "Kankāl",
+  "pos": "noun",
+  "definition": "কঙকাল Kankāl - A species of wood."
+},
+{
+  "word": "কঙ্কুপ",
+  "pos": "noun",
+  "definition": "কঙ্কুপ Kankup - A type of watery grass. মে.কংকূপ (কং= moss, কৃপ = small)."
+},
+{
+  "word": "Kankup",
+  "pos": "noun",
+  "definition": "কঙ্কুপ Kankup - A type of watery grass. মে.কংকূপ (কং= moss, কৃপ = small)."
+},
+{
+  "word": "ক'ঙ্কেই",
+  "pos": "noun",
+  "definition": "ক'ঙ্কেই Ka'nkei - A kind of knot that can be unfastened easily. মে কংকাই (কোন্নপা = to clasp to knot + কায়পা = to separate)."
+},
+{
+  "word": "Ka'nkei",
+  "pos": "noun",
+  "definition": "ক'ঙ্কেই Ka'nkei - A kind of knot that can be unfastened easily. মে কংকাই (কোন্নপা = to clasp to knot + কায়পা = to separate)."
+},
+{
+  "word": "কঙ্গরেী",
+  "pos": "noun",
+  "definition": "কঙ্গরেী Kangarau - An edible plant. মে. কাং গ্রৌ।"
+},
+{
+  "word": "Kangarau",
+  "pos": "noun",
+  "definition": "কঙ্গরেী Kangarau - An edible plant. মে. কাং গ্রৌ।"
+},
+{
+  "word": "কচ",
+  "pos": "-",
+  "definition": "কচ Kac - A word expressing the sound of cutting something by a sharp instruments. Onom."
+},
+{
+  "word": "Kac",
+  "pos": "-",
+  "definition": "কচ Kac - A word expressing the sound of cutting something by a sharp instruments. Onom."
+},
+{
+  "word": "কচালা",
+  "pos": "verb",
+  "definition": "কচালা Kacālā - (1) To rub, (2) to massage. (মা.) Arab. qast = treading out (wheat)."
+},
+{
+  "word": "Kacālā",
+  "pos": "verb",
+  "definition": "কচালা Kacālā - (1) To rub, (2) to massage. (মা.) Arab. qast = treading out (wheat)."
+},
+{
+  "word": "কচালানি",
+  "pos": "noun",
+  "definition": "কচালানি Kacālāni - Rubbing, massaging (মা.) কচালা + - আনি।"
+},
+{
+  "word": "Kacālāni",
+  "pos": "noun",
+  "definition": "কচালানি Kacālāni - Rubbing, massaging (মা.) কচালা + - আনি।"
+},
+{
+  "word": "কচালুৱা",
+  "pos": "verb",
+  "definition": "কচালুৱা Kacāluwā - Caus. of above."
+},
+{
+  "word": "Kacāluwā",
+  "pos": "verb",
+  "definition": "কচালুৱা Kacāluwā - Caus. of above."
+},
+{
+  "word": "কচি",
+  "pos": "noun",
+  "definition": "1.কচি (মা.) Kaci - A pole used to stir straw (L.SK.) কঞ্চি, Tur. কমচী।"
+},
+{
+  "word": "Kaci",
+  "pos": "noun",
+  "definition": "1.কচি (মা.) Kaci - A pole used to stir straw (L.SK.) কঞ্চি, Tur. কমচী।"
+},
+{
+  "word": "কচি",
+  "pos": "adjective",
+  "definition": "2. কচি Kaci - Tender. cf. OIA.কঞ্চিক = young shoot of bamboo."
+},
+{
+  "word": "Kaci",
+  "pos": "adjective",
+  "definition": "2. কচি Kaci - Tender. cf. OIA.কঞ্চিক = young shoot of bamboo."
+},
+{
+  "word": "কচু",
+  "pos": "noun",
+  "definition": "কচু Kacu- Arum plant. Td. *কচ্চচক। পাতি = green."
+},
+{
+  "word": "Kacu",
+  "pos": "noun",
+  "definition": "কচু Kacu- Arum plant. Td. *কচ্চচক। পাতি = green."
+},
+{
+  "word": "কচু",
+  "pos": "noun",
+  "definition": "কচু Kacu - colour, complexion. মে. কুচু।- কুমেল = Complexion."
+},
+{
+  "word": "Kacu",
+  "pos": "noun",
+  "definition": "কচু Kacu - colour, complexion. মে. কুচু।- কুমেল = Complexion."
+},
+{
+  "word": "কচুপী",
+  "pos": "noun",
+  "definition": "কচুপী Kacupi - Prostitute. পা. কসবী।"
+},
+{
+  "word": "Kacupi",
+  "pos": "noun",
+  "definition": "কচুপী Kacupi - Prostitute. পা. কসবী।"
+},
 ]
