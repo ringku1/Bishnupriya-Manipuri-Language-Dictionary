@@ -210,20 +210,12 @@ h1 {
   gap: 5px;
 }
 
-/* For the contact section with list items, ensure proper spacing */
-.footer-section.contact-info ul {
+/* Contact section with icons */
+.footer-section.contact-info {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  flex: 1; /* Make the list take available space */
-  width: 100%;
-}
-
-.footer-section.contact-info li {
-  display: flex;
   align-items: center;
-  justify-content: center;
-  margin: 3px 0;
 }
 
 /* For the about sections with paragraphs */
@@ -257,6 +249,62 @@ h1 {
   vertical-align: middle;
   margin-right: 6px;
   margin-bottom: -2px;
+}
+
+/* New contact icons layout */
+.contact-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  flex: 1;
+  padding: 8px 0;
+}
+
+.contact-icon-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  border-radius: 12px;
+  background: rgba(26, 115, 232, 0.05);
+  transition: all 0.3s ease;
+  text-decoration: none !important;
+  border: 1px solid transparent;
+}
+
+.contact-icon-link:hover {
+  background: rgba(26, 115, 232, 0.12);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(26, 115, 232, 0.15);
+  border-color: rgba(26, 115, 232, 0.2);
+}
+
+.contact-icon-link svg {
+  transition: transform 0.2s ease;
+}
+
+.contact-icon-link:hover svg {
+  transform: scale(1.05);
+}
+
+[data-theme="dark"] .contact-icon-link {
+  background: rgba(138, 180, 248, 0.08);
+}
+
+[data-theme="dark"] .contact-icon-link:hover {
+  background: rgba(138, 180, 248, 0.15);
+  box-shadow: 0 4px 12px rgba(138, 180, 248, 0.2);
+  border-color: rgba(138, 180, 248, 0.3);
+}
+
+[data-theme="dark"] .contact-icon-link svg rect {
+  fill: rgba(138, 180, 248, 0.15);
+}
+
+[data-theme="dark"] .contact-icon-link svg path {
+  stroke: #8ab4f8;
+  fill: #8ab4f8;
 }
 
 /* Animations */
@@ -347,6 +395,20 @@ h1 {
   
   .footer-content h3 {
     font-size: 16px;
+  }
+  
+  /* Mobile contact icons */
+  .contact-icons {
+    gap: 12px;
+  }
+  
+  .contact-icon-link {
+    padding: 6px;
+  }
+  
+  .contact-icon-link svg {
+    width: 28px;
+    height: 28px;
   }
 }
 /* Fix for reference section */
