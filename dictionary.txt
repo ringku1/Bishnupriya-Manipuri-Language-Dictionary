@@ -16329,5 +16329,395 @@
   "pos": "noun",
   "definition": "2. কলা Kala - The socket of a mattress. Td.(L.skt.) = খোলক or Ts. কলা = one - sixteenth part = part."
 },
+{
+  "word": "কলাপাকানা",
+  "pos": "adjective",
+  "definition": "কলাপাকানা Kalapākāna - Halfripe, partly ripe. Td. কোমলক। sec. el. V. পাকানা।"
+},
+{
+  "word": "Kalapākāna",
+  "pos": "adjective",
+  "definition": "কলাপাকানা Kalapākāna - Halfripe, partly ripe. Td. কোমলক। sec. el. V. পাকানা।"
+},
+{
+  "word": "কলাবতী",
+  "pos": "noun",
+  "definition": "কলাবতী Kalābati - A kind of flower. Ts."
+},
+{
+  "word": "Kalābati",
+  "pos": "noun",
+  "definition": "কলাবতী Kalābati - A kind of flower. Ts."
+},
+{
+  "word": "কলি",
+  "pos": "adjective",
+  "definition": "কলি Kali - Short. Ts. or, মে. কোলি।- চাঙপা = short - statured."
+},
+{
+  "word": "Kali",
+  "pos": "adjective",
+  "definition": "কলি Kali - Short. Ts. or, মে. কোলি।- চাঙপা = short - statured."
+},
+{
+  "word": "কলিক",
+  "pos": "noun",
+  "definition": "কলিক (মা.) Kalik - Utensils. মে কোল্লিক (কোন = Utensil+ লিক = multitude)."
+},
+{
+  "word": "Kalik",
+  "pos": "noun",
+  "definition": "কলিক (মা.) Kalik - Utensils. মে কোল্লিক (কোন = Utensil+ লিক = multitude)."
+},
+{
+  "word": "কলিঞ্জা",
+  "pos": "noun",
+  "definition": "কলিঞ্জা Kaliñja - Heart. Td. কলেয়ক, MIA. কলেজ্জঅ, cf. Tu. H. কলেজা।"
+},
+{
+  "word": "Kaliñja",
+  "pos": "noun",
+  "definition": "কলিঞ্জা Kaliñja - Heart. Td. কলেয়ক, MIA. কলেজ্জঅ, cf. Tu. H. কলেজা।"
+},
+{
+  "word": "কলিমৌ",
+  "pos": "noun",
+  "definition": "কলিমৌ (মা.) Kalimau - A kind of watery grass. V. কলি + মৌ।"
+},
+{
+  "word": "Kalimau",
+  "pos": "noun",
+  "definition": "কলিমৌ (মা.) Kalimau - A kind of watery grass. V. কলি + মৌ।"
+},
+{
+  "word": "কলিয়া",
+  "pos": "adjective",
+  "definition": "কলিয়া Kaliyā - Short-statured. Sts. *কলিক।"
+},
+{
+  "word": "Kaliyā",
+  "pos": "adjective",
+  "definition": "কলিয়া Kaliyā - Short-statured. Sts. *কলিক।"
+},
+{
+  "word": "কলু",
+  "pos": "noun",
+  "definition": "1. কলু Kalu - Hole. মে. কোলু, cf. OIA. *কলসক। মাছর-= A hole full of fish."
+},
+{
+  "word": "Kalu",
+  "pos": "noun",
+  "definition": "1. কলু Kalu - Hole. মে. কোলু, cf. OIA. *কলসক। মাছর-= A hole full of fish."
+},
+{
+  "word": "কলু",
+  "pos": "noun",
+  "definition": "2. কলু (মা.) Kalu - Oil-presser. H. কোহল = Oil - mill."
+},
+{
+  "word": "Kalu",
+  "pos": "noun",
+  "definition": "2. কলু (মা.) Kalu - Oil-presser. H. কোহল = Oil - mill."
+},
+{
+  "word": "কলে",
+  "pos": "adverb",
+  "definition": "কলে (কলে কলে) Kale (Kale kale) - i) Slowly, ii) Afterwards."
+},
+{
+  "word": "Kale",
+  "pos": "adverb",
+  "definition": "কলে (কলে কলে) Kale (Kale kale) - i) Slowly, ii) Afterwards."
+},
+{
+  "word": "কলেজ",
+  "pos": "noun",
+  "definition": "কলেজ Kalej - College."
+},
+{
+  "word": "Kalej",
+  "pos": "noun",
+  "definition": "কলেজ Kalej - College."
+},
+{
+  "word": "কলো",
+  "pos": "noun",
+  "definition": "কলো Kalo- Pitcher."
+},
+{
+  "word": "Kalo",
+  "pos": "noun",
+  "definition": "কলো Kalo- Pitcher."
+},
+{
+  "word": "কলৌ",
+  "pos": "noun",
+  "definition": "কলৌ Kalau - A bent stick."
+},
+{
+  "word": "Kalau",
+  "pos": "noun",
+  "definition": "কলৌ Kalau - A bent stick."
+},
+{
+  "word": "কলখা",
+  "pos": "-",
+  "definition": "কলখা (মা.) Kalkhā - V. কলঠা।"
+},
+{
+  "word": "Kalkhā",
+  "pos": "-",
+  "definition": "কলখা (মা.) Kalkhā - V. কলঠা।"
+},
+{
+  "word": "কলচাক",
+  "pos": "noun",
+  "definition": "কলচাক Kalcāk - Broken pieces of utensils."
+},
+{
+  "word": "Kalcāk",
+  "pos": "noun",
+  "definition": "কলচাক Kalcāk - Broken pieces of utensils."
+},
+{
+  "word": "কলটুম",
+  "pos": "noun",
+  "definition": "কলটুম Kalţum - A kind of heavy cooking pot."
+},
+{
+  "word": "Kalţum",
+  "pos": "noun",
+  "definition": "কলটুম Kalţum - A kind of heavy cooking pot."
+},
+{
+  "word": "কলঠঙ",
+  "pos": "noun",
+  "definition": "কলঠঙ Kalthań - A heavy iron-ring."
+},
+{
+  "word": "Kalthań",
+  "pos": "noun",
+  "definition": "কলঠঙ Kalthań - A heavy iron-ring."
+},
+{
+  "word": "কলঠা",
+  "pos": "adjective",
+  "definition": "কলঠা Kaltha - Round, curved."
+},
+{
+  "word": "Kaltha",
+  "pos": "adjective",
+  "definition": "কলঠা Kaltha - Round, curved."
+},
+{
+  "word": "কলনা-কলনি",
+  "pos": "-",
+  "definition": "কলনা-কলনি Kalnākalni- V.- কন্নাকন্নি।"
+},
+{
+  "word": "Kalnākalni",
+  "pos": "-",
+  "definition": "কলনা-কলনি Kalnākalni- V.- কন্নাকন্নি।"
+},
+{
+  "word": "কলপনা",
+  "pos": "noun",
+  "definition": "কলপনা Kalpanā - Imagination."
+},
+{
+  "word": "Kalpanā",
+  "pos": "noun",
+  "definition": "কলপনা Kalpanā - Imagination."
+},
+{
+  "word": "কলপাক",
+  "pos": "noun",
+  "definition": "কলপাক Kalpāk - Flat broken pieces of utensils."
+},
+{
+  "word": "Kalpāk",
+  "pos": "noun",
+  "definition": "কলপাক Kalpāk - Flat broken pieces of utensils."
+},
+{
+  "word": "কলপুক",
+  "pos": "noun",
+  "definition": "কলপুক Kalpuk - Foam."
+},
+{
+  "word": "Kalpuk",
+  "pos": "noun",
+  "definition": "কলপুক Kalpuk - Foam."
+},
+{
+  "word": "কলবত",
+  "pos": "-",
+  "definition": "কলবত (মা.) Kalbat - V.কুলপিত।"
+},
+{
+  "word": "Kalbat",
+  "pos": "-",
+  "definition": "কলবত (মা.) Kalbat - V.কুলপিত।"
+},
+{
+  "word": "কলবিল",
+  "pos": "noun",
+  "definition": "কলবিল Kalbil - A kind of flower. ঘন্টাফুল।"
+},
+{
+  "word": "Kalbil",
+  "pos": "noun",
+  "definition": "কলবিল Kalbil - A kind of flower. ঘন্টাফুল।"
+},
+{
+  "word": "কল্লাক",
+  "pos": "noun",
+  "definition": "কল্লাক Kallāk - Area."
+},
+{
+  "word": "Kallāk",
+  "pos": "noun",
+  "definition": "কল্লাক Kallāk - Area."
+},
+{
+  "word": "কল্লি",
+  "pos": "noun",
+  "definition": "কল্লি Kalli - Piece, Part. Td. কলিক।"
+},
+{
+  "word": "Kalli",
+  "pos": "noun",
+  "definition": "কল্লি Kalli - Piece, Part. Td. কলিক।"
+},
+{
+  "word": "কল্লিঙ",
+  "pos": "noun",
+  "definition": "কল্লিঙ Kallin - Rust. মে. কোলহিঙ।"
+},
+{
+  "word": "Kallin",
+  "pos": "noun",
+  "definition": "কল্লিঙ Kallin - Rust. মে. কোলহিঙ।"
+},
+{
+  "word": "কষ",
+  "pos": "noun",
+  "definition": "কষ Kaş - Sticky juice of a tree or its fruit."
+},
+{
+  "word": "Kaş",
+  "pos": "noun",
+  "definition": "কষ Kaş - Sticky juice of a tree or its fruit."
+},
+{
+  "word": "কস",
+  "pos": "noun",
+  "definition": "1. কস Kas- Rubber. মে.কোস।"
+},
+{
+  "word": "Kas",
+  "pos": "noun",
+  "definition": "1. কস Kas- Rubber. মে.কোস।"
+},
+{
+  "word": "কস",
+  "pos": "noun",
+  "definition": "2. কস Kas - Strength. Per. Kas."
+},
+{
+  "word": "Kas",
+  "pos": "noun",
+  "definition": "2. কস Kas - Strength. Per. Kas."
+},
+{
+  "word": "কসক",
+  "pos": "verb",
+  "definition": "কসক Kask - To be dislocated. Td. *কর্ষকৃত।"
+},
+{
+  "word": "Kask",
+  "pos": "verb",
+  "definition": "কসক Kask - To be dislocated. Td. *কর্ষকৃত।"
+},
+{
+  "word": "কসকানি",
+  "pos": "noun",
+  "definition": "কসকানি Kaskāni - Being dislocated."
+},
+{
+  "word": "Kaskāni",
+  "pos": "noun",
+  "definition": "কসকানি Kaskāni - Being dislocated."
+},
+{
+  "word": "কসমা",
+  "pos": "adjective",
+  "definition": "কসমা Kasmā - Tender. Td. কর্ষ-মাত।"
+},
+{
+  "word": "Kasmā",
+  "pos": "adjective",
+  "definition": "কসমা Kasmā - Tender. Td. কর্ষ-মাত।"
+},
+{
+  "word": "কহন",
+  "pos": "noun",
+  "definition": "কহন Kahan - A particle of grain. Sts. কণ।"
+},
+{
+  "word": "Kahan",
+  "pos": "noun",
+  "definition": "কহন Kahan - A particle of grain. Sts. কণ।"
+},
+{
+  "word": "কহনি",
+  "pos": "noun",
+  "definition": "কহনি Kahani - Elbow. Td.কফোনিক।"
+},
+{
+  "word": "Kahani",
+  "pos": "noun",
+  "definition": "কহনি Kahani - Elbow. Td.কফোনিক।"
+},
+{
+  "word": "কহা",
+  "pos": "-",
+  "definition": "1. কহা (মা.) Kahā - V. কুরা। চুলর = A handful of hair."
+},
+{
+  "word": "Kahā",
+  "pos": "-",
+  "definition": "1. কহা (মা.) Kahā - V. কুরা। চুলর = A handful of hair."
+},
+{
+  "word": "কহা",
+  "pos": "noun",
+  "definition": "2. কহা Kahā - Well. Td.কৃপক।"
+},
+{
+  "word": "Kahā",
+  "pos": "noun",
+  "definition": "2. কহা Kahā - Well. Td.কৃপক।"
+},
+{
+  "word": "কহা",
+  "pos": "adjective",
+  "definition": "3. কহা Kahā - Bitter. Astringent. Td. কষায়।"
+},
+{
+  "word": "Kahā",
+  "pos": "adjective",
+  "definition": "3. কহা Kahā - Bitter. Astringent. Td. কষায়।"
+},
+{
+  "word": "কা",
+  "pos": "-",
+  "definition": "কা Kā- The base for indefinite or interrogative pronoun. Td. *কস (কস) eg. কার = whose."
+},
+{
+  "word": "Kā",
+  "pos": "-",
+  "definition": "কা Kā- The base for indefinite or interrogative pronoun. Td. *কস (কস) eg. কার = whose."
+},
 
 ]
