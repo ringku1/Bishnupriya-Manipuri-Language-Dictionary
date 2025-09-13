@@ -1475,7 +1475,7 @@ const SearchBar = ({ onSelectWord }) => {
         <input
           ref={inputRef}
           type="text"
-          placeholder="Type a word..."
+          placeholder='Type "ককসি" or "Kaksi"'
           value={inputValue}
           onChange={handleChange}
           onKeyDown={handleKeyDown}

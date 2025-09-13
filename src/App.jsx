@@ -101,7 +101,7 @@ function App() {
           <div className="footer-section about-me">
             <h3>About Me</h3>
             <p>
-              Hi, I'm Ringku. I'm just an Engineer! I'm just curious about my
+              Hi, I'm Ringku. I'm just an Engineer and I'm just curious about my
               Bishnupriya Manipuri literature. For any suggestions or
               corrections, please contact me.
             </p>
