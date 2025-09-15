@@ -16719,5 +16719,675 @@
   "pos": "-",
   "definition": "কা Kā- The base for indefinite or interrogative pronoun. Td. *কস (কস) eg. কার = whose."
 },
+{
+  "word": "কা-",
+  "pos": "-",
+  "definition": "1. কা- Kā- A pleon, suf. added to nouns indicating 'time'. Td. কৃত বা কাল। eg. এবাকা, কুম্বাকা, হাঙ্কা।"
+},
+{
+  "word": "Kā-",
+  "pos": "-",
+  "definition": "1. কা- Kā- A pleon, suf. added to nouns indicating 'time'. Td. কৃত বা কাল। eg. এবাকা, কুম্বাকা, হাঙ্কা।"
+},
+{
+  "word": "কা-",
+  "pos": "-",
+  "definition": "2. কা- Kā - A suf. added in a pleon. sense or in the sense of 'looking like'. Td.কৃত or অক্ক। eg খটকা।"
+},
+{
+  "word": "Kā",
+  "pos": "-",
+  "definition": "2. কা- Kā - A suf. added in a pleon. sense or in the sense of 'looking like'. Td.কৃত or অক্ক। eg খটকা।"
+},
+{
+  "word": "কা'-",
+  "pos": "verb",
+  "definition": "কা'- Kā - To ascend. মে. কাব।"
+},
+{
+  "word": "Kā",
+  "pos": "verb",
+  "definition": "কা'- Kā - To ascend. মে. কাব।"
+},
+{
+  "word": "কা",
+  "pos": "noun",
+  "definition": "কা Kā - Apartment. মে.কা।"
+},
+{
+  "word": "Kā",
+  "pos": "noun",
+  "definition": "কা Kā - Apartment. মে.কা।"
+},
+{
+  "word": "কা-আঞ্চিল",
+  "pos": "-",
+  "definition": "কা-আঞ্চিল Kā-Āñcil- V.কা- হেঞ্চিল।"
+},
+{
+  "word": "Kā-Āñcil",
+  "pos": "-",
+  "definition": "কা-আঞ্চিল Kā-Āñcil- V.কা- হেঞ্চিল।"
+},
+{
+  "word": "কা'ই",
+  "pos": "noun",
+  "definition": "কা'ই Kā'i - Bier. Td. খটিকা, মে.কাই।"
+},
+{
+  "word": "Kā'i",
+  "pos": "noun",
+  "definition": "কা'ই Kā'i - Bier. Td. খটিকা, মে.কাই।"
+},
+{
+  "word": "কা'ই",
+  "pos": "noun",
+  "definition": "কা'ই (মা.) Kã'i - Elder sister. per. khwāhari, As.কাই।"
+},
+{
+  "word": "Kã'i",
+  "pos": "noun",
+  "definition": "কা'ই (মা.) Kã'i - Elder sister. per. khwāhari, As.কাই।"
+},
+{
+  "word": "কাইতা- কাইতাঙ",
+  "pos": "adverb",
+  "definition": "কাইতা- কাইতাঙ Käitā Kãitản - i) A little, ii) Gently. মে.কাইদ-কাইদ।"
+},
+{
+  "word": "Käitā-Kãitản",
+  "pos": "adverb",
+  "definition": "কাইতা- কাইতাঙ Käitā Kãitản - i) A little, ii) Gently. মে.কাইদ-কাইদ।"
+},
+{
+  "word": "কাউকাউ",
+  "pos": "-",
+  "definition": "কাউ কাউ KâuKâu - Loud, uproar. Onom."
+},
+{
+  "word": "KâuKâu",
+  "pos": "-",
+  "definition": "কাউ কাউ KâuKâu - Loud, uproar. Onom."
+},
+{
+  "word": "কাউআলি",
+  "pos": "-",
+  "definition": "কাউআলি - Kāuwāli - V. আউকালি।"
+},
+{
+  "word": "Kāuwāli",
+  "pos": "-",
+  "definition": "কাউআলি - Kāuwāli - V. আউকালি।"
+},
+{
+  "word": "কাও",
+  "pos": "noun",
+  "definition": "কাও Kão- A kind of sour fruit."
+},
+{
+  "word": "Kão",
+  "pos": "noun",
+  "definition": "কাও Kão- A kind of sour fruit."
+},
+{
+  "word": "কাওসিং",
+  "pos": "noun",
+  "definition": "কাওসিং (মা) Kãosin - Wood or reed drifted by water current. মে. কাওসিং।"
+},
+{
+  "word": "Kãosin",
+  "pos": "noun",
+  "definition": "কাওসিং (মা) Kãosin - Wood or reed drifted by water current. মে. কাওসিং।"
+},
+{
+  "word": "কাক",
+  "pos": "noun",
+  "definition": "1. কাক - Kāk- A cut, an opening (as of a fish). মে. ককপা।"
+},
+{
+  "word": "Kāk",
+  "pos": "noun",
+  "definition": "1. কাক - Kāk- A cut, an opening (as of a fish). মে. ককপা।"
+},
+{
+  "word": "কাক",
+  "pos": "adjective",
+  "definition": "2. কাক - Kāk - Fully exposed (as of the rays of the sun). V. above."
+},
+{
+  "word": "Kāk",
+  "pos": "adjective",
+  "definition": "2. কাক - Kāk - Fully exposed (as of the rays of the sun). V. above."
+},
+{
+  "word": "কাক",
+  "pos": "noun",
+  "definition": "3. কাক - Kāk - Flunnel."
+},
+{
+  "word": "Kāk",
+  "pos": "noun",
+  "definition": "3. কাক - Kāk - Flunnel."
+},
+{
+  "word": "কাকা",
+  "pos": "noun",
+  "definition": "কাকা Kākā- Uncle. Per. Kākā."
+},
+{
+  "word": "Kākā",
+  "pos": "noun",
+  "definition": "কাকা Kākā- Uncle. Per. Kākā."
+},
+{
+  "word": "কা'কারা",
+  "pos": "noun",
+  "definition": "1. কা'কারা Ka'kārā - Lock. Td. *কর্কটক।"
+},
+{
+  "word": "Ka'kārā",
+  "pos": "noun",
+  "definition": "1. কা'কারা Ka'kārā - Lock. Td. *কর্কটক।"
+},
+{
+  "word": "কা'কারা",
+  "pos": "noun",
+  "definition": "2. কা'কারা Kā'kārā - A crab. Td. কঙ্করক, কর্কটক।"
+},
+{
+  "word": "Kā'kārā",
+  "pos": "noun",
+  "definition": "2. কা'কারা Kā'kārā - A crab. Td. কঙ্করক, কর্কটক।"
+},
+{
+  "word": "কা'কারা",
+  "pos": "adjective",
+  "definition": "3. কা'কারা Kākārā - Rough (as a stone). V. I. কাকারা।"
+},
+{
+  "word": "Kākārā",
+  "pos": "adjective",
+  "definition": "3. কা'কারা Kākārā - Rough (as a stone). V. I. কাকারা।"
+},
+{
+  "word": "কাকালি",
+  "pos": "noun",
+  "definition": "কাকালি Kākāli- Waist. Td. *কক্ষপালিক or *কঙ্কালিক or কক্ষ + কঙ্কালিকা, + cont."
+},
+{
+  "word": "Kākāli",
+  "pos": "noun",
+  "definition": "কাকালি Kākāli- Waist. Td. *কক্ষপালিক or *কঙ্কালিক or কক্ষ + কঙ্কালিকা, + cont."
+},
+{
+  "word": "কাকিয়া",
+  "pos": "noun",
+  "definition": "কাকিয়া Käkiyā - A kind of fish. 1. কাক+-ইয়া।"
+},
+{
+  "word": "Käkiyā",
+  "pos": "noun",
+  "definition": "কাকিয়া Käkiyā - A kind of fish. 1. কাক+-ইয়া।"
+},
+{
+  "word": "কাক",
+  "pos": "noun",
+  "definition": "কাক Kāk - A kind of wood."
+},
+{
+  "word": "Kāk",
+  "pos": "noun",
+  "definition": "কাক Kāk - A kind of wood."
+},
+{
+  "word": "কাকুতি",
+  "pos": "noun",
+  "definition": "কাকুতি Kākuti - Importunate request. OIA. কাকৃক্তি। মিনতি= Repeated importunate request."
+},
+{
+  "word": "Kākuti",
+  "pos": "noun",
+  "definition": "কাকুতি Kākuti - Importunate request. OIA. কাকৃক্তি। মিনতি= Repeated importunate request."
+},
+{
+  "word": "কাকুৱা",
+  "pos": "noun",
+  "definition": "কাকুৱা Kākuwā - A kind of fish."
+},
+{
+  "word": "Kākuwā",
+  "pos": "noun",
+  "definition": "কাকুৱা Kākuwā - A kind of fish."
+},
+{
+  "word": "কাকুড়া",
+  "pos": "noun",
+  "definition": "কাকুড়া Kākurà - A kind of wood."
+},
+{
+  "word": "Kākurà",
+  "pos": "noun",
+  "definition": "কাকুড়া Kākurà - A kind of wood."
+},
+{
+  "word": "কাকেই",
+  "pos": "noun",
+  "definition": "কাকেই Kākei - Foot-step."
+},
+{
+  "word": "Kākei",
+  "pos": "noun",
+  "definition": "কাকেই Kākei - Foot-step."
+},
+{
+  "word": "কাকঠা",
+  "pos": "noun",
+  "definition": "কাকঠা Kākţhå - Split wood. OIA. *কাষ্ঠক।"
+},
+{
+  "word": "Kākţhå",
+  "pos": "noun",
+  "definition": "কাকঠা Kākţhå - Split wood. OIA. *কাষ্ঠক।"
+},
+{
+  "word": "কাকঠু",
+  "pos": "noun",
+  "definition": "কাকঠু Käkthu - Split wood. OIA. *কাঠুক।"
+},
+{
+  "word": "Käkthu",
+  "pos": "noun",
+  "definition": "কাকঠু Käkthu - Split wood. OIA. *কাঠুক।"
+},
+{
+  "word": "কাকমেত",
+  "pos": "noun",
+  "definition": "কাকমেত Kākmet - A preparation of boiled vegetables kneaded together. মে. ককপা, sec. el. V. মেত।"
+},
+{
+  "word": "Kākmet",
+  "pos": "noun",
+  "definition": "কাকমেত Kākmet - A preparation of boiled vegetables kneaded together. মে. ককপা, sec. el. V. মেত।"
+},
+{
+  "word": "কাকসা",
+  "pos": "noun",
+  "definition": "কাকসা Kāksā - Hard soil in a tilled piece of land. Td. কাষ্ঠসমক।"
+},
+{
+  "word": "Kāksā",
+  "pos": "noun",
+  "definition": "কাকসা Kāksā - Hard soil in a tilled piece of land. Td. কাষ্ঠসমক।"
+},
+{
+  "word": "কাকসাবী",
+  "pos": "noun",
+  "definition": "কাকসাবী Kāksāi - V above + bi."
+},
+{
+  "word": "Kāksāi",
+  "pos": "noun",
+  "definition": "কাকসাবী Kāksāi - V above + bi."
+},
+{
+  "word": "কাগজ",
+  "pos": "noun",
+  "definition": "কাগজ Kāgaj - Paper. Per Ar. Kāgad, Chin. Käygad."
+},
+{
+  "word": "Kāgaj",
+  "pos": "noun",
+  "definition": "কাগজ Kāgaj - Paper. Per Ar. Kāgad, Chin. Käygad."
+},
+{
+  "word": "-কাঙ",
+  "pos": "-",
+  "definition": "-কাঙ -Kân - A suf. used in a diminutive sense. Td.কৃত + অঙ্গ, V.- অঙ, eg.- হুরুকাঙ।"
+},
+{
+  "word": "-Kân",
+  "pos": "-",
+  "definition": "-কাঙ -Kân - A suf. used in a diminutive sense. Td.কৃত + অঙ্গ, V.- অঙ, eg.- হুরুকাঙ।"
+},
+{
+  "word": "কাঙ",
+  "pos": "noun",
+  "definition": "1. কাঙ Kāń - A kind of flower.?"
+},
+{
+  "word": "Kāń",
+  "pos": "noun",
+  "definition": "1. কাঙ Kāń - A kind of flower.?"
+},
+{
+  "word": "কাঙ",
+  "pos": "noun",
+  "definition": "2. কাঙ Kan - Chariot, মে. কাঙ।"
+},
+{
+  "word": "Kan",
+  "pos": "noun",
+  "definition": "2. কাঙ Kan - Chariot, মে. কাঙ।"
+},
+{
+  "word": "কা'ঙ",
+  "pos": "adjective",
+  "definition": "কা'ঙ Kä'n - Opened for play (as in a game of dice). মে.অকাঙবা= opened."
+},
+{
+  "word": "Kä'n",
+  "pos": "adjective",
+  "definition": "কা'ঙ Kä'n - Opened for play (as in a game of dice). মে.অকাঙবা= opened."
+},
+{
+  "word": "কাঙা",
+  "pos": "noun",
+  "definition": "কাঙা Kānā - Swan. মে. কাঙঙা, Naga. কাঙা।"
+},
+{
+  "word": "Kānā",
+  "pos": "noun",
+  "definition": "কাঙা Kānā - Swan. মে. কাঙঙা, Naga. কাঙা।"
+},
+{
+  "word": "কাঙাবেড়ি",
+  "pos": "adjective",
+  "definition": "কাঙাবেড়ি Kāñāberi - Knotted, twisted (as of ropes). ? + বেষ্টিক।"
+},
+{
+  "word": "Kāñāberi",
+  "pos": "adjective",
+  "definition": "কাঙাবেড়ি Kāñāberi - Knotted, twisted (as of ropes). ? + বেষ্টিক।"
+},
+{
+  "word": "কাঙৌ",
+  "pos": "noun",
+  "definition": "1. কাঙৌ Kāñau - Hockey-stick. মে. কাঙহু।"
+},
+{
+  "word": "Kāñau",
+  "pos": "noun",
+  "definition": "1. কাঙৌ Kāñau - Hockey-stick. মে. কাঙহু।"
+},
+{
+  "word": "কা'ঙৌ",
+  "pos": "noun",
+  "definition": "2. কা'ঙৌ (মা.) Kāñau - Dried fish. মে.কঙ = dry + ভৌপা = to fry."
+},
+{
+  "word": "Kāñau",
+  "pos": "noun",
+  "definition": "2. কা'ঙৌ (মা.) Kāñau - Dried fish. মে.কঙ = dry + ভৌপা = to fry."
+},
+{
+  "word": "কাঙক্রিক",
+  "pos": "noun",
+  "definition": "কাঙক্রিক Käńkrik- Gravel, concrete."
+},
+{
+  "word": "Käńkrik",
+  "pos": "noun",
+  "definition": "কাঙক্রিক Käńkrik- Gravel, concrete."
+},
+{
+  "word": "কা'ঙখা",
+  "pos": "-",
+  "definition": "কা'ঙখা (মা.) Kānkhā - V. কাঙহা।"
+},
+{
+  "word": "Kānkhā",
+  "pos": "-",
+  "definition": "কা'ঙখা (মা.) Kānkhā - V. কাঙহা।"
+},
+{
+  "word": "কাঙখু",
+  "pos": "noun",
+  "definition": "কাঙখু Kānkhu - Dry cough. মে.কংখু।"
+},
+{
+  "word": "Kānkhu",
+  "pos": "noun",
+  "definition": "কাঙখু Kānkhu - Dry cough. মে.কংখু।"
+},
+{
+  "word": "কাঙ্গাল",
+  "pos": "noun",
+  "definition": "কাঙ্গাল Kångāl- One meanly or humbly praying for something.? Dr. S. sen derives it from. কঙ্ক = an ethnic name."
+},
+{
+  "word": "Kångāl",
+  "pos": "noun",
+  "definition": "কাঙ্গাল Kångāl- One meanly or humbly praying for something.? Dr. S. sen derives it from. কঙ্ক = an ethnic name."
+},
+{
+  "word": "কাঙ্গালি",
+  "pos": "noun",
+  "definition": "কাঙ্গালি Kangāli - V. above."
+},
+{
+  "word": "Kangāli",
+  "pos": "noun",
+  "definition": "কাঙ্গালি Kangāli - V. above."
+},
+{
+  "word": "কাঙ্গুরু",
+  "pos": "-",
+  "definition": "কাঙ্গুরু (মা.) Kâńguru - V. কঙ্গরৌ।"
+},
+{
+  "word": "Kâńguru",
+  "pos": "-",
+  "definition": "কাঙ্গুরু (মা.) Kâńguru - V. কঙ্গরৌ।"
+},
+{
+  "word": "কাঙচি",
+  "pos": "noun",
+  "definition": "কাঙচি Kānci - A stick used in playing. Td. (L.Skt.). কঞ্চি।"
+},
+{
+  "word": "Kānci",
+  "pos": "noun",
+  "definition": "কাঙচি Kānci - A stick used in playing. Td. (L.Skt.). কঞ্চি।"
+},
+{
+  "word": "কা'ঙচেই",
+  "pos": "noun",
+  "definition": "কা'ঙচেই Ka'ncei - Hockey. মে. কাঙচৈ।- পুঙ = Hockey- field."
+},
+{
+  "word": "Ka'ncei",
+  "pos": "noun",
+  "definition": "কা'ঙচেই Ka'ncei - Hockey. মে. কাঙচৈ।- পুঙ = Hockey- field."
+},
+{
+  "word": "কাঙতলপি",
+  "pos": "noun",
+  "definition": "কাঙতলপি Kāntalpi - A design of heavy cloth."
+},
+{
+  "word": "Kāntalpi",
+  "pos": "noun",
+  "definition": "কাঙতলপি Kāntalpi - A design of heavy cloth."
+},
+{
+  "word": "কাঙতলফি",
+  "pos": "noun",
+  "definition": "কাঙতলফি Kāntalphi - A design of heavy cloth."
+},
+{
+  "word": "Kāntalpi, Kāntalphi",
+  "pos": "noun",
+  "definition": "কাঙতলফি Kāntalphi - A design of heavy cloth."
+},
+{
+  "word": "কাঙথল",
+  "pos": "noun",
+  "definition": "কাঙথল Kānthal - Bedstead. মে. কাঙথোন।"
+},
+{
+  "word": "Kānthal",
+  "pos": "noun",
+  "definition": "কাঙথল Kānthal - Bedstead. মে. কাঙথোন।"
+},
+{
+  "word": "কাঙথাক",
+  "pos": "-",
+  "definition": "কাঙথাক Kânthäk - V. কাস্থাক।"
+},
+{
+  "word": "Kânthäk",
+  "pos": "-",
+  "definition": "কাঙথাক Kânthäk - V. কাস্থাক।"
+},
+{
+  "word": "কাঙপু",
+  "pos": "-",
+  "definition": "কাঙপু (মা.) Kāñpu - V. below."
+},
+{
+  "word": "Kāñpu",
+  "pos": "-",
+  "definition": "কাঙপু (মা.) Kāñpu - V. below."
+},
+{
+  "word": "কাঙফু",
+  "pos": "noun",
+  "definition": "কাঙফু Kañphu - Group. মে. কাঙপু।"
+},
+{
+  "word": "Kañphu",
+  "pos": "noun",
+  "definition": "কাঙফু Kañphu - Group. মে. কাঙপু।"
+},
+{
+  "word": "কাঙলা",
+  "pos": "adjective",
+  "definition": "কাঙলা Kānla - Spacious. মে. কাঙলা = capital."
+},
+{
+  "word": "Kānla",
+  "pos": "adjective",
+  "definition": "কাঙলা Kānla - Spacious. মে. কাঙলা = capital."
+},
+{
+  "word": "কাঙলুপ",
+  "pos": "noun",
+  "definition": "কাঙলুপ Kanlup - Gang, party. মে. কাঙলুপ।"
+},
+{
+  "word": "Kanlup",
+  "pos": "noun",
+  "definition": "কাঙলুপ Kanlup - Gang, party. মে. কাঙলুপ।"
+},
+{
+  "word": "কাঙসি",
+  "pos": "noun",
+  "definition": "কাঙসি Känsi - Gong. Td. *কংস্যিক, মে. কাঙশী।"
+},
+{
+  "word": "Känsi",
+  "pos": "noun",
+  "definition": "কাঙসি Känsi - Gong. Td. *কংস্যিক, মে. কাঙশী।"
+},
+{
+  "word": "কাঙসুবি",
+  "pos": "-",
+  "definition": "কাঙসুবি (মা.) Kāñsubi - V. কাঞ্চুপি।"
+},
+{
+  "word": "Kāñsubi",
+  "pos": "-",
+  "definition": "কাঙসুবি (মা.) Kāñsubi - V. কাঞ্চুপি।"
+},
+{
+  "word": "কাঙহা",
+  "pos": "noun",
+  "definition": "কাঙহা Kānha - Bed-stead. মে. কাঙখা।- রতল= The place under the bedstead."
+},
+{
+  "word": "Kānha",
+  "pos": "noun",
+  "definition": "কাঙহা Kānha - Bed-stead. মে. কাঙখা।- রতল= The place under the bedstead."
+},
+{
+  "word": "কাঙহু",
+  "pos": "noun",
+  "definition": "কাঙহু (মা.) Kāñhu - A kind of plant used as green spices. মে. কাঙহু।"
+},
+{
+  "word": "Kāñhu",
+  "pos": "noun",
+  "definition": "কাঙহু (মা.) Kāñhu - A kind of plant used as green spices. মে. কাঙহু।"
+},
+{
+  "word": "কাচা",
+  "pos": "adjective",
+  "definition": "কাচa Kācă - Unripe, green. Td. *কৃত্যক = to be done, to be cooked, H. কচ্চা। আধা- = half green, half-ripe."
+},
+{
+  "word": "Kācă",
+  "pos": "adjective",
+  "definition": "কাচa Kācă - Unripe, green. Td. *কৃত্যক = to be done, to be cooked, H. কচ্চা। আধা- = half green, half-ripe."
+},
+{
+  "word": "কাচি",
+  "pos": "noun",
+  "definition": "কাচi Kāci - Sickle. Td. কৃত্যিক, Tu. qainci."
+},
+{
+  "word": "Kāci",
+  "pos": "noun",
+  "definition": "কাচi Kāci - Sickle. Td. কৃত্যিক, Tu. qainci."
+},
+{
+  "word": "কাচুলি",
+  "pos": "noun",
+  "definition": "কাচুলি Kāculi - A hemispheroidal cup with a stand. Td. *কাংস্যতলিক, মে. কাসিলি।"
+},
+{
+  "word": "Kāculi",
+  "pos": "noun",
+  "definition": "কাচুলি Kāculi - A hemispheroidal cup with a stand. Td. *কাংস্যতলিক, মে. কাসিলি।"
+},
+{
+  "word": "কাচেল",
+  "pos": "noun",
+  "definition": "কাচেল Kâcel - Corner. মে.কাচিন।"
+},
+{
+  "word": "Kâcel",
+  "pos": "noun",
+  "definition": "কাচেল Kâcel - Corner. মে.কাচিন।"
+},
+{
+  "word": "কাচকলা",
+  "pos": "noun",
+  "definition": "কাচকলা Kāckalā - Green banana, কাচা + কলা।"
+},
+{
+  "word": "Kāckalā",
+  "pos": "noun",
+  "definition": "কাচকলা Kāckalā - Green banana, কাচা + কলা।"
+},
+{
+  "word": "কাছারি",
+  "pos": "noun",
+  "definition": "কাছারি Kāchâri - Court of justice. Td. কৃত্যাগারিক, Tu. Kachari."
+},
+{
+  "word": "Kāchâri",
+  "pos": "noun",
+  "definition": "কাছারি Kāchâri - Court of justice. Td. কৃত্যাগারিক, Tu. Kachari."
+},
+{
+  "word": "কাজ",
+  "pos": "noun",
+  "definition": "কাজ Kāj - Work, duty. Td. কার্য্য।"
+},
+{
+  "word": "Kāj",
+  "pos": "noun",
+  "definition": "কাজ Kāj - Work, duty. Td. কার্য্য।"
+},
 
 ]
