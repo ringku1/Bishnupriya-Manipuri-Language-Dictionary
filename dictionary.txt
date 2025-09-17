@@ -19299,5 +19299,325 @@
   "pos": "noun",
   "definition": "কাসমালিকা Kāsmālikā - Copper sulphate.?"
 },
+{
+  "word": "কাসসুবী",
+  "pos": "-",
+  "definition": "কাসসুবী M. Kāssubi - V. Kacupi."
+},
+{
+  "word": "Kāssubi",
+  "pos": "-",
+  "definition": "কাসসুবী M. Kāssubi - V. Kacupi."
+},
+{
+  "word": "কাহ",
+  "pos": "verb",
+  "definition": "কাহ Kāh - To cough. Td. Kāša, denom."
+},
+{
+  "word": "Kāh",
+  "pos": "verb",
+  "definition": "কাহ Kāh - To cough. Td. Kāša, denom."
+},
+{
+  "word": "কাহা",
+  "pos": "verb",
+  "definition": "কাহা M. Kảhả - To ascend. Mt. Kāthapă. with intrusive -h."
+},
+{
+  "word": "Kảhả",
+  "pos": "verb",
+  "definition": "কাহা M. Kảhả - To ascend. Mt. Kāthapă. with intrusive -h."
+},
+{
+  "word": "কাহানা",
+  "pos": "adjective",
+  "definition": "1. কাহানা M. Kāhảnā - Useful. Mt. Kānnapā with intrusive -h."
+},
+{
+  "word": "Kāhảnā",
+  "pos": "adjective",
+  "definition": "1. কাহানা M. Kāhảnā - Useful. Mt. Kānnapā with intrusive -h."
+},
+{
+  "word": "কাহানা",
+  "pos": "adjective",
+  "definition": "2. কাহানা Kâhānā M.Leaky. Td. Kāņaka - with intrusive - h."
+},
+{
+  "word": "Kâhānā",
+  "pos": "adjective",
+  "definition": "2. কাহানা Kâhānā M.Leaky. Td. Kāņaka - with intrusive - h."
+},
+{
+  "word": "কাহানা",
+  "pos": "noun",
+  "definition": "3. কাহানা M. Kāhānā - Ascending - Kāhā -+ nã."
+},
+{
+  "word": "Kāhānā",
+  "pos": "noun",
+  "definition": "3. কাহানা M. Kāhānā - Ascending - Kāhā -+ nã."
+},
+{
+  "word": "কাহানি",
+  "pos": "noun",
+  "definition": "কাহানি Kähāni - Coughing. Kãh - +ăni."
+},
+{
+  "word": "Kähāni",
+  "pos": "noun",
+  "definition": "কাহানি Kähāni - Coughing. Kãh - +ăni."
+},
+{
+  "word": "কাহাম",
+  "pos": "-",
+  "definition": "কাহাম Kähām - V. Kăphảm."
+},
+{
+  "word": "Kähām",
+  "pos": "-",
+  "definition": "কাহাম Kähām - V. Kăphảm."
+},
+{
+  "word": "কাহি",
+  "pos": "noun",
+  "definition": "কাহি Kähi - Cough. Td. Kāśika."
+},
+{
+  "word": "Kähi",
+  "pos": "noun",
+  "definition": "কাহি Kähi - Cough. Td. Kāśika."
+},
+{
+  "word": "কাহুরা",
+  "pos": "noun",
+  "definition": "কাহুরা Kähurā - Asthma. Kāh + ură."
+},
+{
+  "word": "Kähurā",
+  "pos": "noun",
+  "definition": "কাহুরা Kähurā - Asthma. Kāh + ură."
+},
+{
+  "word": "কাহুরা",
+  "pos": "noun",
+  "definition": "কাহুরা Kähurā - One attacked with asthma. Kāh +- urā. Td. kās akaraka."
+},
+{
+  "word": "Kähurā",
+  "pos": "noun",
+  "definition": "কাহুরা Kähurā - One attacked with asthma. Kāh +- urā. Td. kās akaraka."
+},
+{
+  "word": "কা- হেঞ্চিল",
+  "pos": "noun",
+  "definition": "কা- হেঞ্চিল Kâheñcil - i) The act of going beyond one's capacity or status; ii) Arrogant. Mt. kā = Position, sec. el. V. hencil."
+},
+{
+  "word": "Kâheñcil",
+  "pos": "noun",
+  "definition": "কা- হেঞ্চিল Kâheñcil - i) The act of going beyond one's capacity or status; ii) Arrogant. Mt. kā = Position, sec. el. V. hencil."
+},
+{
+  "word": "কা'হেল",
+  "pos": "adjective",
+  "definition": "কা'হেল Kā'hēl - Arrogant. Mt. Kähënpā."
+},
+{
+  "word": "Kā'hēl",
+  "pos": "adjective",
+  "definition": "কা'হেল Kā'hēl - Arrogant. Mt. Kähënpā."
+},
+{
+  "word": "কি",
+  "pos": "-",
+  "definition": "কি Ki - The base for indefinite or interrogative pronoun (as in kihan, kitā etc). Td. kim. - käåm (-কাম) = What necessity?"
+},
+{
+  "word": "Ki",
+  "pos": "-",
+  "definition": "কি Ki - The base for indefinite or interrogative pronoun (as in kihan, kitā etc). Td. kim. - käåm (-কাম) = What necessity?"
+},
+{
+  "word": "-কি",
+  "pos": "-",
+  "definition": "-কি -ki - A suf. indicating relation. MIA-KKi, Ka + fem. i or Td. krta."
+},
+{
+  "word": "ki",
+  "pos": "-",
+  "definition": "-কি -ki - A suf. indicating relation. MIA-KKi, Ka + fem. i or Td. krta."
+},
+{
+  "word": "-কি",
+  "pos": "-",
+  "definition": "-কি -ki - A suf. added to nouns in a pleon. sense (as in dalki = floating reed); V. above."
+},
+{
+  "word": "-ki",
+  "pos": "-",
+  "definition": "-কি -ki - A suf. added to nouns in a pleon. sense (as in dalki = floating reed); V. above."
+},
+{
+  "word": "কি-",
+  "pos": "adjective",
+  "definition": "কি- Ki- - Afraid. Mt. Ki-ba."
+},
+{
+  "word": "Ki",
+  "pos": "adjective",
+  "definition": "কি- Ki- - Afraid. Mt. Ki-ba."
+},
+{
+  "word": "কিগো",
+  "pos": "-",
+  "definition": "কিগো Kigo - i) What; ii) A word used in responding to a call. ki + -go."
+},
+{
+  "word": "Kigo",
+  "pos": "-",
+  "definition": "কিগো Kigo - i) What; ii) A word used in responding to a call. ki + -go."
+},
+{
+  "word": "কিনি",
+  "pos": "noun",
+  "definition": "কিনি Kini - Buying. Td. Krnika. biki (বিকি)- = selling and buying."
+},
+{
+  "word": "Kini",
+  "pos": "noun",
+  "definition": "কিনি Kini - Buying. Td. Krnika. biki (বিকি)- = selling and buying."
+},
+{
+  "word": "কিনুৱা",
+  "pos": "verb",
+  "definition": "কিনুৱা - kinuwā - caus. of kin."
+},
+{
+  "word": "kinuwā",
+  "pos": "verb",
+  "definition": "কিনুৱা - kinuwā - caus. of kin."
+},
+{
+  "word": "কিমে",
+  "pos": "-",
+  "definition": "কিমে Kime - How. Td. Kim + matena."
+},
+{
+  "word": "Kime",
+  "pos": "-",
+  "definition": "কিমে Kime - How. Td. Kim + matena."
+},
+{
+  "word": "কিয়া",
+  "pos": "-",
+  "definition": "কিয়া Kiyā - A suf. added to nouns in a pleon. sense (as in dalkiyā)."
+},
+{
+  "word": "Kiyā",
+  "pos": "-",
+  "definition": "কিয়া Kiyā - A suf. added to nouns in a pleon. sense (as in dalkiyā)."
+},
+{
+  "word": "কিয়া",
+  "pos": "-",
+  "definition": "কিয়া Kiya - Why? MIA. kissa, H. kyo."
+},
+{
+  "word": "Kiya",
+  "pos": "-",
+  "definition": "কিয়া Kiya - Why? MIA. kissa, H. kyo."
+},
+{
+  "word": "কিয়াকতি",
+  "pos": "-",
+  "definition": "কিয়াকতি Kiyäkati - V. Kiyākuti."
+},
+{
+  "word": "Kiyäkati",
+  "pos": "-",
+  "definition": "কিয়াকতি Kiyäkati - V. Kiyākuti."
+},
+{
+  "word": "কিয়াকা",
+  "pos": "-",
+  "definition": "কিয়াকা Kiyäkä - What for? Kiyä + Kā (<Kāje)."
+},
+{
+  "word": "Kiyäkä",
+  "pos": "-",
+  "definition": "কিয়াকা Kiyäkä - What for? Kiyä + Kā (<Kāje)."
+},
+{
+  "word": "কিয়াকুতি",
+  "pos": "-",
+  "definition": "কিয়াকুতি Kiyākuti - How much? Mt. kayā + BM. kati."
+},
+{
+  "word": "Kiyākuti",
+  "pos": "-",
+  "definition": "কিয়াকুতি Kiyākuti - How much? Mt. kayā + BM. kati."
+},
+{
+  "word": "কিয়াংলিকফু",
+  "pos": "noun",
+  "definition": "কিয়াংলিকফু Kiyän-likphu- Waist lace. Mt. Khwän = waist; sec. el. V. likphu."
+},
+{
+  "word": "Kiyän-likphu",
+  "pos": "noun",
+  "definition": "কিয়াংলিকফু Kiyän-likphu- Waist lace. Mt. Khwän = waist; sec. el. V. likphu."
+},
+{
+  "word": "কিয়ার",
+  "pos": "noun",
+  "definition": "1. কিয়ার Kiyar - Care. Eng."
+},
+{
+  "word": "Kiyar",
+  "pos": "noun",
+  "definition": "1. কিয়ার Kiyar - Care. Eng."
+},
+{
+  "word": "কিয়ার",
+  "pos": "noun",
+  "definition": "2.কিয়ার Kiyar- A measure of land. Td. kedāra."
+},
+{
+  "word": "Kiyar",
+  "pos": "noun",
+  "definition": "2.কিয়ার Kiyar- A measure of land. Td. kedāra."
+},
+{
+  "word": "কিরা",
+  "pos": "noun",
+  "definition": "1. কিরা Kirā - Funeral rites. Sts. Kriyā. - (ধিরানি) Dharāni = Taking up the responsibility of performing Funeral rites."
+},
+{
+  "word": "Kirā",
+  "pos": "noun",
+  "definition": "1. কিরা Kirā - Funeral rites. Sts. Kriyā. - (ধিরানি) Dharāni = Taking up the responsibility of performing Funeral rites."
+},
+{
+  "word": "কিরা",
+  "pos": "noun",
+  "definition": "2. কিরা Kirā - Oath. Sts. Kriyā. H. Kiriyă."
+},
+{
+  "word": "Kirā",
+  "pos": "noun",
+  "definition": "2. কিরা Kirā - Oath. Sts. Kriyā. H. Kiriyă."
+},
+{
+  "word": "কিরা",
+  "pos": "noun",
+  "definition": "3. কিরা Kira - Worms found in the intestine of animals ii) Disease caused by these worms. Td. Kiţaka."
+},
+{
+  "word": "Kira",
+  "pos": "noun",
+  "definition": "3. কিরা Kira - Worms found in the intestine of animals ii) Disease caused by these worms. Td. Kiţaka."
+},
 
 ]
