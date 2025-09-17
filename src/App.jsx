@@ -7,7 +7,7 @@
 // - Word detail panel with animation
 // - Modern UI and accessibility
 // Main components: App, SearchBar, WordDetail
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import SearchBar from "./SearchBar";
 import WordDetail from "./WordDetail";
 import "./App.css";
@@ -25,6 +25,9 @@ function App() {
     }
     return "light";
   });
+  
+  // Ref to access SearchBar's input focus method
+  const searchBarRef = useRef(null);
 
   useEffect(() => {
     document.documentElement.setAttribute("data-theme", theme);
@@ -35,6 +38,30 @@ function App() {
       document.documentElement.classList.remove("dark-mode");
     }
   }, [theme]);
+  
+  // Global keyboard shortcuts
+  useEffect(() => {
+    const handleKeyDown = (event) => {
+      // Ctrl+K or Cmd+K to focus search (like GitHub, Discord, etc.)
+      if ((event.ctrlKey || event.metaKey) && event.key === 'k') {
+        event.preventDefault();
+        if (searchBarRef.current && searchBarRef.current.focusInput) {
+          searchBarRef.current.focusInput();
+        }
+      }
+      
+      // Escape to close word detail modal
+      if (event.key === 'Escape' && selectedWord) {
+        handleCloseDetail();
+      }
+    };
+    
+    document.addEventListener('keydown', handleKeyDown);
+    
+    return () => {
+      document.removeEventListener('keydown', handleKeyDown);
+    };
+  }, [selectedWord]);
 
   const handleSelectWord = (wordObj) => {
     setSelectedWord(wordObj);
@@ -66,7 +93,7 @@ function App() {
       {/* MAIN CONTENT WRAPPER - This is the key fix */}
       <div className="main-content">
         <h1>BM Dictionary</h1>
-        <SearchBar onSelectWord={handleSelectWord} />
+        <SearchBar ref={searchBarRef} onSelectWord={handleSelectWord} />
         <WordDetail wordObj={selectedWord} onClose={handleCloseDetail} />
       </div>
 

@@ -8,7 +8,13 @@
 // - Accessibility with ARIA attributes
 // - Calls onSelectWord when a word is selected
 // - Modern, theme-aware UI
-import React, { useState, useEffect, useRef } from "react";
+import React, {
+  useState,
+  useEffect,
+  useRef,
+  forwardRef,
+  useImperativeHandle,
+} from "react";
 import "./SearchBar.css";
 
 const diacriticMap = {
@@ -1297,7 +1303,7 @@ const diacriticMap = {
   ],
 };
 
-const SearchBar = ({ onSelectWord }) => {
+const SearchBar = forwardRef(({ onSelectWord }, ref) => {
   const [inputValue, setInputValue] = useState("");
   const [suggestions, setSuggestions] = useState([]);
   const [words, setWords] = useState([]);
@@ -1306,6 +1312,41 @@ const SearchBar = ({ onSelectWord }) => {
   const [showSuggestions, setShowSuggestions] = useState(false);
   const inputRef = useRef(null);
   const suggestionRef = useRef(null);
+
+  // Cache for search results - using useRef to persist across renders
+  const searchCache = useRef(new Map());
+  const CACHE_SIZE_LIMIT = 100; // Limit cache size to prevent memory issues
+
+  // Expose focusInput method to parent component
+  useImperativeHandle(
+    ref,
+    () => ({
+      focusInput: () => {
+        if (inputRef.current) {
+          inputRef.current.focus();
+          // Also show suggestions if there's a value
+          if (inputValue.trim()) {
+            setShowSuggestions(true);
+          }
+        }
+      },
+    }),
+    [inputValue]
+  );
+
+  // Cache management functions
+  const getCachedResults = (query) => {
+    return searchCache.current.get(query);
+  };
+
+  const setCachedResults = (query, results) => {
+    // Implement LRU cache by removing oldest entries when limit is reached
+    if (searchCache.current.size >= CACHE_SIZE_LIMIT) {
+      const firstKey = searchCache.current.keys().next().value;
+      searchCache.current.delete(firstKey);
+    }
+    searchCache.current.set(query, results);
+  };
 
   const isSubsequence = (sub, str) => {
     let subIndex = 0;
@@ -1362,7 +1403,7 @@ const SearchBar = ({ onSelectWord }) => {
     setInputValue(e.target.value);
     setShowSuggestions(true);
   };
-  // Filter suggestions dynamically (subsequence anywhere in word)
+  // Filter suggestions dynamically (subsequence anywhere in word) with caching
   useEffect(() => {
     const value = inputValue.trim();
     if (!value) {
@@ -1374,7 +1415,18 @@ const SearchBar = ({ onSelectWord }) => {
 
     // Normalize the user input to its base form OUTSIDE the filter loop
     const normalizedInput = normalizeString(value);
+    const cacheKey = normalizedInput.toLowerCase();
 
+    // Check cache first
+    const cachedResults = getCachedResults(cacheKey);
+    if (cachedResults) {
+      setSuggestions(cachedResults);
+      setShowSuggestions(true);
+      setActiveIdx(-1);
+      return;
+    }
+
+    // If not in cache, perform the search
     const filtered = words
       .filter((wordObj) => {
         // Check if the word is a string and exists
@@ -1390,6 +1442,9 @@ const SearchBar = ({ onSelectWord }) => {
         return isSubsequence(normalizedInput, normalizedWord);
       })
       .slice(0, 50);
+
+    // Cache the results
+    setCachedResults(cacheKey, filtered);
 
     setSuggestions(filtered);
     setShowSuggestions(true);
@@ -1475,7 +1530,6 @@ const SearchBar = ({ onSelectWord }) => {
         <input
           ref={inputRef}
           type="text"
-          placeholder='Type "ককসি" or "Kaksi"'
           value={inputValue}
           onChange={handleChange}
           onKeyDown={handleKeyDown}
@@ -1487,6 +1541,8 @@ const SearchBar = ({ onSelectWord }) => {
             activeIdx >= 0 ? `suggestion-${activeIdx}` : undefined
           }
           autoComplete="off"
+          placeholder='Type "ককসি" or "Kaksi"'
+          title="Press Ctrl+K (or Cmd+K on Mac) to focus this search box"
         />
         <button
           className="search-button"
@@ -1554,6 +1610,9 @@ const SearchBar = ({ onSelectWord }) => {
       )}
     </div>
   );
-};
+});
+
+// Add display name for debugging
+SearchBar.displayName = "SearchBar";
 
 export default SearchBar;
