@@ -1459,8 +1459,30 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
     onSelectWord(wordObj);
   };
 
+  // Clear input function - moved here for reusability
+  const clearInput = () => {
+    setInputValue("");
+    setSuggestions([]);
+    setShowSuggestions(false);
+    setActiveIdx(-1);
+    // Focus back on input after clearing
+    if (inputRef.current) {
+      inputRef.current.focus();
+    }
+  };
+
   // Handle Enter, ArrowUp, ArrowDown, Escape
   const handleKeyDown = (e) => {
+    // Handle Delete/Backspace to clear when Ctrl/Cmd is held
+    if (
+      (e.ctrlKey || e.metaKey) &&
+      (e.key === "Backspace" || e.key === "Delete")
+    ) {
+      e.preventDefault();
+      clearInput();
+      return;
+    }
+
     if (e.key === "ArrowDown") {
       e.preventDefault();
       if (!showSuggestions) setShowSuggestions(true);
@@ -1530,6 +1552,7 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
         <input
           ref={inputRef}
           type="text"
+          placeholder='Type "ককসি" or "Kaksi"'
           value={inputValue}
           onChange={handleChange}
           onKeyDown={handleKeyDown}
@@ -1541,9 +1564,28 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
             activeIdx >= 0 ? `suggestion-${activeIdx}` : undefined
           }
           autoComplete="off"
-          placeholder='Type "ককসি" or "Kaksi"'
           title="Press Ctrl+K (or Cmd+K on Mac) to focus this search box"
         />
+        {inputValue && (
+          <button
+            className="clear-button"
+            onClick={() => {
+              setInputValue("");
+              setSuggestions([]);
+              setShowSuggestions(false);
+              setActiveIdx(-1);
+              // Focus back on input after clearing
+              if (inputRef.current) {
+                inputRef.current.focus();
+              }
+            }}
+            disabled={loading}
+            title="Clear search (Escape to close suggestions)"
+            aria-label="Clear search input"
+          >
+            ×
+          </button>
+        )}
         <button
           className="search-button"
           onClick={() => {
