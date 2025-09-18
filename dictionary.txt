@@ -19619,5 +19619,1325 @@
   "pos": "noun",
   "definition": "3. কিরা Kira - Worms found in the intestine of animals ii) Disease caused by these worms. Td. Kiţaka."
 },
+{
+  "word": "কিরা",
+  "pos": "verb",
+  "definition": "কিরা Kirā - To borrow. per. Ar. kirāyā, denom."
+},
+{
+  "word": "Kirā",
+  "pos": "verb",
+  "definition": "কিরা Kirā - To borrow. per. Ar. kirāyā, denom."
+},
+{
+  "word": "কিরা",
+  "pos": "noun",
+  "definition": "কিরা kirā - i) Loan; ii) Loan in the form of labour."
+},
+{
+  "word": "kirā",
+  "pos": "noun",
+  "definition": "কিরা kirā - i) Loan; ii) Loan in the form of labour."
+},
+{
+  "word": "কিরান",
+  "pos": "adjective",
+  "definition": "কিরান Kirān - i) Stern, harsh ii) Niggardly."
+},
+{
+  "word": "Kirān",
+  "pos": "adjective",
+  "definition": "কিরান Kirān - i) Stern, harsh ii) Niggardly."
+},
+{
+  "word": "কিরানি",
+  "pos": "noun",
+  "definition": "কিরানি Kirāni - Borrowing. Kirā- + - āni."
+},
+{
+  "word": "Kirāni",
+  "pos": "noun",
+  "definition": "কিরানি Kirāni - Borrowing. Kirā- + - āni."
+},
+{
+  "word": "কিরায়া",
+  "pos": "adjective",
+  "definition": "কিরায়া Kiråya - Borrowed. kirā - + äiyā < OIA āpika."
+},
+{
+  "word": "Kiråya",
+  "pos": "adjective",
+  "definition": "কিরায়া Kiråya - Borrowed. kirā - + äiyā < OIA āpika."
+},
+{
+  "word": "কিরকির",
+  "pos": "-",
+  "definition": "কিরকির Kirkir - A word denoting pulling forcibly or drying quickly."
+},
+{
+  "word": "Kirkir",
+  "pos": "-",
+  "definition": "কিরকির Kirkir - A word denoting pulling forcibly or drying quickly."
+},
+{
+  "word": "কিরকিরা",
+  "pos": "verb",
+  "definition": "কিরকিরা Kirkirā - To get dried quickly."
+},
+{
+  "word": "Kirkirā",
+  "pos": "verb",
+  "definition": "কিরকিরা Kirkirā - To get dried quickly."
+},
+{
+  "word": "কিরকিরানি",
+  "pos": "noun",
+  "definition": "কিরকিরানি Kirkirāni - Getting dried quickly. above + - āni."
+},
+{
+  "word": "Kirkirāni",
+  "pos": "noun",
+  "definition": "কিরকিরানি Kirkirāni - Getting dried quickly. above + - āni."
+},
+{
+  "word": "কিরপন",
+  "pos": "adjective",
+  "definition": "কিরপন Kirpan - Niggardly. Sts. Krpana."
+},
+{
+  "word": "Kirpan",
+  "pos": "adjective",
+  "definition": "কিরপন Kirpan - Niggardly. Sts. Krpana."
+},
+{
+  "word": "কিরপা",
+  "pos": "noun",
+  "definition": "কিরপা Kirpā - Compassion. Sts. Krpā."
+},
+{
+  "word": "Kirpā",
+  "pos": "noun",
+  "definition": "কিরপা Kirpā - Compassion. Sts. Krpā."
+},
+{
+  "word": "কিরমি",
+  "pos": "noun",
+  "definition": "কিরমি Kirmi - Worm. Sts. Krmi."
+},
+{
+  "word": "Kirmi",
+  "pos": "noun",
+  "definition": "কিরমি Kirmi - Worm. Sts. Krmi."
+},
+{
+  "word": "কিরিঙ-কিরিঙ",
+  "pos": "-",
+  "definition": "কিরিঙ কিরিঙ Kirin-Kirin - A word denoting the sound of a bell, onom."
+},
+{
+  "word": "Kirin -Kirin",
+  "pos": "-",
+  "definition": "কিরিঙ কিরিঙ Kirin-Kirin - A word denoting the sound of a bell, onom."
+},
+{
+  "word": "কিল",
+  "pos": "noun",
+  "definition": "কিল Kil - A beating. Td. kilā (blow with the elbow). - (বারি) Bari = A beating."
+},
+{
+  "word": "Kil",
+  "pos": "noun",
+  "definition": "কিল Kil - A beating. Td. kilā (blow with the elbow). - (বারি) Bari = A beating."
+},
+{
+  "word": "কিলা",
+  "pos": "verb",
+  "definition": "কিলা Kilā - To beat. Denom. fr. above."
+},
+{
+  "word": "Kilā",
+  "pos": "verb",
+  "definition": "কিলা Kilā - To beat. Denom. fr. above."
+},
+{
+  "word": "কিলাকিলি",
+  "pos": "noun",
+  "definition": "কিলাকিলি Kiläkili - Mutual beating. Recipr. from above."
+},
+{
+  "word": "Kiläkili",
+  "pos": "noun",
+  "definition": "কিলাকিলি Kiläkili - Mutual beating. Recipr. from above."
+},
+{
+  "word": "কিলানি",
+  "pos": "noun",
+  "definition": "কিলানি Kilāni - Beating. Kilä - +- ani."
+},
+{
+  "word": "Kilāni",
+  "pos": "noun",
+  "definition": "কিলানি Kilāni - Beating. Kilä - +- ani."
+},
+{
+  "word": "কিলিফ",
+  "pos": "noun",
+  "definition": "কিলিফ Kiliph - Cliff. Eng."
+},
+{
+  "word": "Kiliph",
+  "pos": "noun",
+  "definition": "কিলিফ Kiliph - Cliff. Eng."
+},
+{
+  "word": "কিলুৱা",
+  "pos": "verb",
+  "definition": "কিলুৱা Kiluwà - Caus. of Kilā."
+},
+{
+  "word": "Kiluwà",
+  "pos": "verb",
+  "definition": "কিলুৱা Kiluwà - Caus. of Kilā."
+},
+{
+  "word": "কিশোরীভজনা",
+  "pos": "noun",
+  "definition": "কিশোরীভজনা Kisori bhajan - A sect of Vaişnavism in which a female is taken help of by a devotee."
+},
+{
+  "word": "Kisori bhajan",
+  "pos": "noun",
+  "definition": "কিশোরীভজনা Kisori bhajan - A sect of Vaişnavism in which a female is taken help of by a devotee."
+},
+{
+  "word": "কিশমিশ",
+  "pos": "noun",
+  "definition": "কিশমিশ Kismiś - Raisin. per. Kiśmis"
+},
+{
+  "word": "Kismiś",
+  "pos": "noun",
+  "definition": "কিশমিশ Kismiś - Raisin. per. Kiśmis"
+},
+{
+  "word": "কিসাদে",
+  "pos": "-",
+  "definition": "কিসাদে Kisåde - How, in what way? Ki + Sāde."
+},
+{
+  "word": "Kisåde",
+  "pos": "-",
+  "definition": "কিসাদে Kisåde - How, in what way? Ki + Sāde."
+},
+{
+  "word": "কিসান্দে",
+  "pos": "-",
+  "definition": "কিসান্দে Kisānde - V. above. Ki + sade."
+},
+{
+  "word": "Kisānde",
+  "pos": "-",
+  "definition": "কিসান্দে Kisānde - V. above. Ki + sade."
+},
+{
+  "word": "কিসারে",
+  "pos": "-",
+  "definition": "কিসারে M. Kisāre - V. Kisāde."
+},
+{
+  "word": "Kisāre",
+  "pos": "-",
+  "definition": "কিসারে M. Kisāre - V. Kisāde."
+},
+{
+  "word": "কিসিম",
+  "pos": "noun",
+  "definition": "কিসিম Kisim - Type, nature. Ar. quism."
+},
+{
+  "word": "Kisim",
+  "pos": "noun",
+  "definition": "কিসিম Kisim - Type, nature. Ar. quism."
+},
+{
+  "word": "কিস্তি",
+  "pos": "noun",
+  "definition": "কিস্তি Kisti - Instalment. Per. quişt."
+},
+{
+  "word": "Kisti",
+  "pos": "noun",
+  "definition": "কিস্তি Kisti - Instalment. Per. quişt."
+},
+{
+  "word": "কীর্তন",
+  "pos": "noun",
+  "definition": "কীর্তন Kirtan - i) The act of singing the names of God specially of Gaurānga, Krişna and Rādhā; ii) A performance in which the twenty-four hours activities of Rādhā and Krisņa are sung in twenty four hours. Ts."
+},
+{
+  "word": "Kirtan",
+  "pos": "noun",
+  "definition": "কীর্তন Kirtan - i) The act of singing the names of God specially of Gaurānga, Krişna and Rādhā; ii) A performance in which the twenty-four hours activities of Rādhā and Krisņa are sung in twenty four hours. Ts."
+},
+{
+  "word": "কীর্তনী",
+  "pos": "noun",
+  "definition": "কীর্তনী Kirtani - A singer of Kirtana. Ts. or Sts. *Kirtanika."
+},
+{
+  "word": "Kirtani",
+  "pos": "noun",
+  "definition": "কীর্তনী Kirtani - A singer of Kirtana. Ts. or Sts. *Kirtanika."
+},
+{
+  "word": "কীর্তি",
+  "pos": "noun",
+  "definition": "কীর্তি Kirti - Fame. Ts."
+},
+{
+  "word": "Kirti",
+  "pos": "noun",
+  "definition": "কীর্তি Kirti - Fame. Ts."
+},
+{
+  "word": "কু",
+  "pos": "-",
+  "definition": "কু Ku - A prefix used in the sense of 'bad'. Ts."
+},
+{
+  "word": "Ku",
+  "pos": "-",
+  "definition": "কু Ku - A prefix used in the sense of 'bad'. Ts."
+},
+{
+  "word": "কু",
+  "pos": "adjective",
+  "definition": "কু Ku - Vacant, Uncultivated. Per. Kuh hill. - bāzār = A non-market day."
+},
+{
+  "word": "Ku",
+  "pos": "adjective",
+  "definition": "কু Ku - Vacant, Uncultivated. Per. Kuh hill. - bāzār = A non-market day."
+},
+{
+  "word": "কু",
+  "pos": "noun",
+  "definition": "কু Ku'- A hole dug under a funeral pyre. Td. Kūpa."
+},
+{
+  "word": "Ku",
+  "pos": "noun",
+  "definition": "কু Ku'- A hole dug under a funeral pyre. Td. Kūpa."
+},
+{
+  "word": "কুই",
+  "pos": "-",
+  "definition": "1. কুই Kui - V. kuhi."
+},
+{
+  "word": "Kui",
+  "pos": "-",
+  "definition": "1. কুই Kui - V. kuhi."
+},
+{
+  "word": "কুই",
+  "pos": "-",
+  "definition": "2. কুই M. Kui - V. Kai."
+},
+{
+  "word": "Kui",
+  "pos": "-",
+  "definition": "2. কুই M. Kui - V. Kai."
+},
+{
+  "word": "কুই",
+  "pos": "-",
+  "definition": "3. কুই M. Kui - V. Kati."
+},
+{
+  "word": "Kui",
+  "pos": "-",
+  "definition": "3. কুই M. Kui - V. Kati."
+},
+{
+  "word": "কুকাম",
+  "pos": "noun",
+  "definition": "কুকাম Kukām - Bad work. Ku + Kām."
+},
+{
+  "word": "Kukām",
+  "pos": "noun",
+  "definition": "কুকাম Kukām - Bad work. Ku + Kām."
+},
+{
+  "word": "কুকারা",
+  "pos": "noun",
+  "definition": "কুকারা Kukārā - Cock. Td. Kukkuţaka; OB. KuKārā."
+},
+{
+  "word": "Kukārā",
+  "pos": "noun",
+  "definition": "কুকারা Kukārā - Cock. Td. Kukkuţaka; OB. KuKārā."
+},
+{
+  "word": "কুকালা",
+  "pos": "noun",
+  "definition": "কুকালা Kukālā - Gurgling. Td. Kula, Kola. H. Kulkulanā."
+},
+{
+  "word": "Kukālā",
+  "pos": "noun",
+  "definition": "কুকালা Kukālā - Gurgling. Td. Kula, Kola. H. Kulkulanā."
+},
+{
+  "word": "কুকিডেইনী",
+  "pos": "noun",
+  "definition": "কুকিডেইনী Kuki-deini - A kind of plant with sour leaves. Kuki = a hill tribe sec. el. V. Deini."
+},
+{
+  "word": "Kuki-deini",
+  "pos": "noun",
+  "definition": "কুকিডেইনী Kuki-deini - A kind of plant with sour leaves. Kuki = a hill tribe sec. el. V. Deini."
+},
+{
+  "word": "কুকুনু",
+  "pos": "noun",
+  "definition": "কুকুনু Kukunu - A kind of food grain and its plant. cf. E.B. Kākain."
+},
+{
+  "word": "Kukunu",
+  "pos": "noun",
+  "definition": "কুকুনু Kukunu - A kind of food grain and its plant. cf. E.B. Kākain."
+},
+{
+  "word": "কুকুর",
+  "pos": "noun",
+  "definition": "কুকুর Kukur - Dog. Td. Kukkutaka."
+},
+{
+  "word": "Kukur",
+  "pos": "noun",
+  "definition": "কুকুর Kukur - Dog. Td. Kukkutaka."
+},
+{
+  "word": "কুকুরী",
+  "pos": "noun",
+  "definition": "1. কুকুরী Kukuri - Bitch. Fem. of above. Td. Kukkuri."
+},
+{
+  "word": "Kukuri",
+  "pos": "noun",
+  "definition": "1. কুকুরী Kukuri - Bitch. Fem. of above. Td. Kukkuri."
+},
+{
+  "word": "কুকুরী",
+  "pos": "noun",
+  "definition": "2. কুকুরী Kukuri - Hen. Td. Kukkutikā."
+},
+{
+  "word": "Kukuri",
+  "pos": "noun",
+  "definition": "2. কুকুরী Kukuri - Hen. Td. Kukkutikā."
+},
+{
+  "word": "কুকফেই",
+  "pos": "noun",
+  "definition": "কুকফেই Kukphei - Mould, mildew. Mt. Kokphãi."
+},
+{
+  "word": "Kukphei",
+  "pos": "noun",
+  "definition": "কুকফেই Kukphei - Mould, mildew. Mt. Kokphãi."
+},
+{
+  "word": "কুং",
+  "pos": "-",
+  "definition": "কুং Kun - Which? Td. kah punah or Kamanah; H. Kaun."
+},
+{
+  "word": "Kun",
+  "pos": "-",
+  "definition": "কুং Kun - Which? Td. kah punah or Kamanah; H. Kaun."
+},
+{
+  "word": "কুঙ্কুম",
+  "pos": "noun",
+  "definition": "কুঙ্কুম Kunkum - Saffron. Ts."
+},
+{
+  "word": "Kunkum",
+  "pos": "noun",
+  "definition": "কুঙ্কুম Kunkum - Saffron. Ts."
+},
+{
+  "word": "কুংগো",
+  "pos": "-",
+  "definition": "কুংগো Kungo - Which one? Kun + - go."
+},
+{
+  "word": "Kungo",
+  "pos": "-",
+  "definition": "কুংগো Kungo - Which one? Kun + - go."
+},
+{
+  "word": "কুংতা",
+  "pos": "-",
+  "definition": "কুংতা Kuntā - Which one? Kun + - tā."
+},
+{
+  "word": "Kuntā",
+  "pos": "-",
+  "definition": "কুংতা Kuntā - Which one? Kun + - tā."
+},
+{
+  "word": "কুচ",
+  "pos": "noun",
+  "definition": "1. কুচ Kuc - Mass, multitude. Td. Kūrca."
+},
+{
+  "word": "Kuc",
+  "pos": "noun",
+  "definition": "1. কুচ Kuc - Mass, multitude. Td. Kūrca."
+},
+{
+  "word": "কুচ",
+  "pos": "adjective",
+  "definition": "2. কুচ kuc - Contracted, wrinkled. Td. Koca (as in sankoca)."
+},
+{
+  "word": "kuc",
+  "pos": "adjective",
+  "definition": "2. কুচ kuc - Contracted, wrinkled. Td. Koca (as in sankoca)."
+},
+{
+  "word": "কুচা",
+  "pos": "noun",
+  "definition": "কুচা Kucä - Harpoon. Per. gurza or OIA Kuntaka."
+},
+{
+  "word": "Kucä",
+  "pos": "noun",
+  "definition": "কুচা Kucä - Harpoon. Per. gurza or OIA Kuntaka."
+},
+{
+  "word": "কুচারা",
+  "pos": "noun",
+  "definition": "কুচারা Kucārā - A handful (as of paddy plant). cf. khucāră."
+},
+{
+  "word": "Kucārā",
+  "pos": "noun",
+  "definition": "কুচারা Kucārā - A handful (as of paddy plant). cf. khucāră."
+},
+{
+  "word": "কুচি",
+  "pos": "noun",
+  "definition": "1. কুচি Kuci - A small ladle. Td. Kurcikā."
+},
+{
+  "word": "Kuci",
+  "pos": "noun",
+  "definition": "1. কুচি Kuci - A small ladle. Td. Kurcikā."
+},
+{
+  "word": "কুচি",
+  "pos": "noun",
+  "definition": "2. কুচি Kuci - Chip. Td. Kuñcika."
+},
+{
+  "word": "Kuci",
+  "pos": "noun",
+  "definition": "2. কুচি Kuci - Chip. Td. Kuñcika."
+},
+{
+  "word": "কুচি-কাটা",
+  "pos": "noun",
+  "definition": "কুচি-কাটা Kuci Kăță - A rod with a pointed end, used in embroidery."
+},
+{
+  "word": "Kuci Kăță",
+  "pos": "noun",
+  "definition": "কুচি-কাটা Kuci Kăță - A rod with a pointed end, used in embroidery."
+},
+{
+  "word": "কুচিন্তা",
+  "pos": "noun",
+  "definition": "কুচিন্তা Kucintă - Evil thought. Ts."
+},
+{
+  "word": "Kucintă",
+  "pos": "noun",
+  "definition": "কুচিন্তা Kucintă - Evil thought. Ts."
+},
+{
+  "word": "কুচিয়া",
+  "pos": "noun",
+  "definition": "কুচিয়া Kuciyā - Eel. Td. Kuñcika."
+},
+{
+  "word": "Kuciyā",
+  "pos": "noun",
+  "definition": "কুচিয়া Kuciyā - Eel. Td. Kuñcika."
+},
+{
+  "word": "কুচু",
+  "pos": "-",
+  "definition": "কুচু M. Kucu - V. Kacu."
+},
+{
+  "word": "Kucu",
+  "pos": "-",
+  "definition": "কুচু M. Kucu - V. Kacu."
+},
+{
+  "word": "কুঞ্চেল",
+  "pos": "noun",
+  "definition": "কুঞ্চেল Kuñcel - Corner. M. Mt. Koñcin, N. Mt. Konjin. cf. Kona."
+},
+{
+  "word": "Kuñcel",
+  "pos": "noun",
+  "definition": "কুঞ্চেল Kuñcel - Corner. M. Mt. Koñcin, N. Mt. Konjin. cf. Kona."
+},
+{
+  "word": "কুঞ্জ",
+  "pos": "noun",
+  "definition": "কুঞ্জ Kunj - i) Grove, bower, ii) A pandal decorated in the design of a grove."
+},
+{
+  "word": "Kunj",
+  "pos": "noun",
+  "definition": "কুঞ্জ Kunj - i) Grove, bower, ii) A pandal decorated in the design of a grove."
+},
+{
+  "word": "কুট",
+  "pos": "noun",
+  "definition": "কুট Kut - Court. Eng."
+},
+{
+  "word": "Kut",
+  "pos": "noun",
+  "definition": "কুট Kut - Court. Eng."
+},
+{
+  "word": "কুট",
+  "pos": "noun",
+  "definition": "কুট Kut - Coat. Eng."
+},
+{
+  "word": "Kut",
+  "pos": "noun",
+  "definition": "কুট Kut - Coat. Eng."
+},
+{
+  "word": "কুট",
+  "pos": "verb",
+  "definition": "কুট Kut - To cut into pieces, Td. *Kuttaya."
+},
+{
+  "word": "Kut",
+  "pos": "verb",
+  "definition": "কুট Kut - To cut into pieces, Td. *Kuttaya."
+},
+{
+  "word": "কুটানি",
+  "pos": "noun",
+  "definition": "কুটানি Kutäni - Cutting into pieces. Kuţ + ani."
+},
+{
+  "word": "Kutäni",
+  "pos": "noun",
+  "definition": "কুটানি Kutäni - Cutting into pieces. Kuţ + ani."
+},
+{
+  "word": "কুটি",
+  "pos": "noun",
+  "definition": "কুটি Kuti - A small plot of land. V Kut + -i."
+},
+{
+  "word": "Kuti",
+  "pos": "noun",
+  "definition": "কুটি Kuti - A small plot of land. V Kut + -i."
+},
+{
+  "word": "কুটিকুটি",
+  "pos": "adjective",
+  "definition": "কুটিকুটি Kuti-Kuți - Cut into pieces. V. Kuţ - and above."
+},
+{
+  "word": "Kuti-Kuți",
+  "pos": "adjective",
+  "definition": "কুটিকুটি Kuti-Kuți - Cut into pieces. V. Kuţ - and above."
+},
+{
+  "word": "কুটিল",
+  "pos": "adjective",
+  "definition": "কুটিল Kutil - Crooked. Ts."
+},
+{
+  "word": "Kutil",
+  "pos": "adjective",
+  "definition": "কুটিল Kutil - Crooked. Ts."
+},
+{
+  "word": "কুটুম",
+  "pos": "noun",
+  "definition": "কুটুম Kutum - Relative. Sts. Kutumba."
+},
+{
+  "word": "Kutum",
+  "pos": "noun",
+  "definition": "কুটুম Kutum - Relative. Sts. Kutumba."
+},
+{
+  "word": "কুটুৱা",
+  "pos": "verb",
+  "definition": "কুটুৱা Kutuwā - Caus of Kut."
+},
+{
+  "word": "Kutuwā",
+  "pos": "verb",
+  "definition": "কুটুৱা Kutuwā - Caus of Kut."
+},
+{
+  "word": "কুটকুটা",
+  "pos": "adjective",
+  "definition": "কুটকুটা KutKuţā - Irritative. -Kacu (কচু) = Arum that irritates the throat."
+},
+{
+  "word": "KutKuţā",
+  "pos": "adjective",
+  "definition": "কুটকুটা KutKuţā - Irritative. -Kacu (কচু) = Arum that irritates the throat."
+},
+{
+  "word": "কুটকুটা",
+  "pos": "verb",
+  "definition": "কুটকুটা KutKuta - To irritate the throat or skin. Denom fr. above."
+},
+{
+  "word": "KutKuta",
+  "pos": "verb",
+  "definition": "কুটকুটা KutKuta - To irritate the throat or skin. Denom fr. above."
+},
+{
+  "word": "কুটকুটানি",
+  "pos": "noun",
+  "definition": "কুটকুটানি KuțKuțâni - Irritating the throat or skin. KuţKuţă - + - âni."
+},
+{
+  "word": "KuțKuțâni",
+  "pos": "noun",
+  "definition": "কুটকুটানি KuțKuțâni - Irritating the throat or skin. KuţKuţă - + - âni."
+},
+{
+  "word": "কুটকুটি",
+  "pos": "noun",
+  "definition": "কুটকুটি KutKuți - Irritating dust as around a bamboo."
+},
+{
+  "word": "KutKuți",
+  "pos": "noun",
+  "definition": "কুটকুটি KutKuți - Irritating dust as around a bamboo."
+},
+{
+  "word": "কুটকুটিয়া",
+  "pos": "adjective",
+  "definition": "কুটকুটিয়া Kut-Kutyä - Crooked. buddhi = crooked mentality."
+},
+{
+  "word": "Kut-Kutyä",
+  "pos": "adjective",
+  "definition": "কুটকুটিয়া Kut-Kutyä - Crooked. buddhi = crooked mentality."
+},
+{
+  "word": "কুঠ",
+  "pos": "noun",
+  "definition": "কুঠ Kutha - Room. Td. Kosthaka."
+},
+{
+  "word": "Kutha",
+  "pos": "noun",
+  "definition": "কুঠ Kutha - Room. Td. Kosthaka."
+},
+{
+  "word": "কঠি",
+  "pos": "-",
+  "definition": "কঠি Kuthi - V. Kosthi."
+},
+{
+  "word": "Kuthi",
+  "pos": "-",
+  "definition": "কঠি Kuthi - V. Kosthi."
+},
+{
+  "word": "কুণ",
+  "pos": "noun",
+  "definition": "কুণ Kun - Corner. Sts. Kona."
+},
+{
+  "word": "Kun",
+  "pos": "noun",
+  "definition": "কুণ Kun - Corner. Sts. Kona."
+},
+{
+  "word": "কুণা",
+  "pos": "-",
+  "definition": "কুণা Kunā - V. above. Td. *Konaka."
+},
+{
+  "word": "Kunā",
+  "pos": "-",
+  "definition": "কুণা Kunā - V. above. Td. *Konaka."
+},
+{
+  "word": "কুণা কুণি",
+  "pos": "adverb",
+  "definition": "কুণা কুণি Kuņākuni - Diagonally, slantwise. Recipr. fr. above."
+},
+{
+  "word": "Kuņākuni",
+  "pos": "adverb",
+  "definition": "কুণা কুণি Kuņākuni - Diagonally, slantwise. Recipr. fr. above."
+},
+{
+  "word": "কুণ্ড",
+  "pos": "noun",
+  "definition": "কুণ্ড Kunda - i) Hole, cavity; ii) Holy water place. Ts."
+},
+{
+  "word": "Kunda",
+  "pos": "noun",
+  "definition": "কুণ্ড Kunda - i) Hole, cavity; ii) Holy water place. Ts."
+},
+{
+  "word": "কুণ্ডল",
+  "pos": "noun",
+  "definition": "কুণ্ডল Kundal - i) Ear ring, ii) A kind of flower."
+},
+{
+  "word": "Kundal",
+  "pos": "noun",
+  "definition": "কুণ্ডল Kundal - i) Ear ring, ii) A kind of flower."
+},
+{
+  "word": "কুণ্ডলেই",
+  "pos": "noun",
+  "definition": "কুণ্ডলেই Kundalei - A kind of flower. Kundal + Mt. lai = flower."
+},
+{
+  "word": "Kundalei",
+  "pos": "noun",
+  "definition": "কুণ্ডলেই Kundalei - A kind of flower. Kundal + Mt. lai = flower."
+},
+{
+  "word": "কুতকুত",
+  "pos": "-",
+  "definition": "কুতকুত Kut-kut - A word denoting quick swallowing."
+},
+{
+  "word": "Kut-kut",
+  "pos": "-",
+  "definition": "কুতকুত Kut-kut - A word denoting quick swallowing."
+},
+{
+  "word": "কুতি",
+  "pos": "-",
+  "definition": "কুতি M. Kuti - V.Kuți."
+},
+{
+  "word": "Kuti",
+  "pos": "-",
+  "definition": "কুতি M. Kuti - V.Kuți."
+},
+{
+  "word": "কুতকুতি",
+  "pos": "-",
+  "definition": "কুতকুতি M. Kutkuti - V. Kuţkuţi."
+},
+{
+  "word": "Kutkuti",
+  "pos": "-",
+  "definition": "কুতকুতি M. Kutkuti - V. Kuţkuţi."
+},
+{
+  "word": "কুত্তা",
+  "pos": "noun",
+  "definition": "কুত্তা Kuttà - Dog. MIA. Kuttam; H. Kuttā."
+},
+{
+  "word": "Kuttà",
+  "pos": "noun",
+  "definition": "কুত্তা Kuttà - Dog. MIA. Kuttam; H. Kuttā."
+},
+{
+  "word": "কুত্তিরাং",
+  "pos": "-",
+  "definition": "কুত্তিরাং Kuttirāń - V. Kuptirän."
+},
+{
+  "word": "Kuttirāń",
+  "pos": "-",
+  "definition": "কুত্তিরাং Kuttirāń - V. Kuptirän."
+},
+{
+  "word": "কুত্তী",
+  "pos": "noun",
+  "definition": "কুত্তী Kutti - Bitch. Fem. fr. Kuttā."
+},
+{
+  "word": "Kutti",
+  "pos": "noun",
+  "definition": "কুত্তী Kutti - Bitch. Fem. fr. Kuttā."
+},
+{
+  "word": "কুদা",
+  "pos": "verb",
+  "definition": "কুদা Kudā - To revile. Td. Kürda, EB. kudā."
+},
+{
+  "word": "Kudā",
+  "pos": "verb",
+  "definition": "কুদা Kudā - To revile. Td. Kürda, EB. kudā."
+},
+{
+  "word": "কুদানি",
+  "pos": "noun",
+  "definition": "কুদানি Kudani - Reviling, threatening."
+},
+{
+  "word": "Kudani",
+  "pos": "noun",
+  "definition": "কুদানি Kudani - Reviling, threatening."
+},
+{
+  "word": "কুদাম",
+  "pos": "noun",
+  "definition": "কুদাম kudam - Threatening. Td. Kūrda Karma; EB. Kudām."
+},
+{
+  "word": "kudam",
+  "pos": "noun",
+  "definition": "কুদাম kudam - Threatening. Td. Kūrda Karma; EB. Kudām."
+},
+{
+  "word": "কুদিন",
+  "pos": "noun",
+  "definition": "কুদিন Kudin - Hard times, bad day. Ts."
+},
+{
+  "word": "Kudin",
+  "pos": "noun",
+  "definition": "কুদিন Kudin - Hard times, bad day. Ts."
+},
+{
+  "word": "কুনাম",
+  "pos": "noun",
+  "definition": "কুনাম Kunām - Bad name, defame Ts."
+},
+{
+  "word": "Kunām",
+  "pos": "noun",
+  "definition": "কুনাম Kunām - Bad name, defame Ts."
+},
+{
+  "word": "কুনারি",
+  "pos": "-",
+  "definition": "কুনারি Kunāri - V.below."
+},
+{
+  "word": "Kunāri",
+  "pos": "-",
+  "definition": "কুনারি Kunāri - V.below."
+},
+{
+  "word": "কুনারেই",
+  "pos": "noun",
+  "definition": "কুনারেই Kunārei - Water lily? OIA. Kumuda + Mt. lai."
+},
+{
+  "word": "Kunārei",
+  "pos": "noun",
+  "definition": "কুনারেই Kunārei - Water lily? OIA. Kumuda + Mt. lai."
+},
+{
+  "word": "কু'নি",
+  "pos": "noun",
+  "definition": "কু'নি Ku'ni - A mortarful (as of rice or paddy). Td. Kundika."
+},
+{
+  "word": "Ku'ni",
+  "pos": "noun",
+  "definition": "কু'নি Ku'ni - A mortarful (as of rice or paddy). Td. Kundika."
+},
+{
+  "word": "কুনৌ",
+  "pos": "noun",
+  "definition": "কুনৌ Kunau - Pigeon. Mt. Khunu."
+},
+{
+  "word": "Kunau",
+  "pos": "noun",
+  "definition": "কুনৌ Kunau - Pigeon. Mt. Khunu."
+},
+{
+  "word": "কুঞ্জালুক",
+  "pos": "noun",
+  "definition": "কুঞ্জালুক Kinjāluk - A kind of slippery insect. Ts, Kunculu + Jalaukā. cont."
+},
+{
+  "word": "Kinjāluk",
+  "pos": "noun",
+  "definition": "কুঞ্জালুক Kinjāluk - A kind of slippery insect. Ts, Kunculu + Jalaukā. cont."
+},
+{
+  "word": "কুন্দাবলি",
+  "pos": "noun",
+  "definition": "কুন্দাবলি Kundābali - A kind of flower. Ts?"
+},
+{
+  "word": "Kundābali",
+  "pos": "noun",
+  "definition": "কুন্দাবলি Kundābali - A kind of flower. Ts?"
+},
+{
+  "word": "কুন্নাম",
+  "pos": "-",
+  "definition": "কুন্নাম Kunnām - V. Kunām."
+},
+{
+  "word": "Kunnām",
+  "pos": "-",
+  "definition": "কুন্নাম Kunnām - V. Kunām."
+},
+{
+  "word": "কুপ",
+  "pos": "adjective",
+  "definition": "1. কুপ Kup - i) Fine; ii) Refined. Mt. a kuppā."
+},
+{
+  "word": "Kup",
+  "pos": "adjective",
+  "definition": "1. কুপ Kup - i) Fine; ii) Refined. Mt. a kuppā."
+},
+{
+  "word": "কুপ",
+  "pos": "noun",
+  "definition": "2. কুপ Kup M. The act of twinkling. Mt. Kuppā. - âhi. Kup karāni = twinkling the eye."
+},
+{
+  "word": "Kup",
+  "pos": "noun",
+  "definition": "2. কুপ Kup M. The act of twinkling. Mt. Kuppā. - âhi. Kup karāni = twinkling the eye."
+},
+{
+  "word": "কু'প",
+  "pos": "verb",
+  "definition": "কু'প K'up - To earth Sth to erect. Per. Kuftan (To beat, to hurt)."
+},
+{
+  "word": "K'up",
+  "pos": "verb",
+  "definition": "কু'প K'up - To earth Sth to erect. Per. Kuftan (To beat, to hurt)."
+},
+{
+  "word": "কুপাঙ",
+  "pos": "noun",
+  "definition": "কুপাঙ Kupäń - Dish. Mt. Pukham."
+},
+{
+  "word": "Kupäń",
+  "pos": "noun",
+  "definition": "কুপাঙ Kupäń - Dish. Mt. Pukham."
+},
+{
+  "word": "কু'পানি",
+  "pos": "noun",
+  "definition": "কু'পানি Ku'pāni - Earthing Sth. Ku'p + - āni."
+},
+{
+  "word": "Ku'pāni",
+  "pos": "noun",
+  "definition": "কু'পানি Ku'pāni - Earthing Sth. Ku'p + - āni."
+},
+{
+  "word": "কুপপা",
+  "pos": "-",
+  "definition": "কুপপা Kuppă - V. 1.Kup."
+},
+{
+  "word": "Kuppă",
+  "pos": "-",
+  "definition": "কুপপা Kuppă - V. 1.Kup."
+},
+{
+  "word": "কুপুত্তি",
+  "pos": "-",
+  "definition": "কুপুত্তি Kuputti - V. Kupthi."
+},
+{
+  "word": "Kuputti",
+  "pos": "-",
+  "definition": "কুপুত্তি Kuputti - V. Kupthi."
+},
+{
+  "word": "কু'পুৱা",
+  "pos": "verb",
+  "definition": "কু'পুৱা Ku'puwā - Caus. fr. ku'p."
+},
+{
+  "word": "Ku'puwā",
+  "pos": "verb",
+  "definition": "কু'পুৱা Ku'puwā - Caus. fr. ku'p."
+},
+{
+  "word": "কুপতিরাঙ",
+  "pos": "adjective",
+  "definition": "কুপতিরাঙ Kuptiräń - Very fine, very small. 1. Kup + ti + rän."
+},
+{
+  "word": "Kuptiräń",
+  "pos": "adjective",
+  "definition": "কুপতিরাঙ Kuptiräń - Very fine, very small. 1. Kup + ti + rän."
+},
+{
+  "word": "কু'পথি",
+  "pos": "adjective",
+  "definition": "কু'পথি Ku'pthi - i) Peevish, Pettish, ii) Very attentive. Mt. Kuppā + thipã."
+},
+{
+  "word": "Ku'pthi",
+  "pos": "adjective",
+  "definition": "কু'পথি Ku'pthi - i) Peevish, Pettish, ii) Very attentive. Mt. Kuppā + thipã."
+},
+{
+  "word": "কুপ্পা",
+  "pos": "noun",
+  "definition": "কুপ্পা Kuppā - Thinking or working minutely. Mt. a - kuppå."
+},
+{
+  "word": "Kuppā",
+  "pos": "noun",
+  "definition": "কুপ্পা Kuppā - Thinking or working minutely. Mt. a - kuppå."
+},
+{
+  "word": "কুফা",
+  "pos": "noun",
+  "definition": "কুফা Kuphä - Party. Per. qauf = coming behind."
+},
+{
+  "word": "Kuphä",
+  "pos": "noun",
+  "definition": "কুফা Kuphä - Party. Per. qauf = coming behind."
+},
+{
+  "word": "কুম",
+  "pos": "noun",
+  "definition": "1. কুম Kum - The act of being gathered. Mt. Kumpā. Pāni- a'ni = water being gathered."
+},
+{
+  "word": "Kum",
+  "pos": "noun",
+  "definition": "1. কুম Kum - The act of being gathered. Mt. Kumpā. Pāni- a'ni = water being gathered."
+},
+{
+  "word": "কুম",
+  "pos": "adjective",
+  "definition": "2. কুম Kum - Deep black. cf. OIA. Krsņa. OB Kasana, Dim. gusum."
+},
+{
+  "word": "Kum",
+  "pos": "adjective",
+  "definition": "2. কুম Kum - Deep black. cf. OIA. Krsņa. OB Kasana, Dim. gusum."
+},
+{
+  "word": "কুমা",
+  "pos": "noun",
+  "definition": "কুমা Kumā - A kind of wood."
+},
+{
+  "word": "Kumā",
+  "pos": "noun",
+  "definition": "কুমা Kumā - A kind of wood."
+},
+{
+  "word": "কুমার",
+  "pos": "noun",
+  "definition": "1. কুমার Kumar - Potter. Td. Kumbhakāra."
+},
+{
+  "word": "Kumar",
+  "pos": "noun",
+  "definition": "1. কুমার Kumar - Potter. Td. Kumbhakāra."
+},
+{
+  "word": "কুমার",
+  "pos": "noun",
+  "definition": "2. কুমার Kumār - Bachelor. Ts."
+},
+{
+  "word": "Kumār",
+  "pos": "noun",
+  "definition": "2. কুমার Kumār - Bachelor. Ts."
+},
+{
+  "word": "কুমারী",
+  "pos": "noun",
+  "definition": "কুমারী Kumäri - i) A kind of insect. ii) Virgin, unmarried girl. Ts.- Pūjā = Worship of a virgin or virgin."
+},
+{
+  "word": "Kumäri",
+  "pos": "noun",
+  "definition": "কুমারী Kumäri - i) A kind of insect. ii) Virgin, unmarried girl. Ts.- Pūjā = Worship of a virgin or virgin."
+},
+{
+  "word": "কুমাড়া",
+  "pos": "noun",
+  "definition": "কুমাড়া Kumädā - Pumpkin. Td. Kuşmāndaka."
+},
+{
+  "word": "Kumädā",
+  "pos": "noun",
+  "definition": "কুমাড়া Kumädā - Pumpkin. Td. Kuşmāndaka."
+},
+{
+  "word": "কুমীর",
+  "pos": "noun",
+  "definition": "কুমীর Kumir - The lower garment of the Rasa costume. Mt. Kumin."
+},
+{
+  "word": "Kumir",
+  "pos": "noun",
+  "definition": "কুমীর Kumir - The lower garment of the Rasa costume. Mt. Kumin."
+},
+{
+  "word": "কুমুটি",
+  "pos": "noun",
+  "definition": "কুমুটি Kumuți - Secret consultation. Td. *Kumantrika or Eng. committee."
+},
+{
+  "word": "Kumuți",
+  "pos": "noun",
+  "definition": "কুমুটি Kumuți - Secret consultation. Td. *Kumantrika or Eng. committee."
+},
+{
+  "word": "কু'মেই",
+  "pos": "noun",
+  "definition": "কু'মেই Ku'mei - Festivity. Mt. Kummai.- piyam = Festivity."
+},
+{
+  "word": "Ku'mei",
+  "pos": "noun",
+  "definition": "কু'মেই Ku'mei - Festivity. Mt. Kummai.- piyam = Festivity."
+},
+{
+  "word": "কুমেল",
+  "pos": "noun",
+  "definition": "কুমেল Kumel - Complexion. Mt. Kuman."
+},
+{
+  "word": "Kumel",
+  "pos": "noun",
+  "definition": "কুমেল Kumel - Complexion. Mt. Kuman."
+},
+{
+  "word": "কুম-জালুক",
+  "pos": "-",
+  "definition": "কুম-জালুক Kumjāluk - V. Kunjäluk."
+},
+{
+  "word": "Kumjāluk",
+  "pos": "-",
+  "definition": "কুম-জালুক Kumjāluk - V. Kunjäluk."
+},
+{
+  "word": "কু'মথিঙ",
+  "pos": "noun",
+  "definition": "কু'মথিঙ Ku'mthin - Stoppage of menstruation. Mt. Pumthinpä."
+},
+{
+  "word": "Ku'mthin",
+  "pos": "noun",
+  "definition": "কু'মথিঙ Ku'mthin - Stoppage of menstruation. Mt. Pumthinpä."
+},
+{
+  "word": "কুম্পানি",
+  "pos": "noun",
+  "definition": "কুম্পানি Kumpani - Company. Eng."
+},
+{
+  "word": "Kumpani",
+  "pos": "noun",
+  "definition": "কুম্পানি Kumpani - Company. Eng."
+},
+{
+  "word": "কুমপি",
+  "pos": "noun",
+  "definition": "কুমপি Kumpi - A kind of fruit. cf. Mt. Pumpi = winter."
+},
+{
+  "word": "Kumpi",
+  "pos": "noun",
+  "definition": "কুমপি Kumpi - A kind of fruit. cf. Mt. Pumpi = winter."
+},
+{
+  "word": "কুম্পেই",
+  "pos": "-",
+  "definition": "কুম্পেই Kumpei - Where? Kun + pei."
+},
+{
+  "word": "Kumpei",
+  "pos": "-",
+  "definition": "কুম্পেই Kumpei - Where? Kun + pei."
+},
+{
+  "word": "কু'ম্ফু",
+  "pos": "noun",
+  "definition": "কু'ম্ফু Ku'mphu - Tank. Mt. Komphu."
+},
+{
+  "word": "Ku'mphu",
+  "pos": "noun",
+  "definition": "কু'ম্ফু Ku'mphu - Tank. Mt. Komphu."
+},
+{
+  "word": "কু'ম্ফু",
+  "pos": "noun",
+  "definition": "কু'ম্ফু Ku'mphu - A small vessel meant for melting metals. Mt. Konphu (Kon = utensil, phu = container)."
+},
+{
+  "word": "Ku'mphu",
+  "pos": "noun",
+  "definition": "কু'ম্ফু Ku'mphu - A small vessel meant for melting metals. Mt. Konphu (Kon = utensil, phu = container)."
+},
+{
+  "word": "কু'ম্ফৌ",
+  "pos": "-",
+  "definition": "কু'ম্ফৌ Ku'mphau - V. Ku'mphu."
+},
+{
+  "word": "Ku'mphau",
+  "pos": "-",
+  "definition": "কু'ম্ফৌ Ku'mphau - V. Ku'mphu."
+},
+{
+  "word": "কুম্বাকা",
+  "pos": "-",
+  "definition": "কুম্বাকা Kumbåkā - When? Kun + ebākă, cont."
+},
+{
+  "word": "Kumbåkā",
+  "pos": "-",
+  "definition": "কুম্বাকা Kumbåkā - When? Kun + ebākă, cont."
+},
+{
+  "word": "কুম্ভীর",
+  "pos": "noun",
+  "definition": "কুম্ভীর Kumbhir - Crocodile. Ts."
+},
+{
+  "word": "Kumbhir",
+  "pos": "noun",
+  "definition": "কুম্ভীর Kumbhir - Crocodile. Ts."
+},
 
 ]
