@@ -20939,5 +20939,1255 @@
   "pos": "noun",
   "definition": "কুম্ভীর Kumbhir - Crocodile. Ts."
 },
+{
+  "word": "কুরর",
+  "pos": "-",
+  "definition": "কুরর Kuwar - V. kuhar."
+},
+{
+  "word": "Kuwar",
+  "pos": "-",
+  "definition": "কুরর Kuwar - V. kuhar."
+},
+{
+  "word": "কুৱা",
+  "pos": "-",
+  "definition": "1. কুৱা M. Kuwā - V. kayā."
+},
+{
+  "word": "Kuwā",
+  "pos": "-",
+  "definition": "1. কুৱা M. Kuwā - V. kayā."
+},
+{
+  "word": "কুৱা",
+  "pos": "noun",
+  "definition": "2. কুৱা kuwā - i) A handful of sth, ii) Bunch (as of hair or thread). Td. Koşaka."
+},
+{
+  "word": "kuwā",
+  "pos": "noun",
+  "definition": "2. কুৱা kuwā - i) A handful of sth, ii) Bunch (as of hair or thread). Td. Koşaka."
+},
+{
+  "word": "কুৱা",
+  "pos": "noun",
+  "definition": "3. কুৱা Kuwã - A pod of fruit (e.g., jack-fruit). V. 2. Kuwā."
+},
+{
+  "word": "Kuwã",
+  "pos": "noun",
+  "definition": "3. কুৱা Kuwã - A pod of fruit (e.g., jack-fruit). V. 2. Kuwā."
+},
+{
+  "word": "কুৱা",
+  "pos": "noun",
+  "definition": "4. কুৱা Kuwa - Betel nut. V. guwā. কোক - Kok = A holder of betel nut; - চেপ - cap = Chopper of betel nut; - শেল - Sel = A plate meant for offering betel nut."
+},
+{
+  "word": "Kuwa",
+  "pos": "noun",
+  "definition": "4. কুৱা Kuwa - Betel nut. V. guwā. কোক - Kok = A holder of betel nut; - চেপ - cap = Chopper of betel nut; - শেল - Sel = A plate meant for offering betel nut."
+},
+{
+  "word": "কুৱাকলেই",
+  "pos": "noun",
+  "definition": "কুৱাকলেই Kuwāklei - A kind of flower. Mt. Kuwāklei; cf. OIA. Kāka."
+},
+{
+  "word": "Kuwāklei",
+  "pos": "noun",
+  "definition": "কুৱাকলেই Kuwāklei - A kind of flower. Mt. Kuwāklei; cf. OIA. Kāka."
+},
+{
+  "word": "কুরাটার",
+  "pos": "noun",
+  "definition": "কুরাটার Kuwāţăr - Quarters. Eng."
+},
+{
+  "word": "Kuwāţăr",
+  "pos": "noun",
+  "definition": "কুরাটার Kuwāţăr - Quarters. Eng."
+},
+{
+  "word": "কুৱাল",
+  "pos": "noun",
+  "definition": "কুৱাল Kuwäl - Cheek, inner side of the cheek. Td. Kapola. - bhāgurā = having a hollow cheek."
+},
+{
+  "word": "Kuwäl",
+  "pos": "noun",
+  "definition": "কুৱাল Kuwäl - Cheek, inner side of the cheek. Td. Kapola. - bhāgurā = having a hollow cheek."
+},
+{
+  "word": "কুর",
+  "pos": "noun",
+  "definition": "কুর M. Kur - A kind of wood."
+},
+{
+  "word": "Kur",
+  "pos": "noun",
+  "definition": "কুর M. Kur - A kind of wood."
+},
+{
+  "word": "কু'রল",
+  "pos": "noun",
+  "definition": "কু'রল Ku'ral - A kind of wood."
+},
+{
+  "word": "Ku'ral",
+  "pos": "noun",
+  "definition": "কু'রল Ku'ral - A kind of wood."
+},
+{
+  "word": "কুরা",
+  "pos": "-",
+  "definition": "কুরা Kurā - A suf. added to verbs in the non-finite ending -e (iyä) to form adjs. indicating 'nature' or 'agency'; (as in karekurā = doer, dekurā = giver)."
+},
+{
+  "word": "Kurā",
+  "pos": "-",
+  "definition": "কুরা Kurā - A suf. added to verbs in the non-finite ending -e (iyä) to form adjs. indicating 'nature' or 'agency'; (as in karekurā = doer, dekurā = giver)."
+},
+{
+  "word": "কুরাকি",
+  "pos": "noun",
+  "definition": "কুরাকি Kurāki - M. A cock. Td. *Kukku-tika, through metathesis."
+},
+{
+  "word": "Kurāki",
+  "pos": "noun",
+  "definition": "কুরাকি Kurāki - M. A cock. Td. *Kukku-tika, through metathesis."
+},
+{
+  "word": "কুরাঙ",
+  "pos": "-",
+  "definition": "কুরাঙ Kurän - Where? Td. Kha + - rān."
+},
+{
+  "word": "Kurän",
+  "pos": "-",
+  "definition": "কুরাঙ Kurän - Where? Td. Kha + - rān."
+},
+{
+  "word": "কুরু",
+  "pos": "noun",
+  "definition": "1. কুরু Kuru - A handful of sth. Td. *Karolka; H. kaur."
+},
+{
+  "word": "Kuru",
+  "pos": "noun",
+  "definition": "1. কুরু Kuru - A handful of sth. Td. *Karolka; H. kaur."
+},
+{
+  "word": "কুরু",
+  "pos": "noun",
+  "definition": "2. কুরু Kuru - Preceptor. Sts. guru."
+},
+{
+  "word": "Kuru",
+  "pos": "noun",
+  "definition": "2. কুরু Kuru - Preceptor. Sts. guru."
+},
+{
+  "word": "কুরুক",
+  "pos": "-",
+  "definition": "1. কুরুক Kuruk - A word denoting a low sound of movement of sth."
+},
+{
+  "word": "Kuruk",
+  "pos": "-",
+  "definition": "1. কুরুক Kuruk - A word denoting a low sound of movement of sth."
+},
+{
+  "word": "কুরুক",
+  "pos": "noun",
+  "definition": "2. কুরুক Kuruk - Confiscation. Ar. Turk. qurk = attachment of property."
+},
+{
+  "word": "Kuruk",
+  "pos": "noun",
+  "definition": "2. কুরুক Kuruk - Confiscation. Ar. Turk. qurk = attachment of property."
+},
+{
+  "word": "কুরুঙ",
+  "pos": "noun",
+  "definition": "কুরুঙ Kurun - Space between two hills. Mt. Karon."
+},
+{
+  "word": "Kurun",
+  "pos": "noun",
+  "definition": "কুরুঙ Kurun - Space between two hills. Mt. Karon."
+},
+{
+  "word": "কুরুম",
+  "pos": "noun",
+  "definition": "কুরুম Kurum - A stone for sharpening instruments. Mt. Kurum."
+},
+{
+  "word": "Kurum",
+  "pos": "noun",
+  "definition": "কুরুম Kurum - A stone for sharpening instruments. Mt. Kurum."
+},
+{
+  "word": "কুরুলিয়া",
+  "pos": "noun",
+  "definition": "কুরুলিযা Kuruliyā - A man with large testis. Td. *kurundika."
+},
+{
+  "word": "Kuruliyā",
+  "pos": "noun",
+  "definition": "কুরুলিযা Kuruliyā - A man with large testis. Td. *kurundika."
+},
+{
+  "word": "কুরুসুম",
+  "pos": "adjective",
+  "definition": "কুরুসুম Kurusum - Shrunk and dried up (as a plant); ii) Incapacitated. Mt. Kurusumbā (Kuru = matted, sumbă = to be destroyed)."
+},
+{
+  "word": "Kurusum",
+  "pos": "adjective",
+  "definition": "কুরুসুম Kurusum - Shrunk and dried up (as a plant); ii) Incapacitated. Mt. Kurusumbā (Kuru = matted, sumbă = to be destroyed)."
+},
+{
+  "word": "কু'রেী",
+  "pos": "-",
+  "definition": "কু'রেী Ku'rau - V. 1. kuru."
+},
+{
+  "word": "Ku'rau",
+  "pos": "-",
+  "definition": "কু'রেী Ku'rau - V. 1. kuru."
+},
+{
+  "word": "কুরকা",
+  "pos": "noun",
+  "definition": "কুরকা Kurkă - A piece. cf. B. tukrā."
+},
+{
+  "word": "Kurkă",
+  "pos": "noun",
+  "definition": "কুরকা Kurkă - A piece. cf. B. tukrā."
+},
+{
+  "word": "কুরতা",
+  "pos": "noun",
+  "definition": "কুরতা Kurtă - A kind of wood."
+},
+{
+  "word": "Kurtă",
+  "pos": "noun",
+  "definition": "কুরতা Kurtă - A kind of wood."
+},
+{
+  "word": "কুড়",
+  "pos": "verb",
+  "definition": "কুড় Kur - Rejuvenating a plant by making a hole around. Td. Kunda, EB. same."
+},
+{
+  "word": "Kur",
+  "pos": "verb",
+  "definition": "কুড় Kur - Rejuvenating a plant by making a hole around. Td. Kunda, EB. same."
+},
+{
+  "word": "কুড়া",
+  "pos": "noun",
+  "definition": "1. কুড়া Kură - Pole as of a fishing net. Td. *Kutaka."
+},
+{
+  "word": "Kură",
+  "pos": "noun",
+  "definition": "1. কুড়া Kură - Pole as of a fishing net. Td. *Kutaka."
+},
+{
+  "word": "কুড়া",
+  "pos": "noun",
+  "definition": "2. কুড়া Kurā - Rice dust. Td. kundaka."
+},
+{
+  "word": "Kurā",
+  "pos": "noun",
+  "definition": "2. কুড়া Kurā - Rice dust. Td. kundaka."
+},
+{
+  "word": "কুড়ি",
+  "pos": "noun",
+  "definition": "1. কুড়ি Kuri - A bud (as of flower). Td. Kudmalika."
+},
+{
+  "word": "Kuri",
+  "pos": "noun",
+  "definition": "1. কুড়ি Kuri - A bud (as of flower). Td. Kudmalika."
+},
+{
+  "word": "কুড়ি",
+  "pos": "noun",
+  "definition": "2. কুড়ি Kuri - Twenty. Td. koti."
+},
+{
+  "word": "Kuri",
+  "pos": "noun",
+  "definition": "2. কুড়ি Kuri - Twenty. Td. koti."
+},
+{
+  "word": "কুড়িয়া",
+  "pos": "adjective",
+  "definition": "কুড়িয়া Kurăiyā - Lazy. Td. *Kuşthika."
+},
+{
+  "word": "Kurăiyā",
+  "pos": "adjective",
+  "definition": "কুড়িয়া Kurăiyā - Lazy. Td. *Kuşthika."
+},
+{
+  "word": "কুল",
+  "pos": "noun",
+  "definition": "কুল Kul - Family, clan. Ts."
+},
+{
+  "word": "Kul",
+  "pos": "noun",
+  "definition": "কুল Kul - Family, clan. Ts."
+},
+{
+  "word": "কুল",
+  "pos": "verb",
+  "definition": "কুল Kul - To be sufficient, to be enough. Td. Kula, denom."
+},
+{
+  "word": "Kul",
+  "pos": "verb",
+  "definition": "কুল Kul - To be sufficient, to be enough. Td. Kula, denom."
+},
+{
+  "word": "কুলা",
+  "pos": "verb",
+  "definition": "কুলা Kulā - To offer help. Caus. Fr. above. Td. *Kulāpaya."
+},
+{
+  "word": "Kulā",
+  "pos": "verb",
+  "definition": "কুলা Kulā - To offer help. Caus. Fr. above. Td. *Kulāpaya."
+},
+{
+  "word": "কুলা",
+  "pos": "noun",
+  "definition": "কুলা Kulä - A winnowing fan. Td. kulyaka."
+},
+{
+  "word": "Kulä",
+  "pos": "noun",
+  "definition": "কুলা Kulä - A winnowing fan. Td. kulyaka."
+},
+{
+  "word": "কুলাঙ্গার",
+  "pos": "noun",
+  "definition": "কুলাঙ্গার Kulāngår - One who tarnishes the good name of a family. Ts."
+},
+{
+  "word": "Kulāngår",
+  "pos": "noun",
+  "definition": "কুলাঙ্গার Kulāngår - One who tarnishes the good name of a family. Ts."
+},
+{
+  "word": "কুলানি",
+  "pos": "noun",
+  "definition": "কুলানি Kulāni - Managing, offering help. Kulā - + - äni."
+},
+{
+  "word": "Kulāni",
+  "pos": "noun",
+  "definition": "কুলানি Kulāni - Managing, offering help. Kulā - + - äni."
+},
+{
+  "word": "কুলি",
+  "pos": "-",
+  "definition": "1. কুলি Kuli- M. V. kauli."
+},
+{
+  "word": "Kuli",
+  "pos": "-",
+  "definition": "1. কুলি Kuli- M. V. kauli."
+},
+{
+  "word": "কুলি",
+  "pos": "-",
+  "definition": "2. কুলি Kuli - V. Kulli."
+},
+{
+  "word": "Kuli",
+  "pos": "-",
+  "definition": "2. কুলি Kuli - V. Kulli."
+},
+{
+  "word": "কুলিকাটুনি",
+  "pos": "noun",
+  "definition": "কুলিকাটুনি Kulikāțuni - Spinning and weaving. Td. *Kaulika = domestic; sec. el. V. Kātuni."
+},
+{
+  "word": "Kulikāțuni",
+  "pos": "noun",
+  "definition": "কুলিকাটুনি Kulikāțuni - Spinning and weaving. Td. *Kaulika = domestic; sec. el. V. Kātuni."
+},
+{
+  "word": "কুলে",
+  "pos": "adverb",
+  "definition": "কুলে Kule - Only. Per. Kulla = in sum total."
+},
+{
+  "word": "Kule",
+  "pos": "adverb",
+  "definition": "কুলে Kule - Only. Per. Kulla = in sum total."
+},
+{
+  "word": "কুলপিত",
+  "pos": "noun",
+  "definition": "কুলপিত Kulpit - A kind of banana. Td. Kadalipati. EB. Kulpait."
+},
+{
+  "word": "Kulpit",
+  "pos": "noun",
+  "definition": "কুলপিত Kulpit - A kind of banana. Td. Kadalipati. EB. Kulpait."
+},
+{
+  "word": "কুল্লি",
+  "pos": "noun",
+  "definition": "কুল্লি Kulli - Labourer. Tur. Kuli."
+},
+{
+  "word": "Kulli",
+  "pos": "noun",
+  "definition": "কুল্লি Kulli - Labourer. Tur. Kuli."
+},
+{
+  "word": "কুশ",
+  "pos": "noun",
+  "definition": "কুশ Kus - Kusa grass. Ts."
+},
+{
+  "word": "Kus",
+  "pos": "noun",
+  "definition": "কুশ Kus - Kusa grass. Ts."
+},
+{
+  "word": "কুশল-মঙ্গল",
+  "pos": "noun",
+  "definition": "কুশল-মঙ্গল Kusal-mangal - Well-being and auspiciousness, Condition. Ts."
+},
+{
+  "word": "Kusal-mangal",
+  "pos": "noun",
+  "definition": "কুশল-মঙ্গল Kusal-mangal - Well-being and auspiciousness, Condition. Ts."
+},
+{
+  "word": "কুষ্ঠি",
+  "pos": "noun",
+  "definition": "কুষ্ঠি Kusthi - Horoscope. Td. Kuşthika."
+},
+{
+  "word": "Kusthi",
+  "pos": "noun",
+  "definition": "কুষ্ঠি Kusthi - Horoscope. Td. Kuşthika."
+},
+{
+  "word": "কুস্তি",
+  "pos": "noun",
+  "definition": "1. কুস্তি Kusti - Wrestling. Per. Kusti."
+},
+{
+  "word": "Kusti",
+  "pos": "noun",
+  "definition": "1. কুস্তি Kusti - Wrestling. Per. Kusti."
+},
+{
+  "word": "কুস্তি",
+  "pos": "-",
+  "definition": "2. কুস্তি Kusti - M.V. guşti."
+},
+{
+  "word": "Kusti",
+  "pos": "-",
+  "definition": "2. কুস্তি Kusti - M.V. guşti."
+},
+{
+  "word": "কুস্তিতুম্পা",
+  "pos": "-",
+  "definition": "কুস্তিতুম্পা Kusti-tumpà - M.V. gusti thumpa."
+},
+{
+  "word": "Kusti-tumpà",
+  "pos": "-",
+  "definition": "কুস্তিতুম্পা Kusti-tumpà - M.V. gusti thumpa."
+},
+{
+  "word": "কুহর",
+  "pos": "noun",
+  "definition": "কুহর Kuhar - A pound for stray cattle. Td. *Skava (fr. sku to cover + Vāţa."
+},
+{
+  "word": "Kuhar",
+  "pos": "noun",
+  "definition": "কুহর Kuhar - A pound for stray cattle. Td. *Skava (fr. sku to cover + Vāţa."
+},
+{
+  "word": "কুহি",
+  "pos": "noun",
+  "definition": "কুহি Kuhi - M. colour. Mt. Kühi."
+},
+{
+  "word": "Kuhi",
+  "pos": "noun",
+  "definition": "কুহি Kuhi - M. colour. Mt. Kühi."
+},
+{
+  "word": "কৃপণ",
+  "pos": "adjective",
+  "definition": "কৃপণ Kripan - Niggardly. Ts."
+},
+{
+  "word": "Krpan",
+  "pos": "adjective",
+  "definition": "কৃপণ Kripan - Niggardly. Ts."
+},
+{
+  "word": "কৃপা",
+  "pos": "noun",
+  "definition": "কৃপা Kripå - Compassion. Ts."
+},
+{
+  "word": "K på",
+  "pos": "noun",
+  "definition": "কৃপা Kripå - Compassion. Ts."
+},
+{
+  "word": "কৃষ্ণ",
+  "pos": "adjective",
+  "definition": "কৃষ্ণ Krişna - Black. Ts. Kacu = a kind of arum; - Prāpti = Attainment of the Lord Krişna, liberation."
+},
+{
+  "word": "Krşna",
+  "pos": "adjective",
+  "definition": "কৃষ্ণ Krişna - Black. Ts. Kacu = a kind of arum; - Prāpti = Attainment of the Lord Krişna, liberation."
+},
+{
+  "word": "কেই",
+  "pos": "noun",
+  "definition": "কেই Kei - i) Dislocation; ii) Dislocated. Mt. Käibā = to break."
+},
+{
+  "word": "Kei",
+  "pos": "noun",
+  "definition": "কেই Kei - i) Dislocation; ii) Dislocated. Mt. Käibā = to break."
+},
+{
+  "word": "কেইচিনাঙ",
+  "pos": "-",
+  "definition": "কেইচিনাঙ Keicināń - M. V. Kecālān."
+},
+{
+  "word": "Keicināń",
+  "pos": "-",
+  "definition": "কেইচিনাঙ Keicināń - M. V. Kecālān."
+},
+{
+  "word": "কেইচেলাঙ",
+  "pos": "-",
+  "definition": "কেইচেলাঙ Keicelâń - V. Kecelän."
+},
+{
+  "word": "Keicelâń",
+  "pos": "-",
+  "definition": "কেইচেলাঙ Keicelâń - V. Kecelän."
+},
+{
+  "word": "কেইথেল",
+  "pos": "noun",
+  "definition": "কেইথেল Keithel - Market. Mt. Kaithel."
+},
+{
+  "word": "Keithel",
+  "pos": "noun",
+  "definition": "কেইথেল Keithel - Market. Mt. Kaithel."
+},
+{
+  "word": "কেইপাকথক",
+  "pos": "-",
+  "definition": "কেইপাকথক Keipäkthak - V, Kekpäkthak."
+},
+{
+  "word": "Keipäkthak",
+  "pos": "-",
+  "definition": "কেইপাকথক Keipäkthak - V, Kekpäkthak."
+},
+{
+  "word": "কেইফা",
+  "pos": "adjective",
+  "definition": "কেইফা Keipha - Brave, bold, plucky. Mt. Kai = tiger, phābă = to catch."
+},
+{
+  "word": "Keipha",
+  "pos": "adjective",
+  "definition": "কেইফা Keipha - Brave, bold, plucky. Mt. Kai = tiger, phābă = to catch."
+},
+{
+  "word": "কেইফু",
+  "pos": "noun",
+  "definition": "কেইফু Keiphu - Whim, hotheadedness."
+},
+{
+  "word": "Keiphu",
+  "pos": "noun",
+  "definition": "কেইফু Keiphu - Whim, hotheadedness."
+},
+{
+  "word": "কেইফুরিয়া",
+  "pos": "-",
+  "definition": "কেইফুরিয়া Keiphuriyä- V. Kehuriyā."
+},
+{
+  "word": "Keiphuriyä",
+  "pos": "-",
+  "definition": "কেইফুরিয়া Keiphuriyä- V. Kehuriyā."
+},
+{
+  "word": "কেইরাক",
+  "pos": "noun",
+  "definition": "কেইরাক Keirāk - Ladder. Mt. Kairāk."
+},
+{
+  "word": "Keirāk",
+  "pos": "noun",
+  "definition": "কেইরাক Keirāk - Ladder. Mt. Kairāk."
+},
+{
+  "word": "কেইরাঙ",
+  "pos": "noun",
+  "definition": "কেইরাঙ Keirän - A piece of split bamboo meant for fitting something. Mt. Kairān."
+},
+{
+  "word": "Keirän",
+  "pos": "noun",
+  "definition": "কেইরাঙ Keirän - A piece of split bamboo meant for fitting something. Mt. Kairān."
+},
+{
+  "word": "কেইরুঙপা",
+  "pos": "noun",
+  "definition": "কেইরুঙপা Keiruńpā - The granary-in-charge. Mt. Kairunpā."
+},
+{
+  "word": "Keiruńpā",
+  "pos": "noun",
+  "definition": "কেইরুঙপা Keiruńpā - The granary-in-charge. Mt. Kairunpā."
+},
+{
+  "word": "কেউ কেউ",
+  "pos": "-",
+  "definition": "কেউ কেউ Keukeu - V. Kâukau."
+},
+{
+  "word": "Keukeu",
+  "pos": "-",
+  "definition": "কেউ কেউ Keukeu - V. Kâukau."
+},
+{
+  "word": "কেউড়",
+  "pos": "noun",
+  "definition": "কেউড় Keur - Wooden door. Td. Kapāta."
+},
+{
+  "word": "Keur",
+  "pos": "noun",
+  "definition": "কেউড় Keur - Wooden door. Td. Kapāta."
+},
+{
+  "word": "কেউলা",
+  "pos": "noun",
+  "definition": "কেউলা Keulā - Deed of sale. Ar. qabālat."
+},
+{
+  "word": "Keulā",
+  "pos": "noun",
+  "definition": "কেউলা Keulā - Deed of sale. Ar. qabālat."
+},
+{
+  "word": "কেক",
+  "pos": "-",
+  "definition": "কেক Kek - A word expressing the sound of a slight stroke. Onom."
+},
+{
+  "word": "Kek",
+  "pos": "-",
+  "definition": "কেক Kek - A word expressing the sound of a slight stroke. Onom."
+},
+{
+  "word": "কেকা",
+  "pos": "verb",
+  "definition": "কেকা Kekā - To groan. Onom. (কেকানি) Kekāni - Groaning. Kekā - + âni."
+},
+{
+  "word": "Kekā",
+  "pos": "verb",
+  "definition": "কেকা Kekā - To groan. Onom. (কেকানি) Kekāni - Groaning. Kekā - + âni."
+},
+{
+  "word": "কেকুক",
+  "pos": "noun",
+  "definition": "কেকুক Kekuk - Hiding (in hide and seek game)."
+},
+{
+  "word": "Kekuk",
+  "pos": "noun",
+  "definition": "কেকুক Kekuk - Hiding (in hide and seek game)."
+},
+{
+  "word": "কেকে",
+  "pos": "-",
+  "definition": "কেকে Keke - A word denoting the sound of a grave footing or bright sunshine."
+},
+{
+  "word": "Keke",
+  "pos": "-",
+  "definition": "কেকে Keke - A word denoting the sound of a grave footing or bright sunshine."
+},
+{
+  "word": "কেকেমালপী",
+  "pos": "noun",
+  "definition": "কেকেমালপী Kekemälpi - A kind of small plant. Mt. Kekemänpi/bi."
+},
+{
+  "word": "Kekemälpi",
+  "pos": "noun",
+  "definition": "কেকেমালপী Kekemälpi - A kind of small plant. Mt. Kekemänpi/bi."
+},
+{
+  "word": "কেত্রুক",
+  "pos": "noun",
+  "definition": "কেত্রুক Kekruk - A kind of fruit. Mt. Kekruk."
+},
+{
+  "word": "Kekruk",
+  "pos": "noun",
+  "definition": "কেত্রুক Kekruk - A kind of fruit. Mt. Kekruk."
+},
+{
+  "word": "কেকপাকথক",
+  "pos": "-",
+  "definition": "কেকপাকথক Kekpäk-thak - V. Kepākthak."
+},
+{
+  "word": "Kekpäk-thak",
+  "pos": "-",
+  "definition": "কেকপাকথক Kekpäk-thak - V. Kepākthak."
+},
+{
+  "word": "কেগা",
+  "pos": "-",
+  "definition": "কেগা Kegå M. - V. Kekā."
+},
+{
+  "word": "Kegå",
+  "pos": "-",
+  "definition": "কেগা Kegå M. - V. Kekā."
+},
+{
+  "word": "কেগানি",
+  "pos": "-",
+  "definition": "কেগানি Kegäni - M.V. Kekāni."
+},
+{
+  "word": "Kegäni",
+  "pos": "-",
+  "definition": "কেগানি Kegäni - M.V. Kekāni."
+},
+{
+  "word": "কেগালা",
+  "pos": "noun",
+  "definition": "কেগালা Kegālā - The act of making a small opening. V. below."
+},
+{
+  "word": "Kegālā",
+  "pos": "noun",
+  "definition": "কেগালা Kegālā - The act of making a small opening. V. below."
+},
+{
+  "word": "কেগালা",
+  "pos": "verb",
+  "definition": "কেগালা Kegālā - To make a small opening (as of a door). Mt. Käipā = to break. sec el. *galā - paya-, cont."
+},
+{
+  "word": "Kegālā",
+  "pos": "verb",
+  "definition": "কেগালা Kegālā - To make a small opening (as of a door). Mt. Käipā = to break. sec el. *galā - paya-, cont."
+},
+{
+  "word": "কেগালানি",
+  "pos": "noun",
+  "definition": "কেগালানি Kegälāni - Making a small opening. Kegālā - + - äni."
+},
+{
+  "word": "Kegälāni",
+  "pos": "noun",
+  "definition": "কেগালানি Kegälāni - Making a small opening. Kegālā - + - äni."
+},
+{
+  "word": "কে'ঙ",
+  "pos": "noun",
+  "definition": "কে'ঙ Ke'n - An imaginary creature of fear (for children). cf. Mt. Kairen = big tiger."
+},
+{
+  "word": "Ke'n",
+  "pos": "noun",
+  "definition": "কে'ঙ Ke'n - An imaginary creature of fear (for children). cf. Mt. Kairen = big tiger."
+},
+{
+  "word": "কেঙ",
+  "pos": "adjective",
+  "definition": "কেঙ Ken - Sensitive (of animals). Mt. keňpā."
+},
+{
+  "word": "Ken",
+  "pos": "adjective",
+  "definition": "কেঙ Ken - Sensitive (of animals). Mt. keňpā."
+},
+{
+  "word": "কেঙপা",
+  "pos": "-",
+  "definition": "কেঙপা keńpă - V. above."
+},
+{
+  "word": "keńpă",
+  "pos": "-",
+  "definition": "কেঙপা keńpă - V. above."
+},
+{
+  "word": "কেঙু-আঙুলি",
+  "pos": "noun",
+  "definition": "কেঙু-আঙুলি keħu-äñuli - Little finger. Td. Kanişthā or Karnikā + angulika."
+},
+{
+  "word": "keħu-äñuli",
+  "pos": "noun",
+  "definition": "কেঙু-আঙুলি keħu-äñuli - Little finger. Td. Kanişthā or Karnikā + angulika."
+},
+{
+  "word": "কেঙুআলি",
+  "pos": "-",
+  "definition": "কেঙুআলি keñuāli - V. above."
+},
+{
+  "word": "keñuāli",
+  "pos": "-",
+  "definition": "কেঙুআলি keñuāli - V. above."
+},
+{
+  "word": "কেঙকেঙ",
+  "pos": "-",
+  "definition": "কেঙকেঙ keńkeń - A word denoting the solidity of something, onom."
+},
+{
+  "word": "keńkeń",
+  "pos": "-",
+  "definition": "কেঙকেঙ keńkeń - A word denoting the solidity of something, onom."
+},
+{
+  "word": "কেঙকেঙা",
+  "pos": "verb",
+  "definition": "কেঙকেঙা keńkeñā - To give the sensation of solidity. Denom. fr. above."
+},
+{
+  "word": "keńkeñā",
+  "pos": "verb",
+  "definition": "কেঙকেঙা keńkeñā - To give the sensation of solidity. Denom. fr. above."
+},
+{
+  "word": "কেঙকেঙানি",
+  "pos": "noun",
+  "definition": "কেঙকেঙানি keńkeñāni - Giving the sensation of solidity. keńkeňā -+ - ăni."
+},
+{
+  "word": "keńkeñāni",
+  "pos": "noun",
+  "definition": "কেঙকেঙানি keńkeñāni - Giving the sensation of solidity. keńkeňā -+ - ăni."
+},
+{
+  "word": "কেচালাঙ",
+  "pos": "noun",
+  "definition": "কেচালাঙ Kecālān - The Indian leopard. Mt. Kaicelāń."
+},
+{
+  "word": "Kecālān",
+  "pos": "noun",
+  "definition": "কেচালাঙ Kecālān - The Indian leopard. Mt. Kaicelāń."
+},
+{
+  "word": "কেচুৱা",
+  "pos": "noun",
+  "definition": "কেচুৱা kecuwā - Earth worm. Td. *Kincuka or *Kinculuka."
+},
+{
+  "word": "kecuwā",
+  "pos": "noun",
+  "definition": "কেচুৱা kecuwā - Earth worm. Td. *Kincuka or *Kinculuka."
+},
+{
+  "word": "কেচুরি",
+  "pos": "noun",
+  "definition": "কেচুরি Kecuri - A kind of water-plant looking like arum. Td. *Kacculika."
+},
+{
+  "word": "Kecuri",
+  "pos": "noun",
+  "definition": "কেচুরি Kecuri - A kind of water-plant looking like arum. Td. *Kacculika."
+},
+{
+  "word": "কেচকেচ",
+  "pos": "-",
+  "definition": "কেচকেচ Keckec - A word denoting i) Importunity or ii) irritation in the throat. Onom."
+},
+{
+  "word": "Keckec",
+  "pos": "-",
+  "definition": "কেচকেচ Keckec - A word denoting i) Importunity or ii) irritation in the throat. Onom."
+},
+{
+  "word": "কেচকেচা",
+  "pos": "verb",
+  "definition": "কেচকেচা Keckecă - To importune or to make an irritative sensation in the throat. Denom. fr. above."
+},
+{
+  "word": "Keckecă",
+  "pos": "verb",
+  "definition": "কেচকেচা Keckecă - To importune or to make an irritative sensation in the throat. Denom. fr. above."
+},
+{
+  "word": "কেচকেচানি",
+  "pos": "noun",
+  "definition": "কেচকেচানি Keckecâni - i) Importuning; ii) Giving an irritative sensation in the throat. Keckecă -+ - âni."
+},
+{
+  "word": "Keckecâni",
+  "pos": "noun",
+  "definition": "কেচকেচানি Keckecâni - i) Importuning; ii) Giving an irritative sensation in the throat. Keckecă -+ - âni."
+},
+{
+  "word": "কেজা",
+  "pos": "noun",
+  "definition": "কেজা Kejā - The act of moving a little (as of the body). EB. same."
+},
+{
+  "word": "Kejā",
+  "pos": "noun",
+  "definition": "কেজা Kejā - The act of moving a little (as of the body). EB. same."
+},
+{
+  "word": "কেজা",
+  "pos": "verb",
+  "definition": "কেজা Kejā - To move a little. EB. same."
+},
+{
+  "word": "Kejā",
+  "pos": "verb",
+  "definition": "কেজা Kejā - To move a little. EB. same."
+},
+{
+  "word": "কেজানি",
+  "pos": "noun",
+  "definition": "কেজানি Kejāni - Moving a little. Kejā -+ - āni."
+},
+{
+  "word": "Kejāni",
+  "pos": "noun",
+  "definition": "কেজানি Kejāni - Moving a little. Kejā -+ - āni."
+},
+{
+  "word": "কেট",
+  "pos": "-",
+  "definition": "কেট Ket - A word expressing a biting. Onom."
+},
+{
+  "word": "Ket",
+  "pos": "-",
+  "definition": "কেট Ket - A word expressing a biting. Onom."
+},
+{
+  "word": "কেটকেট",
+  "pos": "-",
+  "definition": "কেটকেট Ketket - A word denoting importunity. Onom."
+},
+{
+  "word": "Ketket",
+  "pos": "-",
+  "definition": "কেটকেট Ketket - A word denoting importunity. Onom."
+},
+{
+  "word": "কেটকেটা",
+  "pos": "verb",
+  "definition": "কেটকেটা Ketkeţä - To importunate. Denom. fr. above."
+},
+{
+  "word": "Ketkeţä",
+  "pos": "verb",
+  "definition": "কেটকেটা Ketkeţä - To importunate. Denom. fr. above."
+},
+{
+  "word": "কেটকেটানি",
+  "pos": "noun",
+  "definition": "কেটকেটানি Ketkeţâni - Importuning. Keţkeţā - + - āni."
+},
+{
+  "word": "Ketkeţâni",
+  "pos": "noun",
+  "definition": "কেটকেটানি Ketkeţâni - Importuning. Keţkeţā - + - āni."
+},
+{
+  "word": "কেলিরা",
+  "pos": "-",
+  "definition": "কেলিরা Kelirā - M. V. Kātirä."
+},
+{
+  "word": "Kelirā",
+  "pos": "-",
+  "definition": "কেলিরا Kelirā - M. V. Kātirä."
+},
+{
+  "word": "কেতুকা",
+  "pos": "verb",
+  "definition": "কেতুকা Ketukā - To tickle. Onom."
+},
+{
+  "word": "Ketukā",
+  "pos": "verb",
+  "definition": "কেতুকা Ketukā - To tickle. Onom."
+},
+{
+  "word": "কেতুকানি",
+  "pos": "noun",
+  "definition": "কেতুকানি Ketukāni - i) Tickling; ii) Expressing the sensation of tickling."
+},
+{
+  "word": "Ketukāni",
+  "pos": "noun",
+  "definition": "কেতুকানি Ketukāni - i) Tickling; ii) Expressing the sensation of tickling."
+},
+{
+  "word": "কেত্তে",
+  "pos": "-",
+  "definition": "কেত্তে Kette - Why then? Kiyā + - te."
+},
+{
+  "word": "Kette",
+  "pos": "-",
+  "definition": "কেত্তে Kette - Why then? Kiyā + - te."
+},
+{
+  "word": "কেতনা",
+  "pos": "noun",
+  "definition": "কেতনা Ketnä - Ill-feeling, malice. v. kennã."
+},
+{
+  "word": "Ketnä",
+  "pos": "noun",
+  "definition": "কেতনা Ketnä - Ill-feeling, malice. v. kennã."
+},
+{
+  "word": "কেংনা-কেংনি",
+  "pos": "noun",
+  "definition": "কেংনা-কেংনি Ketnā-Ketni - Mutual ill feeling or malice. Recipr. fr. above."
+},
+{
+  "word": "Ketnā-Ketni",
+  "pos": "noun",
+  "definition": "কেংনা-কেংনি Ketnā-Ketni - Mutual ill feeling or malice. Recipr. fr. above."
+},
+{
+  "word": "কেথক",
+  "pos": "noun",
+  "definition": "কেথক Kethak - An endearing gesture. Mt. Kethok."
+},
+{
+  "word": "Kethak",
+  "pos": "noun",
+  "definition": "কেথক Kethak - An endearing gesture. Mt. Kethok."
+},
+{
+  "word": "কেথকপা",
+  "pos": "-",
+  "definition": "কেথকপা Kethakpä - i) Displaying endearing gesture; ii) one displaying endearing gesture."
+},
+{
+  "word": "Kethakpä",
+  "pos": "-",
+  "definition": "কেথকপা Kethakpä - i) Displaying endearing gesture; ii) one displaying endearing gesture."
+},
+{
+  "word": "কেথকপী",
+  "pos": "-",
+  "definition": "কেথকপী Kethakpi - Fem. fr. above."
+},
+{
+  "word": "Kethakpi",
+  "pos": "-",
+  "definition": "কেথকপী Kethakpi - Fem. fr. above."
+},
+{
+  "word": "কেনাকেনি",
+  "pos": "-",
+  "definition": "কেনাকেনি Kenā-keni - V. Kennäkenni."
+},
+{
+  "word": "Kenā-keni",
+  "pos": "-",
+  "definition": "কেনাকেনি Kenā-keni - V. Kennäkenni."
+},
+{
+  "word": "কেনি-আমুনি",
+  "pos": "-",
+  "definition": "কেনি-আমুনি Keni-āmuni - M. V. kenuānuli."
+},
+{
+  "word": "Keni-āmuni",
+  "pos": "-",
+  "definition": "কেনি-আমুনি Keni-āmuni - M. V. kenuānuli."
+},
+{
+  "word": "কেনিঙগো",
+  "pos": "-",
+  "definition": "কেনিঙগো Keningo - M. V. above."
+},
+{
+  "word": "Keningo",
+  "pos": "-",
+  "definition": "কেনিঙগо Keningo - M. V. above."
+},
+{
+  "word": "কেনে",
+  "pos": "-",
+  "definition": "কেনে Kene - Why? V. Kemne."
+},
+{
+  "word": "Kene",
+  "pos": "-",
+  "definition": "কেনে Kene - Why? V. Kemne."
+},
+{
+  "word": "কেনেন-কেনেন",
+  "pos": "-",
+  "definition": "কেনেন-কেনেন Kenen-Kenen - V. below."
+},
+{
+  "word": "Kenen-Kenen",
+  "pos": "-",
+  "definition": "কেনেন-কেনেন Kenen-Kenen - V. below."
+},
+{
+  "word": "কেনকেন",
+  "pos": "-",
+  "definition": "কেনকেন Kenken - A word denoting acute pain, onom."
+},
+{
+  "word": "Kenken",
+  "pos": "-",
+  "definition": "কেনকেন Kenken - A word denoting acute pain, onom."
+},
+{
+  "word": "কেনাকেনা",
+  "pos": "verb",
+  "definition": "কেনাকেনা Kenkenā - To pain acutely. Denom. fr. above."
+},
+{
+  "word": "Kenkenā",
+  "pos": "verb",
+  "definition": "কেনাকেনা Kenkenā - To pain acutely. Denom. fr. above."
+},
+{
+  "word": "কেনকেনানি",
+  "pos": "noun",
+  "definition": "কেনকেনানি Kenkenåni - Paining acutely. Kenkenā - + - äni."
+},
+{
+  "word": "Kenkenåni",
+  "pos": "noun",
+  "definition": "কেনকেনানি Kenkenåni - Paining acutely. Kenkenā - + - äni."
+},
+{
+  "word": "কেন্থা",
+  "pos": "-",
+  "definition": "1. কেন্থা Kenthå - M. V. Kầnthã."
+},
+{
+  "word": "Kenthå",
+  "pos": "-",
+  "definition": "1. কেন্থা Kenthå - M. V. Kầnthã."
+},
+{
+  "word": "কেন্থা",
+  "pos": "adjective",
+  "definition": "2. কেন্থা Kentha - Crumled down, collapsed. Mt. Kenthapā."
+},
+{
+  "word": "Kentha",
+  "pos": "adjective",
+  "definition": "2. কেন্থা Kentha - Crumled down, collapsed. Mt. Kenthapā."
+},
+{
+  "word": "কেন্দ্র",
+  "pos": "noun",
+  "definition": "1. কেন্দ্র Kendra - Centre. Ts."
+},
+{
+  "word": "Kendra",
+  "pos": "noun",
+  "definition": "1. কেন্দ্র Kendra - Centre. Ts."
+},
+{
+  "word": "কেন্দ্র",
+  "pos": "noun",
+  "definition": "2. কেন্দ্র Kendra - A kind of wood. - (গুটা) gutä = The fruit of the tree."
+},
+{
+  "word": "Kendra",
+  "pos": "noun",
+  "definition": "2. কেন্দ্র Kendra - A kind of wood. - (গুটা) gutä = The fruit of the tree."
+},
+{
+  "word": "কেন্না",
+  "pos": "-",
+  "definition": "কেন্না Kennã - V. Kerennā."
+},
+{
+  "word": "Kennã",
+  "pos": "-",
+  "definition": "কেন্না Kennã - V. Kerennā."
+},
+{
+  "word": "কেন্নাকেন্নি",
+  "pos": "-",
+  "definition": "কেন্নাকেন্নি Kenna-Kenni - V. Kerennā - Kerenni."
+},
+{
+  "word": "Kenna-Kenni",
+  "pos": "-",
+  "definition": "কেন্নাকেন্নি Kenna-Kenni - V. Kerennā - Kerenni."
+},
+{
+  "word": "কেপ",
+  "pos": "noun",
+  "definition": "কেপ Кер - The shell of coconut. Td. *karpa (extructed fr. Karpara = vessel, Potsherd, skull.)"
+},
+{
+  "word": "Кер",
+  "pos": "noun",
+  "definition": "কেপ Кер - The shell of coconut. Td. *karpa (extructed fr. Karpara = vessel, Potsherd, skull.)"
+},
+{
+  "word": "কেপাকথক",
+  "pos": "noun",
+  "definition": "কেপাকথক Kepākthak - Abundance. Mt. Kepäkthakpā. - (করে) Kare = abundantly."
+},
+{
+  "word": "Kepākthak",
+  "pos": "noun",
+  "definition": "কেপাকথক Kepākthak - Abundance. Mt. Kepäkthakpā. - (করে) Kare = abundantly."
+},
 
 ]
