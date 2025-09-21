@@ -22189,5 +22189,605 @@
   "pos": "noun",
   "definition": "কেপাকথক Kepākthak - Abundance. Mt. Kepäkthakpā. - (করে) Kare = abundantly."
 },
+{
+  "word": "কে'পাকর",
+  "pos": "-",
+  "definition": "কে'পাকর Ke'pākar - Needless to say. kiyā + pākar."
+},
+{
+  "word": "Ke'pākar",
+  "pos": "-",
+  "definition": "কে'পাকর Ke'pākar - Needless to say. kiyā + pākar."
+},
+{
+  "word": "কেপারি",
+  "pos": "noun",
+  "definition": "কেপারি Kepäri - The shell of coconut."
+},
+{
+  "word": "Kepäri",
+  "pos": "noun",
+  "definition": "কেপারি Kepäri - The shell of coconut."
+},
+{
+  "word": "কেপি",
+  "pos": "-",
+  "definition": "কেপি Kepi - V. kep."
+},
+{
+  "word": "Kepi",
+  "pos": "-",
+  "definition": "কেপি Kepi - V. kep."
+},
+{
+  "word": "কেমকেম",
+  "pos": "-",
+  "definition": "কেমকেম Ke'm-Ke'm - Extremely dry, onom. Mt. Kempā."
+},
+{
+  "word": "Ke'm-Ke'm",
+  "pos": "-",
+  "definition": "কেমকেম Ke'm-Ke'm - Extremely dry, onom. Mt. Kempā."
+},
+{
+  "word": "কেমন",
+  "pos": "-",
+  "definition": "কেমন Keman - How now. Td. *Kayamant; kemant."
+},
+{
+  "word": "Keman",
+  "pos": "-",
+  "definition": "কেমন Keman - How now. Td. *Kayamant; kemant."
+},
+{
+  "word": "কেম'কেমা",
+  "pos": "adjective",
+  "definition": "কেম'কেমা Kem'kemā - Extremely dry."
+},
+{
+  "word": "Kem'kemā",
+  "pos": "adjective",
+  "definition": "কেম'কেমা Kem'kemā - Extremely dry."
+},
+{
+  "word": "কেমকেমা",
+  "pos": "verb",
+  "definition": "কেমকেমা Kemkemă - To create the sensation of extreme dryness. Denom. fr above."
+},
+{
+  "word": "Kemkemă",
+  "pos": "verb",
+  "definition": "কেমকেমা Kemkemă - To create the sensation of extreme dryness. Denom. fr above."
+},
+{
+  "word": "কেমকেমানি",
+  "pos": "noun",
+  "definition": "কেমকেমানি Ke'mkemâni - Creating the sensation of extreme dryness. Kemkemā-+- āni."
+},
+{
+  "word": "Ke'mkemâni",
+  "pos": "noun",
+  "definition": "কেমকেমানি Ke'mkemâni - Creating the sensation of extreme dryness. Kemkemā-+- āni."
+},
+{
+  "word": "কেমচা",
+  "pos": "noun",
+  "definition": "কেমচা Kemcā - i) Filthy substance, rubbish; ii) Secondary food. Mt. Kempā + căpă."
+},
+{
+  "word": "Kemcā",
+  "pos": "noun",
+  "definition": "কেমচা Kemcā - i) Filthy substance, rubbish; ii) Secondary food. Mt. Kempā + căpă."
+},
+{
+  "word": "কেমতে",
+  "pos": "-",
+  "definition": "কেমতে Kemte - O.B.M. why,how? Td. *kemantena, *Kimantena."
+},
+{
+  "word": "Kemte",
+  "pos": "-",
+  "definition": "কেমতে Kemte - O.B.M. why,how? Td. *kemantena, *Kimantena."
+},
+{
+  "word": "কেমনে",
+  "pos": "-",
+  "definition": "কেমনে Kemne - Why, how. V. above."
+},
+{
+  "word": "Kemne",
+  "pos": "-",
+  "definition": "কেমনে Kemne - Why, how. V. above."
+},
+{
+  "word": "কেম্পাচল",
+  "pos": "noun",
+  "definition": "কেম্পাচল Kempācal - A kind of medicinal plant."
+},
+{
+  "word": "Kempācal",
+  "pos": "noun",
+  "definition": "কেম্পাচল Kempācal - A kind of medicinal plant."
+},
+{
+  "word": "কেৱা",
+  "pos": "adjective",
+  "definition": "কেৱা Kewā - Tender. Td. komalaka, E.B. same. (বাহা) Bähā = Tender Bamboo Plant."
+},
+{
+  "word": "Kewā",
+  "pos": "adjective",
+  "definition": "কেৱা Kewā - Tender. Td. komalaka, E.B. same. (বাহা) Bähā = Tender Bamboo Plant."
+},
+{
+  "word": "কেরানি",
+  "pos": "noun",
+  "definition": "কেরানি Keråni - Clerk. Td. *Karanika."
+},
+{
+  "word": "Keråni",
+  "pos": "noun",
+  "definition": "কেরানি Keråni - Clerk. Td. *Karanika."
+},
+{
+  "word": "কেরাপক",
+  "pos": "noun",
+  "definition": "কেরাপক Keräpak - M. An insect. Td. Kitaka; sec el. V. Pok."
+},
+{
+  "word": "Keräpak",
+  "pos": "noun",
+  "definition": "কেরাপক Keräpak - M. An insect. Td. Kitaka; sec el. V. Pok."
+},
+{
+  "word": "কেরামতি",
+  "pos": "noun",
+  "definition": "কেরামতি Kerāmati - Skill. Ar. Karāmāt = miracles."
+},
+{
+  "word": "Kerāmati",
+  "pos": "noun",
+  "definition": "কেরামতি Kerāmati - Skill. Ar. Karāmāt = miracles."
+},
+{
+  "word": "কেরালি",
+  "pos": "noun",
+  "definition": "কেরালি Kerâli - An oar. Td. Krpitapālika."
+},
+{
+  "word": "Kerâli",
+  "pos": "noun",
+  "definition": "কেরালি Kerâli - An oar. Td. Krpitapālika."
+},
+{
+  "word": "কেরুটি",
+  "pos": "noun",
+  "definition": "কেরুটি Keruti - Credit, style. Eng."
+},
+{
+  "word": "Keruti",
+  "pos": "noun",
+  "definition": "কেরুটি Keruti - Credit, style. Eng."
+},
+{
+  "word": "কেরুৱাল",
+  "pos": "noun",
+  "definition": "কেরুৱাল Keruwāl - An oar. Td. Krpitapāla."
+},
+{
+  "word": "Keruwāl",
+  "pos": "noun",
+  "definition": "কেরুৱাল Keruwāl - An oar. Td. Krpitapāla."
+},
+{
+  "word": "কেরেক",
+  "pos": "-",
+  "definition": "কেরেক Kerek - A word denoting the sound of cracking, onom."
+},
+{
+  "word": "Kerek",
+  "pos": "-",
+  "definition": "কেরেক Kerek - A word denoting the sound of cracking, onom."
+},
+{
+  "word": "কেরেঙ্কাল",
+  "pos": "noun",
+  "definition": "কেরেঙ্কাল Kereńkāl - Scandal. Td. *Kalankakāra."
+},
+{
+  "word": "Kereńkāl",
+  "pos": "noun",
+  "definition": "কেরেঙ্কাল Kereńkāl - Scandal. Td. *Kalankakāra."
+},
+{
+  "word": "কেরেঙ্কালি",
+  "pos": "noun",
+  "definition": "কেরেঙ্কালি Kereńkāli - Scandal. Td. Kalańkakārika."
+},
+{
+  "word": "Kereńkāli",
+  "pos": "noun",
+  "definition": "কেরেঙ্কালি Kereńkāli - Scandal. Td. Kalańkakārika."
+},
+{
+  "word": "কেরেন্না",
+  "pos": "noun",
+  "definition": "কেরেন্না Ker'ennă - Enmity, malice. Mt. Karenna-pā = to mock."
+},
+{
+  "word": "Ker'ennă",
+  "pos": "noun",
+  "definition": "কেরেন্না Ker'ennă - Enmity, malice. Mt. Karenna-pā = to mock."
+},
+{
+  "word": "কেরেন্নাকেরেন্নি",
+  "pos": "noun",
+  "definition": "কেরেন্নাকেরেন্নি Ke'rennā-Kerenni - Mutual enmity or malice. Recipr. fr. above."
+},
+{
+  "word": "Ke'rennā-Kerenni",
+  "pos": "noun",
+  "definition": "কেরেন্নাকেরেন্নি Ke'rennā-Kerenni - Mutual enmity or malice. Recipr. fr. above."
+},
+{
+  "word": "কেরেম-কেরেম-কেরেম",
+  "pos": "-",
+  "definition": "কেরেম-কেরেম-কেরেম Kerem-kerem-kerem - i) A word denoting the sound of grinding a hard thing; ii) Extreme dryness."
+},
+{
+  "word": "Kerem-kerem-kerem",
+  "pos": "-",
+  "definition": "কেরেম-কেরেম-কেরেম Kerem-kerem-kerem - i) A word denoting the sound of grinding a hard thing; ii) Extreme dryness."
+},
+{
+  "word": "কেরেস",
+  "pos": "noun",
+  "definition": "কেরেস Keres - Kerosine. Eng."
+},
+{
+  "word": "Keres",
+  "pos": "noun",
+  "definition": "কেরেস Keres - Kerosine. Eng."
+},
+{
+  "word": "কে'রকের",
+  "pos": "-",
+  "definition": "কে'রকের Ke'rker - A word denoting the sound of rubbing a hard particle, onom."
+},
+{
+  "word": "Ke'rker",
+  "pos": "-",
+  "definition": "কে'রকের Ke'rker - A word denoting the sound of rubbing a hard particle, onom."
+},
+{
+  "word": "কেরকেরা",
+  "pos": "verb",
+  "definition": "কেরকেরা Ke'rkerā - To create the sound of rubbing a hard particle. Denom fr. above."
+},
+{
+  "word": "Ke'rkerā",
+  "pos": "verb",
+  "definition": "কেরকেরা Ke'rkerā - To create the sound of rubbing a hard particle. Denom fr. above."
+},
+{
+  "word": "কে'রকেরানি",
+  "pos": "noun",
+  "definition": "কে'রকেরানি Ke'rkerāni - Creating the sound of rubbing a hard particle. Ke'rkerā - + āni."
+},
+{
+  "word": "Ke'rkerāni",
+  "pos": "noun",
+  "definition": "কে'রকেরানি Ke'rkerāni - Creating the sound of rubbing a hard particle. Ke'rkerā - + āni."
+},
+{
+  "word": "কেরতু",
+  "pos": "adjective",
+  "definition": "কেরতু Kertu - M. Deep black. kehārā + thun."
+},
+{
+  "word": "Kertu",
+  "pos": "adjective",
+  "definition": "কেরতু Kertu - M. Deep black. kehārā + thun."
+},
+{
+  "word": "কেরবঙ",
+  "pos": "-",
+  "definition": "কেরবঙ Kerban - V. below."
+},
+{
+  "word": "Kerban",
+  "pos": "-",
+  "definition": "কেরবঙ Kerban - V. below."
+},
+{
+  "word": "কেরবেঙ",
+  "pos": "noun",
+  "definition": "কেরবেঙ Kerben - Frog. 1st el, onom; sec. el. Td. vyanga."
+},
+{
+  "word": "Kerben",
+  "pos": "noun",
+  "definition": "কেরবেঙ Kerben - Frog. 1st el, onom; sec. el. Td. vyanga."
+},
+{
+  "word": "কেল",
+  "pos": "noun",
+  "definition": "কেল Kel - The act of collapsing or crumbing. Mt. ken-på."
+},
+{
+  "word": "Kel",
+  "pos": "noun",
+  "definition": "কেল Kel - The act of collapsing or crumbing. Mt. ken-på."
+},
+{
+  "word": "কেলনি",
+  "pos": "noun",
+  "definition": "কেলনি Kelani - Collapsing, crumbling. ket + ani."
+},
+{
+  "word": "Kelani",
+  "pos": "noun",
+  "definition": "কেলনি Kelani - Collapsing, crumbling. ket + ani."
+},
+{
+  "word": "কেলেঙ্কারি",
+  "pos": "-",
+  "definition": "কেলেঙ্কারি Keleńkāri - V. kerenkāli."
+},
+{
+  "word": "Keleńkāri",
+  "pos": "-",
+  "definition": "কেলেঙ্কারি Keleńkāri - V. kerenkāli."
+},
+{
+  "word": "কেলেণ্ডার",
+  "pos": "noun",
+  "definition": "কেলেণ্ডার Kelendār - Calender. Eng."
+},
+{
+  "word": "Kelendār",
+  "pos": "noun",
+  "definition": "কেলেণ্ডার Kelendār - Calender. Eng."
+},
+{
+  "word": "কেসারা",
+  "pos": "noun",
+  "definition": "কেসারা Kesārā - Heap. Mt. Kaisā - på + BM-rã."
+},
+{
+  "word": "Kesārā",
+  "pos": "noun",
+  "definition": "কেসারা Kesārā - Heap. Mt. Kaisā - på + BM-rã."
+},
+{
+  "word": "কেহারা",
+  "pos": "adjective",
+  "definition": "কেহারা Kehārā - Deep black. Td. Krşnākāraka."
+},
+{
+  "word": "Kehārā",
+  "pos": "adjective",
+  "definition": "কেহারা Kehārā - Deep black. Td. Krşnākāraka."
+},
+{
+  "word": "কেহুরা",
+  "pos": "-",
+  "definition": "কেহুরা Kehurā - V. above."
+},
+{
+  "word": "Kehurā",
+  "pos": "-",
+  "definition": "কেহুরা Kehurā - V. above."
+},
+{
+  "word": "কেহরিয়া",
+  "pos": "noun",
+  "definition": "কেহরিয়া Ke'huriyà - A kind of medicinal plant. V. keiphu + Td. *harika."
+},
+{
+  "word": "Ke'huriyà",
+  "pos": "noun",
+  "definition": "কেহরিয়া Ke'huriyà - A kind of medicinal plant. V. keiphu + Td. *harika."
+},
+{
+  "word": "কেহেম",
+  "pos": "noun",
+  "definition": "কেহেম Kehem - Pine apple. Mt. Kihom."
+},
+{
+  "word": "Kehem",
+  "pos": "noun",
+  "definition": "কেহেম Kehem - Pine apple. Mt. Kihom."
+},
+{
+  "word": "কেহেরা",
+  "pos": "-",
+  "definition": "কেহেরা Keherå - V. Kehärä."
+},
+{
+  "word": "Keherå",
+  "pos": "-",
+  "definition": "কেহেরা Keherå - V. Kehärä."
+},
+{
+  "word": "কৈফৎ",
+  "pos": "noun",
+  "definition": "কৈফৎ Kaiphat - Argument, objection. Per. Ar. Kaifiyat."
+},
+{
+  "word": "Kaiphat",
+  "pos": "noun",
+  "definition": "কৈফৎ Kaiphat - Argument, objection. Per. Ar. Kaifiyat."
+},
+{
+  "word": "কোক",
+  "pos": "-",
+  "definition": "কোক Kok - A suf. added to nouns in the sense of 'leader' or 'head'. Mt. Kok = head. mikok = head man; dāikok = Head in the game of dice."
+},
+{
+  "word": "Kok",
+  "pos": "-",
+  "definition": "কোক Kok - A suf. added to nouns in the sense of 'leader' or 'head'. Mt. Kok = head. mikok = head man; dāikok = Head in the game of dice."
+},
+{
+  "word": "কোহাল",
+  "pos": "-",
+  "definition": "কোহাল Kohāl - M. V. kuwāl."
+},
+{
+  "word": "Kohāl",
+  "pos": "-",
+  "definition": "কোহাল Kohāl - M. V. kuwāl."
+},
+{
+  "word": "কৌ'",
+  "pos": "noun",
+  "definition": "কৌ' Ka'u - Back-kicking. Mt. Kãu-pã."
+},
+{
+  "word": "Ka'u",
+  "pos": "noun",
+  "definition": "কৌ' Ka'u - Back-kicking. Mt. Kãu-pã."
+},
+{
+  "word": "কৌ",
+  "pos": "adjective",
+  "definition": "কৌ Kau - Short. Mt. Kau-pã."
+},
+{
+  "word": "Kau",
+  "pos": "adjective",
+  "definition": "কৌ Kau - Short. Mt. Kau-pã."
+},
+{
+  "word": "কৌখাও",
+  "pos": "-",
+  "definition": "কৌখাও Kaukhän - M. V. Kauphāň."
+},
+{
+  "word": "Kaukhän",
+  "pos": "-",
+  "definition": "কৌখাও Kaukhän - M. V. Kauphāň."
+},
+{
+  "word": "কৌজিয়া",
+  "pos": "adjective",
+  "definition": "কৌজিয়া Kaujiyā - Short. Kau + ciyã."
+},
+{
+  "word": "Kaujiyā",
+  "pos": "adjective",
+  "definition": "কৌজিয়া Kaujiyā - Short. Kau + ciyã."
+},
+{
+  "word": "কৌজিলাঙ",
+  "pos": "-",
+  "definition": "কৌজিলাঙ Kaujiläń - M. V. above + rän."
+},
+{
+  "word": "Kaujiläń",
+  "pos": "-",
+  "definition": "কৌজিলাঙ Kaujiläń - M. V. above + rän."
+},
+{
+  "word": "কৌ'দানি",
+  "pos": "noun",
+  "definition": "কৌ'দানি Kau'dāni - Back-Kicking. Ka'u + দানি।"
+},
+{
+  "word": "Kau'dāni",
+  "pos": "noun",
+  "definition": "কৌ'দানি Kau'dāni - Back-Kicking. Ka'u + দানি।"
+},
+{
+  "word": "কৌনা",
+  "pos": "noun",
+  "definition": "1. কৌনা Kauna - A kind of reed."
+},
+{
+  "word": "Kauna",
+  "pos": "noun",
+  "definition": "1. কৌনা Kauna - A kind of reed."
+},
+{
+  "word": "কৌনা",
+  "pos": "noun",
+  "definition": "2. কৌনা Kaunå - A Kind of small creature hovering over reeds."
+},
+{
+  "word": "Kaunå",
+  "pos": "noun",
+  "definition": "2. কৌনা Kaunå - A Kind of small creature hovering over reeds."
+},
+{
+  "word": "কৌফাঙ",
+  "pos": "noun",
+  "definition": "কৌফাঙ Kauphan - i) Mass, multitude ii) Reed or wood drifted by flood. Mt. Kau-pā + Phān - Pã."
+},
+{
+  "word": "Kauphan",
+  "pos": "noun",
+  "definition": "কৌফাঙ Kauphan - i) Mass, multitude ii) Reed or wood drifted by flood. Mt. Kau-pā + Phān - Pã."
+},
+{
+  "word": "কৌৱা",
+  "pos": "noun",
+  "definition": "কৌৱা Kauwā - Crow. Td. *Kākaka."
+},
+{
+  "word": "Kauwā",
+  "pos": "noun",
+  "definition": "কৌৱা Kauwā - Crow. Td. *Kākaka."
+},
+{
+  "word": "কৌৱার ফাকিথম",
+  "pos": "noun",
+  "definition": "কৌৱার ফাকিথম Kauwār phäkitham - A kind of Plant the leaves of which are used as spices. Mt. Kwak Phatikom."
+},
+{
+  "word": "Kauwār phäkitham",
+  "pos": "noun",
+  "definition": "কৌৱার ফাকিথম Kauwār phäkitham - A kind of Plant the leaves of which are used as spices. Mt. Kwak Phatikom."
+},
+{
+  "word": "কৌৱাকলেই",
+  "pos": "noun",
+  "definition": "কৌৱাকলেই Rauwāklei - A Kind of flower. Mt-Kwāklai."
+},
+{
+  "word": "Rauwāklei",
+  "pos": "noun",
+  "definition": "কৌৱাকলেই Rauwāklei - A Kind of flower. Mt-Kwāklai."
+},
+{
+  "word": "কৌ'রঙ",
+  "pos": "noun",
+  "definition": "কৌ'রঙ Kau'raň - A pole with its end bent or split meant for plucking fruits, flowers etc. Mt. kao + karon, cont."
+},
+{
+  "word": "Kau'raň",
+  "pos": "noun",
+  "definition": "কৌ'রঙ Kau'raň - A pole with its end bent or split meant for plucking fruits, flowers etc. Mt. kao + karon, cont."
+},
+{
+  "word": "কৌরল",
+  "pos": "noun",
+  "definition": "কৌরল Kaural - Tricky words or thought. Mt. koipā + lon. - Kāsal = Tricks."
+},
+{
+  "word": "Kaural",
+  "pos": "noun",
+  "definition": "কৌরল Kaural - Tricky words or thought. Mt. koipā + lon. - Kāsal = Tricks."
+},
+{
+  "word": "কৌলি",
+  "pos": "noun",
+  "definition": "কৌলি Kauli - Quarrel. Td. *Kalahika. - Khānā (খানা) = Quarrels."
+},
+{
+  "word": "Kauli",
+  "pos": "noun",
+  "definition": "কৌলি Kauli - Quarrel. Td. *Kalahika. - Khānā (খানা) = Quarrels."
+},
 
 ]
