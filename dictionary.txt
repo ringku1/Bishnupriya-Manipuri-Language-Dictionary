@@ -22789,5 +22789,1725 @@
   "pos": "noun",
   "definition": "কৌলি Kauli - Quarrel. Td. *Kalahika. - Khānā (খানা) = Quarrels."
 },
+{
+  "word": "কৌলিবা",
+  "pos": "adjective",
+  "definition": "কৌলিবা Kaulibā - Quarrel some."
+},
+{
+  "word": "Kaulibā",
+  "pos": "adjective",
+  "definition": "কৌলিবা Kaulibā - Quarrel some."
+},
+{
+  "word": "কৌলিরা",
+  "pos": "adjective",
+  "definition": "কৌলিরা Kaulirā - Quarrel some."
+},
+{
+  "word": "Kaulirā",
+  "pos": "adjective",
+  "definition": "কৌলিরা Kaulirā - Quarrel some."
+},
+{
+  "word": "কৌশল",
+  "pos": "noun",
+  "definition": "কৌশল Kausal - Tricks. Ts."
+},
+{
+  "word": "Kausal",
+  "pos": "noun",
+  "definition": "কৌশল Kausal - Tricks. Ts."
+},
+{
+  "word": "কৗশালি",
+  "pos": "noun",
+  "definition": "কৗশালি Kausāli - Toil. Td. *Kakşapālika."
+},
+{
+  "word": "Kausāli",
+  "pos": "noun",
+  "definition": "কৗশালি Kausāli - Toil. Td. *Kakşapālika."
+},
+{
+  "word": "কৌসিং",
+  "pos": "-",
+  "definition": "কৌসিং Kausin - V. Kãosiñ."
+},
+{
+  "word": "Kausin",
+  "pos": "-",
+  "definition": "কৌসিং Kausin - V. Kãosiñ."
+},
+{
+  "word": "কৌহাঙ",
+  "pos": "-",
+  "definition": "কৌহাঙ Kauhăń - V. Kauphän."
+},
+{
+  "word": "Kauhăń",
+  "pos": "-",
+  "definition": "কৌহাঙ Kauhăń - V. Kauphän."
+},
+{
+  "word": "ক্রিয়া",
+  "pos": "noun",
+  "definition": "ক্রিয়া Kriyā - Religious rites. Ts."
+},
+{
+  "word": "Kriyā",
+  "pos": "noun",
+  "definition": "ক্রিয়া Kriyā - Religious rites. Ts."
+},
+{
+  "word": "ক্রিয়াকর্ম",
+  "pos": "noun",
+  "definition": "ক্রিয়াকর্ম kriyäkarma - Religious rites. Ts."
+},
+{
+  "word": "kriyäkarma",
+  "pos": "noun",
+  "definition": "ক্রিয়াকর্ম kriyäkarma - Religious rites. Ts."
+},
+{
+  "word": "ক্রোধ",
+  "pos": "noun",
+  "definition": "ক্রোধ Krodh - Anger."
+},
+{
+  "word": "Krodh",
+  "pos": "noun",
+  "definition": "ক্রোধ Krodh - Anger."
+},
+{
+  "word": "ক্ষতি",
+  "pos": "noun",
+  "definition": "ক্ষতি Ksati - Loss. - Puran = Compensation."
+},
+{
+  "word": "Ksati",
+  "pos": "noun",
+  "definition": "ক্ষতি Ksati - Loss. - Puran = Compensation."
+},
+{
+  "word": "ক্ষমা",
+  "pos": "noun",
+  "definition": "ক্ষমা Ksamă - Pardon, excuse. Ts."
+},
+{
+  "word": "Ksamă",
+  "pos": "noun",
+  "definition": "ক্ষমা Ksamă - Pardon, excuse. Ts."
+},
+{
+  "word": "খই",
+  "pos": "noun",
+  "definition": "খই Khai - (i) Seed of bean. Mt. hawãi (ii) B. khai - parched rice."
+},
+{
+  "word": "Khai",
+  "pos": "noun",
+  "definition": "খই Khai - (i) Seed of bean. Mt. hawãi (ii) B. khai - parched rice."
+},
+{
+  "word": "খইচুম",
+  "pos": "noun",
+  "definition": "খইচুম Khaicum - A design of embroidery. Mt. Khoi + Yum."
+},
+{
+  "word": "Khaicum",
+  "pos": "noun",
+  "definition": "খইচুম Khaicum - A design of embroidery. Mt. Khoi + Yum."
+},
+{
+  "word": "খইতও",
+  "pos": "noun",
+  "definition": "খইতও Khaitań - Navel. Mt. Khoy = navel + to'n = high."
+},
+{
+  "word": "Khaitań",
+  "pos": "noun",
+  "definition": "খইতও Khaitań - Navel. Mt. Khoy = navel + to'n = high."
+},
+{
+  "word": "খইতঙ্গপা",
+  "pos": "noun",
+  "definition": "খইতঙ্গপা Khaitańpă - One having a large or high navel. V. above + - pã."
+},
+{
+  "word": "Khaitańpă",
+  "pos": "noun",
+  "definition": "খইতঙ্গপা Khaitańpă - One having a large or high navel. V. above + - pã."
+},
+{
+  "word": "খইতু",
+  "pos": "-",
+  "definition": "খইতু Khaitu - V. below."
+},
+{
+  "word": "Khaitu",
+  "pos": "-",
+  "definition": "খইতু Khaitu - V. below."
+},
+{
+  "word": "খইতৌ",
+  "pos": "noun",
+  "definition": "খইতৌ Khaitau - Navel. Mt. Khoytau."
+},
+{
+  "word": "Khaitau",
+  "pos": "noun",
+  "definition": "খইতৌ Khaitau - Navel. Mt. Khoytau."
+},
+{
+  "word": "খইনিঙ",
+  "pos": "noun",
+  "definition": "খইনিঙ Khainiň - A sticky substance found in a bee-nest. Mt. khoinin (Khoi = honey + manin = bottom)."
+},
+{
+  "word": "Khainiň",
+  "pos": "noun",
+  "definition": "খইনিঙ Khainiň - A sticky substance found in a bee-nest. Mt. khoinin (Khoi = honey + manin = bottom)."
+},
+{
+  "word": "খইনিঙা",
+  "pos": "adjective",
+  "definition": "খইনিঙা Khainiñā - Sticky like khainin."
+},
+{
+  "word": "Khainiñā",
+  "pos": "adjective",
+  "definition": "খইনিঙা Khainiñā - Sticky like khainin."
+},
+{
+  "word": "খইনিঙিয়া",
+  "pos": "-",
+  "definition": "খইনিঙিয়া Kha'niniyà - V. above. khainin + - iyā."
+},
+{
+  "word": "Kha'niniyà",
+  "pos": "-",
+  "definition": "খইনিঙিয়া Kha'niniyà - V. above. khainin + - iyā."
+},
+{
+  "word": "খইনিঙ্গা",
+  "pos": "-",
+  "definition": "খইনিঙ্গা Kha'ininpā - V. above. khainin + - pā."
+},
+{
+  "word": "Kha'ininpā",
+  "pos": "-",
+  "definition": "খইনিঙ্গা Kha'ininpā - V. above. khainin + - pā."
+},
+{
+  "word": "খই পাক",
+  "pos": "noun",
+  "definition": "খই পাক Kha'ipāk - A kind of sweetmeat made by fried rice. Mt. Khaipāk (Khai = parched rice + pāk = flat)."
+},
+{
+  "word": "Kha'ipāk",
+  "pos": "noun",
+  "definition": "খই পাক Kha'ipāk - A kind of sweetmeat made by fried rice. Mt. Khaipāk (Khai = parched rice + pāk = flat)."
+},
+{
+  "word": "খইমাঙ",
+  "pos": "noun",
+  "definition": "খইমাঙ Khaimâń - Remains of fried grains. B. khai = parched rice + Mt. mānpā = wasted."
+},
+{
+  "word": "Khaimâń",
+  "pos": "noun",
+  "definition": "খইমাঙ Khaimâń - Remains of fried grains. B. khai = parched rice + Mt. mānpā = wasted."
+},
+{
+  "word": "খইমু",
+  "pos": "noun",
+  "definition": "খইমু Khaimu - Bee. Mt. Khoi = bee + mu = black."
+},
+{
+  "word": "Khaimu",
+  "pos": "noun",
+  "definition": "খইমু Khaimu - Bee. Mt. Khoi = bee + mu = black."
+},
+{
+  "word": "খইরু",
+  "pos": "noun",
+  "definition": "খইরু Khairu - Wax. Mt. Khoiru (khoi = bee + maru = holder)."
+},
+{
+  "word": "Khairu",
+  "pos": "noun",
+  "definition": "খইরু Khairu - Wax. Mt. Khoiru (khoi = bee + maru = holder)."
+},
+{
+  "word": "খইহি",
+  "pos": "noun",
+  "definition": "খইহি Khaihi - Honey. Mt. Khoihi (khoi = bee + hi = liquid)."
+},
+{
+  "word": "Khaihi",
+  "pos": "noun",
+  "definition": "খইহি Khaihi - Honey. Mt. Khoihi (khoi = bee + hi = liquid)."
+},
+{
+  "word": "খ'ক",
+  "pos": "adjective",
+  "definition": "1. খ'ক Kha'k - Exact, proper. Mt. khak-khak. - kare = exactly."
+},
+{
+  "word": "Kha'k",
+  "pos": "adjective",
+  "definition": "1. খ'ক Kha'k - Exact, proper. Mt. khak-khak. - kare = exactly."
+},
+{
+  "word": "খ'ক",
+  "pos": "noun",
+  "definition": "2. খ'ক Kha'k - Back. Td. kaksa = hiding place."
+},
+{
+  "word": "Kha'k",
+  "pos": "noun",
+  "definition": "2. খ'ক Kha'k - Back. Td. kaksa = hiding place."
+},
+{
+  "word": "খক",
+  "pos": "noun",
+  "definition": "খক Khak - The act of wrapping (as the edge of a mat). Mt. Khoр - pā. - karāni = wrapping."
+},
+{
+  "word": "Khak",
+  "pos": "noun",
+  "definition": "খক Khak - The act of wrapping (as the edge of a mat). Mt. Khoр - pā. - karāni = wrapping."
+},
+{
+  "word": "খ'করানি",
+  "pos": "noun",
+  "definition": "খ'করানি Kha'karāni - Hanging (a child) against the back."
+},
+{
+  "word": "Kha'karāni",
+  "pos": "noun",
+  "definition": "খ'করানি Kha'karāni - Hanging (a child) against the back."
+},
+{
+  "word": "খকাল",
+  "pos": "-",
+  "definition": "খকাল Khakāl - M. V. below."
+},
+{
+  "word": "Khakāl",
+  "pos": "-",
+  "definition": "খকাল Khakāl - M. V. below."
+},
+{
+  "word": "খকালা",
+  "pos": "noun",
+  "definition": "খকালা Khakālā - Belly (of an animal). Td. * kakşa - pālaka."
+},
+{
+  "word": "Khakālā",
+  "pos": "noun",
+  "definition": "খকালা Khakālā - Belly (of an animal). Td. * kakşa - pālaka."
+},
+{
+  "word": "খকখক",
+  "pos": "-",
+  "definition": "খকখক Khak-khak - A word denoting quick and improper action. Onom."
+},
+{
+  "word": "Khak-khak",
+  "pos": "-",
+  "definition": "খকখক Khak-khak - A word denoting quick and improper action. Onom."
+},
+{
+  "word": "খকখকা",
+  "pos": "verb",
+  "definition": "খকখকা Khakkhakā - To work hastily and improperly. Denom. fr. above."
+},
+{
+  "word": "Khakkhakā",
+  "pos": "verb",
+  "definition": "খকখকা Khakkhakā - To work hastily and improperly. Denom. fr. above."
+},
+{
+  "word": "খ'কখকানি",
+  "pos": "noun",
+  "definition": "খ'কখকানি Kha'kkhakāni - Working hastily and improperly. Khakkhakā - +- āni."
+},
+{
+  "word": "Kha'kkhakāni",
+  "pos": "noun",
+  "definition": "খ'কখকানি Kha'kkhakāni - Working hastily and improperly. Khakkhakā - +- āni."
+},
+{
+  "word": "খকচা",
+  "pos": "noun",
+  "definition": "খকচা Khakcā - The hinder part of the head. Mt. kok = head + sam = joint or sā = hair."
+},
+{
+  "word": "Khakcā",
+  "pos": "noun",
+  "definition": "খকচা Khakcā - The hinder part of the head. Mt. kok = head + sam = joint or sā = hair."
+},
+{
+  "word": "খঙ",
+  "pos": "noun",
+  "definition": "খঙ Khan - Canal. Mt. Khon."
+},
+{
+  "word": "Khan",
+  "pos": "noun",
+  "definition": "খঙ Khan - Canal. Mt. Khon."
+},
+{
+  "word": "খঙনাকলেই",
+  "pos": "-",
+  "definition": "খঙনাকলেই Khańnāklei - M. V. Khańkāklei."
+},
+{
+  "word": "Khańnāklei",
+  "pos": "-",
+  "definition": "খঙনাকলেই Khańnāklei - M. V. Khańkāklei."
+},
+{
+  "word": "খঙিয়াল",
+  "pos": "noun",
+  "definition": "খঙিয়াল Khańiyāl - A kind of play by jumping with one leg. Mt. Khon = leg + yän - på = to hang."
+},
+{
+  "word": "Khańiyāl",
+  "pos": "noun",
+  "definition": "খঙিয়াল Khańiyāl - A kind of play by jumping with one leg. Mt. Khon = leg + yän - på = to hang."
+},
+{
+  "word": "খঙুপ",
+  "pos": "noun",
+  "definition": "খঙুপ Khanup - Shoe. Mt. Khon = leg + up - på = to wear."
+},
+{
+  "word": "Khanup",
+  "pos": "noun",
+  "definition": "খঙুপ Khanup - Shoe. Mt. Khon = leg + up - på = to wear."
+},
+{
+  "word": "খঙকাকলেই",
+  "pos": "noun",
+  "definition": "খঙকাকলেই Khankäklei - Diarrhoea caused to babies during the period of suspension of mother's milk. Mt. Khongaklai (Khom = mother's milk + khak = end + lãi = disease)."
+},
+{
+  "word": "Khankäklei",
+  "pos": "noun",
+  "definition": "খঙকাকলেই Khankäklei - Diarrhoea caused to babies during the period of suspension of mother's milk. Mt. Khongaklai (Khom = mother's milk + khak = end + lãi = disease)."
+},
+{
+  "word": "খঙকাপ",
+  "pos": "noun",
+  "definition": "খঙকাপ Khankap - Foot-step. Mt. Khonkāp (Khon = Foot + kap = span)."
+},
+{
+  "word": "Khankap",
+  "pos": "noun",
+  "definition": "খঙকাপ Khankap - Foot-step. Mt. Khonkāp (Khon = Foot + kap = span)."
+},
+{
+  "word": "খঙ্গরৌ",
+  "pos": "noun",
+  "definition": "খঙ্গরৌ Khángarau - Pent, pentaloon. Mt. khongrao (khon - leg + kharā = resort +1ão - på = cover)."
+},
+{
+  "word": "Khángarau",
+  "pos": "noun",
+  "definition": "খঙ্গরৌ Khángarau - Pent, pentaloon. Mt. khongrao (khon - leg + kharā = resort +1ão - på = cover)."
+},
+{
+  "word": "খঙচা",
+  "pos": "noun",
+  "definition": "খঙচা Khancā - Big canal (khon = canal + cãu - pã = big)."
+},
+{
+  "word": "Khancā",
+  "pos": "noun",
+  "definition": "খঙচা Khancā - Big canal (khon = canal + cãu - pã = big)."
+},
+{
+  "word": "খঙচি",
+  "pos": "-",
+  "definition": "খঙচি Khańci - V. below."
+},
+{
+  "word": "Khańci",
+  "pos": "-",
+  "definition": "খঙচি Khańci - V. below."
+},
+{
+  "word": "খঙচেই",
+  "pos": "noun",
+  "definition": "খঙচেই Khańcei - Anklet. Mt. Khonci (Khon = leg + ci = chain)."
+},
+{
+  "word": "Khańcei",
+  "pos": "noun",
+  "definition": "খঙচেই Khańcei - Anklet. Mt. Khonci (Khon = leg + ci = chain)."
+},
+{
+  "word": "খঙচেৎ",
+  "pos": "noun",
+  "definition": "খঙচেৎ Khancet - Foot-step, nature. Mt. Khońcat (khon = leg + cat - på = to move)."
+},
+{
+  "word": "Khancet",
+  "pos": "noun",
+  "definition": "খঙচেৎ Khancet - Foot-step, nature. Mt. Khońcat (khon = leg + cat - på = to move)."
+},
+{
+  "word": "খঙচেল",
+  "pos": "noun",
+  "definition": "খঙচেল Khancel - Tune. Mt. Khoñcen (khoň = tune + cen - på = to possess)."
+},
+{
+  "word": "Khancel",
+  "pos": "noun",
+  "definition": "খঙচেল Khancel - Tune. Mt. Khoñcen (khoň = tune + cen - på = to possess)."
+},
+{
+  "word": "খঙতা",
+  "pos": "noun",
+  "definition": "খঙতা Khańtā - M. Tune, mode of speaking. Mt. Khantā (khon = tune + tä = condition)."
+},
+{
+  "word": "Khańtā",
+  "pos": "noun",
+  "definition": "খঙতা Khańtā - M. Tune, mode of speaking. Mt. Khantā (khon = tune + tä = condition)."
+},
+{
+  "word": "খঙতিনা",
+  "pos": "noun",
+  "definition": "খঙতিনا Khańtinā - M. Two pieces of cloth (generally old and torn) joined together. Mt. Khomtaina - pa (khom - på = to join + taina - pā = to saw)."
+},
+{
+  "word": "Khańtinā",
+  "pos": "noun",
+  "definition": "খঙতিনا Khańtinā - M. Two pieces of cloth (generally old and torn) joined together. Mt. Khomtaina - pa (khom - på = to join + taina - pā = to saw)."
+},
+{
+  "word": "খঙনাঙ",
+  "pos": "noun",
+  "definition": "খঙনাঙ Khańnän - Banyan tree. Mt. Khon n (Khon = foot + län - på = to take air or spacious)."
+},
+{
+  "word": "Khańnän",
+  "pos": "noun",
+  "definition": "খঙনাঙ Khańnän - Banyan tree. Mt. Khon n (Khon = foot + län - på = to take air or spacious)."
+},
+{
+  "word": "খঙলেই",
+  "pos": "noun",
+  "definition": "খঙলেই Khanlei - Messenger. Mt. Khonlãi (Khon = foot + lãi pã = to come)."
+},
+{
+  "word": "Khanlei",
+  "pos": "noun",
+  "definition": "খঙলেই Khanlei - Messenger. Mt. Khonlãi (Khon = foot + lãi pã = to come)."
+},
+{
+  "word": "খ'চ",
+  "pos": "-",
+  "definition": "খ'চ Kha'c - A word expressing the sound of chopping at one stroke or striking of by one line. Onom."
+},
+{
+  "word": "Kha'c",
+  "pos": "-",
+  "definition": "খ'চ Kha'c - A word expressing the sound of chopping at one stroke or striking of by one line. Onom."
+},
+{
+  "word": "খচ",
+  "pos": "noun",
+  "definition": "1. খচ Khac - Line. Onom."
+},
+{
+  "word": "Khac",
+  "pos": "noun",
+  "definition": "1. খচ Khac - Line. Onom."
+},
+{
+  "word": "খচ",
+  "pos": "-",
+  "definition": "2. খচ Khac - i) Contraction, wrinkle; ii) Contracted, wrinkled. Td. Kuñcil a. - tin (টিঙ): Contraction and expansion; - Karāni (করানি) = Contracting, wrinkling."
+},
+{
+  "word": "Khac",
+  "pos": "-",
+  "definition": "2. খচ Khac - i) Contraction, wrinkle; ii) Contracted, wrinkled. Td. Kuñcil a. - tin (টিঙ): Contraction and expansion; - Karāni (করানি) = Contracting, wrinkling."
+},
+{
+  "word": "খচমচ",
+  "pos": "-",
+  "definition": "খচমচ Khacamaca - V. Khatamata."
+},
+{
+  "word": "Khacamaca",
+  "pos": "-",
+  "definition": "খচমচ Khacamaca - V. Khatamata."
+},
+{
+  "word": "খচরা",
+  "pos": "noun",
+  "definition": "খচরা Khacarā - Draft. V. Khasara."
+},
+{
+  "word": "Khacarā",
+  "pos": "noun",
+  "definition": "খচরা Khacarā - Draft. V. Khasara."
+},
+{
+  "word": "খচা",
+  "pos": "noun",
+  "definition": "খচা Khaca - Slanting poles used in roofing a house-stead. Per. gaza, EB. gacã."
+},
+{
+  "word": "Khaca",
+  "pos": "noun",
+  "definition": "খচা Khaca - Slanting poles used in roofing a house-stead. Per. gaza, EB. gacã."
+},
+{
+  "word": "খচি",
+  "pos": "noun",
+  "definition": "1. খচি Kha'ci - Piece of bamboo or wood used in fencing. Per. gaza + Sk. Kañci, cont."
+},
+{
+  "word": "Kha'ci",
+  "pos": "noun",
+  "definition": "1. খচি Kha'ci - Piece of bamboo or wood used in fencing. Per. gaza + Sk. Kañci, cont."
+},
+{
+  "word": "খ'চি",
+  "pos": "noun",
+  "definition": "2. খ'চি Kha'ci - Small valley. Mt. Kocin."
+},
+{
+  "word": "Kha'ci",
+  "pos": "noun",
+  "definition": "2. খ'চি Kha'ci - Small valley. Mt. Kocin."
+},
+{
+  "word": "খ'চখচা",
+  "pos": "adjective",
+  "definition": "খ'চখচা Kha'ckhaca - Wrinkled, rough. - Kerban (কেরবঙ) = A kind of big frog."
+},
+{
+  "word": "Kha'ckhaca",
+  "pos": "adjective",
+  "definition": "খ'চখচা Kha'ckhaca - Wrinkled, rough. - Kerban (কেরবঙ) = A kind of big frog."
+},
+{
+  "word": "খচচর",
+  "pos": "adjective",
+  "definition": "খচচর Khaccar - Naughty, wicked. Per. Kharcăra = mule."
+},
+{
+  "word": "Khaccar",
+  "pos": "adjective",
+  "definition": "খচচর Khaccar - Naughty, wicked. Per. Kharcăra = mule."
+},
+{
+  "word": "খঞ্চপ",
+  "pos": "noun",
+  "definition": "খঞ্চপ Khañcap - Foul language. Mt. Khoñcap (Khon = tune + chop - på = mean, vile)."
+},
+{
+  "word": "Khañcap",
+  "pos": "noun",
+  "definition": "খঞ্চপ Khañcap - Foul language. Mt. Khoñcap (Khon = tune + chop - på = mean, vile)."
+},
+{
+  "word": "খঞ্চি",
+  "pos": "adjective",
+  "definition": "খঞ্চি Khañci - Collected roughly. Kham + maci, cont. maci- = contracted and collected roughly."
+},
+{
+  "word": "Khañci",
+  "pos": "adjective",
+  "definition": "খঞ্চি Khañci - Collected roughly. Kham + maci, cont. maci- = contracted and collected roughly."
+},
+{
+  "word": "খঞ্চুপ",
+  "pos": "noun",
+  "definition": "খঞ্চুপ Khañcup - The nipple of a feeding bottle, feeding bottle. Mt. Khomcup (Khom = breast + cup - på = to suck)."
+},
+{
+  "word": "Khañcup",
+  "pos": "noun",
+  "definition": "খঞ্চুप Khañcup - The nipple of a feeding bottle, feeding bottle. Mt. Khomcup (Khom = breast + cup - på = to suck)."
+},
+{
+  "word": "খঞ্চম",
+  "pos": "-",
+  "definition": "খঞ্চম Khañcum - V. Khaicum."
+},
+{
+  "word": "Khañcum",
+  "pos": "-",
+  "definition": "খঞ্চম Khañcum - V. Khaicum."
+},
+{
+  "word": "খট",
+  "pos": "-",
+  "definition": "খট Khat - A word denoting the sound of striking something hard. Onom."
+},
+{
+  "word": "Khat",
+  "pos": "-",
+  "definition": "খট Khat - A word denoting the sound of striking something hard. Onom."
+},
+{
+  "word": "খটাই",
+  "pos": "noun",
+  "definition": "খটাই Khatãi - Post. Td. *Khatvāpika."
+},
+{
+  "word": "Khatãi",
+  "pos": "noun",
+  "definition": "খটাই Khatãi - Post. Td. *Khatvāpika."
+},
+{
+  "word": "খটোমটো",
+  "pos": "noun",
+  "definition": "খটোমটো Khatomato - Discord, trouble, intricacy. Onom. cf. * mottaka."
+},
+{
+  "word": "Khatomato",
+  "pos": "noun",
+  "definition": "খটোমটো Khatomato - Discord, trouble, intricacy. Onom. cf. * mottaka."
+},
+{
+  "word": "খটকা",
+  "pos": "noun",
+  "definition": "খটকা Khatkā - i) Trouble, difficulty; ii) Sudden doubt, hitch."
+},
+{
+  "word": "Khatkā",
+  "pos": "noun",
+  "definition": "খটকা Khatkā - i) Trouble, difficulty; ii) Sudden doubt, hitch."
+},
+{
+  "word": "খটখট",
+  "pos": "-",
+  "definition": "খটখট Khatkhat - A word denoting a slight chattering sound. Onom."
+},
+{
+  "word": "Khatkhat",
+  "pos": "-",
+  "definition": "খটখট Khatkhat - A word denoting a slight chattering sound. Onom."
+},
+{
+  "word": "খটখটা",
+  "pos": "verb",
+  "definition": "খটখটা Khatkhata - To chatter. Denom. fr. above."
+},
+{
+  "word": "Khatkhata",
+  "pos": "verb",
+  "definition": "খটখটা Khatkhata - To chatter. Denom. fr. above."
+},
+{
+  "word": "খটখটানি",
+  "pos": "noun",
+  "definition": "খটখটানি Khatkhatāni - Chattering. above + - āni."
+},
+{
+  "word": "Khatkhatāni",
+  "pos": "noun",
+  "definition": "খটখটানি Khatkhatāni - Chattering. above + - āni."
+},
+{
+  "word": "খণ্ড",
+  "pos": "noun",
+  "definition": "খণ্ড Khanda - Piece. Ts."
+},
+{
+  "word": "Khanda",
+  "pos": "noun",
+  "definition": "খণ্ড Khanda - Piece. Ts."
+},
+{
+  "word": "খ'ণ্ড",
+  "pos": "verb",
+  "definition": "খ'ণ্ড Kha'nda - To be refuted. Td. Khandya."
+},
+{
+  "word": "Kha'nda",
+  "pos": "verb",
+  "definition": "খ'ণ্ড Kha'nda - To be refuted. Td. Khandya."
+},
+{
+  "word": "খণ্ডন",
+  "pos": "noun",
+  "definition": "খণ্ডন Kandan - Refutation. Ts."
+},
+{
+  "word": "Kandan",
+  "pos": "noun",
+  "definition": "খণ্ডন Kandan - Refutation. Ts."
+},
+{
+  "word": "খণ্ডা",
+  "pos": "verb",
+  "definition": "খণ্ডা Khandă - To refute. Td. *Khandapaya."
+},
+{
+  "word": "Khandă",
+  "pos": "verb",
+  "definition": "খণ্ডা Khandă - To refute. Td. *Khandapaya."
+},
+{
+  "word": "খণ্ডানি",
+  "pos": "noun",
+  "definition": "খণ্ডানি Khandāni - Refuting. Above +- ani."
+},
+{
+  "word": "Khandāni",
+  "pos": "noun",
+  "definition": "খণ্ডানি Khandāni - Refuting. Above +- ani."
+},
+{
+  "word": "খত",
+  "pos": "noun",
+  "definition": "খত Khat - An instance of scraping or digging by sth. karāni = scratching or digging by sth."
+},
+{
+  "word": "Khat",
+  "pos": "noun",
+  "definition": "খত Khat - An instance of scraping or digging by sth. karāni = scratching or digging by sth."
+},
+{
+  "word": "খত",
+  "pos": "noun",
+  "definition": "খত Khat - Writ, document. Per. - Ar. Khat, khall."
+},
+{
+  "word": "Khat",
+  "pos": "noun",
+  "definition": "খত Khat - Writ, document. Per. - Ar. Khat, khall."
+},
+{
+  "word": "খতম",
+  "pos": "adjective",
+  "definition": "খতম Khatam - Ended, destroyed. Ar. Khatm."
+},
+{
+  "word": "Khatam",
+  "pos": "adjective",
+  "definition": "খতম Khatam - Ended, destroyed. Ar. Khatm."
+},
+{
+  "word": "খদ্দর",
+  "pos": "noun",
+  "definition": "খদ্দর Khaddar - A kind of handloom cloth. Guj."
+},
+{
+  "word": "Khaddar",
+  "pos": "noun",
+  "definition": "খদ্দর Khaddar - A kind of handloom cloth. Guj."
+},
+{
+  "word": "খ'নি",
+  "pos": "noun",
+  "definition": "1. খ'নি Kha'ni - Mine. Ts."
+},
+{
+  "word": "Kha'ni",
+  "pos": "noun",
+  "definition": "1. খ'নি Kha'ni - Mine. Ts."
+},
+{
+  "word": "খ'নি",
+  "pos": "adjective",
+  "definition": "2. খ'নি Kha'ni - Sticky. - arikpā (আরিকপা) = very much niggardly."
+},
+{
+  "word": "Kha'ni",
+  "pos": "adjective",
+  "definition": "2. খ'নি Kha'ni - Sticky. - arikpā (আরিকপা) = very much niggardly."
+},
+{
+  "word": "খন্তা",
+  "pos": "noun",
+  "definition": "খন্তা Khanta - Tune. Mt. Khontă (Khon = tone, tã = condition)."
+},
+{
+  "word": "Khanta",
+  "pos": "noun",
+  "definition": "খন্তা Khanta - Tune. Mt. Khontă (Khon = tone, tã = condition)."
+},
+{
+  "word": "খ'ন্তি",
+  "pos": "noun",
+  "definition": "খ'ন্তি Kha'nti - An implement for collecting paddy. Mt. Khom - på = to collect + tai - pa = to heap."
+},
+{
+  "word": "Kha'nti",
+  "pos": "noun",
+  "definition": "খ'ন্তি Kha'nti - An implement for collecting paddy. Mt. Khom - på = to collect + tai - pa = to heap."
+},
+{
+  "word": "খ'ন্তিনা",
+  "pos": "-",
+  "definition": "খ'ন্তিনা Kha'ntinā - V. Khantinā."
+},
+{
+  "word": "Kha'ntinā",
+  "pos": "-",
+  "definition": "খ'ন্তিনা Kha'ntinā - V. Khantinā."
+},
+{
+  "word": "খুন্তম",
+  "pos": "noun",
+  "definition": "খুন্তম Khantum - Gourd. Mt. Khondrum (Khon - på = to play on + tum = round; cf. EB. kadu)."
+},
+{
+  "word": "Khantum",
+  "pos": "noun",
+  "definition": "খুন্তম Khantum - Gourd. Mt. Khondrum (Khon - på = to play on + tum = round; cf. EB. kadu)."
+},
+{
+  "word": "খপ",
+  "pos": "noun",
+  "definition": "1. খপ Khap - Handful. cf. OIA Kavala or Mt. Khop - pa = to sew up."
+},
+{
+  "word": "Khap",
+  "pos": "noun",
+  "definition": "1. খপ Khap - Handful. cf. OIA Kavala or Mt. Khop - pa = to sew up."
+},
+{
+  "word": "খপ",
+  "pos": "noun",
+  "definition": "2. খপ Khap - The act of winding (as the edge of a mat). Mt. Khop - pa."
+},
+{
+  "word": "Khap",
+  "pos": "noun",
+  "definition": "2. খপ Khap - The act of winding (as the edge of a mat). Mt. Khop - pa."
+},
+{
+  "word": "খপ",
+  "pos": "noun",
+  "definition": "3. খপ Khap - The act of holding tightly (by the hand). V. above. - Karāni (করানি) = Holding tightly."
+},
+{
+  "word": "Khap",
+  "pos": "noun",
+  "definition": "3. খপ Khap - The act of holding tightly (by the hand). V. above. - Karāni (করানি) = Holding tightly."
+},
+{
+  "word": "খবর",
+  "pos": "noun",
+  "definition": "খবর Khabar - News Per. - Ar. Khabar."
+},
+{
+  "word": "Khabar",
+  "pos": "noun",
+  "definition": "খবর Khabar - News Per. - Ar. Khabar."
+},
+{
+  "word": "খবরদার",
+  "pos": "-",
+  "definition": "খবরদার Khabardår - A word expressing 'beware'. Per. Ar. Khabardār."
+},
+{
+  "word": "Khabardår",
+  "pos": "-",
+  "definition": "খবরদার Khabardår - A word expressing 'beware'. Per. Ar. Khabardār."
+},
+{
+  "word": "খবরদারি",
+  "pos": "noun",
+  "definition": "খবরदारि Khabardāri - Warning, command, caution. Per. Ar. Khabardari."
+},
+{
+  "word": "Khabardāri",
+  "pos": "noun",
+  "definition": "খবরদারি Khabardāri - Warning, command, caution. Per. Ar. Khabardari."
+},
+{
+  "word": "খবল",
+  "pos": "noun",
+  "definition": "খবল Khabal - Breast-tie, brassiere. Mt. Khawan."
+},
+{
+  "word": "Khabal",
+  "pos": "noun",
+  "definition": "খবল Khabal - Breast-tie, brassiere. Mt. Khawan."
+},
+{
+  "word": "খ'বল",
+  "pos": "noun",
+  "definition": "খ'বল Kha'bal - Papaw. EB. Kaiphal."
+},
+{
+  "word": "Kha'bal",
+  "pos": "noun",
+  "definition": "খ'বল Kha'bal - Papaw. EB. Kaiphal."
+},
+{
+  "word": "খবালা",
+  "pos": "noun",
+  "definition": "খবালা Khabāla - Handful. Td. *kavalaka, v. Khap."
+},
+{
+  "word": "Khabāla",
+  "pos": "noun",
+  "definition": "খবালা Khabāla - Handful. Td. *kavalaka, v. Khap."
+},
+{
+  "word": "খবিনান্তৌ",
+  "pos": "-",
+  "definition": "খবিনান্তৌ Khabinantau - M. V. below."
+},
+{
+  "word": "Khabinantau",
+  "pos": "-",
+  "definition": "খবিনান্তৌ Khabinantau - M. V. below."
+},
+{
+  "word": "খবিলটুম",
+  "pos": "noun",
+  "definition": "খবিলটুম Khabiltum - Hornet. Mt. Khoibi (khoi = bee + mapi = female leader; sec. el. V. laltum."
+},
+{
+  "word": "Khabiltum",
+  "pos": "noun",
+  "definition": "খবিলটুম Khabiltum - Hornet. Mt. Khoibi (khoi = bee + mapi = female leader; sec. el. V. laltum."
+},
+{
+  "word": "খম",
+  "pos": "noun",
+  "definition": "খম Kha'm - M. The act of moving: Mt. Khonpā, khonpa. pani - karāni = moving water."
+},
+{
+  "word": "Kha'm",
+  "pos": "noun",
+  "definition": "খম Kha'm - M. The act of moving: Mt. Khonpā, khonpa. pani - karāni = moving water."
+},
+{
+  "word": "খ'ম",
+  "pos": "noun",
+  "definition": "খ'ম Kha'm - Collection. Mt. Khom - pā, Th. Khom. L. Khon. - karani (করানি) = Collecting."
+},
+{
+  "word": "Kha'm",
+  "pos": "noun",
+  "definition": "খ'ম Kha'm - Collection. Mt. Khom - pā, Th. Khom. L. Khon. - karani (করানি) = Collecting."
+},
+{
+  "word": "খম",
+  "pos": "noun",
+  "definition": "খম Kham - Total. Mt. Khompa. - kare, - ka = Totally."
+},
+{
+  "word": "Kham",
+  "pos": "noun",
+  "definition": "খম Kham - Total. Mt. Khompa. - kare, - ka = Totally."
+},
+{
+  "word": "খমক",
+  "pos": "-",
+  "definition": "খমক Khamak - V. Khanup."
+},
+{
+  "word": "Khamak",
+  "pos": "-",
+  "definition": "খমক Khamak - V. Khanup."
+},
+{
+  "word": "খমামফাম",
+  "pos": "noun",
+  "definition": "খমামফাম Khamampham - Place meant for washing the feet of devotees (in a religious performance). Mt. Khonhãmpham (khoń = foot, ham - på to wash + pham = place)."
+},
+{
+  "word": "Khamampham",
+  "pos": "noun",
+  "definition": "খমামফাম Khamampham - Place meant for washing the feet of devotees (in a religious performance). Mt. Khonhãmpham (khoń = foot, ham - på to wash + pham = place)."
+},
+{
+  "word": "খমি",
+  "pos": "noun",
+  "definition": "খমি Khomi - Udder. Mt. Khomi."
+},
+{
+  "word": "Khomi",
+  "pos": "noun",
+  "definition": "খমি Khomi - Udder. Mt. Khomi."
+},
+{
+  "word": "খমতল",
+  "pos": "-",
+  "definition": "খমতল Khamtal - M. V. Khamtal."
+},
+{
+  "word": "Khamtal",
+  "pos": "-",
+  "definition": "খমতল Khamtal - M. V. Khamtal."
+},
+{
+  "word": "খমতা",
+  "pos": "-",
+  "definition": "খমতা Khamtā - V. Khantâ."
+},
+{
+  "word": "Khamtā",
+  "pos": "-",
+  "definition": "খমতা Khamtā - V. Khantâ."
+},
+{
+  "word": "খমথেঙ",
+  "pos": "noun",
+  "definition": "খমথেঙ Khamthen - Going to the extremity. Mt. Khamtheń pã. (kham = end + then - pa = to reach)."
+},
+{
+  "word": "Khamthen",
+  "pos": "noun",
+  "definition": "খমথেঙ Khamthen - Going to the extremity. Mt. Khamtheń pã. (kham = end + then - pa = to reach)."
+},
+{
+  "word": "খমফাম",
+  "pos": "-",
+  "definition": "খমফাম Khamphām - V. Khalphām. Mt. Khonpham."
+},
+{
+  "word": "Khamphām",
+  "pos": "-",
+  "definition": "খমफাম Khamphām - V. Khalphām. Mt. Khonpham."
+},
+{
+  "word": "খ'মপা",
+  "pos": "noun",
+  "definition": "খ'মপা Kha'mpā - Collector. Mt. Khompa."
+},
+{
+  "word": "Kha'mpā",
+  "pos": "noun",
+  "definition": "খ'মপা Kha'mpā - Collector. Mt. Khompa."
+},
+{
+  "word": "খয়ম",
+  "pos": "noun",
+  "definition": "খয়ম Khayam - Brassiere. Mt. Khom = breast, yom på = to tie. V. 1. Khabal."
+},
+{
+  "word": "Khayam",
+  "pos": "noun",
+  "definition": "খয়ম Khayam - Brassiere. Mt. Khom = breast, yom på = to tie. V. 1. Khabal."
+},
+{
+  "word": "খ'য়া",
+  "pos": "noun",
+  "definition": "1. খ'য়া Kha'yā - Foot. Mt. Khuyả."
+},
+{
+  "word": "Kha'yā",
+  "pos": "noun",
+  "definition": "1. খ'য়া Kha'yā - Foot. Mt. Khuyả."
+},
+{
+  "word": "খ'য়া",
+  "pos": "noun",
+  "definition": "2. খ'য়া Kha'yā - Walking fish. Td. Kavayi."
+},
+{
+  "word": "Kha'yā",
+  "pos": "noun",
+  "definition": "2. খ'য়া Kha'yā - Walking fish. Td. Kavayi."
+},
+{
+  "word": "খয়রাতি",
+  "pos": "noun",
+  "definition": "খয়রাতি Khayràti - Charitable dispensary. Per. Khairāt."
+},
+{
+  "word": "Khayràti",
+  "pos": "noun",
+  "definition": "খয়রাতি Khayràti - Charitable dispensary. Per. Khairāt."
+},
+{
+  "word": "খ'রচ",
+  "pos": "noun",
+  "definition": "খ'রচ Kha'rac - Expenditure. Per. Ar. Kharca = Cost of law-suit."
+},
+{
+  "word": "Kha'rac",
+  "pos": "noun",
+  "definition": "খ'রচ Kha'rac - Expenditure. Per. Ar. Kharca = Cost of law-suit."
+},
+{
+  "word": "খরা",
+  "pos": "noun",
+  "definition": "খরা Kha'rā - Dry period. Td. Kharatāpa or kharāpaka."
+},
+{
+  "word": "Kha'rā",
+  "pos": "noun",
+  "definition": "খরা Kha'rā - Dry period. Td. Kharatāpa or kharāpaka."
+},
+{
+  "word": "খরান",
+  "pos": "-",
+  "definition": "খরান Kharân - V. above. Td. kharāpana. (through the Denom. of Khara)."
+},
+{
+  "word": "Kharân",
+  "pos": "-",
+  "definition": "খরান Kharân - V. above. Td. kharāpana. (through the Denom. of Khara)."
+},
+{
+  "word": "খরাপ",
+  "pos": "-",
+  "definition": "খরাপ Kha'rāp - V. Khārāp."
+},
+{
+  "word": "Kha'rāp",
+  "pos": "-",
+  "definition": "খরাপ Kha'rāp - V. Khārāp."
+},
+{
+  "word": "খরিখরি",
+  "pos": "adjective",
+  "definition": "খরিখরি Kharikhari - Slight. Td. * kharika. - dhāp (ধাপ) = Slight race."
+},
+{
+  "word": "Kharikhari",
+  "pos": "adjective",
+  "definition": "খরিখরি Kharikhari - Slight. Td. * kharika. - dhāp (ধাপ) = Slight race."
+},
+{
+  "word": "খরিদদার",
+  "pos": "noun",
+  "definition": "খরিদদার Kharid-dår - Customer. Per Kharidār."
+},
+{
+  "word": "Kharid-dår",
+  "pos": "noun",
+  "definition": "খরিদদার Kharid-dår - Customer. Per Kharidār."
+},
+{
+  "word": "খরিয়া",
+  "pos": "noun",
+  "definition": "খরিয়া Khariya - An instrument for pressing out oil. Td. Kşarika."
+},
+{
+  "word": "Khariya",
+  "pos": "noun",
+  "definition": "খরিয়া Khariya - An instrument for pressing out oil. Td. Kşarika."
+},
+{
+  "word": "খরেী",
+  "pos": "noun",
+  "definition": "খরেী Kharau - Leg-tie (for animals). Mt. Khon = leg + laupā = to tie. - läk-karāni (লাক করানি) = Binding with leg-tie."
+},
+{
+  "word": "Kharau",
+  "pos": "noun",
+  "definition": "খরেী Kharau - Leg-tie (for animals). Mt. Khon = leg + laupā = to tie. - läk-karāni (লাক করানি) = Binding with leg-tie."
+},
+{
+  "word": "খরখর",
+  "pos": "-",
+  "definition": "খরখর Kharkhar - A word denoting rustling situation. হুকানি Hukni = Getting extremely dry. Onom."
+},
+{
+  "word": "Kharkhar",
+  "pos": "-",
+  "definition": "খরখর Kharkhar - A word denoting rustling situation. হুকানি Hukni = Getting extremely dry. Onom."
+},
+{
+  "word": "খরখরা",
+  "pos": "verb",
+  "definition": "খরখরা Kharkharà - To rustle. Denom fr. above."
+},
+{
+  "word": "Kharkharà",
+  "pos": "verb",
+  "definition": "খরখরা Kharkharà - To rustle. Denom fr. above."
+},
+{
+  "word": "খরখরানি",
+  "pos": "noun",
+  "definition": "খরখরানি Kharkharāni - Rustling. Above + - ani."
+},
+{
+  "word": "Kharkharāni",
+  "pos": "noun",
+  "definition": "খরখরানি Kharkharāni - Rustling. Above + - ani."
+},
+{
+  "word": "খরখরিয়া",
+  "pos": "noun",
+  "definition": "খরখরিয়া Kharkhariyā - A broomstick made of pieces of wood or bamboo. Onom."
+},
+{
+  "word": "Kharkhariyā",
+  "pos": "noun",
+  "definition": "খরখরিয়া Kharkhariyā - A broomstick made of pieces of wood or bamboo. Onom."
+},
+{
+  "word": "খরগোশ",
+  "pos": "noun",
+  "definition": "খরগোশ Khargoś - Hare. Per. Khargoś."
+},
+{
+  "word": "Khargoś",
+  "pos": "noun",
+  "definition": "খরগোশ Khargoś - Hare. Per. Khargoś."
+},
+{
+  "word": "খরচা",
+  "pos": "-",
+  "definition": "খরচা Kharcā - V. Kharac."
+},
+{
+  "word": "Kharcā",
+  "pos": "-",
+  "definition": "খরচা Kharcā - V. Kharac."
+},
+{
+  "word": "খরক",
+  "pos": "-",
+  "definition": "খরক Kharak - M. V. Kharkhariyā."
+},
+{
+  "word": "Kharak",
+  "pos": "-",
+  "definition": "খরক Kharak - M. V. Kharkhariyā."
+},
+{
+  "word": "খড়ম",
+  "pos": "noun",
+  "definition": "খড়ম Kharam - Wooden sandal. Dr. S. Sen derives it fr. Kāşthapādukā."
+},
+{
+  "word": "Kharam",
+  "pos": "noun",
+  "definition": "খড়ম Kharam - Wooden sandal. Dr. S. Sen derives it fr. Kāşthapādukā."
+},
+{
+  "word": "খড়া",
+  "pos": "adjective",
+  "definition": "খড়া Khară - Lame. Av. Khodda."
+},
+{
+  "word": "Khară",
+  "pos": "adjective",
+  "definition": "খড়া Khară - Lame. Av. Khodda."
+},
+{
+  "word": "খ'ড়ি",
+  "pos": "noun",
+  "definition": "খ'ড়ি Kha'ri - Chalk. Td. Khalikā."
+},
+{
+  "word": "Kha'ri",
+  "pos": "noun",
+  "definition": "খ'ড়ি Kha'ri - Chalk. Td. Khalikā."
+},
+{
+  "word": "খড়ি",
+  "pos": "noun",
+  "definition": "খড়ি Khari - Scab, hard layer growing on sores or boils."
+},
+{
+  "word": "Khari",
+  "pos": "noun",
+  "definition": "খড়ি Khari - Scab, hard layer growing on sores or boils."
+},
+{
+  "word": "খড়িকা",
+  "pos": "noun",
+  "definition": "খড়িকা Khariká - Small twig. Td. Khatikā."
+},
+{
+  "word": "Khariká",
+  "pos": "noun",
+  "definition": "খড়িকা Khariká - Small twig. Td. Khatikā."
+},
+{
+  "word": "খড়িয়া",
+  "pos": "adjective",
+  "definition": "1. খড়িয়া Khariya - Curly, curled (as hair). V. below."
+},
+{
+  "word": "Khariya",
+  "pos": "adjective",
+  "definition": "1. খড়িয়া Khariya - Curly, curled (as hair). V. below."
+},
+{
+  "word": "খড়িয়া",
+  "pos": "adjective",
+  "definition": "2. খড়িয়া Khariya - Rough. Td. Khatikā. +- ika."
+},
+{
+  "word": "Khariya",
+  "pos": "adjective",
+  "definition": "2. খড়িয়া Khariya - Rough. Td. Khatikā. +- ika."
+},
+{
+  "word": "খল",
+  "pos": "noun",
+  "definition": "খল Khal - Banana-plant."
+},
+{
+  "word": "Khal",
+  "pos": "noun",
+  "definition": "খল Khal - Banana-plant."
+},
+{
+  "word": "খল",
+  "pos": "noun",
+  "definition": "খল Khal - The act of pushing or pulling a fishing net. - karåni (করানি) = pulling or pushing a fishing net."
+},
+{
+  "word": "Khal",
+  "pos": "noun",
+  "definition": "খল Khal - The act of pushing or pulling a fishing net. - karåni (করানি) = pulling or pushing a fishing net."
+},
+{
+  "word": "খলই",
+  "pos": "-",
+  "definition": "খলই Khalai - M. V. Khalei."
+},
+{
+  "word": "Khalai",
+  "pos": "-",
+  "definition": "খলই Khalai - M. V. Khalei."
+},
+{
+  "word": "খলক-খলক",
+  "pos": "-",
+  "definition": "খলক-খলক Khalak-khalak - A word denoting the sound created by the stirring of water or by the jerking of some loose thing. Onom. or Td. *skhalakrta."
+},
+{
+  "word": "Khalak-khalak",
+  "pos": "-",
+  "definition": "খলক-খলক Khalak-khalak - A word denoting the sound created by the stirring of water or by the jerking of some loose thing. Onom. or Td. *skhalakrta."
+},
+{
+  "word": "খলচ",
+  "pos": "noun",
+  "definition": "খলচ Khalac - A scrape or a line. Per. Kharās."
+},
+{
+  "word": "Khalac",
+  "pos": "noun",
+  "definition": "খলচ Khalac - A scrape or a line. Per. Kharās."
+},
+{
+  "word": "খ'লা",
+  "pos": "noun",
+  "definition": "1. খ'লা Khala - Courtyard. Td. Kşalya."
+},
+{
+  "word": "Khala",
+  "pos": "noun",
+  "definition": "1. খ'লা Khala - Courtyard. Td. Kşalya."
+},
+{
+  "word": "খ'লা",
+  "pos": "-",
+  "definition": "2. খ'লা Khala - V. hala."
+},
+{
+  "word": "Khala",
+  "pos": "-",
+  "definition": "2. খ'লা Khala - V. hala."
+},
+{
+  "word": "খ'লানি",
+  "pos": "-",
+  "definition": "খ'লানি Khalani - V. haläni."
+},
+{
+  "word": "Khalani",
+  "pos": "-",
+  "definition": "খ'লানি Khalani - V. haläni."
+},
+{
+  "word": "খলিফা",
+  "pos": "noun",
+  "definition": "খলিফা Khalipha - Tailor. Per. Khalipah = clever man."
+},
+{
+  "word": "Khalipha",
+  "pos": "noun",
+  "definition": "খলিফা Khalipha - Tailor. Per. Khalipah = clever man."
+},
+{
+  "word": "খ'লেই",
+  "pos": "noun",
+  "definition": "খ'লেই Kha'lei - Wicker-basket for keeping fish etc. Td. *khallapika (fr. khalla = a kind of bag, denom)."
+},
+{
+  "word": "Kha'lei",
+  "pos": "noun",
+  "definition": "খ'লেই Kha'lei - Wicker-basket for keeping fish etc. Td. *khallapika (fr. khalla = a kind of bag, denom)."
+},
+{
+  "word": "খলক",
+  "pos": "verb",
+  "definition": "খলক Khalk - To move (intr.) Onom. + OIA - Kka or *khalakrta, denom."
+},
+{
+  "word": "Khalk",
+  "pos": "verb",
+  "definition": "খলক Khalk - To move (intr.) Onom. + OIA - Kka or *khalakrta, denom."
+},
+{
+  "word": "খলকা",
+  "pos": "verb",
+  "definition": "খলকা Khalkă - To move (Trans.). caus. fr. above."
+},
+{
+  "word": "Khalkă",
+  "pos": "verb",
+  "definition": "খলকা Khalkă - To move (Trans.). caus. fr. above."
+},
+{
+  "word": "খলকানি",
+  "pos": "noun",
+  "definition": "খলকানি Khalkāni - i) Moving, shaking (Trans. and Intr.) Khalk +-ani; Khalkā + - ani."
+},
+{
+  "word": "Khalkāni",
+  "pos": "noun",
+  "definition": "খলকানি Khalkāni - i) Moving, shaking (Trans. and Intr.) Khalk +-ani; Khalkā + - ani."
+},
+{
+  "word": "খলটুম",
+  "pos": "-",
+  "definition": "খলটুম Khaltum - V. Khantum."
+},
+{
+  "word": "Khaltum",
+  "pos": "-",
+  "definition": "খলटুম Khaltum - V. Khantum."
+},
+{
+  "word": "খলপাঙ",
+  "pos": "noun",
+  "definition": "খলপাঙ Khalpäň - i) An assistant of a singer. ii) The act of assisting a singer. Mt. Khon = tune + panpa = to help."
+},
+{
+  "word": "Khalpäň",
+  "pos": "noun",
+  "definition": "খলপাঙ Khalpäň - i) An assistant of a singer. ii) The act of assisting a singer. Mt. Khon = tune + panpa = to help."
+},
+{
+  "word": "খলপাঙপা",
+  "pos": "noun",
+  "definition": "খলপাঙপা Khalpănpā - An assistant of a singer. Mt. Khalpän + - pã."
+},
+{
+  "word": "Khalpănpā",
+  "pos": "noun",
+  "definition": "খলपাঙপা Khalpănpā - An assistant of a singer. Mt. Khalpän + - pã."
+},
+{
+  "word": "খলপিখলক",
+  "pos": "adjective",
+  "definition": "খলপিখলক Khalpi-Khalak - Squandered. cf. Khalak."
+},
+{
+  "word": "Khalpi-Khalak",
+  "pos": "adjective",
+  "definition": "খলপিখলক Khalpi-Khalak - Squandered. cf. Khalak."
+},
+{
+  "word": "খলফাম",
+  "pos": "noun",
+  "definition": "খলফাম Khalpham - Mode of speaking. Mt. Khonphãm (Khon = tune + Pham = place)."
+},
+{
+  "word": "Khalpham",
+  "pos": "noun",
+  "definition": "খলফাম Khalpham - Mode of speaking. Mt. Khonphãm (Khon = tune + Pham = place)."
+},
+{
+  "word": "খল্লিক",
+  "pos": "noun",
+  "definition": "খল্লিক Khallik - Tune. Mt. Khollik (Khon = tune + lik = chain)."
+},
+{
+  "word": "Khallik",
+  "pos": "noun",
+  "definition": "খল্লিক Khallik - Tune. Mt. Khollik (Khon = tune + lik = chain)."
+},
+{
+  "word": "খসখস",
+  "pos": "-",
+  "definition": "খসখস Khaskhas - A word denoting roughness, unevenness."
+},
+{
+  "word": "Khaskhas",
+  "pos": "-",
+  "definition": "খসখস Khaskhas - A word denoting roughness, unevenness."
+},
+{
+  "word": "খসখসা",
+  "pos": "adjective",
+  "definition": "খসখসা Khaskhasa - Rough, uneven, wrinkled."
+},
+{
+  "word": "Khaskhasa",
+  "pos": "adjective",
+  "definition": "খসখসা Khaskhasa - Rough, uneven, wrinkled."
+},
+{
+  "word": "খসখসা",
+  "pos": "verb",
+  "definition": "খসখসা Khaskhasa - To feel or look rough or uneven. Denom. fr. Khaskhas."
+},
+{
+  "word": "Khaskhasa",
+  "pos": "verb",
+  "definition": "খসখসা Khaskhasa - To feel or look rough or uneven. Denom. fr. Khaskhas."
+},
+{
+  "word": "খসখসানি",
+  "pos": "noun",
+  "definition": "খসখসানি Khaskhasāni - Feeling or looking rough or uneven. Khaskhasa + ani."
+},
+{
+  "word": "Khaskhasāni",
+  "pos": "noun",
+  "definition": "খসখসানি Khaskhasāni - Feeling or looking rough or uneven. Khaskhasa + ani."
+},
+{
+  "word": "খহি",
+  "pos": "noun",
+  "definition": "খহি Khahi - Honey. Mt. Khoihi (Khoi = bee + hi = liquid, Th. = dui)."
+},
+{
+  "word": "Khahi",
+  "pos": "noun",
+  "definition": "খহি Khahi - Honey. Mt. Khoihi (Khoi = bee + hi = liquid, Th. = dui)."
+},
+{
+  "word": "খা",
+  "pos": "-",
+  "definition": "1. খা Khā - V. Khàp."
+},
+{
+  "word": "Khā",
+  "pos": "-",
+  "definition": "1. খা Khā - V. Khàp."
+},
+{
+  "word": "খা",
+  "pos": "-",
+  "definition": "2. খা Kha - A word denoting fearfulness. Td Kşāra. - Kare cână (করে চানা) = Looking at sth/SB. fearfully."
+},
+{
+  "word": "Kha",
+  "pos": "-",
+  "definition": "2. খা Kha - A word denoting fearfulness. Td Kşāra. - Kare cână (করে চানা) = Looking at sth/SB. fearfully."
+},
+{
+  "word": "খা",
+  "pos": "verb",
+  "definition": "খা Kha - To eat. Td. Khāda."
+},
+{
+  "word": "Kha",
+  "pos": "verb",
+  "definition": "খা Kha - To eat. Td. Khāda."
+},
+{
+  "word": "খাই",
+  "pos": "noun",
+  "definition": "খাই Khāi - A meitei (an abusive term). Mt. Khāgi - Chinese."
+},
+{
+  "word": "Khāi",
+  "pos": "noun",
+  "definition": "খাই Khāi - A meitei (an abusive term). Mt. Khāgi - Chinese."
+},
+{
+  "word": "খাইখরচ",
+  "pos": "noun",
+  "definition": "খাইখরচ Khäikharac - Fooding, ration. Td. Khādik, sec. el. V. kharac."
+},
+{
+  "word": "Khäikharac",
+  "pos": "noun",
+  "definition": "খাইখরচ Khäikharac - Fooding, ration. Td. Khādik, sec. el. V. kharac."
+},
+{
+  "word": "খাইত",
+  "pos": "noun",
+  "definition": "খাইত Khait - Bad habit. Per. Khwasta felid."
+},
+{
+  "word": "Khait",
+  "pos": "noun",
+  "definition": "খাইত Khait - Bad habit. Per. Khwasta felid."
+},
+{
+  "word": "খাইমুল্লা",
+  "pos": "noun",
+  "definition": "খাইমুল্লা Khäimullā - A kind of wood."
+},
+{
+  "word": "Khäimullā",
+  "pos": "noun",
+  "definition": "খাইমুল্লা Khäimullā - A kind of wood."
+},
+{
+  "word": "খা'ক",
+  "pos": "noun",
+  "definition": "খা'ক Khã'k - A kind of reed. Td. Khadga."
+},
+{
+  "word": "Khã'k",
+  "pos": "noun",
+  "definition": "খা'ক Khã'k - A kind of reed. Td. Khadga."
+},
+{
+  "word": "খাক",
+  "pos": "adjective",
+  "definition": "খাক Khak - Weak through dryness (as wood or bamboo). Mt. Khäk - på or per. Khäk = dust."
+},
+{
+  "word": "Khak",
+  "pos": "adjective",
+  "definition": "খাক Khak - Weak through dryness (as wood or bamboo). Mt. Khäk - på or per. Khäk = dust."
+},
+{
+  "word": "খাক-করানি",
+  "pos": "-",
+  "definition": "খাক-করানি Khāk-Karani - M. V. Khak-Karāni."
+},
+{
+  "word": "Khāk-Karani",
+  "pos": "-",
+  "definition": "খাক-করানি Khāk-Karani - M. V. Khak-Karāni."
+},
+{
+  "word": "খাক",
+  "pos": "noun",
+  "definition": "খাক Khāk - The act of keeping sth. for the future. Mt. Khak pā. - Karāni (করানি) = keeping for the future."
+},
+{
+  "word": "Khāk",
+  "pos": "noun",
+  "definition": "খাক Khāk - The act of keeping sth. for the future. Mt. Khak pā. - Karāni (করানি) = keeping for the future."
+},
+{
+  "word": "খাকালেহাউ",
+  "pos": "noun",
+  "definition": "খাকালেহাউ Khkālehou - A kind of flower. Mt. Khāgi - loihau."
+},
+{
+  "word": "Khkālehou",
+  "pos": "noun",
+  "definition": "খাকালেহাউ Khkālehou - A kind of flower. Mt. Khāgi - loihau."
+},
 
 ]
