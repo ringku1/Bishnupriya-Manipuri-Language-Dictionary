@@ -30,7 +30,10 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
   const [searchMode, setSearchMode] = useState("word"); // "word" or "definition"
   const inputRef = useRef(null);
   const suggestionRef = useRef(null);
-
+  const exampleWordForWordSearch = 'Type "ককসি" or "Kaksi"';
+  const exampleWordForDefinitionSearch =
+    'Type "A kind of flower" or a word in definition';
+  const [exampleWord, setExampleWord] = useState(exampleWordForWordSearch);
   // Cache for search results - using useRef to persist across renders
   const searchCache = useRef(new Map());
   const CACHE_SIZE_LIMIT = 100; // Limit cache size to prevent memory issues
@@ -68,19 +71,19 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
 
   // Fuse.js configuration for fuzzy search
   const fuseOptions = {
-    keys: ['word'], // Search in word field only
+    keys: ["word"], // Search in word field only
     threshold: 0.4, // Moderate fuzzy matching (0=exact, 1=match anything)
-    distance: 100,  // Maximum character distance
+    distance: 100, // Maximum character distance
     includeScore: true,
     shouldSort: true,
     minMatchCharLength: 1,
     ignoreLocation: true, // Don't care about character position
-    findAllMatches: false
+    findAllMatches: false,
   };
 
   // Create Fuse instance when words are loaded
   const fuseInstance = useRef(null);
-  
+
   useEffect(() => {
     if (words.length > 0 && !fuseInstance.current) {
       fuseInstance.current = new Fuse(words, fuseOptions);
@@ -90,145 +93,115 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
   // TIER 1: Exact + Prefix Matching (Fastest - <1ms)
   const exactAndPrefixSearch = (query) => {
     if (!query || !words.length) return [];
-    
+
     const queryLower = query.toLowerCase();
     const results = new Set(); // Use Set to avoid duplicates
-    
+
     // 1. Exact matches (highest priority)
-    words.forEach(wordObj => {
-      if (typeof wordObj.word === 'string' && 
-          wordObj.word.toLowerCase() === queryLower) {
+    words.forEach((wordObj) => {
+      if (
+        typeof wordObj.word === "string" &&
+        wordObj.word.toLowerCase() === queryLower
+      ) {
         results.add(wordObj);
       }
     });
-    
+
     // 2. Prefix matches (second priority)
-    if (results.size < 20) { // Only if we need more results
-      words.forEach(wordObj => {
-        if (typeof wordObj.word === 'string' && 
-            wordObj.word.toLowerCase().startsWith(queryLower) &&
-            !results.has(wordObj)) {
+    if (results.size < 20) {
+      // Only if we need more results
+      words.forEach((wordObj) => {
+        if (
+          typeof wordObj.word === "string" &&
+          wordObj.word.toLowerCase().startsWith(queryLower) &&
+          !results.has(wordObj)
+        ) {
           results.add(wordObj);
         }
       });
     }
-    
+
     return Array.from(results).slice(0, 20); // Limit Tier 1 to 20 results
   };
-  
+
   // TIER 3: Definition Search (Fallback - 5-15ms)
   const definitionSearch = (query) => {
     if (!query || !words.length) return [];
-    
+
     const queryLower = query.toLowerCase();
     const results = [];
-    
-    words.forEach(wordObj => {
-      if (typeof wordObj.definition === 'string' && 
-          wordObj.definition.toLowerCase().includes(queryLower)) {
+
+    words.forEach((wordObj) => {
+      if (
+        typeof wordObj.definition === "string" &&
+        wordObj.definition.toLowerCase().includes(queryLower)
+      ) {
         results.push(wordObj);
       }
     });
-    
+
     return results.slice(0, 30); // Limit definition search to 30 results
   };
-  
+
   // HYBRID SEARCH ORCHESTRATOR - Routes based on search mode
   const hybridSearch = (query) => {
     if (!query) return [];
-    
+
     const startTime = performance.now();
-    
+
     // Route based on search mode
     if (searchMode === "definition") {
       // Definition search mode - use Tier 3 only
       return definitionSearch(query);
     }
-    
+
     // Word search mode - use Tier 1 + Tier 2 (existing logic)
     // TIER 1: Exact + Prefix (Fastest - always run first)
     const tier1Results = exactAndPrefixSearch(query);
-    
+
     // If we have good exact/prefix results, might be enough
     if (tier1Results.length >= 10) {
       // console.log(`Tier 1 sufficient: ${performance.now() - startTime}ms`);
       return tier1Results;
     }
-    
+
     // TIER 2: Fuzzy Search (Primary engine)
     let tier2Results = [];
     if (fuseInstance.current) {
       const fuseResults = fuseInstance.current.search(query);
-      tier2Results = fuseResults
-        .map(result => result.item)
-        .slice(0, 30);
+      tier2Results = fuseResults.map((result) => result.item).slice(0, 30);
     }
-    
+
     // Combine Tier 1 + Tier 2, removing duplicates
     const combinedResults = new Set();
     const finalResults = [];
-    
+
     // Add Tier 1 results first (highest priority)
-    tier1Results.forEach(item => {
+    tier1Results.forEach((item) => {
       combinedResults.add(item.word.toLowerCase());
       finalResults.push(item);
     });
-    
+
     // Add Tier 2 results, avoiding duplicates
-    tier2Results.forEach(item => {
+    tier2Results.forEach((item) => {
       if (!combinedResults.has(item.word.toLowerCase())) {
         combinedResults.add(item.word.toLowerCase());
         finalResults.push(item);
       }
     });
-    
+
     // console.log(`Word search: ${performance.now() - startTime}ms (${tier1Results.length} + ${tier2Results.length})`);
-    
+
     return finalResults.slice(0, 50); // Final limit of 50 results
   };
 
-  // Handle search mode toggle and re-execute search
+  // Handle search mode toggle - let useEffect handle the re-search
   const handleSearchModeChange = (newMode) => {
+    if (newMode === "word") setExampleWord(exampleWordForWordSearch);
+    else if (newMode === "definition")
+      setExampleWord(exampleWordForDefinitionSearch);
     setSearchMode(newMode);
-    // Re-execute search with current query using new mode
-    if (inputValue.trim()) {
-      // Temporarily use the new mode for immediate search
-      const query = inputValue.trim();
-      let results = [];
-      
-      if (newMode === "definition") {
-        results = definitionSearch(query);
-      } else {
-        // Word search mode - use existing Tier 1 + 2 logic
-        const tier1Results = exactAndPrefixSearch(query);
-        if (tier1Results.length >= 10) {
-          results = tier1Results;
-        } else {
-          let tier2Results = [];
-          if (fuseInstance.current) {
-            const fuseResults = fuseInstance.current.search(query);
-            tier2Results = fuseResults.map(result => result.item).slice(0, 30);
-          }
-          
-          const combinedResults = new Set();
-          const finalResults = [];
-          tier1Results.forEach(item => {
-            combinedResults.add(item.word.toLowerCase());
-            finalResults.push(item);
-          });
-          tier2Results.forEach(item => {
-            if (!combinedResults.has(item.word.toLowerCase())) {
-              combinedResults.add(item.word.toLowerCase());
-              finalResults.push(item);
-            }
-          });
-          results = finalResults.slice(0, 50);
-        }
-      }
-      
-      setSuggestions(results);
-      setShowSuggestions(true);
-    }
+    // The useEffect with searchMode dependency will handle re-executing search
   };
 
   // Old normalization functions removed - now using Fuse.js for fuzzy search
@@ -261,9 +234,9 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
       return;
     }
 
-    const cacheKey = value.toLowerCase();
+    const cacheKey = `${value.toLowerCase()}-${searchMode}`;
 
-    // Check cache first
+    // Check cache first (mode-specific)
     const cachedResults = getCachedResults(cacheKey);
     if (cachedResults) {
       setSuggestions(cachedResults);
@@ -275,7 +248,7 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
     // Perform 3-tier hybrid search
     const searchResults = hybridSearch(value);
 
-    // Cache the results
+    // Cache the results (mode-specific)
     setCachedResults(cacheKey, searchResults);
 
     setSuggestions(searchResults);
@@ -372,111 +345,113 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
           Search By Word
         </button>
         <button
-          className={`toggle-button ${searchMode === "definition" ? "active" : ""}`}
+          className={`toggle-button ${
+            searchMode === "definition" ? "active" : ""
+          }`}
           onClick={() => handleSearchModeChange("definition")}
           aria-pressed={searchMode === "definition"}
         >
           Search In Definition
         </button>
       </div>
-      
-      <div className="search-container">
-      {loading && (
-        <div className="loading-overlay">
-          <div className="spinner"></div>
-          Loading words...
-        </div>
-      )}
 
-      <div className="search-row">
-        <input
-          ref={inputRef}
-          type="text"
-          placeholder='Type "ককসি" or "Kaksi"'
-          value={inputValue}
-          onChange={handleChange}
-          onKeyDown={handleKeyDown}
-          className="search-input"
-          disabled={loading}
-          aria-autocomplete="list"
-          aria-controls="suggestions-list"
-          aria-activedescendant={
-            activeIdx >= 0 ? `suggestion-${activeIdx}` : undefined
-          }
-          autoComplete="off"
-          title="Press Ctrl+K (or Cmd+K on Mac) to focus this search box"
-        />
-        {inputValue && (
+      <div className="search-container">
+        {loading && (
+          <div className="loading-overlay">
+            <div className="spinner"></div>
+            Loading words...
+          </div>
+        )}
+
+        <div className="search-row">
+          <input
+            ref={inputRef}
+            type="text"
+            placeholder={exampleWord}
+            value={inputValue}
+            onChange={handleChange}
+            onKeyDown={handleKeyDown}
+            className="search-input"
+            disabled={loading}
+            aria-autocomplete="list"
+            aria-controls="suggestions-list"
+            aria-activedescendant={
+              activeIdx >= 0 ? `suggestion-${activeIdx}` : undefined
+            }
+            autoComplete="off"
+            title="Press Ctrl+K (or Cmd+K on Mac) to focus this search box"
+          />
+          {inputValue && (
+            <button
+              className="clear-button"
+              onClick={clearInput}
+              onKeyDown={(e) => {
+                if (e.key === "Enter" || e.key === " ") {
+                  e.preventDefault();
+                  clearInput();
+                }
+              }}
+              disabled={loading}
+              title="Clear search (Ctrl+Backspace or click)"
+              aria-label="Clear search input"
+              tabIndex={0}
+              type="button"
+            >
+              <span aria-hidden="true">×</span>
+            </button>
+          )}
           <button
-            className="clear-button"
-            onClick={clearInput}
-            onKeyDown={(e) => {
-              if (e.key === "Enter" || e.key === " ") {
-                e.preventDefault();
-                clearInput();
+            className="search-button"
+            onClick={() => {
+              const value = inputValue.trim();
+              if (!value) {
+                setSuggestions([]);
+                setShowSuggestions(false);
+                return;
               }
+
+              // Perform 3-tier hybrid search
+              const searchResults = hybridSearch(value);
+
+              setSuggestions(searchResults);
+              setShowSuggestions(true);
+              setActiveIdx(-1);
             }}
             disabled={loading}
-            title="Clear search (Ctrl+Backspace or click)"
-            aria-label="Clear search input"
-            tabIndex={0}
-            type="button"
           >
-            <span aria-hidden="true">×</span>
+            Search
           </button>
+        </div>
+
+        {showSuggestions && !loading && (
+          <ul
+            className="suggestions-list"
+            id="suggestions-list"
+            ref={suggestionRef}
+          >
+            {suggestions.length === 0 ? (
+              <li className="no-suggestion">No results found</li>
+            ) : (
+              suggestions.map((wordObj, idx) => (
+                <li
+                  key={idx}
+                  id={`suggestion-${idx}`}
+                  className={activeIdx === idx ? "active" : ""}
+                  onClick={() => handleClick(wordObj)}
+                  tabIndex={0}
+                  onMouseEnter={() => setActiveIdx(idx)}
+                  onMouseLeave={() => setActiveIdx(-1)}
+                >
+                  <span className="suggestion-word">
+                    {highlightMatch(wordObj.word)}
+                  </span>
+                  <span className="suggestion-pos">({wordObj.pos})</span>
+                </li>
+              ))
+            )}
+          </ul>
         )}
-        <button
-          className="search-button"
-          onClick={() => {
-            const value = inputValue.trim();
-            if (!value) {
-              setSuggestions([]);
-              setShowSuggestions(false);
-              return;
-            }
-
-            // Perform 3-tier hybrid search
-            const searchResults = hybridSearch(value);
-            
-            setSuggestions(searchResults);
-            setShowSuggestions(true);
-            setActiveIdx(-1);
-          }}
-          disabled={loading}
-        >
-          Search
-        </button>
       </div>
-
-      {showSuggestions && !loading && (
-        <ul
-          className="suggestions-list"
-          id="suggestions-list"
-          ref={suggestionRef}
-        >
-          {suggestions.length === 0 ? (
-            <li className="no-suggestion">No results found</li>
-          ) : (
-            suggestions.map((wordObj, idx) => (
-              <li
-                key={idx}
-                id={`suggestion-${idx}`}
-                className={activeIdx === idx ? "active" : ""}
-                onClick={() => handleClick(wordObj)}
-                tabIndex={0}
-                onMouseEnter={() => setActiveIdx(idx)}
-                onMouseLeave={() => setActiveIdx(-1)}
-              >
-                <span className="suggestion-word">
-                  {highlightMatch(wordObj.word)}
-                </span>
-                <span className="suggestion-pos">({wordObj.pos})</span>
-              </li>
-            ))
-          )}
-        </ul>
-      )}
-    </div>
     </>
   );
 });
