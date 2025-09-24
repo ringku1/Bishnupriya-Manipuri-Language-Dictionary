@@ -15,1293 +15,10 @@ import React, {
   forwardRef,
   useImperativeHandle,
 } from "react";
+import Fuse from "fuse.js";
 import "./SearchBar.css";
 
-const diacriticMap = {
-  // A (uppercase and lowercase base keys)
-  A: [
-    "A",
-    "a",
-    "Ā",
-    "ā",
-    "À",
-    "à",
-    "Á",
-    "á",
-    "Â",
-    "â",
-    "Ä",
-    "ä",
-    "Ã",
-    "ã",
-    "Ă",
-    "ă",
-    "Ȧ",
-    "ȧ",
-    "Ǡ",
-    "ǡ",
-    "Ǻ",
-    "ǻ",
-    "Ǟ",
-    "ǟ",
-    "Ǎ",
-    "ǎ",
-    "Ą",
-    "ą",
-    "Å",
-    "å",
-    "Ạ",
-    "ạ",
-    "Ả",
-    "ả",
-    "Ấ",
-    "ấ",
-    "Ầ",
-    "ầ",
-    "Ẩ",
-    "ẩ",
-    "Ẫ",
-    "ẫ",
-    "Ậ",
-    "ậ",
-    "Ắ",
-    "ắ",
-    "Ằ",
-    "ằ",
-    "Ẳ",
-    "ẳ",
-    "Ẵ",
-    "ẵ",
-    "Ặ",
-    "ặ",
-    "Ḁ",
-    "ḁ",
-    "Ȃ",
-    "ȃ",
-  ],
-  a: [
-    "A",
-    "a",
-    "Ā",
-    "ā",
-    "À",
-    "à",
-    "Á",
-    "á",
-    "Â",
-    "â",
-    "Ä",
-    "ä",
-    "Ã",
-    "ã",
-    "Ă",
-    "ă",
-    "Ȧ",
-    "ȧ",
-    "Ǡ",
-    "ǡ",
-    "Ǻ",
-    "ǻ",
-    "Ǟ",
-    "ǟ",
-    "Ǎ",
-    "ǎ",
-    "Ą",
-    "ą",
-    "Å",
-    "å",
-    "Ạ",
-    "ạ",
-    "Ả",
-    "ả",
-    "Ấ",
-    "ấ",
-    "Ầ",
-    "ầ",
-    "Ẩ",
-    "ẩ",
-    "Ẫ",
-    "ẫ",
-    "Ậ",
-    "ậ",
-    "Ắ",
-    "ắ",
-    "Ằ",
-    "ằ",
-    "Ẳ",
-    "ẳ",
-    "Ẵ",
-    "ẵ",
-    "Ặ",
-    "ặ",
-    "Ḁ",
-    "ḁ",
-    "Ȃ",
-    "ȃ",
-  ],
-
-  // B (uppercase and lowercase base keys)
-  B: [
-    "B",
-    "b",
-    "Ḃ",
-    "ḃ",
-    "Ḅ",
-    "ḅ",
-    "Ḇ",
-    "ḇ",
-    "Ɓ",
-    "ɓ",
-    "Ƃ",
-    "ƃ",
-    "Ƀ",
-    "ƀ",
-    "ᵬ",
-    "ᶀ",
-  ],
-  b: [
-    "B",
-    "b",
-    "Ḃ",
-    "ḃ",
-    "Ḅ",
-    "ḅ",
-    "Ḇ",
-    "ḇ",
-    "Ɓ",
-    "ɓ",
-    "Ƃ",
-    "ƃ",
-    "Ƀ",
-    "ƀ",
-    "ᵬ",
-    "ᶀ",
-  ],
-
-  // C (uppercase and lowercase base keys)
-  C: [
-    "C",
-    "c",
-    "Ç",
-    "ç",
-    "Č",
-    "č",
-    "Ĉ",
-    "ĉ",
-    "Ć",
-    "ć",
-    "Ḉ",
-    "ḉ",
-    "Ċ",
-    "ċ",
-    "Ƈ",
-    "ƈ",
-    "Ȼ",
-    "ȼ",
-    "Ꜿ",
-    "ꜿ",
-    "ᶗ",
-    "ᶜ",
-  ],
-  c: [
-    "C",
-    "c",
-    "Ç",
-    "ç",
-    "Č",
-    "č",
-    "Ĉ",
-    "ĉ",
-    "Ć",
-    "ć",
-    "Ḉ",
-    "ḉ",
-    "Ċ",
-    "ċ",
-    "Ƈ",
-    "ƈ",
-    "Ȼ",
-    "ȼ",
-    "Ꜿ",
-    "ꜿ",
-    "ᶗ",
-    "ᶜ",
-  ],
-
-  // D (uppercase and lowercase base keys)
-  D: [
-    "D",
-    "d",
-    "Ď",
-    "ď",
-    "Ḋ",
-    "ḋ",
-    "Ḑ",
-    "ḑ",
-    "Ḍ",
-    "ḍ",
-    "Ḓ",
-    "ḓ",
-    "Ḏ",
-    "ḏ",
-    "Đ",
-    "đ",
-    "Ɗ",
-    "ɗ",
-    "Ƌ",
-    "ƌ",
-    "ᵭ",
-    "ᶁ",
-    "ᶑ",
-  ],
-  d: [
-    "D",
-    "d",
-    "Ď",
-    "ď",
-    "Ḋ",
-    "ḋ",
-    "Ḑ",
-    "ḑ",
-    "Ḍ",
-    "ḍ",
-    "Ḓ",
-    "ḓ",
-    "Ḏ",
-    "ḏ",
-    "Đ",
-    "đ",
-    "Ɗ",
-    "ɗ",
-    "Ƌ",
-    "ƌ",
-    "ᵭ",
-    "ᶁ",
-    "ᶑ",
-  ],
-
-  // E (uppercase and lowercase base keys)
-  E: [
-    "E",
-    "e",
-    "Ē",
-    "ē",
-    "È",
-    "è",
-    "É",
-    "é",
-    "Ê",
-    "ê",
-    "Ë",
-    "ë",
-    "Ĕ",
-    "ĕ",
-    "Ė",
-    "ė",
-    "Ę",
-    "ę",
-    "Ě",
-    "ě",
-    "Ȩ",
-    "ȩ",
-    "Ȅ",
-    "ȅ",
-    "Ȇ",
-    "ȇ",
-    "Ẹ",
-    "ẹ",
-    "Ẻ",
-    "ẻ",
-    "Ẽ",
-    "ẽ",
-    "Ế",
-    "ế",
-    "Ề",
-    "ề",
-    "Ể",
-    "ể",
-    "Ễ",
-    "ễ",
-    "Ệ",
-    "ệ",
-    "Ḙ",
-    "ḙ",
-    "Ḛ",
-    "ḛ",
-    "ᶒ",
-  ],
-  e: [
-    "E",
-    "e",
-    "Ē",
-    "ē",
-    "È",
-    "è",
-    "É",
-    "é",
-    "Ê",
-    "ê",
-    "Ë",
-    "ë",
-    "Ĕ",
-    "ĕ",
-    "Ė",
-    "ė",
-    "Ę",
-    "ę",
-    "Ě",
-    "ě",
-    "Ȩ",
-    "ȩ",
-    "Ȅ",
-    "ȅ",
-    "Ȇ",
-    "ȇ",
-    "Ẹ",
-    "ẹ",
-    "Ẻ",
-    "ẻ",
-    "Ẽ",
-    "ẽ",
-    "Ế",
-    "ế",
-    "Ề",
-    "ề",
-    "Ể",
-    "ể",
-    "Ễ",
-    "ễ",
-    "Ệ",
-    "ệ",
-    "Ḙ",
-    "ḙ",
-    "Ḛ",
-    "ḛ",
-    "ᶒ",
-  ],
-
-  // F (uppercase and lowercase base keys)
-  F: ["F", "f", "Ḟ", "ḟ", "Ƒ", "ƒ", "ᵮ", "ᶂ"],
-  f: ["F", "f", "Ḟ", "ḟ", "Ƒ", "ƒ", "ᵮ", "ᶂ"],
-
-  // G (uppercase and lowercase base keys)
-  G: [
-    "G",
-    "g",
-    "Ĝ",
-    "ĝ",
-    "Ǵ",
-    "ǵ",
-    "Ğ",
-    "ğ",
-    "Ġ",
-    "ġ",
-    "Ģ",
-    "ģ",
-    "Ǧ",
-    "ǧ",
-    "Ǥ",
-    "ǥ",
-    "Ɠ",
-    "ɠ",
-    "ɢ",
-    "Ḡ",
-    "ḡ",
-    "ᶃ",
-  ],
-  g: [
-    "G",
-    "g",
-    "Ĝ",
-    "ĝ",
-    "Ǵ",
-    "ǵ",
-    "Ğ",
-    "ğ",
-    "Ġ",
-    "ġ",
-    "Ģ",
-    "ģ",
-    "Ǧ",
-    "ǧ",
-    "Ǥ",
-    "ǥ",
-    "Ɠ",
-    "ɠ",
-    "ɢ",
-    "Ḡ",
-    "ḡ",
-    "ᶃ",
-  ],
-
-  // H (uppercase and lowercase base keys)
-  H: [
-    "H",
-    "h",
-    "Ĥ",
-    "ĥ",
-    "Ḣ",
-    "ḣ",
-    "Ḧ",
-    "ḧ",
-    "Ḩ",
-    "ḩ",
-    "Ḫ",
-    "ḫ",
-    "Ħ",
-    "ħ",
-    "Ȟ",
-    "ȟ",
-    "Ⱨ",
-    "ⱨ",
-    "Ⱶ",
-    "ⱶ",
-    "ᶖ",
-  ],
-  h: [
-    "H",
-    "h",
-    "Ĥ",
-    "ĥ",
-    "Ḣ",
-    "ḣ",
-    "Ḧ",
-    "ḧ",
-    "Ḩ",
-    "ḩ",
-    "Ḫ",
-    "ḫ",
-    "Ħ",
-    "ħ",
-    "Ȟ",
-    "ȟ",
-    "Ⱨ",
-    "ⱨ",
-    "Ⱶ",
-    "ⱶ",
-    "ᶖ",
-  ],
-
-  // I (uppercase and lowercase base keys)
-  I: [
-    "I",
-    "i",
-    "Ī",
-    "ī",
-    "Ì",
-    "ì",
-    "Í",
-    "í",
-    "Î",
-    "î",
-    "Ï",
-    "ï",
-    "Ĭ",
-    "ĭ",
-    "Į",
-    "į",
-    "İ",
-    "i",
-    "ı",
-    "Ɨ",
-    "ɨ",
-    "Ỉ",
-    "ỉ",
-    "Ị",
-    "ị",
-    "Ḭ",
-    "ḭ",
-    "ᶤ",
-  ],
-  i: [
-    "I",
-    "i",
-    "Ī",
-    "ī",
-    "Ì",
-    "ì",
-    "Í",
-    "í",
-    "Î",
-    "î",
-    "Ï",
-    "ï",
-    "Ĭ",
-    "ĭ",
-    "Į",
-    "į",
-    "İ",
-    "i",
-    "ı",
-    "Ɨ",
-    "ɨ",
-    "Ỉ",
-    "ỉ",
-    "Ị",
-    "ị",
-    "Ḭ",
-    "ḭ",
-    "ᶤ",
-  ],
-
-  // J (uppercase and lowercase base keys)
-  J: ["J", "j", "Ĵ", "ĵ", "Ɉ", "ɉ", "ǰ", "ȷ", "ᶨ"],
-  j: ["J", "j", "Ĵ", "ĵ", "Ɉ", "ɉ", "ǰ", "ȷ", "ᶨ"],
-
-  // K (uppercase and lowercase base keys)
-  K: [
-    "K",
-    "k",
-    "Ḱ",
-    "ḱ",
-    "Ǩ",
-    "ǩ",
-    "Ķ",
-    "ķ",
-    "Ḳ",
-    "ḳ",
-    "Ḵ",
-    "ḵ",
-    "Ƙ",
-    "ƙ",
-    "Ⱪ",
-    "ⱪ",
-    "ᶄ",
-  ],
-  k: [
-    "K",
-    "k",
-    "Ḱ",
-    "ḱ",
-    "Ǩ",
-    "ǩ",
-    "Ķ",
-    "ķ",
-    "Ḳ",
-    "ḳ",
-    "Ḵ",
-    "ḵ",
-    "Ƙ",
-    "ƙ",
-    "Ⱪ",
-    "ⱪ",
-    "ᶄ",
-  ],
-
-  // L (uppercase and lowercase base keys)
-  L: [
-    "L",
-    "l",
-    "Ĺ",
-    "ĺ",
-    "Ľ",
-    "ľ",
-    "Ļ",
-    "ļ",
-    "Ḷ",
-    "ḷ",
-    "Ḹ",
-    "ḹ",
-    "Ḽ",
-    "ḽ",
-    "Ḻ",
-    "ḻ",
-    "Ł",
-    "ł",
-    "Ƚ",
-    "ƚ",
-    "Ⱡ",
-    "ⱡ",
-    "Ɫ",
-    "ɫ",
-    "ᶅ",
-    "ᶪ",
-  ],
-  l: [
-    "L",
-    "l",
-    "Ĺ",
-    "ĺ",
-    "Ľ",
-    "ľ",
-    "Ļ",
-    "ļ",
-    "Ḷ",
-    "ḷ",
-    "Ḹ",
-    "ḹ",
-    "Ḽ",
-    "ḽ",
-    "Ḻ",
-    "ḻ",
-    "Ł",
-    "ł",
-    "Ƚ",
-    "ƚ",
-    "Ⱡ",
-    "ⱡ",
-    "Ɫ",
-    "ɫ",
-    "ᶅ",
-    "ᶪ",
-  ],
-
-  // M (uppercase and lowercase base keys)
-  M: ["M", "m", "Ḿ", "ḿ", "Ṁ", "ṁ", "Ṃ", "ṃ", "ᵯ", "ᶆ", "Ɱ"],
-  m: ["M", "m", "Ḿ", "ḿ", "Ṁ", "ṁ", "Ṃ", "ṃ", "ᵯ", "ᶆ", "Ɱ"],
-
-  // N (uppercase and lowercase base keys)
-  N: [
-    "N",
-    "n",
-    "Ń",
-    "ń",
-    "Ǹ",
-    "ǹ",
-    "Ň",
-    "ň",
-    "Ñ",
-    "ñ",
-    "Ņ",
-    "ņ",
-    "Ṋ",
-    "ṋ",
-    "Ṉ",
-    "ṉ",
-    "Ṇ",
-    "ṇ",
-    "Ɲ",
-    "ɲ",
-    "Ƞ",
-    "ƞ",
-    "ᵰ",
-    "ᶇ",
-    "ɳ",
-    "ȵ",
-  ],
-  n: [
-    "N",
-    "n",
-    "Ń",
-    "ń",
-    "Ǹ",
-    "ǹ",
-    "Ň",
-    "ň",
-    "Ñ",
-    "ñ",
-    "Ņ",
-    "ņ",
-    "Ṋ",
-    "ṋ",
-    "Ṉ",
-    "ṉ",
-    "Ṇ",
-    "ṇ",
-    "Ɲ",
-    "ɲ",
-    "Ƞ",
-    "ƞ",
-    "ᵰ",
-    "ᶇ",
-    "ɳ",
-    "ȵ",
-  ],
-
-  // O (uppercase and lowercase base keys)
-  O: [
-    "O",
-    "o",
-    "Ō",
-    "ō",
-    "Ò",
-    "ò",
-    "Ó",
-    "ó",
-    "Ô",
-    "ô",
-    "Ö",
-    "ö",
-    "Õ",
-    "õ",
-    "Ŏ",
-    "ŏ",
-    "Ȯ",
-    "ȯ",
-    "Ȱ",
-    "ȱ",
-    "Ő",
-    "ő",
-    "Ǒ",
-    "ǒ",
-    "Ǫ",
-    "ǫ",
-    "Ǭ",
-    "ǭ",
-    "Ø",
-    "ø",
-    "Ọ",
-    "ọ",
-    "Ỏ",
-    "ỏ",
-    "Ố",
-    "ố",
-    "Ồ",
-    "ồ",
-    "Ổ",
-    "ổ",
-    "Ỗ",
-    "ỗ",
-    "Ộ",
-    "ộ",
-    "Ớ",
-    "ớ",
-    "Ờ",
-    "ờ",
-    "Ở",
-    "ở",
-    "Ỡ",
-    "ỡ",
-    "Ợ",
-    "ợ",
-    "Ɵ",
-    "ɵ",
-    "Ơ",
-    "ơ",
-    "Ṍ",
-    "ṍ",
-    "Ṏ",
-    "ṏ",
-    "Ṑ",
-    "ṑ",
-    "Ṓ",
-    "ṓ",
-    "ⱺ",
-  ],
-  o: [
-    "O",
-    "o",
-    "Ō",
-    "ō",
-    "Ò",
-    "ò",
-    "Ó",
-    "ó",
-    "Ô",
-    "ô",
-    "Ö",
-    "ö",
-    "Õ",
-    "õ",
-    "Ŏ",
-    "ŏ",
-    "Ȯ",
-    "ȯ",
-    "Ȱ",
-    "ȱ",
-    "Ő",
-    "ő",
-    "Ǒ",
-    "ǒ",
-    "Ǫ",
-    "ǫ",
-    "Ǭ",
-    "ǭ",
-    "Ø",
-    "ø",
-    "Ọ",
-    "ọ",
-    "Ỏ",
-    "ỏ",
-    "Ố",
-    "ố",
-    "Ồ",
-    "ồ",
-    "Ổ",
-    "ổ",
-    "Ỗ",
-    "ỗ",
-    "Ộ",
-    "ộ",
-    "Ớ",
-    "ớ",
-    "Ờ",
-    "ờ",
-    "Ở",
-    "ở",
-    "Ỡ",
-    "ỡ",
-    "Ợ",
-    "ợ",
-    "Ɵ",
-    "ɵ",
-    "Ơ",
-    "ơ",
-    "Ṍ",
-    "ṍ",
-    "Ṏ",
-    "ṏ",
-    "Ṑ",
-    "ṑ",
-    "Ṓ",
-    "ṓ",
-    "ⱺ",
-  ],
-
-  // P (uppercase and lowercase base keys)
-  P: ["P", "p", "Ṕ", "ṕ", "Ṗ", "ṗ", "Ƥ", "ƥ", "Ᵽ", "ᵽ", "ᶈ"],
-  p: ["P", "p", "Ṕ", "ṕ", "Ṗ", "ṗ", "Ƥ", "ƥ", "Ᵽ", "ᵽ", "ᶈ"],
-
-  // Q (uppercase and lowercase base keys)
-  Q: ["Q", "q", "Ɋ", "ɋ", "ᶐ"],
-  q: ["Q", "q", "Ɋ", "ɋ", "ᶐ"],
-
-  // R (uppercase and lowercase base keys)
-  R: [
-    "R",
-    "r",
-    "Ŕ",
-    "ŕ",
-    "Ř",
-    "ř",
-    "Ṙ",
-    "ṙ",
-    "Ŗ",
-    "ŗ",
-    "Ȑ",
-    "ȑ",
-    "Ȓ",
-    "ȓ",
-    "Ṛ",
-    "ṛ",
-    "Ṝ",
-    "ṝ",
-    "Ṟ",
-    "ṟ",
-    "Ʀ",
-    "ʀ",
-    "ᵲ",
-    "ᶉ",
-    "ɍ",
-    "ɽ",
-  ],
-  r: [
-    "R",
-    "r",
-    "Ŕ",
-    "ŕ",
-    "Ř",
-    "ř",
-    "Ṙ",
-    "ṙ",
-    "Ŗ",
-    "ŗ",
-    "Ȑ",
-    "ȑ",
-    "Ȓ",
-    "ȓ",
-    "Ṛ",
-    "ṛ",
-    "Ṝ",
-    "ṝ",
-    "Ṟ",
-    "ṟ",
-    "Ʀ",
-    "ʀ",
-    "ᵲ",
-    "ᶉ",
-    "ɍ",
-    "ɽ",
-  ],
-
-  // S (uppercase and lowercase base keys)
-  S: [
-    "S",
-    "s",
-    "Ś",
-    "ś",
-    "Ŝ",
-    "ŝ",
-    "Š",
-    "š",
-    "Ṡ",
-    "ṡ",
-    "Ş",
-    "ş",
-    "Ș",
-    "ș",
-    "Ṣ",
-    "ṣ",
-    "Ṥ",
-    "ṥ",
-    "Ṧ",
-    "ṧ",
-    "Ṩ",
-    "ṩ",
-    "Ƨ",
-    "ƨ",
-    "ᵴ",
-    "ᶊ",
-    "ʂ",
-    "Ȿ",
-    "ȿ",
-  ],
-  s: [
-    "S",
-    "s",
-    "Ś",
-    "ś",
-    "Ŝ",
-    "ŝ",
-    "Š",
-    "š",
-    "Ṡ",
-    "ṡ",
-    "Ş",
-    "ş",
-    "Ș",
-    "ș",
-    "Ṣ",
-    "ṣ",
-    "Ṥ",
-    "ṥ",
-    "Ṧ",
-    "ṧ",
-    "Ṩ",
-    "ṩ",
-    "Ƨ",
-    "ƨ",
-    "ᵴ",
-    "ᶊ",
-    "ʂ",
-    "Ȿ",
-    "ȿ",
-  ],
-
-  // T (uppercase and lowercase base keys)
-  T: [
-    "T",
-    "t",
-    "Ť",
-    "ť",
-    "Ṫ",
-    "ṫ",
-    "Ţ",
-    "ţ",
-    "Ṭ",
-    "ṭ",
-    "Ț",
-    "ț",
-    "Ṱ",
-    "ṱ",
-    "Ṯ",
-    "ṯ",
-    "Ƭ",
-    "ƭ",
-    "Ʈ",
-    "ʈ",
-    "ȶ",
-    "ᵵ",
-    "ᶵ",
-  ],
-  t: [
-    "T",
-    "t",
-    "Ť",
-    "ť",
-    "Ṫ",
-    "ṫ",
-    "Ţ",
-    "ţ",
-    "Ṭ",
-    "ṭ",
-    "Ț",
-    "ț",
-    "Ṱ",
-    "ṱ",
-    "Ṯ",
-    "ṯ",
-    "Ƭ",
-    "ƭ",
-    "Ʈ",
-    "ʈ",
-    "ȶ",
-    "ᵵ",
-    "ᶵ",
-  ],
-
-  // U (uppercase and lowercase base keys)
-  U: [
-    "U",
-    "u",
-    "Ū",
-    "ū",
-    "Ù",
-    "ù",
-    "Ú",
-    "ú",
-    "Û",
-    "û",
-    "Ü",
-    "ü",
-    "Ŭ",
-    "ŭ",
-    "Ů",
-    "ů",
-    "Ű",
-    "ű",
-    "Ũ",
-    "ũ",
-    "Ų",
-    "ų",
-    "Ǔ",
-    "ǔ",
-    "Ȕ",
-    "ȕ",
-    "Ȗ",
-    "ȗ",
-    "Ụ",
-    "ụ",
-    "Ủ",
-    "ủ",
-    "Ứ",
-    "ứ",
-    "Ừ",
-    "ừ",
-    "Ử",
-    "ử",
-    "Ữ",
-    "ữ",
-    "Ự",
-    "ự",
-    "Ư",
-    "ư",
-    "Ṳ",
-    "ṳ",
-    "Ṵ",
-    "ṵ",
-    "Ṷ",
-    "ṷ",
-    "Ṹ",
-    "ṹ",
-    "Ṻ",
-    "ṻ",
-    "ᶙ",
-  ],
-  u: [
-    "U",
-    "u",
-    "Ū",
-    "ū",
-    "Ù",
-    "ù",
-    "Ú",
-    "ú",
-    "Û",
-    "û",
-    "Ü",
-    "ü",
-    "Ŭ",
-    "ŭ",
-    "Ů",
-    "ů",
-    "Ű",
-    "ű",
-    "Ũ",
-    "ũ",
-    "Ų",
-    "ų",
-    "Ǔ",
-    "ǔ",
-    "Ȕ",
-    "ȕ",
-    "Ȗ",
-    "ȗ",
-    "Ụ",
-    "ụ",
-    "Ủ",
-    "ủ",
-    "Ứ",
-    "ứ",
-    "Ừ",
-    "ừ",
-    "Ử",
-    "ử",
-    "Ữ",
-    "ữ",
-    "Ự",
-    "ự",
-    "Ư",
-    "ư",
-    "Ṳ",
-    "ṳ",
-    "Ṵ",
-    "ṵ",
-    "Ṷ",
-    "ṷ",
-    "Ṹ",
-    "ṹ",
-    "Ṻ",
-    "ṻ",
-    "ᶙ",
-  ],
-
-  // V (uppercase and lowercase base keys)
-  V: ["V", "v", "Ṽ", "ṽ", "Ṿ", "ṿ", "Ʋ", "ʋ", "ᶌ", "ⱱ", "ⱴ"],
-  v: ["V", "v", "Ṽ", "ṽ", "Ṿ", "ṿ", "Ʋ", "ʋ", "ᶌ", "ⱱ", "ⱴ"],
-
-  // W (uppercase and lowercase base keys)
-  W: [
-    "W",
-    "w",
-    "Ŵ",
-    "ŵ",
-    "Ẁ",
-    "ẁ",
-    "Ẃ",
-    "ẃ",
-    "Ẅ",
-    "ẅ",
-    "Ẇ",
-    "ẇ",
-    "Ẉ",
-    "ẉ",
-    "ẘ",
-    "Ⱳ",
-    "ⱳ",
-  ],
-  w: [
-    "W",
-    "w",
-    "Ŵ",
-    "ŵ",
-    "Ẁ",
-    "ẁ",
-    "Ẃ",
-    "ẃ",
-    "Ẅ",
-    "ẅ",
-    "Ẇ",
-    "ẇ",
-    "Ẉ",
-    "ẉ",
-    "ẘ",
-    "Ⱳ",
-    "ⱳ",
-  ],
-
-  // X (uppercase and lowercase base keys)
-  X: ["X", "x", "Ẋ", "ẋ", "Ẍ", "ẍ", "ᶍ"],
-  x: ["X", "x", "Ẋ", "ẋ", "Ẍ", "ẍ", "ᶍ"],
-
-  // Y (uppercase and lowercase base keys)
-  Y: [
-    "Y",
-    "y",
-    "Ŷ",
-    "ŷ",
-    "Ẏ",
-    "ẏ",
-    "Ÿ",
-    "ÿ",
-    "Ỳ",
-    "ỳ",
-    "Ỵ",
-    "ỵ",
-    "Ỷ",
-    "ỷ",
-    "Ỹ",
-    "ỹ",
-    "Ȳ",
-    "ȳ",
-    "Ɏ",
-    "ɏ",
-    "Ƴ",
-    "ƴ",
-    "ẙ",
-    "Ɀ",
-  ],
-  y: [
-    "Y",
-    "y",
-    "Ŷ",
-    "ŷ",
-    "Ẏ",
-    "ẏ",
-    "Ÿ",
-    "ÿ",
-    "Ỳ",
-    "ỳ",
-    "Ỵ",
-    "ỵ",
-    "Ỷ",
-    "ỷ",
-    "Ỹ",
-    "ỹ",
-    "Ȳ",
-    "ȳ",
-    "Ɏ",
-    "ɏ",
-    "Ƴ",
-    "ƴ",
-    "ẙ",
-    "Ɀ",
-  ],
-
-  // Z (uppercase and lowercase base keys)
-  Z: [
-    "Z",
-    "z",
-    "Ź",
-    "ź",
-    "Ẑ",
-    "ẑ",
-    "Ž",
-    "ž",
-    "Ż",
-    "ż",
-    "Ẓ",
-    "ẓ",
-    "Ẕ",
-    "ẕ",
-    "Ƶ",
-    "ƶ",
-    "Ȥ",
-    "ȥ",
-    "Ⱬ",
-    "ⱬ",
-    "ᵶ",
-    "ᶎ",
-    "ʐ",
-    "ʑ",
-  ],
-  z: [
-    "Z",
-    "z",
-    "Ź",
-    "ź",
-    "Ẑ",
-    "ẑ",
-    "Ž",
-    "ž",
-    "Ż",
-    "ż",
-    "Ẓ",
-    "ẓ",
-    "Ẕ",
-    "ẕ",
-    "Ƶ",
-    "ƶ",
-    "Ȥ",
-    "ȥ",
-    "Ⱬ",
-    "ⱬ",
-    "ᵶ",
-    "ᶎ",
-    "ʐ",
-    "ʑ",
-  ],
-};
+// Diacritic mapping removed - now using Fuse.js for fuzzy search
 
 const SearchBar = forwardRef(({ onSelectWord }, ref) => {
   const [inputValue, setInputValue] = useState("");
@@ -1348,42 +65,135 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
     searchCache.current.set(query, results);
   };
 
-  const isSubsequence = (sub, str) => {
-    let subIndex = 0;
-    let strIndex = 0;
+  // Fuse.js configuration for fuzzy search
+  const fuseOptions = {
+    keys: ['word'], // Search in word field only
+    threshold: 0.4, // Moderate fuzzy matching (0=exact, 1=match anything)
+    distance: 100,  // Maximum character distance
+    includeScore: true,
+    shouldSort: true,
+    minMatchCharLength: 1,
+    ignoreLocation: true, // Don't care about character position
+    findAllMatches: false
+  };
 
-    // Loop through both strings
-    while (subIndex < sub.length && strIndex < str.length) {
-      // If characters match, move to the next character in the subsequence
-      if (sub[subIndex] === str[strIndex]) {
-        subIndex++;
-      }
-      // Always move to the next character in the main string
-      strIndex++;
+  // Create Fuse instance when words are loaded
+  const fuseInstance = useRef(null);
+  
+  useEffect(() => {
+    if (words.length > 0 && !fuseInstance.current) {
+      fuseInstance.current = new Fuse(words, fuseOptions);
     }
-    // If we matched all characters in the subsequence, it is a subsequence
-    return subIndex === sub.length;
-  };
-  // --- END OF SUBSEQUENCE FUNCTION ---
+  }, [words]);
 
-  const baseCharMap = {};
-
-  Object.entries(diacriticMap).forEach(([baseChar, variants]) => {
-    variants.forEach((variant) => {
-      baseCharMap[variant] = baseChar.toLowerCase(); // Store all base chars in lowercase
+  // TIER 1: Exact + Prefix Matching (Fastest - <1ms)
+  const exactAndPrefixSearch = (query) => {
+    if (!query || !words.length) return [];
+    
+    const queryLower = query.toLowerCase();
+    const results = new Set(); // Use Set to avoid duplicates
+    
+    // 1. Exact matches (highest priority)
+    words.forEach(wordObj => {
+      if (typeof wordObj.word === 'string' && 
+          wordObj.word.toLowerCase() === queryLower) {
+        results.add(wordObj);
+      }
     });
-  });
-  // --- END OF REVERSE MAPPING ---
-
-  const normalizeString = (str) => {
-    return str
-      .split("")
-      .map((char) => {
-        return baseCharMap[char] || char.toLowerCase();
-      })
-      .join("");
+    
+    // 2. Prefix matches (second priority)
+    if (results.size < 20) { // Only if we need more results
+      words.forEach(wordObj => {
+        if (typeof wordObj.word === 'string' && 
+            wordObj.word.toLowerCase().startsWith(queryLower) &&
+            !results.has(wordObj)) {
+          results.add(wordObj);
+        }
+      });
+    }
+    
+    return Array.from(results).slice(0, 20); // Limit Tier 1 to 20 results
   };
-  // --- END OF NORMALIZATION FUNCTION ---
+  
+  // TIER 3: Definition Search (Fallback - 5-15ms)
+  const definitionSearch = (query) => {
+    if (!query || !words.length) return [];
+    
+    const queryLower = query.toLowerCase();
+    const results = [];
+    
+    words.forEach(wordObj => {
+      if (typeof wordObj.definition === 'string' && 
+          wordObj.definition.toLowerCase().includes(queryLower)) {
+        results.push(wordObj);
+      }
+    });
+    
+    return results.slice(0, 30); // Limit definition search to 30 results
+  };
+  
+  // HYBRID SEARCH ORCHESTRATOR - Combines all 3 tiers with smart ranking
+  const hybridSearch = (query) => {
+    if (!query) return [];
+    
+    const startTime = performance.now();
+    
+    // TIER 1: Exact + Prefix (Fastest - always run first)
+    const tier1Results = exactAndPrefixSearch(query);
+    
+    // If we have good exact/prefix results, might be enough
+    if (tier1Results.length >= 10) {
+      // console.log(`Tier 1 sufficient: ${performance.now() - startTime}ms`);
+      return tier1Results;
+    }
+    
+    // TIER 2: Fuzzy Search (Primary engine)
+    let tier2Results = [];
+    if (fuseInstance.current) {
+      const fuseResults = fuseInstance.current.search(query);
+      tier2Results = fuseResults
+        .map(result => result.item)
+        .slice(0, 30);
+    }
+    
+    // Combine Tier 1 + Tier 2, removing duplicates
+    const combinedResults = new Set();
+    const finalResults = [];
+    
+    // Add Tier 1 results first (highest priority)
+    tier1Results.forEach(item => {
+      combinedResults.add(item.word.toLowerCase());
+      finalResults.push(item);
+    });
+    
+    // Add Tier 2 results, avoiding duplicates
+    tier2Results.forEach(item => {
+      if (!combinedResults.has(item.word.toLowerCase())) {
+        combinedResults.add(item.word.toLowerCase());
+        finalResults.push(item);
+      }
+    });
+    
+    // If we still don't have enough results, try TIER 3: Definition Search
+    if (finalResults.length < 15 && query.length > 3) {
+      const tier3Results = definitionSearch(query);
+      
+      tier3Results.forEach(item => {
+        if (!combinedResults.has(item.word.toLowerCase()) && finalResults.length < 50) {
+          combinedResults.add(item.word.toLowerCase());
+          finalResults.push(item);
+        }
+      });
+      
+      // console.log(`Full hybrid search: ${performance.now() - startTime}ms (${tier1Results.length} + ${tier2Results.length} + ${tier3Results.length})`);
+    } else {
+      // console.log(`Tier 1+2 search: ${performance.now() - startTime}ms (${tier1Results.length} + ${tier2Results.length})`);
+    }
+    
+    return finalResults.slice(0, 50); // Final limit of 50 results
+  };
+
+  // Old normalization functions removed - now using Fuse.js for fuzzy search
   // Load word list
   useEffect(() => {
     fetch("wordnet.json")
@@ -1403,7 +213,7 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
     setInputValue(e.target.value);
     setShowSuggestions(true);
   };
-  // Filter suggestions dynamically (subsequence anywhere in word) with caching
+  // Filter suggestions dynamically using 3-tier hybrid search with caching
   useEffect(() => {
     const value = inputValue.trim();
     if (!value) {
@@ -1413,9 +223,7 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
       return;
     }
 
-    // Normalize the user input to its base form OUTSIDE the filter loop
-    const normalizedInput = normalizeString(value);
-    const cacheKey = normalizedInput.toLowerCase();
+    const cacheKey = value.toLowerCase();
 
     // Check cache first
     const cachedResults = getCachedResults(cacheKey);
@@ -1426,27 +234,13 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
       return;
     }
 
-    // If not in cache, perform the search
-    const filtered = words
-      .filter((wordObj) => {
-        // Check if the word is a string and exists
-        if (typeof wordObj.word !== "string") return false;
-
-        // Normalize the dictionary word to its base form
-        const normalizedWord = normalizeString(wordObj.word);
-
-        // Require first letter match
-        if (normalizedInput[0] !== normalizedWord[0]) return false;
-
-        // Check if the normalized input is a subsequence of the normalized word
-        return isSubsequence(normalizedInput, normalizedWord);
-      })
-      .slice(0, 50);
+    // Perform 3-tier hybrid search
+    const searchResults = hybridSearch(value);
 
     // Cache the results
-    setCachedResults(cacheKey, filtered);
+    setCachedResults(cacheKey, searchResults);
 
-    setSuggestions(filtered);
+    setSuggestions(searchResults);
     setShowSuggestions(true);
     setActiveIdx(-1);
   }, [inputValue, words]);
@@ -1501,22 +295,11 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
       if (showSuggestions && activeIdx >= 0 && suggestions[activeIdx]) {
         handleClick(suggestions[activeIdx]);
       } else {
-        // Otherwise, do exact match search (same as Search button)
-        const normalizedInput = normalizeString(value);
-        const exactMatch = words.find(
-          (wordObj) =>
-            typeof wordObj.word === "string" &&
-            normalizeString(wordObj.word) === normalizedInput
-        );
-        if (exactMatch) {
-          setSuggestions([exactMatch]);
-          setShowSuggestions(true);
-          setActiveIdx(-1);
-        } else {
-          setSuggestions([]);
-          setShowSuggestions(true);
-          setActiveIdx(-1);
-        }
+        // Otherwise, perform hybrid search (same as Search button)
+        const searchResults = hybridSearch(value);
+        setSuggestions(searchResults);
+        setShowSuggestions(true);
+        setActiveIdx(-1);
       }
     } else if (e.key === "Escape") {
       setShowSuggestions(false);
@@ -1569,21 +352,20 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
         {inputValue && (
           <button
             className="clear-button"
-            onClick={() => {
-              setInputValue("");
-              setSuggestions([]);
-              setShowSuggestions(false);
-              setActiveIdx(-1);
-              // Focus back on input after clearing
-              if (inputRef.current) {
-                inputRef.current.focus();
+            onClick={clearInput}
+            onKeyDown={(e) => {
+              if (e.key === "Enter" || e.key === " ") {
+                e.preventDefault();
+                clearInput();
               }
             }}
             disabled={loading}
-            title="Clear search (Escape to close suggestions)"
+            title="Clear search (Ctrl+Backspace or click)"
             aria-label="Clear search input"
+            tabIndex={0}
+            type="button"
           >
-            ×
+            <span aria-hidden="true">×</span>
           </button>
         )}
         <button
@@ -1596,25 +378,12 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
               return;
             }
 
-            // Normalize the user input to its base form
-            const normalizedInput = normalizeString(value);
-
-            // Find a word whose normalized form is exactly equal to the normalized input
-            const exactMatch = words.find(
-              (wordObj) =>
-                typeof wordObj.word === "string" &&
-                normalizeString(wordObj.word) === normalizedInput
-            );
-
-            if (exactMatch) {
-              setSuggestions([exactMatch]);
-              setShowSuggestions(true);
-              setActiveIdx(-1);
-            } else {
-              setSuggestions([]);
-              setShowSuggestions(true);
-              setActiveIdx(-1);
-            }
+            // Perform 3-tier hybrid search
+            const searchResults = hybridSearch(value);
+            
+            setSuggestions(searchResults);
+            setShowSuggestions(true);
+            setActiveIdx(-1);
           }}
           disabled={loading}
         >

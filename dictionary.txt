@@ -10772,12 +10772,12 @@
 {
   "word": "উদুখল",
   "pos": "noun",
-  "definition": "উদুখল Udikhal - A dance-drama relating to the story of Yasodā's binding Srikrşna to a husking mortar (N.) সং.।"
+  "definition": "উদুখল Udikhal - A dance-drama relating to the story of Yasodā's binding Srikrişna to a husking mortar (N.) সং.।"
 },
 {
   "word": "Udikhal",
   "pos": "noun",
-  "definition": "উদুখল Udikhal - A dance-drama relating to the story of Yasodā's binding Srikrşna to a husking mortar (N.) সং.।"
+  "definition": "উদুখল Udikhal - A dance-drama relating to the story of Yasodā's binding Srikrişna to a husking mortar (N.) সং.।"
 },
 {
   "word": "উদ্দা",
@@ -21445,7 +21445,7 @@
   "definition": "কৃপণ Kripan - Niggardly. Ts."
 },
 {
-  "word": "Krpan",
+  "word": "Kripan",
   "pos": "adjective",
   "definition": "কৃপণ Kripan - Niggardly. Ts."
 },
@@ -21455,7 +21455,7 @@
   "definition": "কৃপা Kripå - Compassion. Ts."
 },
 {
-  "word": "K på",
+  "word": "Kripå",
   "pos": "noun",
   "definition": "কৃপা Kripå - Compassion. Ts."
 },
@@ -21465,7 +21465,7 @@
   "definition": "কৃষ্ণ Krişna - Black. Ts. Kacu = a kind of arum; - Prāpti = Attainment of the Lord Krişna, liberation."
 },
 {
-  "word": "Krşna",
+  "word": "Krişna",
   "pos": "adjective",
   "definition": "কৃষ্ণ Krişna - Black. Ts. Kacu = a kind of arum; - Prāpti = Attainment of the Lord Krişna, liberation."
 },
