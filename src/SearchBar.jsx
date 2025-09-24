@@ -1,13 +1,4 @@
 // SearchBar Component
-// Features:
-// - Live suggestions (up to 10) as you type
-// - Keyboard navigation (arrow keys, enter, escape)
-// - Suggestions remain visible when clicking outside
-// - Highlighting of matched text
-// - Loading spinner while fetching words
-// - Accessibility with ARIA attributes
-// - Calls onSelectWord when a word is selected
-// - Modern, theme-aware UI
 import React, {
   useState,
   useEffect,
@@ -17,8 +8,6 @@ import React, {
 } from "react";
 import Fuse from "fuse.js";
 import "./SearchBar.css";
-
-// Diacritic mapping removed - now using Fuse.js for fuzzy search
 
 const SearchBar = forwardRef(({ onSelectWord }, ref) => {
   const [inputValue, setInputValue] = useState("");
@@ -161,7 +150,6 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
 
     // If we have good exact/prefix results, might be enough
     if (tier1Results.length >= 10) {
-      // console.log(`Tier 1 sufficient: ${performance.now() - startTime}ms`);
       return tier1Results;
     }
 
@@ -189,9 +177,6 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
         finalResults.push(item);
       }
     });
-
-    // console.log(`Word search: ${performance.now() - startTime}ms (${tier1Results.length} + ${tier2Results.length})`);
-
     return finalResults.slice(0, 50); // Final limit of 50 results
   };
 
@@ -203,8 +188,6 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
     setSearchMode(newMode);
     // The useEffect with searchMode dependency will handle re-executing search
   };
-
-  // Old normalization functions removed - now using Fuse.js for fuzzy search
   // Load word list
   useEffect(() => {
     fetch("wordnet.json")
@@ -258,9 +241,6 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
 
   // Handle suggestion click
   const handleClick = (wordObj) => {
-    setInputValue(wordObj.word);
-    setSuggestions([]);
-    setShowSuggestions(false);
     onSelectWord(wordObj);
   };
 
@@ -409,10 +389,8 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
                 setShowSuggestions(false);
                 return;
               }
-
               // Perform 3-tier hybrid search
               const searchResults = hybridSearch(value);
-
               setSuggestions(searchResults);
               setShowSuggestions(true);
               setActiveIdx(-1);

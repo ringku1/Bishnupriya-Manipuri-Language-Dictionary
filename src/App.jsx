@@ -1,12 +1,4 @@
 // React Dictionary App
-// Features:
-// - Theme toggle (light/dark) with persistence
-// - Responsive layout
-// - Search bar with live suggestions (up to 10), keyboard navigation, and highlight
-// - Suggestions remain visible when clicking outside
-// - Word detail panel with animation
-// - Modern UI and accessibility
-// Main components: App, SearchBar, WordDetail
 import React, { useState, useEffect, useRef } from "react";
 import SearchBar from "./SearchBar";
 import WordDetail from "./WordDetail";
@@ -25,7 +17,7 @@ function App() {
     }
     return "light";
   });
-  
+
   // Ref to access SearchBar's input focus method
   const searchBarRef = useRef(null);
 
@@ -38,28 +30,28 @@ function App() {
       document.documentElement.classList.remove("dark-mode");
     }
   }, [theme]);
-  
+
   // Global keyboard shortcuts
   useEffect(() => {
     const handleKeyDown = (event) => {
       // Ctrl+K or Cmd+K to focus search (like GitHub, Discord, etc.)
-      if ((event.ctrlKey || event.metaKey) && event.key === 'k') {
+      if ((event.ctrlKey || event.metaKey) && event.key === "k") {
         event.preventDefault();
         if (searchBarRef.current && searchBarRef.current.focusInput) {
           searchBarRef.current.focusInput();
         }
       }
-      
+
       // Escape to close word detail modal
-      if (event.key === 'Escape' && selectedWord) {
+      if (event.key === "Escape" && selectedWord) {
         handleCloseDetail();
       }
     };
-    
-    document.addEventListener('keydown', handleKeyDown);
-    
+
+    document.addEventListener("keydown", handleKeyDown);
+
     return () => {
-      document.removeEventListener('keydown', handleKeyDown);
+      document.removeEventListener("keydown", handleKeyDown);
     };
   }, [selectedWord]);
 
@@ -92,7 +84,7 @@ function App() {
 
       {/* MAIN CONTENT WRAPPER - This is the key fix */}
       <div className="main-content">
-        <h1>BM Dictionary</h1>
+        <h1>Bishnupriya Manipuri to English Dictionary</h1>
         <SearchBar ref={searchBarRef} onSelectWord={handleSelectWord} />
         <WordDetail wordObj={selectedWord} onClose={handleCloseDetail} />
       </div>
