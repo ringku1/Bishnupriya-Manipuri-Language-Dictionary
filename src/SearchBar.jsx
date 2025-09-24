@@ -27,6 +27,7 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
   const [loading, setLoading] = useState(true);
   const [activeIdx, setActiveIdx] = useState(-1);
   const [showSuggestions, setShowSuggestions] = useState(false);
+  const [searchMode, setSearchMode] = useState("word"); // "word" or "definition"
   const inputRef = useRef(null);
   const suggestionRef = useRef(null);
 
@@ -132,12 +133,19 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
     return results.slice(0, 30); // Limit definition search to 30 results
   };
   
-  // HYBRID SEARCH ORCHESTRATOR - Combines all 3 tiers with smart ranking
+  // HYBRID SEARCH ORCHESTRATOR - Routes based on search mode
   const hybridSearch = (query) => {
     if (!query) return [];
     
     const startTime = performance.now();
     
+    // Route based on search mode
+    if (searchMode === "definition") {
+      // Definition search mode - use Tier 3 only
+      return definitionSearch(query);
+    }
+    
+    // Word search mode - use Tier 1 + Tier 2 (existing logic)
     // TIER 1: Exact + Prefix (Fastest - always run first)
     const tier1Results = exactAndPrefixSearch(query);
     
@@ -174,23 +182,53 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
       }
     });
     
-    // If we still don't have enough results, try TIER 3: Definition Search
-    if (finalResults.length < 15 && query.length > 3) {
-      const tier3Results = definitionSearch(query);
-      
-      tier3Results.forEach(item => {
-        if (!combinedResults.has(item.word.toLowerCase()) && finalResults.length < 50) {
-          combinedResults.add(item.word.toLowerCase());
-          finalResults.push(item);
-        }
-      });
-      
-      // console.log(`Full hybrid search: ${performance.now() - startTime}ms (${tier1Results.length} + ${tier2Results.length} + ${tier3Results.length})`);
-    } else {
-      // console.log(`Tier 1+2 search: ${performance.now() - startTime}ms (${tier1Results.length} + ${tier2Results.length})`);
-    }
+    // console.log(`Word search: ${performance.now() - startTime}ms (${tier1Results.length} + ${tier2Results.length})`);
     
     return finalResults.slice(0, 50); // Final limit of 50 results
+  };
+
+  // Handle search mode toggle and re-execute search
+  const handleSearchModeChange = (newMode) => {
+    setSearchMode(newMode);
+    // Re-execute search with current query using new mode
+    if (inputValue.trim()) {
+      // Temporarily use the new mode for immediate search
+      const query = inputValue.trim();
+      let results = [];
+      
+      if (newMode === "definition") {
+        results = definitionSearch(query);
+      } else {
+        // Word search mode - use existing Tier 1 + 2 logic
+        const tier1Results = exactAndPrefixSearch(query);
+        if (tier1Results.length >= 10) {
+          results = tier1Results;
+        } else {
+          let tier2Results = [];
+          if (fuseInstance.current) {
+            const fuseResults = fuseInstance.current.search(query);
+            tier2Results = fuseResults.map(result => result.item).slice(0, 30);
+          }
+          
+          const combinedResults = new Set();
+          const finalResults = [];
+          tier1Results.forEach(item => {
+            combinedResults.add(item.word.toLowerCase());
+            finalResults.push(item);
+          });
+          tier2Results.forEach(item => {
+            if (!combinedResults.has(item.word.toLowerCase())) {
+              combinedResults.add(item.word.toLowerCase());
+              finalResults.push(item);
+            }
+          });
+          results = finalResults.slice(0, 50);
+        }
+      }
+      
+      setSuggestions(results);
+      setShowSuggestions(true);
+    }
   };
 
   // Old normalization functions removed - now using Fuse.js for fuzzy search
@@ -243,7 +281,7 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
     setSuggestions(searchResults);
     setShowSuggestions(true);
     setActiveIdx(-1);
-  }, [inputValue, words]);
+  }, [inputValue, words, searchMode]);
 
   // Handle suggestion click
   const handleClick = (wordObj) => {
@@ -323,7 +361,26 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
   };
 
   return (
-    <div className="search-container">
+    <>
+      {/* Search Mode Toggle */}
+      <div className="search-mode-toggle">
+        <button
+          className={`toggle-button ${searchMode === "word" ? "active" : ""}`}
+          onClick={() => handleSearchModeChange("word")}
+          aria-pressed={searchMode === "word"}
+        >
+          Search By Word
+        </button>
+        <button
+          className={`toggle-button ${searchMode === "definition" ? "active" : ""}`}
+          onClick={() => handleSearchModeChange("definition")}
+          aria-pressed={searchMode === "definition"}
+        >
+          Search In Definition
+        </button>
+      </div>
+      
+      <div className="search-container">
       {loading && (
         <div className="loading-overlay">
           <div className="spinner"></div>
@@ -420,6 +477,7 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
         </ul>
       )}
     </div>
+    </>
   );
 });
 
