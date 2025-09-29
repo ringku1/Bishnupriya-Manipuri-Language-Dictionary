@@ -23,7 +23,6 @@ This project is based on the scholarly work "Bishnupriya Manipuri to English Dic
 - **Dual script support** - Works with both Bengali script (অইচা) and romanized text (Aicā)
 - **Smart subsequence matching** - Finds words even with non-consecutive letter matches
 - **Diacritic normalization** - Handles accented characters seamlessly
-- **First-letter priority** matching for more relevant results
 
 ### 🎨 **Modern User Interface**
 - **Light & Dark themes** with system preference detection
@@ -93,7 +92,7 @@ The built files will be in the `dist/` directory, ready for deployment.
 ```
 dictionary-web/
 ├── public/
-│   ├── wordnet.json          # Dictionary data (~40,000+ entries)
+│   ├── wordnet.json          # Dictionary data (~60,000+ entries)
 │   └── vite.svg             # App favicon
 ├── src/
 │   ├── components/
@@ -105,7 +104,6 @@ dictionary-web/
 │   │   ├── SearchBar.css    # Search component styles
 │   │   └── WordDetail.css   # Modal styles
 │   └── main.jsx             # Application entry point
-├── dictionary.txt           # Raw dictionary data
 ├── package.json             # Project dependencies
 └── README.md               # This file
 ```
