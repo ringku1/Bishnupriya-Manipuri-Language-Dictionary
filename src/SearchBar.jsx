@@ -8,6 +8,7 @@ import React, {
 } from "react";
 import Fuse from "fuse.js";
 import "./SearchBar.css";
+import { diacriticMap, normalizeString } from "./LetterVarient.js";
 
 const SearchBar = forwardRef(({ onSelectWord }, ref) => {
   const [inputValue, setInputValue] = useState("");
@@ -83,26 +84,26 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
   const exactAndPrefixSearch = (query) => {
     if (!query || !words.length) return [];
 
-    const queryLower = query.toLowerCase();
-    const results = new Set(); // Use Set to avoid duplicates
+    const normalizedQuery = normalizeString(query.toLowerCase());
+    const prefixPattern = createDiacriticPattern(query);
+    const results = new Set();
 
     // 1. Exact matches (highest priority)
     words.forEach((wordObj) => {
-      if (
-        typeof wordObj.word === "string" &&
-        wordObj.word.toLowerCase() === queryLower
-      ) {
-        results.add(wordObj);
+      if (typeof wordObj.word === "string") {
+        const normalizedWord = normalizeString(wordObj.word.toLowerCase());
+        if (normalizedWord === normalizedQuery) {
+          results.add(wordObj);
+        }
       }
     });
 
     // 2. Prefix matches (second priority)
     if (results.size < 20) {
-      // Only if we need more results
       words.forEach((wordObj) => {
         if (
           typeof wordObj.word === "string" &&
-          wordObj.word.toLowerCase().startsWith(queryLower) &&
+          prefixPattern.test(wordObj.word) &&
           !results.has(wordObj)
         ) {
           results.add(wordObj);
@@ -110,7 +111,7 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
       });
     }
 
-    return Array.from(results).slice(0, 20); // Limit Tier 1 to 20 results
+    return Array.from(results).slice(0, 20);
   };
 
   // TIER 3: Definition Search (Fallback - 5-15ms)
@@ -135,8 +136,6 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
   // HYBRID SEARCH ORCHESTRATOR - Routes based on search mode
   const hybridSearch = (query) => {
     if (!query) return [];
-
-    const startTime = performance.now();
 
     // Route based on search mode
     if (searchMode === "definition") {
@@ -299,18 +298,39 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
   };
 
   // Highlight typed letters
-  const highlightMatch = (word) => {
-    const value = inputValue.trim();
-    const start = word.toLowerCase().indexOf(value.toLowerCase());
-    if (start === -1) return word;
-    const end = start + value.length;
+  function highlightMatch(text, query) {
+    if (!query) return text;
+    const normalizedText = normalizeString(text);
+    const normalizedQuery = normalizeString(query);
+
+    const idx = normalizedText.indexOf(normalizedQuery);
+    if (idx === -1) return text;
+
+    // Find the actual substring in original text
+    const start = idx;
+    const end = idx + normalizedQuery.length;
     return (
       <>
-        <span className="highlight">{word.slice(0, start)}</span>
-        <span className="highlight-match">{word.slice(start, end)}</span>
-        <span className="highlight">{word.slice(end)}</span>
+        {text.slice(0, start)}
+        <span className="highlight">{text.slice(start, end)}</span>
+        {text.slice(end)}
       </>
     );
+  }
+
+  // Helper: Build regex for diacritic-aware search
+  const createDiacriticPattern = (input) => {
+    const patternString = input
+      .split("")
+      .map((char) => {
+        if (diacriticMap[char]) {
+          return `[${diacriticMap[char].join("")}]`;
+        } else {
+          return char;
+        }
+      })
+      .join("");
+    return new RegExp(`^${patternString}`, "i");
   };
 
   return (
@@ -421,7 +441,7 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
                   onMouseLeave={() => setActiveIdx(-1)}
                 >
                   <span className="suggestion-word">
-                    {highlightMatch(wordObj.word)}
+                    {highlightMatch(wordObj.word, inputValue)}
                   </span>
                   <span className="suggestion-pos">({wordObj.pos})</span>
                 </li>
