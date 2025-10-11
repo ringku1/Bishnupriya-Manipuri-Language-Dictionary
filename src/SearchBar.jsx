@@ -237,22 +237,19 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
       e.preventDefault();
       setActiveIdx((prev) => (prev > 0 ? prev - 1 : suggestions.length - 1));
     } else if (e.key === "Enter") {
-      const value = inputValue.trim().toLowerCase();
+      const value = inputValue.trim();
       if (!value) {
         setSuggestions([]);
         setShowSuggestions(false);
         return;
       }
-      // If a suggestion is highlighted, select it
-      if (showSuggestions && activeIdx >= 0 && suggestions[activeIdx]) {
-        handleClick(suggestions[activeIdx]);
-      } else {
-        // Otherwise, perform hybrid search (same as Search button)
-        const searchResults = hybridSearch(value);
-        setSuggestions(searchResults);
-        setShowSuggestions(true);
-        setActiveIdx(-1);
-      }
+      // Perform exact match and prefix match search
+      const searchResults = exactAndPrefixSearch(value);
+      setSuggestions(searchResults);
+      setShowSuggestions(true);
+      setActiveIdx(-1);
+
+      disabled = { loading };
     } else if (e.key === "Escape") {
       setShowSuggestions(false);
       setActiveIdx(-1);
