@@ -17,13 +17,8 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
   const [loading, setLoading] = useState(true);
   const [activeIdx, setActiveIdx] = useState(-1);
   const [showSuggestions, setShowSuggestions] = useState(false);
-  const [searchMode, setSearchMode] = useState("word"); // "word" or "definition"
   const inputRef = useRef(null);
   const suggestionRef = useRef(null);
-  const exampleWordForWordSearch = 'Type "ককসি" or "Kaksi"';
-  const exampleWordForDefinitionSearch =
-    'Type "A kind of flower" or a word in definition';
-  const [exampleWord, setExampleWord] = useState(exampleWordForWordSearch);
   // Cache for search results - using useRef to persist across renders
   const searchCache = useRef(new Map());
   const CACHE_SIZE_LIMIT = 100; // Limit cache size to prevent memory issues
@@ -114,36 +109,11 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
     return Array.from(results).slice(0, 20);
   };
 
-  // TIER 3: Definition Search (Fallback - 5-15ms)
-  const definitionSearch = (query) => {
-    if (!query || !words.length) return [];
 
-    const queryLower = query.toLowerCase();
-    const results = [];
-
-    words.forEach((wordObj) => {
-      if (
-        typeof wordObj.definition === "string" &&
-        wordObj.definition.toLowerCase().includes(queryLower)
-      ) {
-        results.push(wordObj);
-      }
-    });
-
-    return results.slice(0, 30); // Limit definition search to 30 results
-  };
-
-  // HYBRID SEARCH ORCHESTRATOR - Routes based on search mode
+  // HYBRID SEARCH ORCHESTRATOR - Word search only (Tier 1 + Tier 2)
   const hybridSearch = (query) => {
     if (!query) return [];
 
-    // Route based on search mode
-    if (searchMode === "definition") {
-      // Definition search mode - use Tier 3 only
-      return definitionSearch(query);
-    }
-
-    // Word search mode - use Tier 1 + Tier 2 (existing logic)
     // TIER 1: Exact + Prefix (Fastest - always run first)
     const tier1Results = exactAndPrefixSearch(query);
 
@@ -176,17 +146,10 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
         finalResults.push(item);
       }
     });
+    
     return finalResults.slice(0, 50); // Final limit of 50 results
   };
 
-  // Handle search mode toggle - let useEffect handle the re-search
-  const handleSearchModeChange = (newMode) => {
-    if (newMode === "word") setExampleWord(exampleWordForWordSearch);
-    else if (newMode === "definition")
-      setExampleWord(exampleWordForDefinitionSearch);
-    setSearchMode(newMode);
-    // The useEffect with searchMode dependency will handle re-executing search
-  };
   // Load word list
   useEffect(() => {
     fetch("wordnet.json")
@@ -216,7 +179,7 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
       return;
     }
 
-    const cacheKey = `${value.toLowerCase()}-${searchMode}`;
+    const cacheKey = value.toLowerCase();
 
     // Check cache first (mode-specific)
     const cachedResults = getCachedResults(cacheKey);
@@ -236,7 +199,7 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
     setSuggestions(searchResults);
     setShowSuggestions(true);
     setActiveIdx(-1);
-  }, [inputValue, words, searchMode]);
+  }, [inputValue, words]);
 
   // Handle suggestion click
   const handleClick = (wordObj) => {
@@ -334,28 +297,7 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
   };
 
   return (
-    <>
-      {/* Search Mode Toggle */}
-      <div className="search-mode-toggle">
-        <button
-          className={`toggle-button ${searchMode === "word" ? "active" : ""}`}
-          onClick={() => handleSearchModeChange("word")}
-          aria-pressed={searchMode === "word"}
-        >
-          Search By Word
-        </button>
-        <button
-          className={`toggle-button ${
-            searchMode === "definition" ? "active" : ""
-          }`}
-          onClick={() => handleSearchModeChange("definition")}
-          aria-pressed={searchMode === "definition"}
-        >
-          Search In Definition
-        </button>
-      </div>
-
-      <div className="search-container">
+    <div className="search-container">
         {loading && (
           <div className="loading-overlay">
             <div className="spinner"></div>
@@ -367,7 +309,7 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
           <input
             ref={inputRef}
             type="text"
-            placeholder={exampleWord}
+            placeholder='Type "ককসি" or "Kaksi"'
             value={inputValue}
             onChange={handleChange}
             onKeyDown={handleKeyDown}
@@ -450,7 +392,6 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
           </ul>
         )}
       </div>
-    </>
   );
 });
 
