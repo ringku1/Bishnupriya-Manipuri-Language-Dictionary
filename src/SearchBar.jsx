@@ -109,7 +109,6 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
     return Array.from(results).slice(0, 20);
   };
 
-
   // HYBRID SEARCH ORCHESTRATOR - Word search only (Tier 1 + Tier 2)
   const hybridSearch = (query) => {
     if (!query) return [];
@@ -146,7 +145,7 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
         finalResults.push(item);
       }
     });
-    
+
     return finalResults.slice(0, 50); // Final limit of 50 results
   };
 
@@ -298,100 +297,100 @@ const SearchBar = forwardRef(({ onSelectWord }, ref) => {
 
   return (
     <div className="search-container">
-        {loading && (
-          <div className="loading-overlay">
-            <div className="spinner"></div>
-            Loading words...
-          </div>
-        )}
+      {loading && (
+        <div className="loading-overlay">
+          <div className="spinner"></div>
+          Loading words...
+        </div>
+      )}
 
-        <div className="search-row">
-          <input
-            ref={inputRef}
-            type="text"
-            placeholder='Type "ককসি" or "Kaksi"'
-            value={inputValue}
-            onChange={handleChange}
-            onKeyDown={handleKeyDown}
-            className="search-input"
-            disabled={loading}
-            aria-autocomplete="list"
-            aria-controls="suggestions-list"
-            aria-activedescendant={
-              activeIdx >= 0 ? `suggestion-${activeIdx}` : undefined
-            }
-            autoComplete="off"
-            title="Press Ctrl+K (or Cmd+K on Mac) to focus this search box"
-          />
-          {inputValue && (
-            <button
-              className="clear-button"
-              onClick={clearInput}
-              onKeyDown={(e) => {
-                if (e.key === "Enter" || e.key === " ") {
-                  e.preventDefault();
-                  clearInput();
-                }
-              }}
-              disabled={loading}
-              title="Clear search (Ctrl+Backspace or click)"
-              aria-label="Clear search input"
-              tabIndex={0}
-              type="button"
-            >
-              <span aria-hidden="true">×</span>
-            </button>
-          )}
+      <div className="search-row">
+        <input
+          ref={inputRef}
+          type="text"
+          placeholder='Type "ককসি" or "Kaksi"'
+          value={inputValue}
+          onChange={handleChange}
+          onKeyDown={handleKeyDown}
+          className="search-input"
+          disabled={loading}
+          aria-autocomplete="list"
+          aria-controls="suggestions-list"
+          aria-activedescendant={
+            activeIdx >= 0 ? `suggestion-${activeIdx}` : undefined
+          }
+          autoComplete="off"
+          title="Press Ctrl+K (or Cmd+K on Mac) to focus this search box"
+        />
+        {inputValue && (
           <button
-            className="search-button"
-            onClick={() => {
-              const value = inputValue.trim();
-              if (!value) {
-                setSuggestions([]);
-                setShowSuggestions(false);
-                return;
+            className="clear-button"
+            onClick={clearInput}
+            onKeyDown={(e) => {
+              if (e.key === "Enter" || e.key === " ") {
+                e.preventDefault();
+                clearInput();
               }
-              // Perform 3-tier hybrid search
-              const searchResults = hybridSearch(value);
-              setSuggestions(searchResults);
-              setShowSuggestions(true);
-              setActiveIdx(-1);
             }}
             disabled={loading}
+            title="Clear search (Ctrl+Backspace or click)"
+            aria-label="Clear search input"
+            tabIndex={0}
+            type="button"
           >
-            Search
+            <span aria-hidden="true">×</span>
           </button>
-        </div>
-
-        {showSuggestions && !loading && (
-          <ul
-            className="suggestions-list"
-            id="suggestions-list"
-            ref={suggestionRef}
-          >
-            {suggestions.length === 0 ? (
-              <li className="no-suggestion">No results found</li>
-            ) : (
-              suggestions.map((wordObj, idx) => (
-                <li
-                  key={idx}
-                  id={`suggestion-${idx}`}
-                  className={activeIdx === idx ? "active" : ""}
-                  onClick={() => handleClick(wordObj)}
-                  tabIndex={0}
-                  onMouseEnter={() => setActiveIdx(idx)}
-                  onMouseLeave={() => setActiveIdx(-1)}
-                >
-                  <span className="suggestion-word">
-                    {highlightMatch(wordObj.word, inputValue)}
-                  </span>
-                  <span className="suggestion-pos">({wordObj.pos})</span>
-                </li>
-              ))
-            )}
-          </ul>
         )}
+        <button
+          className="search-button"
+          onClick={() => {
+            const value = inputValue.trim();
+            if (!value) {
+              setSuggestions([]);
+              setShowSuggestions(false);
+              return;
+            }
+            // Perform exact match and prefix match search
+            const searchResults = exactAndPrefixSearch(value);
+            setSuggestions(searchResults);
+            setShowSuggestions(true);
+            setActiveIdx(-1);
+          }}
+          disabled={loading}
+        >
+          Search
+        </button>
       </div>
+
+      {showSuggestions && !loading && (
+        <ul
+          className="suggestions-list"
+          id="suggestions-list"
+          ref={suggestionRef}
+        >
+          {suggestions.length === 0 ? (
+            <li className="no-suggestion">No results found</li>
+          ) : (
+            suggestions.map((wordObj, idx) => (
+              <li
+                key={idx}
+                id={`suggestion-${idx}`}
+                className={activeIdx === idx ? "active" : ""}
+                onClick={() => handleClick(wordObj)}
+                tabIndex={0}
+                onMouseEnter={() => setActiveIdx(idx)}
+                onMouseLeave={() => setActiveIdx(-1)}
+              >
+                <span className="suggestion-word">
+                  {highlightMatch(wordObj.word, inputValue)}
+                </span>
+                <span className="suggestion-pos">({wordObj.pos})</span>
+              </li>
+            ))
+          )}
+        </ul>
+      )}
+    </div>
   );
 });
 
