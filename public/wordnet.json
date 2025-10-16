@@ -60,14 +60,14 @@
     "definition": "অইলো Ailo - As it happened, should.অ-+ - ইলো। e.g. তা অইলো এতা বুলত!"
   },
   {
-    "word": "-অক",
+    "word": "অক",
     "pos": "-",
-    "definition": "-অক - Ak - A suffix employed primarily to form nouns generally from verbs, e.g.আটক. ঝলক।"
+    "definition": "-অক -Ak - A suffix employed primarily to form nouns generally from verbs, e.g.আটক. ঝলক।"
   },
   {
-    "word": "-Ak",
+    "word": "Ak",
     "pos": "-",
-    "definition": "-অক - Ak - A suffix employed primarily to form nouns generally from verbs, e.g.আটক. ঝলক।"
+    "definition": "-অক -Ak - A suffix employed primarily to form nouns generally from verbs, e.g.আটক. ঝলক।"
   },
   {
     "word": "অক",
@@ -85,7 +85,7 @@
     "definition": "অ'ক A'k - Efficient (Adj.) মে. ওকপা।"
   },
   {
-    "word": "A'k",
+    "word": "Ak",
     "pos": "adjective",
     "definition": "অ'ক A'k - Efficient (Adj.) মে. ওকপা।"
   },
@@ -100,12 +100,12 @@
     "definition": "অকপী Akpi - Fem. fr. above. অক মে. ওকপী।"
   },
   {
-    "word": "অ'কর্",
+    "word": "অকর",
     "pos": "-",
     "definition": "অ'কর্ A'kar - To begin,to start. মে. হৌ'পা + BPM করু।"
   },
   {
-    "word": "A'kar",
+    "word": "Akar",
     "pos": "-",
     "definition": "অ'কর্ A'kar - To begin,to start. মে. হৌ'পা + BPM করু।"
   },
@@ -120,34 +120,34 @@
     "definition": "অকরং-বকরং Akaran-bakaran - Deformed, weak. Onom. V.H. অগড়ম-বগড়ম্।"
   },
   {
-    "word": "অ'করা",
+    "word": "অকরা",
     "pos": "noun",
     "definition": "অ'করা A'karā - Beginning (N.).অ'কর+-আ!"
   },
   {
-    "word": "A'karā",
+    "word": "Akarā",
     "pos": "noun",
     "definition": "অ'করা A'karā - Beginning (N.).অ'কর+-আ!"
   },
   {
-    "word": "অ'করা",
+    "word": "অকরা",
     "pos": "adjective",
     "definition": "অ'করা A'kara - Begun (Adj.) অকর্+1-আ।"
   },
   {
-    "word": "A'kara",
+    "word": "Akara",
     "pos": "adjective",
     "definition": "অ'করা A'kara - Begun (Adj.) অকর্+1-আ।"
   },
   {
-    "word": "অ'করানি",
+    "word": "অকরানি",
     "pos": "noun",
-    "definition": "অ'করানি  A'karāni - Beginning (N.). অকর+-আনি, Akar+āni."
+    "definition": "অ'করানি A'karāni - Beginning (N.). অকর+-আনি, Akar+āni."
   },
   {
-    "word": "A'karāni",
+    "word": "Akarāni",
     "pos": "noun",
-    "definition": "অ'করানি  A'karāni - Beginning (N.). অকর+-আনি, Akar+āni."
+    "definition": "অ'করানি A'karāni - Beginning (N.). অকর+-আনি, Akar+āni."
   },
   {
     "word": "অকরুরা",
@@ -250,14 +250,14 @@
     "definition": "অকচাকথক Akcākthak - Filthy (Adj.).মে. ওকচাকথোকপা।"
   },
   {
-    "word": "একচাকথকপী",
+    "word": "অকচাকথকপী",
     "pos": "-",
-    "definition": "একচাকথকপী Akcākthakpi - Fem. fr. above অকচাকথক মে. ওকচাকথোপপী।"
+    "definition": "অকচাকথকপী Akcākthakpi - Fem. fr. above অকচাকথক মে. ওকচাকথোপপী।"
   },
   {
     "word": "Akcākthakpi",
     "pos": "-",
-    "definition": "একচাকথকপী Akcākthakpi - Fem. fr. above অকচাকথক মে. ওকচাকথোপপী।"
+    "definition": "অকচাকথকপী Akcākthakpi - Fem. fr. above অকচাকথক মে. ওকচাকথোপপী।"
   },
   {
     "word": "অকচাকপী",
@@ -380,22 +380,22 @@
     "definition": "অঘ্রাণ Aghrān - An Indian month. সং. অগ্রহায়ণ Agrahāyana."
   },
   {
-    "word": "অ'ঙ",
+    "word": "অঙ",
     "pos": "adjective",
     "definition": "অ'ঙ A'n - Cheap (Adj.). মে. হোঙপা Mt. honpã."
   },
   {
-    "word": "A'n",
+    "word": "An",
     "pos": "adjective",
     "definition": "অ'ঙ A'n - Cheap (Adj.). মে. হোঙপা Mt. honpã."
   },
   {
-    "word": "অ'ঙপা",
+    "word": "অঙপা",
     "pos": "adjective",
     "definition": "অ'ঙপা A'npā - Cheap (Adj.). V. above. অ'ঙ"
   },
   {
-    "word": "A'npā",
+    "word": "Anpā",
     "pos": "adjective",
     "definition": "অ'ঙপা A'npā - Cheap (Adj.). V. above. অ'ঙ"
   },
@@ -435,17 +435,17 @@
     "definition": "অঙ্গ A'nga - Body, limb (N.). সং."
   },
   {
-    "word": "A'nga",
+    "word": "Anga",
     "pos": "noun",
     "definition": "অঙ্গ A'nga - Body, limb (N.). সং."
   },
   {
-    "word": "অ'ঙতা",
+    "word": "অঙতা",
     "pos": "noun",
     "definition": "অ'ঙতা An'tă - Nature, appearance(N) মে. ওঙতা।-লাকতা laktā. = Nature, gesture."
   },
   {
-    "word": "An'tă",
+    "word": "Antă",
     "pos": "noun",
     "definition": "অ'ঙতা An'tă - Nature, appearance(N) মে. ওঙতা।-লাকতা laktā. = Nature, gesture."
   },
@@ -460,14 +460,14 @@
     "definition": "অঙথিল Anthil - Filled, conjested (Adj.). মে. থোঙ + থিনপা।"
   },
   {
-    "word": "অ'ঙনাথেঙনি",
+    "word": "অঙনাথেঙনি",
     "pos": "adverb",
-    "definition": "অ'ঙনাথেঙনি Annā thenni - Exchange (Adv.). সং. মে. ওন্নতৈনপা।"
+    "definition": "অ'ঙনাথেঙনি Annāthenni - Exchange (Adv.). সং. মে. ওন্নতৈনপা।"
   },
   {
-    "word": "Annā thenni",
+    "word": "Annāthenni",
     "pos": "adverb",
-    "definition": "অ'ঙনাথেঙনি Annā thenni - Exchange (Adv.). সং. মে. ওন্নতৈনপা।"
+    "definition": "অ'ঙনাথেঙনি Annāthenni - Exchange (Adv.). সং. মে. ওন্নতৈনপা।"
   },
   {
     "word": "অঙলাক",
@@ -570,12 +570,12 @@
     "definition": "অজা Ajā - Teacher, Sir (N.). সং, উপাধ্যায়।"
   },
   {
-    "word": "অ'জা",
+    "word": "অজা",
     "pos": "adjective",
     "definition": "অ'জা A'jā - Flat and heavy (Adj.). Ar. ঔজা।"
   },
   {
-    "word": "A'jā",
+    "word": "Ajā",
     "pos": "adjective",
     "definition": "অ'জা A'jā - Flat and heavy (Adj.). Ar. ঔজা।"
   },
@@ -690,17 +690,17 @@
     "definition": "অটি Ati - A suffix in pleonastic sense, e.g., কড়ি-অটি।"
   },
   {
-    "word": "অ'টিয়া",
+    "word": "অটিয়া",
     "pos": "noun",
     "definition": "অ'টিয়া A'tiyā - One having a big lip (N.). সং. * ওষ্ঠিক।"
   },
   {
-    "word": "A'tiyā",
+    "word": "Atiyā",
     "pos": "noun",
     "definition": "অ'টিয়া A'tiyā - One having a big lip (N.). সং. * ওষ্ঠিক।"
   },
   {
-    "word": "অত্-",
+    "word": "অত",
     "pos": "-",
     "definition": "অত্- (মা.) At - V. উঠ।"
   },
@@ -710,7 +710,7 @@
     "definition": "অত্- (মা.) At - V. উঠ।"
   },
   {
-    "word": "অত্",
+    "word": "অত",
     "pos": "noun",
     "definition": "অত্ At - Boundary (N.). Ar. হদ্দ।"
   },
@@ -870,7 +870,7 @@
     "definition": "অদৃষ্ট Adrista - Fate (N.). সং।"
   },
   {
-    "word": "অ'দ্দ",
+    "word": "অদ্দ",
     "pos": "noun",
     "definition": "অ'দ্দ Adda - Boundary, Strength (N.). আ.হদ্দ।"
   },
@@ -950,12 +950,12 @@
     "definition": "অধ্যায় Adhyāy - Chapter (N.). সং।"
   },
   {
-    "word": "-অন",
+    "word": "অন",
     "pos": "-",
     "definition": "-অন -An - A suffix added to roots to form verbal nouns, e.g., মরণ, পড়ন etc."
   },
   {
-    "word": "-An",
+    "word": "An",
     "pos": "-",
     "definition": "-অন -An - A suffix added to roots to form verbal nouns, e.g., মরণ, পড়ন etc."
   },
@@ -970,7 +970,7 @@
     "definition": "অনা Anā - To melt (V.). সং. * উষ্ণাপয় (Denom. from উষ্ণ=hot; cf. E.B. উনা-।)"
   },
   {
-    "word": "অ'না",
+    "word": "অনা",
     "pos": "-",
     "definition": "অ'না Anā - Happening, being, অ'- + না।"
   },
@@ -1000,22 +1000,22 @@
     "definition": "অনাহক Anāhak - Fruitless (Adj.) সং, অন+অ (double negative) + Per.হক।"
   },
   {
-    "word": "অ'নি",
+    "word": "অনি",
     "pos": "noun",
     "definition": "অ'নি A'ni - Happening, being (N.) অ'-+-নি।"
   },
   {
-    "word": "A'ni",
+    "word": "Ani",
     "pos": "noun",
     "definition": "অ'নি A'ni - Happening, being (N.) অ'-+-নি।"
   },
   {
-    "word": "-অনি",
+    "word": "অনি",
     "pos": "-",
     "definition": "-অনি - ani - A suffix added to roots in agentive, instrumental or pleonastic sense. সং. অন+ইক, e.g. হরনি, ধরনি etc.।"
   },
   {
-    "word": "-ani",
+    "word": "Ani",
     "pos": "-",
     "definition": "-অনি - ani - A suffix added to roots in agentive, instrumental or pleonastic sense. সং. অন+ইক, e.g. হরনি, ধরনি etc.।"
   },
@@ -1460,12 +1460,12 @@
     "definition": "অবলা Abalā - Weak, female (N.) সং.।"
   },
   {
-    "word": "অ'বলা",
+    "word": "অবলা",
     "pos": "noun",
     "definition": "অ'বলা A'balā - Solemn (voice) (N.) সং. 'সবলক।"
   },
   {
-    "word": "A'balā",
+    "word": "Abalā",
     "pos": "noun",
     "definition": "অ'বলা A'balā - Solemn (voice) (N.) সং. 'সবলক।"
   },
