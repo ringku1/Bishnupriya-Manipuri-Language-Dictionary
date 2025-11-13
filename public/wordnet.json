@@ -27792,12 +27792,12 @@
   {
     "word": "খেচ",
     "pos": "verb",
-    "definition": "খে'চ - Khe'c - i) To do up to satisfaction; ii) To get in abundance. Td. *ksitya; cf. ksit = ruling. Td. *ksityaka, V. above."
+    "definition": "খে'চ - Khe'c - i) To do up to satisfaction; ii) To get in abundance. Td. *ksitya; cf. ksit = ruling. Td. *ksityaka, V. above খেচ."
   },
   {
     "word": "Khec",
     "pos": "verb",
-    "definition": "খে'চ - Khe'c - i) To do up to satisfaction; ii) To get in abundance. Td. *ksitya; cf. ksit = ruling. Td. *ksityaka, V. above."
+    "definition": "খে'চ - Khe'c - i) To do up to satisfaction; ii) To get in abundance. Td. *ksitya; cf. ksit = ruling. Td. *ksityaka, V. above খেচ."
   },
   {
     "word": "খেচা",
@@ -28622,12 +28622,12 @@
   {
     "word": "গচত",
     "pos": "-",
-    "definition": "গচত Ga'cat - V. above. Gac+-at."
+    "definition": "গচত Ga'cat - V. above গচ. Gac+-at."
   },
   {
     "word": "Gacat",
     "pos": "-",
-    "definition": "গচত Ga'cat - V. above. Gac+-at."
+    "definition": "গচত Ga'cat - V. above গচ. Gac+-at."
   },
   {
     "word": "গচরা",
@@ -28995,8 +28995,1628 @@
     "definition": "গ'ত Ga'ta - Gone, late. Ts. gata."
   },
   {
-    "word": "Gat",
+    "word": "Gata",
     "pos": "adjective",
     "definition": "গ'ত Ga'ta - Gone, late. Ts. gata."
+  },
+  {
+    "word": "গতি",
+    "pos": "noun",
+    "definition": "গ'তি Ga'ti - Means, refuge. Ts."
+  },
+  {
+    "word": "Gati",
+    "pos": "noun",
+    "definition": "গ'তি Ga'ti - Means, refuge. Ts."
+  },
+  {
+    "word": "গতিকে",
+    "pos": "-",
+    "definition": "গ'তিকে Ga'tike - Because of. Td. gatikṛta+loc.e."
+  },
+  {
+    "word": "Gatike",
+    "pos": "-",
+    "definition": "গ'তিকে Ga'tike - Because of. Td. gatikṛta+loc.e."
+  },
+  {
+    "word": "গতুক",
+    "pos": "noun",
+    "definition": "গতুক Ga'tuk - A species of fish."
+  },
+  {
+    "word": "Gatuk",
+    "pos": "noun",
+    "definition": "গতুক Ga'tuk - A species of fish."
+  },
+  {
+    "word": "গতবান্ধা",
+    "pos": "adjective",
+    "definition": "গতবান্ধা Gatbandhā - Fixed, settled, traditional."
+  },
+  {
+    "word": "Gatbandha",
+    "pos": "adjective",
+    "definition": "গতবান্ধা Gatbandhā - Fixed, settled, traditional."
+  },
+  {
+    "word": "গদা",
+    "pos": "noun",
+    "definition": "গদা Goda - Mace, club. Ts."
+  },
+  {
+    "word": "Goda",
+    "pos": "noun",
+    "definition": "গদা Goda - Mace, club. Ts."
+  },
+  {
+    "word": "গদুৱা",
+    "pos": "noun",
+    "definition": "গদুৱা Gaduwa - A kind of bad smelling plant. Td. *gandhuka."
+  },
+  {
+    "word": "Gaduwa",
+    "pos": "noun",
+    "definition": "গদুৱা Gaduwa - A kind of bad smelling plant. Td. *gandhuka."
+  },
+  {
+    "word": "গদগদ",
+    "pos": "-",
+    "definition": "গদগদ Gadgad - A word denoting flessingness. cf. H. gudgudā."
+  },
+  {
+    "word": "Gadgad",
+    "pos": "-",
+    "definition": "গদগদ Gadgad - A word denoting flessingness. cf. H. gudgudā."
+  },
+  {
+    "word": "গদ্দি",
+    "pos": "noun",
+    "definition": "গদ্দি Gaddi - Mattress, Cushion. Td. *gartika (fr. garta = high seat, H. gaddi."
+  },
+  {
+    "word": "Gaddi",
+    "pos": "noun",
+    "definition": "গদ্দি Gaddi - Mattress, Cushion. Td. *gartika (fr. garta = high seat, H. gaddi."
+  },
+  {
+    "word": "গদ্য",
+    "pos": "noun",
+    "definition": "গদ্য Gadya - Prose. Ts."
+  },
+  {
+    "word": "Gadya",
+    "pos": "noun",
+    "definition": "গদ্য Gadya - Prose. Ts."
+  },
+  {
+    "word": "গস্তাঙ",
+    "pos": "-",
+    "definition": "গ'স্তাঙ Ga'ntan - V. ghanţă."
+  },
+  {
+    "word": "Gastang",
+    "pos": "-",
+    "definition": "গ'স্তাঙ Ga'ntan - V. ghanţă."
+  },
+  {
+    "word": "গন্ধ",
+    "pos": "noun",
+    "definition": "গন্ধ Gandha - Smell, hint. Ts."
+  },
+  {
+    "word": "Gandha",
+    "pos": "noun",
+    "definition": "গন্ধ Gandha - Smell, hint. Ts."
+  },
+  {
+    "word": "গন্ধকী",
+    "pos": "noun",
+    "definition": "গন্ধকী Gandhaki - A species of arum."
+  },
+  {
+    "word": "Gandhaki",
+    "pos": "noun",
+    "definition": "গন্ধকী Gandhaki - A species of arum."
+  },
+  {
+    "word": "গন্ধ-চন্দন",
+    "pos": "noun",
+    "definition": "গন্ধ-চন্দন Gandha-Candan - (i) Scent and sandal: (ii) Holy incense offered at religious performances. Ts."
+  },
+  {
+    "word": "Gandha-Candan",
+    "pos": "noun",
+    "definition": "গন্ধ-চন্দন Gandha-Candan - (i) Scent and sandal: (ii) Holy incense offered at religious performances. Ts."
+  },
+  {
+    "word": "গন্ধরেই",
+    "pos": "noun",
+    "definition": "গন্ধরেই Gandharei - A species of wood."
+  },
+  {
+    "word": "Gandharei",
+    "pos": "noun",
+    "definition": "গন্ধরেই Gandharei - A species of wood."
+  },
+  {
+    "word": "গন্ধিকচু",
+    "pos": "noun",
+    "definition": "গন্ধিকচু Gadhikacu - A species of arum."
+  },
+  {
+    "word": "Gandhikacu",
+    "pos": "noun",
+    "definition": "গন্ধিকচু Gadhikacu - A species of arum."
+  },
+  {
+    "word": "গপ",
+    "pos": "noun",
+    "definition": "1. গপ Gap - Vanity. Td. garva."
+  },
+  {
+    "word": "Gap",
+    "pos": "noun",
+    "definition": "1. গপ Gap - Vanity. Td. garva."
+  },
+  {
+    "word": "গপ",
+    "pos": "noun",
+    "definition": "2. গপ Gap - Talking too much. Per. gapp."
+  },
+  {
+    "word": "Gap",
+    "pos": "noun",
+    "definition": "2. গপ Gap - Talking too much. Per. gapp."
+  },
+  {
+    "word": "গপ",
+    "pos": "-",
+    "definition": "গ'প Ga'p - A word denoting sudden ness. Onom.- kare (করে) = suddenly."
+  },
+  {
+    "word": "Gap",
+    "pos": "-",
+    "definition": "গ'প Ga'p - A word denoting sudden ness. Onom.- kare (করে) = suddenly."
+  },
+  {
+    "word": "গপা",
+    "pos": "verb",
+    "definition": "গ'পা Ga'pā - To speak much of oneself. 1. gap. denom."
+  },
+  {
+    "word": "Gapa",
+    "pos": "verb",
+    "definition": "গ'পা Ga'pā - To speak much of oneself. 1. gap. denom."
+  },
+  {
+    "word": "গপানি",
+    "pos": "noun",
+    "definition": "গ'পানি Ga'pāni - Speaking much of one self. gapa+-āni."
+  },
+  {
+    "word": "Gapani",
+    "pos": "noun",
+    "definition": "গ'পানি Ga'pāni - Speaking much of one self. gapa+-āni."
+  },
+  {
+    "word": "গপুৱা",
+    "pos": "noun",
+    "definition": "গ'পুৱা Ga'puwa - One speaking much of oneself. 1. gap-+-uwā."
+  },
+  {
+    "word": "Gapuwa",
+    "pos": "noun",
+    "definition": "গ'পুৱা Ga'puwa - One speaking much of oneself. 1. gap-+-uwā."
+  },
+  {
+    "word": "গপ্না",
+    "pos": "noun",
+    "definition": "গপ্না Ga'pra - A moment, a little. 3. gap+pārā."
+  },
+  {
+    "word": "Gapra",
+    "pos": "noun",
+    "definition": "গপ্না Ga'pra - A moment, a little. 3. gap+pārā."
+  },
+  {
+    "word": "গফা",
+    "pos": "noun",
+    "definition": "গফা Gapha - A species of fish. E.B. gaphlā."
+  },
+  {
+    "word": "Gapha",
+    "pos": "noun",
+    "definition": "গফা Gapha - A species of fish. E.B. gaphlā."
+  },
+  {
+    "word": "গবর",
+    "pos": "noun",
+    "definition": "গবর Gabar - Cow dung, buffalo -dung. Td. garvara (fr. go-urvara)."
+  },
+  {
+    "word": "Gabar",
+    "pos": "noun",
+    "definition": "গবর Gabar - Cow dung, buffalo -dung. Td. garvara (fr. go-urvara)."
+  },
+  {
+    "word": "গবরি",
+    "pos": "noun",
+    "definition": "গবরি Gabari - Rubbish remaining after extraction of molases. Td. *garvarika."
+  },
+  {
+    "word": "Gabari",
+    "pos": "noun",
+    "definition": "গবরি Gabari - Rubbish remaining after extraction of molases. Td. *garvarika."
+  },
+  {
+    "word": "গভমেন্ট",
+    "pos": "noun",
+    "definition": "গভমেন্ট Gabhment - Government. Eng."
+  },
+  {
+    "word": "Gabhment",
+    "pos": "noun",
+    "definition": "গভমেন্ট Gabhment - Government. Eng."
+  },
+  {
+    "word": "গভর্ণর",
+    "pos": "noun",
+    "definition": "গভর্ণর Gabhanar - Governor. Eng."
+  },
+  {
+    "word": "Gabhanar",
+    "pos": "noun",
+    "definition": "গভর্ণর Gabhanar - Governor. Eng."
+  },
+  {
+    "word": "গম",
+    "pos": "-",
+    "definition": "গ'ম Ga'm - A word denoting suddenness. Onom. kare (করে) = Suddenly, quickly."
+  },
+  {
+    "word": "Gam",
+    "pos": "-",
+    "definition": "গ'ম Ga'm - A word denoting suddenness. Onom. kare (করে) = Suddenly, quickly."
+  },
+  {
+    "word": "গম",
+    "pos": "verb",
+    "definition": "গ'ম Ga'm - To be affected or rotten by water, Td. gharma, Denom."
+  },
+  {
+    "word": "Gam",
+    "pos": "verb",
+    "definition": "গ'ম Ga'm - To be affected or rotten by water, Td. gharma, Denom."
+  },
+  {
+    "word": "গমা",
+    "pos": "-",
+    "definition": "গ'মা Gama - V. above গ'ম."
+  },
+  {
+    "word": "Gama",
+    "pos": "-",
+    "definition": "গ'মা Gama - V. above গ'ম."
+  },
+  {
+    "word": "গমানি",
+    "pos": "noun",
+    "definition": "গ'মানি Gamāni - Being affected or rotten by water. gama,ga'mā-+-ani."
+  },
+  {
+    "word": "Gamani",
+    "pos": "noun",
+    "definition": "গ'মানi Gamāni - Being affected or rotten by water. gama,ga'mā-+-ani."
+  },
+  {
+    "word": "গমগম",
+    "pos": "-",
+    "definition": "গমগম Ga'mgam - A word denoting reverberation, Onam."
+  },
+  {
+    "word": "Gamgam",
+    "pos": "-",
+    "definition": "গমগম Ga'mgam - A word denoting reverberation, Onam."
+  },
+  {
+    "word": "গমগমা",
+    "pos": "verb",
+    "definition": "গ'মগমা Ga'mgama - To reverberate. Denom. fr. above গমগম."
+  },
+  {
+    "word": "Gamgama",
+    "pos": "verb",
+    "definition": "গ'মগমা Ga'mgama - To reverberate. Denom. fr. above গমগম."
+  },
+  {
+    "word": "গমগমানি",
+    "pos": "noun",
+    "definition": "গমগমানি Ga'mgamāni - Reverberating. gamgamā -+-āni."
+  },
+  {
+    "word": "Gamgamani",
+    "pos": "noun",
+    "definition": "গমগমানি Ga'mgamāni - Reverberating. gamgamā -+-āni."
+  },
+  {
+    "word": "গমথি",
+    "pos": "-",
+    "definition": "গমথি Gamthi - V. ganthi."
+  },
+  {
+    "word": "Gamthi",
+    "pos": "-",
+    "definition": "গমথি Gamthi - V. ganthi."
+  },
+  {
+    "word": "গর",
+    "pos": "noun",
+    "definition": "গর Gar - Pain, Poison. Ts."
+  },
+  {
+    "word": "Gar",
+    "pos": "noun",
+    "definition": "গর Gar - Pain, Poison. Ts."
+  },
+  {
+    "word": "গর",
+    "pos": "-",
+    "definition": "গর Gar - A prefix used in a negative sense. Per. gar. garmil = without similarity."
+  },
+  {
+    "word": "Gar",
+    "pos": "-",
+    "definition": "গর Gar - A prefix used in a negative sense. Per. gar. garmil = without similarity."
+  },
+  {
+    "word": "গর",
+    "pos": "-",
+    "definition": "গর Gar - A suff. bearing the sense of 'maker' or 'doer'. Per. gar. bājigar = magician."
+  },
+  {
+    "word": "Gar",
+    "pos": "-",
+    "definition": "গর Gar - A suff. bearing the sense of 'maker' or 'doer'. Per. gar. bājigar = magician."
+  },
+  {
+    "word": "গরক-গরক",
+    "pos": "-",
+    "definition": "গ'রক-গরক Ga'rak-garak - A word denoting the sound of movement in an enclosed places. (as of fish). Onom."
+  },
+  {
+    "word": "Garak-garak",
+    "pos": "-",
+    "definition": "গ'রক-গরক Ga'rak-garak - A word denoting the sound of movement in an enclosed places. (as of fish). Onom."
+  },
+  {
+    "word": "গরঙ",
+    "pos": "-",
+    "definition": "গ'রঙ Ga'ran - A word denoting suddenness. Onom."
+  },
+  {
+    "word": "Garan",
+    "pos": "-",
+    "definition": "গ'রঙ Ga'ran - A word denoting suddenness. Onom."
+  },
+  {
+    "word": "গরঙ-গরঙ",
+    "pos": "-",
+    "definition": "গ'রঙ-গ'রঙ Ga'ran-garan - A word denoting the sound of a crowed or a multitude ofthings. Onom."
+  },
+  {
+    "word": "Garan-garan",
+    "pos": "-",
+    "definition": "গ'রঙ-গ'রঙ Ga'ran-garan - A word denoting the sound of a crowed or a multitude ofthings. Onom."
+  },
+  {
+    "word": "গরজ",
+    "pos": "noun",
+    "definition": "গরজ Garaj - Interest,care. per. garaz, Ar. gharz."
+  },
+  {
+    "word": "Garaj",
+    "pos": "noun",
+    "definition": "গরজ Garaj - Interest,care. per. garaz, Ar. gharz."
+  },
+  {
+    "word": "গরম",
+    "pos": "noun",
+    "definition": "গ'রম Ga'ram - Heat, hot. Td. gharma."
+  },
+  {
+    "word": "Garam",
+    "pos": "noun",
+    "definition": "গ'রম Ga'ram - Heat, hot. Td. gharma."
+  },
+  {
+    "word": "গরল",
+    "pos": "noun",
+    "definition": "গ'রল Ga'ral - (i) Poison; (ii) a skindisease. Ts."
+  },
+  {
+    "word": "Garal",
+    "pos": "noun",
+    "definition": "গ'রল Ga'ral - (i) Poison; (ii) a skindisease. Ts."
+  },
+  {
+    "word": "গরালটুম",
+    "pos": "-",
+    "definition": "গরালটুম Ga'rālţum - V. garlālţum."
+  },
+  {
+    "word": "Garaltum",
+    "pos": "-",
+    "definition": "গরালটুম Ga'rālţum - V. garlālţum."
+  },
+  {
+    "word": "গরি",
+    "pos": "-",
+    "definition": "গরি Gari- A suf. indicating 'profession'. Per. gari. kārigari = workmanship."
+  },
+  {
+    "word": "Gari",
+    "pos": "-",
+    "definition": "গরি Gari- A suf. indicating 'profession'. Per. gari. kārigari = workmanship."
+  },
+  {
+    "word": "গরিমসি",
+    "pos": "noun",
+    "definition": "গরিমসি Ga'rimasi - Wilful delay, dilatoriness. Td. *gaddikā = rolling on the bed + per. Ar. masi = being directed in one's march."
+  },
+  {
+    "word": "Garimasi",
+    "pos": "noun",
+    "definition": "গরিমসি Ga'rimasi - Wilful delay, dilatoriness. Td. *gaddikā = rolling on the bed + per. Ar. masi = being directed in one's march."
+  },
+  {
+    "word": "গরিমা",
+    "pos": "noun",
+    "definition": "গরিমা Garimā - Vanity. Ts."
+  },
+  {
+    "word": "Garima",
+    "pos": "noun",
+    "definition": "গরিমা Garimā - Vanity. Ts."
+  },
+  {
+    "word": "গরীব",
+    "pos": "adjective",
+    "definition": "গরীব Garib - Poor, Per.garib."
+  },
+  {
+    "word": "Garib",
+    "pos": "adjective",
+    "definition": "গরীব Garib - Poor, Per.garib."
+  },
+  {
+    "word": "গরীবানা",
+    "pos": "noun",
+    "definition": "গরীবানা Garibānā - Poverty. Per. garibānah."
+  },
+  {
+    "word": "Garibana",
+    "pos": "noun",
+    "definition": "গরীবানা Garibānā - Poverty. Per. garibānah."
+  },
+  {
+    "word": "গরগর",
+    "pos": "-",
+    "definition": "গরগর Gargar - A word denoting the sound of dragging or pushing against the ground. Onom."
+  },
+  {
+    "word": "Gargar",
+    "pos": "-",
+    "definition": "গরগর Gargar - A word denoting the sound of dragging or pushing against the ground. Onom."
+  },
+  {
+    "word": "গরচি",
+    "pos": "noun",
+    "definition": "গ'রচি Ga'rci - A piece of bamboo or wood used in fensing."
+  },
+  {
+    "word": "Garci",
+    "pos": "noun",
+    "definition": "গ'রচি Ga'rci - A piece of bamboo or wood used in fensing."
+  },
+  {
+    "word": "গর্জ",
+    "pos": "-",
+    "definition": "গর্জ Ga'rja - V. garaj."
+  },
+  {
+    "word": "Garja",
+    "pos": "-",
+    "definition": "গর্জ Ga'rja - V. garaj."
+  },
+  {
+    "word": "গর্জ",
+    "pos": "verb",
+    "definition": "গর্জ Ga'rja - To shout."
+  },
+  {
+    "word": "Garja",
+    "pos": "verb",
+    "definition": "গর্জ Ga'rja - To shout."
+  },
+  {
+    "word": "গর্জানি",
+    "pos": "noun",
+    "definition": "গর্জানি Ga'rjäni- Shouting. garja - + - ani."
+  },
+  {
+    "word": "Garjani",
+    "pos": "noun",
+    "definition": "গর্জানি Ga'rjäni- Shouting. garja - + - ani."
+  },
+  {
+    "word": "গরদনা",
+    "pos": "noun",
+    "definition": "গরদনা Ga'rdană - Neck (used in abusive language). Per. H.gardan."
+  },
+  {
+    "word": "Gardana",
+    "pos": "noun",
+    "definition": "গরদনা Ga'rdană - Neck (used in abusive language). Per. H.gardan."
+  },
+  {
+    "word": "গরদানি",
+    "pos": "noun",
+    "definition": "গরদানি Gardāni - Making apartments (for paddy plants. Ghar+dani)."
+  },
+  {
+    "word": "Gardani",
+    "pos": "noun",
+    "definition": "গরদানি Gardāni - Making apartments (for paddy plants. Ghar+dani)."
+  },
+  {
+    "word": "গরদিশ",
+    "pos": "noun",
+    "definition": "গরদিশ Ga'diś - Difficulty. Per. H. gardiś."
+  },
+  {
+    "word": "Gardis",
+    "pos": "noun",
+    "definition": "গরদিশ Ga'diś - Difficulty. Per. H. gardiś."
+  },
+  {
+    "word": "গরমাঙ",
+    "pos": "-",
+    "definition": "গরমাঙ Garman - V. Karmān, Karmāni."
+  },
+  {
+    "word": "Garman",
+    "pos": "-",
+    "definition": "গরমাঙ Garman - V. Karmān, Karmāni."
+  },
+  {
+    "word": "গরমাঙী",
+    "pos": "-",
+    "definition": "গরমাঙী Garmani - V. Karmān, Karmāni."
+  },
+  {
+    "word": "Garmani",
+    "pos": "-",
+    "definition": "গরমাঙী Garmani - V. Karmān, Karmāni."
+  },
+  {
+    "word": "গরমি",
+    "pos": "noun",
+    "definition": "গরমি Ga'rmi - A skin-disease. Per, garmi or Td. gharmika."
+  },
+  {
+    "word": "Garmi",
+    "pos": "noun",
+    "definition": "গরমi Ga'rmi - A skin-disease. Per, garmi or Td. gharmika."
+  },
+  {
+    "word": "গরমিল",
+    "pos": "noun",
+    "definition": "গরমিল Garmil - Want of symmetry. gar -+ mil."
+  },
+  {
+    "word": "Garmil",
+    "pos": "noun",
+    "definition": "গরমিল Garmil - Want of symmetry. gar -+ mil."
+  },
+  {
+    "word": "গরালটুম",
+    "pos": "-",
+    "definition": "গরালটুম Garālţum - V. ghar-lālţum."
+  },
+  {
+    "word": "Garaltum",
+    "pos": "-",
+    "definition": "গরালটুম Garālţum - V. ghar-lālţum."
+  },
+  {
+    "word": "গড়",
+    "pos": "verb",
+    "definition": "গ'ড় Ga'r - To make. Td. grantha, denom."
+  },
+  {
+    "word": "Gar",
+    "pos": "verb",
+    "definition": "গ'ড় Ga'r - To make. Td. grantha, denom."
+  },
+  {
+    "word": "গড়",
+    "pos": "noun",
+    "definition": "গ'ড় Ga'r - The act of making. Td. grantha. - amül = making charge."
+  },
+  {
+    "word": "Gar",
+    "pos": "noun",
+    "definition": "গ'ড় Ga'r - The act of making. Td. grantha. - amül = making charge."
+  },
+  {
+    "word": "গড়গড়",
+    "pos": "-",
+    "definition": "গড়গড় Gargar - A word denoting the sound ofa thing rolling on the ground. Onom. MIA. *gadda."
+  },
+  {
+    "word": "Gargar",
+    "pos": "-",
+    "definition": "গড়গড় Gargar - A word denoting the sound ofa thing rolling on the ground. Onom. MIA. *gadda."
+  },
+  {
+    "word": "গড়ন",
+    "pos": "noun",
+    "definition": "গড়ন Garan - Design, making. Td. granthana."
+  },
+  {
+    "word": "Garan",
+    "pos": "noun",
+    "definition": "গড়ন Garan - Design, making. Td. granthana."
+  },
+  {
+    "word": "গড়া",
+    "pos": "verb",
+    "definition": "গড়া Gară - To roll. Td. *gaddāpaya -, MIA. gadd."
+  },
+  {
+    "word": "Gara",
+    "pos": "verb",
+    "definition": "গড়া Gară - To roll. Td. *gaddāpaya -, MIA. gadd."
+  },
+  {
+    "word": "গড়া",
+    "pos": "verb",
+    "definition": "গড়া Gară - To make, to roll. Td. granthåpaya."
+  },
+  {
+    "word": "Gara",
+    "pos": "verb",
+    "definition": "গড়ا Gară - To make, to roll. Td. granthåpaya."
+  },
+  {
+    "word": "গড়া",
+    "pos": "adjective",
+    "definition": "গড়া Garā - Self made, false. Td. *granthaka. -kathā = false words."
+  },
+  {
+    "word": "Gara",
+    "pos": "adjective",
+    "definition": "গড়া Garā - Self made, false. Td. *granthaka. -kathā = false words."
+  },
+  {
+    "word": "গড়াইল",
+    "pos": "adjective",
+    "definition": "গড়াইল Garāil - Self-made, false. Gară +- il."
+  },
+  {
+    "word": "Garail",
+    "pos": "adjective",
+    "definition": "গড়াইল Garāil - Self-made, false. Gară +- il."
+  },
+  {
+    "word": "গড়াগড়ি",
+    "pos": "noun",
+    "definition": "গড়াগড়ি Garāgari - Rolling on the ground. Recipt. fr. garā. Td. *gaddaka - gaddika."
+  },
+  {
+    "word": "Garagari",
+    "pos": "noun",
+    "definition": "গড়াগড়ি Garāgari - Rolling on the ground. Recipt. fr. garā. Td. *gaddaka - gaddika."
+  },
+  {
+    "word": "গড়ানি",
+    "pos": "noun",
+    "definition": "গড়ানি Garāni - (i) Making; (ii) Rolling. garā - +- āni."
+  },
+  {
+    "word": "Garani",
+    "pos": "noun",
+    "definition": "গড়ানি Garāni - (i) Making; (ii) Rolling. garā - +- āni."
+  },
+  {
+    "word": "গড়ি",
+    "pos": "noun",
+    "definition": "গ'ড়ি Ga'ri - Side. Td. gaddika."
+  },
+  {
+    "word": "Gari",
+    "pos": "noun",
+    "definition": "গ'ড়ি Ga'ri - Side. Td. gaddika."
+  },
+  {
+    "word": "গড়িয়াল",
+    "pos": "-",
+    "definition": "গড়িয়াল Gariyāl - V. ghariyäl."
+  },
+  {
+    "word": "Gariyal",
+    "pos": "-",
+    "definition": "গড়িয়াল Gariyāl - V. ghariyäl."
+  },
+  {
+    "word": "গড়ুৱা",
+    "pos": "verb",
+    "definition": "গড়ুৱা Garuwā - To cause to make. Caus. of gară."
+  },
+  {
+    "word": "Garua",
+    "pos": "verb",
+    "definition": "গড়ুৱা Garuwā - To cause to make. Caus. of gară."
+  },
+  {
+    "word": "গড়ুৱা",
+    "pos": "adjective",
+    "definition": "গড়ুৱা Garuwā - Self.made. false."
+  },
+  {
+    "word": "Garua",
+    "pos": "adjective",
+    "definition": "গড়ুৱা Garuwā - Self.made. false."
+  },
+  {
+    "word": "গড়েইপা",
+    "pos": "adjective",
+    "definition": "গড়েইপা Gareipā - Imagined, selfmade, false, Td. *granthāpika + Mt.- pā."
+  },
+  {
+    "word": "Gareipa",
+    "pos": "adjective",
+    "definition": "গড়েইপা Gareipā - Imagined, selfmade, false, Td. *granthāpika + Mt.- pā."
+  },
+  {
+    "word": "গড়গড়া",
+    "pos": "verb",
+    "definition": "গ'ড়গড়া Ga'rgarā - To roll on the ground. Denom. fr. gargar."
+  },
+  {
+    "word": "Gargara",
+    "pos": "verb",
+    "definition": "গ'ড়গড়া Ga'rgarā - To roll on the ground. Denom. fr. gargar."
+  },
+  {
+    "word": "গড়গড়ানি",
+    "pos": "noun",
+    "definition": "গড়গড়ানি Ga'rgarāni - Rolling on the ground. ga'rğara -+- āni."
+  },
+  {
+    "word": "Gargarani",
+    "pos": "noun",
+    "definition": "গড়গড়ানি Ga'rgarāni - Rolling on the ground. ga'rğara -+- āni."
+  },
+  {
+    "word": "গড়গজুৱা",
+    "pos": "verb",
+    "definition": "গড়গজুৱা Gargaruwā - Caus. fr. ga'rgară-."
+  },
+  {
+    "word": "Gargarua",
+    "pos": "verb",
+    "definition": "গড়গজুৱা Gargaruwā - Caus. fr. ga'rgară-."
+  },
+  {
+    "word": "গল",
+    "pos": "verb",
+    "definition": "গল Gal - To melt. Ts. gala-."
+  },
+  {
+    "word": "Gal",
+    "pos": "verb",
+    "definition": "গল Gal - To melt. Ts. gala-."
+  },
+  {
+    "word": "গল",
+    "pos": "-",
+    "definition": "গল Gal(M) - V. galli"
+  },
+  {
+    "word": "Gal",
+    "pos": "-",
+    "definition": "গল Gal(M) - V. galli"
+  },
+  {
+    "word": "গলই",
+    "pos": "-",
+    "definition": "গলই Galai - M.V. galli."
+  },
+  {
+    "word": "Galai",
+    "pos": "-",
+    "definition": "গলই Galai - M.V. galli."
+  },
+  {
+    "word": "গলদ",
+    "pos": "noun",
+    "definition": "গলদ Ga'lad - Defect. Per.Ar. galf."
+  },
+  {
+    "word": "Galad",
+    "pos": "noun",
+    "definition": "গলদ Ga'lad - Defect. Per.Ar. galf."
+  },
+  {
+    "word": "গলা",
+    "pos": "verb",
+    "definition": "গলা Galå - To melt. Td.galāpaya-."
+  },
+  {
+    "word": "Gala",
+    "pos": "verb",
+    "definition": "গলা Galå - To melt. Td.galāpaya-."
+  },
+  {
+    "word": "গলাগলি",
+    "pos": "noun",
+    "definition": "গলাগলি Ga'lägali - (i) Intimacy; (ii) Intimate. Recipt. fr. OIA. gala."
+  },
+  {
+    "word": "Galagali",
+    "pos": "noun",
+    "definition": "গলাগলি Ga'lägali - (i) Intimacy; (ii) Intimate. Recipt. fr. OIA. gala."
+  },
+  {
+    "word": "গলানি",
+    "pos": "noun",
+    "definition": "গলানি Galāni - gal -, galā - + - äni."
+  },
+  {
+    "word": "Galani",
+    "pos": "noun",
+    "definition": "গলানি Galāni - gal -, galā - + - äni."
+  },
+  {
+    "word": "গলিত",
+    "pos": "adjective",
+    "definition": "গলিত Galit - Overjoyed. Ts. galita = melted."
+  },
+  {
+    "word": "Galit",
+    "pos": "adjective",
+    "definition": "গলিত Galit - Overjoyed. Ts. galita = melted."
+  },
+  {
+    "word": "গলিসা",
+    "pos": "noun",
+    "definition": "গলিসা Galisä - Carpet. Per. ghälicah."
+  },
+  {
+    "word": "Galisa",
+    "pos": "noun",
+    "definition": "গলিসা Galisä - Carpet. Per. ghälicah."
+  },
+  {
+    "word": "গলুৱা",
+    "pos": "verb",
+    "definition": "গলুৱা Galuwā - To cause to melt. Caus. fr. galtā-."
+  },
+  {
+    "word": "Galua",
+    "pos": "verb",
+    "definition": "গলুৱা Galuwā - To cause to melt. Caus. fr. galtā-."
+  },
+  {
+    "word": "গলেবস্ত্র",
+    "pos": "adjective",
+    "definition": "গলেবস্ত্র Galebastra - Having a piece of cloth on the neck to indicate humality. Ts. gala (with loc. e + Vastra=cloth."
+  },
+  {
+    "word": "Galebastra",
+    "pos": "adjective",
+    "definition": "গলেবস্ত্র Galebastra - Having a piece of cloth on the neck to indicate humality. Ts. gala (with loc. e + Vastra=cloth."
+  },
+  {
+    "word": "গলগল",
+    "pos": "-",
+    "definition": "গ'লগল Ga'lgal - A word denoting the sound of a crowd. Onom."
+  },
+  {
+    "word": "Galgal",
+    "pos": "-",
+    "definition": "গ'লগল Ga'lgal - A word denoting the sound of a crowd. Onom."
+  },
+  {
+    "word": "গলগলা",
+    "pos": "verb",
+    "definition": "গ'লগলা Ga'lgalā - To come together and making noise."
+  },
+  {
+    "word": "Galgalā",
+    "pos": "verb",
+    "definition": "গ'লগলা Ga'lgalā - To come together and making noise."
+  },
+  {
+    "word": "গলগলানি",
+    "pos": "noun",
+    "definition": "গ'লগলানি Ga'lgalāni - Coming together and making noise. Galgală -+-äni."
+  },
+  {
+    "word": "Galgalani",
+    "pos": "noun",
+    "definition": "গ'লগলানি Ga'lgalāni - Coming together and making noise. Galgală -+-äni."
+  },
+  {
+    "word": "গল্পা",
+    "pos": "noun",
+    "definition": "গল্পা Gallā - Cane. Per.galla = heap, a curl."
+  },
+  {
+    "word": "Gallā",
+    "pos": "noun",
+    "definition": "গল্পা Gallā - Cane. Per.galla = heap, a curl."
+  },
+  {
+    "word": "গল্লি",
+    "pos": "noun",
+    "definition": "গ'ল্লি Ga'lli - Lane, Td.*kulyika (for kulya)."
+  },
+  {
+    "word": "Galli",
+    "pos": "noun",
+    "definition": "গ'ল্লি Ga'lli - Lane, Td.*kulyika (for kulya)."
+  },
+  {
+    "word": "গল্লি",
+    "pos": "noun",
+    "definition": "গ'ল্লi Ga'lli - Stern, prow. Td. *gaduka (fr. gadu) or galavāhika."
+  },
+  {
+    "word": "Galli",
+    "pos": "noun",
+    "definition": "গ'ল্লি Ga'lli - Stern, prow. Td. *gaduka (fr. gadu) or galavāhika."
+  },
+  {
+    "word": "গসরমসর",
+    "pos": "-",
+    "definition": "গসরমসর Gasarmasar - A word denoting a wilful or habitual delay. Onom. or Sts. ghavşa."
+  },
+  {
+    "word": "Gasarmasar",
+    "pos": "-",
+    "definition": "গসরমসর Gasarmasar - A word denoting a wilful or habitual delay. Onom. or Sts. ghavşa."
+  },
+  {
+    "word": "গা",
+    "pos": "-",
+    "definition": "-গা -Gå - A suf. added to verbs in a pleon. sense or to indicate the performance of an action at a distance. Td. gata. järgā = (He) is going."
+  },
+  {
+    "word": "Ga",
+    "pos": "-",
+    "definition": "-গা -Gå - A suf. added to verbs in a pleon. sense or to indicate the performance of an action at a distance. Td. gata. järgā = (He) is going."
+  },
+  {
+    "word": "গা",
+    "pos": "verb",
+    "definition": "গা Gả - (i) To sing, to praise; (ii) To speak much of something. Td. gāyā-."
+  },
+  {
+    "word": "Ga",
+    "pos": "verb",
+    "definition": "গা Gả - (i) To sing, to praise; (ii) To speak much of something. Td. gāyā-."
+  },
+  {
+    "word": "গই",
+    "pos": "noun",
+    "definition": "গা'ই Ga'i - Stroke (of fish)."
+  },
+  {
+    "word": "Gai",
+    "pos": "noun",
+    "definition": "গা'ই Ga'i - Stroke (of fish)."
+  },
+  {
+    "word": "গাইগরজ",
+    "pos": "noun",
+    "definition": "গাইগরজ Gāigaraj - Any care or interest. Td. *gātrka; Sec. el. V. garaj."
+  },
+  {
+    "word": "Gaigaraj",
+    "pos": "noun",
+    "definition": "গাইগরজ Gāigaraj - Any care or interest. Td. *gātrka; Sec. el. V. garaj."
+  },
+  {
+    "word": "গাইট",
+    "pos": "noun",
+    "definition": "গাইট Gait - Physique. Td.*granthika."
+  },
+  {
+    "word": "Gait",
+    "pos": "noun",
+    "definition": "গাইট Gait - Physique. Td.*granthika."
+  },
+  {
+    "word": "গাইরঙ",
+    "pos": "noun",
+    "definition": "গাইরঙ Gairań - A kind of fish."
+  },
+  {
+    "word": "Gairang",
+    "pos": "noun",
+    "definition": "গাইরঙ Gairań - A kind of fish."
+  },
+  {
+    "word": "গাও",
+    "pos": "noun",
+    "definition": "গাও Gão - Village. Td. grāma."
+  },
+  {
+    "word": "Gao",
+    "pos": "noun",
+    "definition": "গাও Gão - Village. Td. grāma."
+  },
+  {
+    "word": "গাওআলি",
+    "pos": "adjective",
+    "definition": "গাওআলি Gãoāli - Relating to village. Td. grāmapālika."
+  },
+  {
+    "word": "Gaoali",
+    "pos": "adjective",
+    "definition": "গাওআলি Gãoāli - Relating to village. Td. grāmapālika."
+  },
+  {
+    "word": "গাগালা",
+    "pos": "noun",
+    "definition": "গা'গালা Ga'gālā - A kind of fish."
+  },
+  {
+    "word": "Gagala",
+    "pos": "noun",
+    "definition": "গা'গালা Ga'gālā - A kind of fish."
+  },
+  {
+    "word": "গাঙ",
+    "pos": "noun",
+    "definition": "গাঙ Gān - Village. Td. grāma."
+  },
+  {
+    "word": "Gang",
+    "pos": "noun",
+    "definition": "গাঙ Gān - Village. Td. grāma."
+  },
+  {
+    "word": "গাঙেজিরি",
+    "pos": "noun",
+    "definition": "গাঙেজিরি Ganejiri - A woman amorous to all of the village (an abuse)."
+  },
+  {
+    "word": "Ganejiri",
+    "pos": "noun",
+    "definition": "গাঙেজিরি Ganejiri - A woman amorous to all of the village (an abuse)."
+  },
+  {
+    "word": "গাঙ্গারিয়া",
+    "pos": "adjective",
+    "definition": "গাঙ্গারিয়া Gańgàriya - Uneven (of land)"
+  },
+  {
+    "word": "Gangariya",
+    "pos": "adjective",
+    "definition": "গাঙ্গারিয়া Gańgàriya - Uneven (of land)"
+  },
+  {
+    "word": "গাছ",
+    "pos": "noun",
+    "definition": "গাছ Gảch - Tree. Td. gaccha, graspa."
+  },
+  {
+    "word": "Gach",
+    "pos": "noun",
+    "definition": "গাছ Gảch - Tree. Td. gaccha, graspa."
+  },
+  {
+    "word": "গাছ",
+    "pos": "-",
+    "definition": "-গাছ -Gäch - A suf.added to nouns and pronouns to indicate along and small thing. V. above গাছ."
+  },
+  {
+    "word": "Gach",
+    "pos": "-",
+    "definition": "-গাছ -Gäch - A suf.added to nouns and pronouns to indicate along and small thing. V. above গাছ."
+  },
+  {
+    "word": "গছি",
+    "pos": "adjective",
+    "definition": "গা'ছি Gä'chi - Some, a little. Td. *grapsika or *gacchika."
+  },
+  {
+    "word": "Gachi",
+    "pos": "adjective",
+    "definition": "গা'ছি Gä'chi - Some, a little. Td. *grapsika or *gacchika."
+  },
+  {
+    "word": "গাছি",
+    "pos": "-",
+    "definition": "-গাছি -Gachi - A suf. added to nouns or pronouns (i) in the sense of some with reference to long and small things or (ii) in a diminutive sense. V. above গা'ছি."
+  },
+  {
+    "word": "Gachi",
+    "pos": "-",
+    "definition": "-গাছি -Gachi - A suf. added to nouns or pronouns (i) in the sense of some with reference to long and small things or (ii) in a diminutive sense. V. above গা'ছি."
+  },
+  {
+    "word": "গাছড়া",
+    "pos": "noun",
+    "definition": "গাছড়া Gāchrā - Herbs. Td. *gacchaţaka or *grapsaţaka."
+  },
+  {
+    "word": "Gachra",
+    "pos": "noun",
+    "definition": "গাছড়া Gāchrā - Herbs. Td. *gacchaţaka or *grapsaţaka."
+  },
+  {
+    "word": "গাজা",
+    "pos": "-",
+    "definition": "গাজা Gä'jā - V gañjā."
+  },
+  {
+    "word": "Gaja",
+    "pos": "-",
+    "definition": "গাজা Gä'jā - V gañjā."
+  },
+  {
+    "word": "গজানি",
+    "pos": "-",
+    "definition": "গা'জানি Ga'jani - V. gă'njâni."
+  },
+  {
+    "word": "Gajani",
+    "pos": "-",
+    "definition": "গা'জানি Ga'jani - V. gă'njâni."
+  },
+  {
+    "word": "গাজে",
+    "pos": "-",
+    "definition": "গাজে Gaje - For. V. kāje Td. Kārya + (loc.-e)"
+  },
+  {
+    "word": "Gaje",
+    "pos": "-",
+    "definition": "গাজে Gaje - For. V. kāje Td. Kārya + (loc.-e)"
+  },
+  {
+    "word": "গাঞ্জা",
+    "pos": "noun",
+    "definition": "গা'ঞ্জা Gä'njā - Hemp. Td. grñja = a plant."
+  },
+  {
+    "word": "Ganja",
+    "pos": "noun",
+    "definition": "গা'ঞ্জা Gä'njā - Hemp. Td. grñja = a plant."
+  },
+  {
+    "word": "গাঞ্জা",
+    "pos": "verb",
+    "definition": "গা'ঞ্জা Ga'njā - To thrush in abundance. Per. ganj=heap, denom."
+  },
+  {
+    "word": "Ganja",
+    "pos": "verb",
+    "definition": "গা'ঞ্জা Ga'njā - To thrush in abundance. Per. ganj=heap, denom."
+  },
+  {
+    "word": "গাঞ্জাগাঞ্জি",
+    "pos": "noun",
+    "definition": "গাঞ্জাগাঞ্জি Gä'njagānji - Thrushing one upon another, recipr. fr. above গাঞ্জা."
+  },
+  {
+    "word": "Ganjaganji",
+    "pos": "noun",
+    "definition": "গাঞ্জাগাঞ্জi Gä'njagānji - Thrushing one upon another, recipr. fr. above গাঞ্জা."
+  },
+  {
+    "word": "গাঞ্জানি",
+    "pos": "noun",
+    "definition": "গাঞ্জানি Ga'njāni - Thrushing, pushing. Gānjā -+- äni."
+  },
+  {
+    "word": "Ganjani",
+    "pos": "noun",
+    "definition": "গাঞ্জানি Ga'njāni - Thrushing, pushing. Gānjā -+- äni."
+  },
+  {
+    "word": "গাটু",
+    "pos": "noun",
+    "definition": "গাটু Ga'tu - A species of wood."
+  },
+  {
+    "word": "Gatu",
+    "pos": "noun",
+    "definition": "গাটু Ga'tu - A species of wood."
+  },
+  {
+    "word": "গাট্টা",
+    "pos": "adjective",
+    "definition": "গাট্টা Gättā - Big. Td. *gātraka."
+  },
+  {
+    "word": "Gatta",
+    "pos": "adjective",
+    "definition": "গাট্টা Gättā - Big. Td. *gātraka."
+  },
+  {
+    "word": "গাট্টামি",
+    "pos": "noun",
+    "definition": "গা'ট্টামি Ga'ttāmi - Arrogance. Above +mi (*karmika)."
+  },
+  {
+    "word": "Gattami",
+    "pos": "noun",
+    "definition": "গা'ট্টামি Ga'ttāmi - Arrogance. Above +mi (*karmika)."
+  },
+  {
+    "word": "গাট্টেকা",
+    "pos": "adjective",
+    "definition": "গাট্টেকা Ga'ttekä - High and low, uneven. Gāt+tekā."
+  },
+  {
+    "word": "Gattekā",
+    "pos": "adjective",
+    "definition": "গাট্টেকা Ga'ttekä - High and low, uneven. Gāt+tekā."
+  },
+  {
+    "word": "গাঠি",
+    "pos": "noun",
+    "definition": "গাঠি Gäthi - Knot. Td. *granthika."
+  },
+  {
+    "word": "Gathi",
+    "pos": "noun",
+    "definition": "গাঠি Gäthi - Knot. Td. *granthika."
+  },
+  {
+    "word": "গাঠি",
+    "pos": "noun",
+    "definition": "Gathi- Deep or concentrated state of something. V. above. andir- = deep or concentrated state of yellow colour."
+  },
+  {
+    "word": "Gathi",
+    "pos": "noun",
+    "definition": "Gathi- Deep or concentrated state of something. V. above. andir- = deep or concentrated state of yellow colour."
+  },
+  {
+    "word": "গাঠিয়া",
+    "pos": "adjective",
+    "definition": "গাঠিয়া Gathiyä - Knotted, tied. (as a betel nut.) Td. *granthika)."
+  },
+  {
+    "word": "Gathiya",
+    "pos": "adjective",
+    "definition": "গাঠিয়া Gathiyä - Knotted, tied. (as a betel nut.) Td. *granthika)."
+  },
+  {
+    "word": "গাঠুনি",
+    "pos": "noun",
+    "definition": "গাঠুনি Gäthuni - The state of being knotted, beră - =the state of being knotted."
+  },
+  {
+    "word": "Gathuni",
+    "pos": "noun",
+    "definition": "গাঠুনি Gäthuni - The state of being knotted, beră - =the state of being knotted."
+  },
+  {
+    "word": "গান্টা",
+    "pos": "noun",
+    "definition": "গা'ন্টা Ga'nţā - Gate. Td. *gamyavrttaka."
+  },
+  {
+    "word": "Ganta",
+    "pos": "noun",
+    "definition": "গা'ন্টা Ga'nţā - Gate. Td. *gamyavrttaka."
+  },
+  {
+    "word": "গাত",
+    "pos": "noun",
+    "definition": "গাত Gāt - Hole, low place. Td. grata."
+  },
+  {
+    "word": "Gat",
+    "pos": "noun",
+    "definition": "গাত Gāt - Hole, low place. Td. grata."
+  },
+  {
+    "word": "গাতা",
+    "pos": "verb",
+    "definition": "গাতা Gä'tā - To burry. Denom. fr. above গাত."
+  },
+  {
+    "word": "Gata",
+    "pos": "verb",
+    "definition": "গাতা Gä'tā - To burry. Denom. fr. above গাত."
+  },
+  {
+    "word": "গাতানি",
+    "pos": "noun",
+    "definition": "গাতানি Gätani - Burring. Gātā-+-āni."
+  },
+  {
+    "word": "Gatani",
+    "pos": "noun",
+    "definition": "গাতানি Gätani - Burring. Gātā-+-āni."
+  },
+  {
+    "word": "গাতুৱা",
+    "pos": "adjective",
+    "definition": "গাতুৱা Gātuwā - (i) Deep, low, (ii) Sunken. -bi = low land; -ahi = sunken eye."
+  },
+  {
+    "word": "Gatua",
+    "pos": "adjective",
+    "definition": "গাতুৱা Gātuwā - (i) Deep, low, (ii) Sunken. -bi = low land; -ahi = sunken eye."
+  },
+  {
+    "word": "গাতুৱা",
+    "pos": "verb",
+    "definition": "গাতুৱা Gātuwā - To cause to burry. Caus. of gātā."
+  },
+  {
+    "word": "Gatua",
+    "pos": "verb",
+    "definition": "গাতুৱা Gātuwā - To cause to burry. Caus. of gātā."
+  },
+  {
+    "word": "গাত্তি",
+    "pos": "noun",
+    "definition": "গা'ত্তি Ga'tti - An instrument (of bamboo, wood or iron) meant for makeing holes on the earth. Td. *gartika."
+  },
+  {
+    "word": "Gatti",
+    "pos": "noun",
+    "definition": "গা'ত্তি Ga'tti - An instrument (of bamboo, wood or iron) meant for makeing holes on the earth. Td. *gartika."
+  },
+  {
+    "word": "গাত্তিউজা",
+    "pos": "noun",
+    "definition": "গাত্তিউজা Gättiujā - Above instrument of big size. Gã'tti + Mt. cauba = big."
+  },
+  {
+    "word": "Gattiuja",
+    "pos": "noun",
+    "definition": "গাত্তিউজা Gättiujā - Above instrument of big size. Gã'tti + Mt. cauba = big."
+  },
+  {
+    "word": "গাথ",
+    "pos": "verb",
+    "definition": "গাথ Gāth - To string together to fit. Td. granthaya-."
+  },
+  {
+    "word": "Gath",
+    "pos": "verb",
+    "definition": "গাথ Gāth - To string together to fit. Td. granthaya-."
+  },
+  {
+    "word": "গাথানি",
+    "pos": "noun",
+    "definition": "গাথানি Gäthäni - Stringing together. Gäth-+- ăni."
+  },
+  {
+    "word": "Gathani",
+    "pos": "noun",
+    "definition": "গাথানি Gäthäni - Stringing together. Gäth-+- ăni."
+  },
+  {
+    "word": "গাথুনি",
+    "pos": "noun",
+    "definition": "গাথুনি Gäthuni - (i) The act of fitting; (ii) rivet. Td. *granthanika."
+  },
+  {
+    "word": "Gathuni",
+    "pos": "noun",
+    "definition": "গাথুনি Gäthuni - (i) The act of fitting; (ii) rivet. Td. *granthanika."
+  },
+  {
+    "word": "গাথুৱা",
+    "pos": "verb",
+    "definition": "গাথুৱা Gäthuwa - Caus. of above গাথুনি."
+  },
+  {
+    "word": "Gathua",
+    "pos": "verb",
+    "definition": "গাথুৱা Gäthuwa - Caus. of above গাথুনি."
+  },
+  {
+    "word": "গাদা",
+    "pos": "noun",
+    "definition": "গাদা Gadā - (M.) Piece."
+  },
+  {
+    "word": "Gada",
+    "pos": "noun",
+    "definition": "গাদা Gadā - (M.) Piece."
+  },
+  {
+    "word": "গাদালা",
+    "pos": "adjective",
+    "definition": "গাদালা Gadāla - Bodily bad (of smell). Per. gardah or Td. gandha + BM. ālā."
+  },
+  {
+    "word": "Gadala",
+    "pos": "adjective",
+    "definition": "গাদালা Gadāla - Bodily bad (of smell). Per. gardah or Td. gandha + BM. ālā."
+  },
+  {
+    "word": "গাদ্দ",
+    "pos": "verb",
+    "definition": "গাদ্দ Ga'dd - To shoot (as rifle or arrow). Mt. kappã + BM. d-."
+  },
+  {
+    "word": "Gadd",
+    "pos": "verb",
+    "definition": "গাদ্দ Ga'dd - To shoot (as rifle or arrow). Mt. kappã + BM. d-."
+  },
+  {
+    "word": "গাদ্দা",
+    "pos": "noun",
+    "definition": "গা'দ্দা Gaddā - (i) Ass; (ii) dirty. Td. gardabha."
+  },
+  {
+    "word": "Gadda",
+    "pos": "noun",
+    "definition": "গা'দ্দা Gaddā - (i) Ass; (ii) dirty. Td. gardabha."
+  },
+  {
+    "word": "গাদ্দা",
+    "pos": "noun",
+    "definition": "গা'দ্দা Ga'ddā - Heap. Per. gardah = a big container or Per. girda = all."
+  },
+  {
+    "word": "Gadda",
+    "pos": "noun",
+    "definition": "গা'দ্দা Ga'ddā - Heap. Per. gardah = a big container or Per. girda = all."
+  },
+  {
+    "word": "গাদ্দানি",
+    "pos": "noun",
+    "definition": "গা'দ্দানি Ga'ddani - Shooting. Gä'dd - +- äni."
+  },
+  {
+    "word": "Gaddani",
+    "pos": "noun",
+    "definition": "গা'দ্দানি Ga'ddani - Shooting. Gä'dd - +- äni."
+  },
+  {
+    "word": "গাদ্দালা",
+    "pos": "adjective",
+    "definition": "গাদ্দালা Gāddālą - Very slow. Td. *gardabha-pālaka."
+  },
+  {
+    "word": "Gaddala",
+    "pos": "adjective",
+    "definition": "গাদ্দালা Gāddālą - Very slow. Td. *gardabha-pālaka."
+  },
+  {
+    "word": "গদ্দি",
+    "pos": "noun",
+    "definition": "গা'দ্দি Ga'ddi - Cushion. V. ga'ddi."
+  },
+  {
+    "word": "Gaddi",
+    "pos": "noun",
+    "definition": "গা'দ্দি Ga'ddi - Cushion. V. ga'ddi."
+  },
+  {
+    "word": "গাদ্দুৱা",
+    "pos": "verb",
+    "definition": "গাদ্দুৱা Gädduwā - To cause to shoot. Caus. of gä'dd-."
+  },
+  {
+    "word": "Gaddua",
+    "pos": "verb",
+    "definition": "গাদ্দুৱা Gädduwā - To cause to shoot. Caus. of gä'dd-."
+  },
+  {
+    "word": "গাধা",
+    "pos": "noun",
+    "definition": "গাধা Gadhā - Ass. Td. gardabha."
+  },
+  {
+    "word": "Gadha",
+    "pos": "noun",
+    "definition": "গাধা Gadhā - Ass. Td. gardabha."
+  },
+  {
+    "word": "গান",
+    "pos": "noun",
+    "definition": "গান Gän - Song."
+  },
+  {
+    "word": "Gan",
+    "pos": "noun",
+    "definition": "গান Gän - Song."
+  },
+  {
+    "word": "গান",
+    "pos": "verb",
+    "definition": "গা'ন Ga'n - To slander, to back-bite. Denom. fr. above গান."
+  },
+  {
+    "word": "Gan",
+    "pos": "verb",
+    "definition": "গা'ন Ga'n - To slander, to back-bite. Denom. fr. above গান."
+  },
+  {
+    "word": "গানা",
+    "pos": "noun",
+    "definition": "গানা Gānā - Singing, speaking much of. gå - + - nã."
+  },
+  {
+    "word": "Gana",
+    "pos": "noun",
+    "definition": "গানা Gānā - Singing, speaking much of. gå - + - nã."
+  },
+  {
+    "word": "গনানি",
+    "pos": "noun",
+    "definition": "গা'নানি Gä'nāni - Slandering, backbiting. Ga'n-+-äni."
+  },
+  {
+    "word": "Ganani",
+    "pos": "noun",
+    "definition": "গা'নানি Gä'nāni - Slandering, backbiting. Ga'n-+-äni."
+  },
+  {
+    "word": "গানি",
+    "pos": "noun",
+    "definition": "গানি Gani - Singing, speaking much of. Td. gå-+-äni."
+  },
+  {
+    "word": "Gani",
+    "pos": "noun",
+    "definition": "গানি Gani - Singing, speaking much of. Td. gå-+-äni."
+  },
+  {
+    "word": "গান্দং",
+    "pos": "noun",
+    "definition": "গান্দং Gandan - Name of a dance performed in front of a family god.?"
+  },
+  {
+    "word": "Gandan",
+    "pos": "noun",
+    "definition": "গান্দং Gandan - Name of a dance performed in front of a family god.?"
+  },
+  {
+    "word": "গান্ধি",
+    "pos": "noun",
+    "definition": "গান্ধি Gandhi - A kind of insect."
+  },
+  {
+    "word": "Gandhi",
+    "pos": "noun",
+    "definition": "গান্ধি Gandhi - A kind of insect."
+  },
+  {
+    "word": "গাপ",
+    "pos": "noun",
+    "definition": "গাপ Găp - Powder of the remains of burnt iron applied to the sides of a drum. Td. grāvan. thilkarāni. (থিলকরানি) = Besmearing sectarian marks deeply."
+  },
+  {
+    "word": "Gap",
+    "pos": "noun",
+    "definition": "গাপ Găp - Powder of the remains of burnt iron applied to the sides of a drum. Td. grāvan. thilkarāni. (থিলকরানি) = Besmearing sectarian marks deeply."
+  },
+  {
+    "word": "গাপ",
+    "pos": "noun",
+    "definition": "গাপ Gāp - A kind of fruit used for blackening a fishing net. V. above গাপ ."
+  },
+  {
+    "word": "Gap",
+    "pos": "noun",
+    "definition": "গাপ Gāp - A kind of fruit used for blackening a fishing net. V. above গাপ ."
   }
 ]
